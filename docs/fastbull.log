@@ -160,3 +160,9 @@ Append: [日本央行对市场充满信心，十八年来最大幅度加息](htt
 Append: [随着焦点转向美国PMI数据，黄金有望进一步上涨](https://www.fastbull.com/cn/news-detail/4318645_1)
 append_entries: 75
 Finish: 2025-01-26 14:51:52.212000
+------------------------------------------------------
+Started: 2025-01-26 15:00:42.591339
+Existing_entries: 75
+Fetching from https://rsshub.app/fastbull/news
+append_entries: 0
+Finish: 2025-01-26 15:00:43.222218
