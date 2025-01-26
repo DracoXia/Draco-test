@@ -33,7 +33,7 @@ keyword_length = int(get_cfg('cfg', 'keyword_length'))
 summary_length = int(get_cfg('cfg', 'summary_length'))
 language = get_cfg('cfg', 'language')
 print(f"当前API密钥状态：{OPENAI_API_KEY is not None}")  # 应输出 True
-print(f"当前模型：{CUSTOM_MODEL}")  # 检查是否为 deepseek-chat
+print(f"当前模型：{custom_model}")  # 检查是否为 deepseek-chat
 
 def fetch_feed(url, log_file):
     feed = None
