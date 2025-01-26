@@ -53,9 +53,5 @@
 <a href="https://www.buymeacoffee.com/yinan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 - https://www.ifanr.com/feed -> https://DracoXia.github.io/RSS-GPT/ifanr.xml
-- https://rsshub.app/zhihu/hotlist -> https://DracoXia.github.io/RSS-GPT/Zhihu.xml
 - https://www.gcores.com/rss -> https://DracoXia.github.io/RSS-GPT/Gcores.xml
-- https://36kr.com/feed -> https://DracoXia.github.io/RSS-GPT/36kr.xml
-- https://plink.anyfeeder.com/xueqiu/hot -> https://DracoXia.github.io/RSS-GPT/Xueqiu-Hot.xml
-- http://www.engadget.com/rss.xml -> https://DracoXia.github.io/RSS-GPT/Engadget.xml
-- https://plink.anyfeeder.com/fortunechina -> https://DracoXia.github.io/RSS-GPT/fortunechina.xml
+- https://rsshub.app/fastbull/news -> https://DracoXia.github.io/RSS-GPT/fastbull.xml

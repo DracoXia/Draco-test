@@ -55,9 +55,5 @@ These feeds on hosted in the [`docs/` subdirectory](https://github.com/yinan-c/R
 I will consider hosting more feeds in the future. Email me or submit an issue if there are any questions using the script or any suggestions.
 
 - https://www.ifanr.com/feed -> https://DracoXia.github.io/RSS-GPT/ifanr.xml
-- https://rsshub.app/zhihu/hotlist -> https://DracoXia.github.io/RSS-GPT/Zhihu.xml
 - https://www.gcores.com/rss -> https://DracoXia.github.io/RSS-GPT/Gcores.xml
-- https://36kr.com/feed -> https://DracoXia.github.io/RSS-GPT/36kr.xml
-- https://plink.anyfeeder.com/xueqiu/hot -> https://DracoXia.github.io/RSS-GPT/Xueqiu-Hot.xml
-- http://www.engadget.com/rss.xml -> https://DracoXia.github.io/RSS-GPT/Engadget.xml
-- https://plink.anyfeeder.com/fortunechina -> https://DracoXia.github.io/RSS-GPT/fortunechina.xml
+- https://rsshub.app/fastbull/news -> https://DracoXia.github.io/RSS-GPT/fastbull.xml
