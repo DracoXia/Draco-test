@@ -12,7 +12,7 @@ from fake_useragent import UserAgent
 import traceback
 
 # 系统日志增强版
-system_log = os.path.join(os.getcwd(), 'rss_system.log')
+system_log = os.path.join(BASE, 'rss_system.log')  # 现在日志会生成在 docs/rss_system.log
 
 def log_system(event_type, message, error=None):
     """增强型日志记录函数"""
@@ -54,7 +54,7 @@ DEEPSEEK_BASE_URL = os.environ.get('DEEPSEEK_BASE_URL', 'https://api.deepseek.co
 custom_model = 'deepseek-chat'
 max_entries = int(get_cfg('cfg', 'max_entries', 20)) 
 deployment_url = f'https://{U_NAME}.github.io/RSS-GPT/'
-BASE = get_cfg('cfg', 'BASE', './rss_output')
+BASE = get_cfg('cfg', 'BASE', './docs')  # GitHub Pages 默认从 docs/ 目录部署
 keyword_length = int(get_cfg('cfg', 'keyword_length', 5))
 summary_length = int(get_cfg('cfg', 'summary_length', 200))
 language = get_cfg('cfg', 'language', 'zh')
@@ -142,7 +142,7 @@ def process_entry(entry, config_section, log_file):
 
 def output(section, language):
     """核心处理流程"""
-    section_log = os.path.join(BASE, f"{get_cfg(section, 'name')}.log")
+    section_log = os.path.join(BASE, f"{get_cfg(section, 'name')}.log")  # docs/section.log
     log_system('process', f"Processing section: {section}")
 
     try:
