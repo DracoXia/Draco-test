@@ -89,3 +89,9 @@ Append: [特朗普对中国的乐观态度推动澳元走强](https://www.fastbu
 Append: [随着焦点转向美国PMI数据，黄金有望进一步上涨](https://www.fastbull.com/cn/news-detail/4318645_1)
 append_entries: 75
 Finish: 2025-01-26 11:51:05.065796
+------------------------------------------------------
+Started: 2025-01-26 12:47:41.520104
+Existing_entries: 75
+Fetching from https://rsshub.app/fastbull/news
+append_entries: 0
+Finish: 2025-01-26 12:47:41.794733

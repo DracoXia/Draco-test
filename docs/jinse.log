@@ -1,0 +1,8 @@
+------------------------------------------------------
+Started: 2025-01-26 12:47:41.794997
+Existing_entries: 0
+Fetching from https://rsshub.app/jinse/zhengce
+Fetch error: 503
+Fetch failed from https://rsshub.app/jinse/zhengce
+append_entries: 0
+error when rendering xml, skip docs/jinse
