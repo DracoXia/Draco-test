@@ -52,6 +52,7 @@ U_NAME = os.environ.get('U_NAME')
 DEEPSEEK_PROXY = os.environ.get('DEEPSEEK_PROXY', '')
 DEEPSEEK_BASE_URL = os.environ.get('DEEPSEEK_BASE_URL', 'https://api.deepseek.com/v1')
 custom_model = 'deepseek-chat'
+max_entries = int(get_cfg('cfg', 'max_entries', 20)) 
 deployment_url = f'https://{U_NAME}.github.io/RSS-GPT/'
 BASE = get_cfg('cfg', 'BASE', './rss_output')
 keyword_length = int(get_cfg('cfg', 'keyword_length', 5))
