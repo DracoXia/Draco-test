@@ -54,4 +54,3 @@
 
 - https://rsshub.app/xueqiu/today -> https://DracoXia.github.io/RSS-GPT/xueqiu-hot.xml
 - https://rsshub.app/fastbull/news -> https://DracoXia.github.io/RSS-GPT/fastbull.xml
-- https://manuelmoreale.com/feed/rss -> https://DracoXia.github.io/RSS-GPT/manuel-moreale.xml

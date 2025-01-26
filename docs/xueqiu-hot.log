@@ -28,3 +28,11 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/xueqiu/today
 append_entries: 0
 error when rendering xml, skip docs/xueqiu-hot
+------------------------------------------------------
+Started: 2025-01-26 07:29:45.367503
+Existing_entries: 16
+Fetching from https://rsshub.app/xueqiu/today
+Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://rsshub.app/xueqiu/today
+append_entries: 0
+error when rendering xml, skip docs/xueqiu-hot
