@@ -26,7 +26,7 @@ OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 U_NAME = os.environ.get('U_NAME')
 OPENAI_PROXY = os.environ.get('OPENAI_PROXY')
 OPENAI_BASE_URL = os.environ.get('OPENAI_BASE_URL', 'https://api.deepseek.com/')
-custom_model = os.environ.get('CUSTOM_MODEL','deepseek-chat')
+custom_model = deepseek-chat
 deployment_url = f'https://{U_NAME}.github.io/RSS-GPT/'
 BASE =get_cfg('cfg', 'BASE')
 keyword_length = int(get_cfg('cfg', 'keyword_length'))
@@ -186,6 +186,10 @@ def gpt_summary(query,model,language):
         messages=messages,
     )
     return completion.choices[0].message.content
+    except Exception as e:
+        with open(log_file, 'a') as f:
+            f.write(f"Summarization failed: {e}\n")
+        return None
 
 def output(sec, language):
     """ output
