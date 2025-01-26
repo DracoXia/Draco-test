@@ -22,7 +22,9 @@ secs = config.sections()
 # Maxnumber of entries to in a feed.xml file
 max_entries = 1000
 
-OPENAI_API_KEY = 'sk-10db767782cf4af78e50305aa46ca1dc'
+OPENAI_API_KEY = os.environ.get('OPEN_API_KEY')
+CRYPTO_STATUS = os.environ.get('CRYPTO_STATUS')
+STOCKS_STATUS = os.environ.get('STOCKS_STATUS')
 U_NAME = os.environ.get('U_NAME')
 OPENAI_PROXY = os.environ.get('OPENAI_PROXY', '')
 OPENAI_BASE_URL = 'https://api.deepseek.com/v1'
@@ -33,6 +35,32 @@ keyword_length = int(get_cfg('cfg', 'keyword_length'))
 summary_length = int(get_cfg('cfg', 'summary_length'))
 language = get_cfg('cfg', 'language')
 
+def generate_analysis_prompt(language):
+    """生成持仓分析提示模板"""
+    analysis_instruction = (
+        "\n\n当前持仓状态："
+        "\n- 加密货币：{crypto_status}"
+        "\n- 股票持仓：{stocks_status}"
+        "\n请根据最新资讯内容，结合以下规则分析持仓合理性："
+        "\n1. 若资讯涉及持仓标的的重大利好/利空，建议调整对应仓位"
+        "\n2. 若资讯影响股息，分红，建议调整对应仓位"
+        "\n3. 黑天鹅事件预警，例如虚拟币交易所出现问题，建议调整对应仓位"
+        "\n输出格式：'<br>持仓建议：...'（如无必要调整，则显示：当前持仓状况健康）"
+        if language == "zh" else
+        "\n\nCurrent Holdings："
+        "\n- Crypto: {crypto_status}"
+        "\n- Stocks: {stocks_status}"
+        "\nAnalyze portfolio based on news content with rules:"
+        "\n1. Adjust positions if major news affects holdings"
+        "\n2. Single asset class ≤50% of total"
+        "\n3. Keep cash ratio 10%-30%"
+        "\nFormat: '<br>Portfolio Advice：...' (Show: Current portfolio is healthy if no changes needed)"
+    )
+    return analysis_instruction.format(
+        crypto_status=CRYPTO_STATUS or "未配置",
+        stocks_status=STOCKS_STATUS or "未配置"
+    )
+    
 def fetch_feed(url, log_file):
     feed = None
     response = None
@@ -154,36 +182,50 @@ def truncate_entries(entries, max_entries):
         entries = entries[:max_entries]
     return entries
 
-def gpt_summary(query,model,language):
-    if language == "zh":
-        messages = [
-            {"role": "user", "content": query},
-            {"role": "assistant", "content": f"请用中文总结这篇文章，先提取出{keyword_length}个关键词，在同一行内输出，然后换行，用中文在{summary_length}字内写一个包含所有要点的总结，按顺序分要点输出，并按照以下格式输出'<br><br>总结:'，<br>是HTML的换行符，输出时必须保留2个，并且必须在'总结:'二字之前"}
-        ]
-    else:
-        messages = [
-            {"role": "user", "content": query},
-            {"role": "assistant", "content": f"Please summarize this article in {language} language, first extract {keyword_length} keywords, output in the same line, then line break, write a summary containing all the points in {summary_length} words in {language}, output in order by points, and output in the following format '<br><br>Summary:' , <br> is the line break of HTML, 2 must be retained when output, and must be before the word 'Summary:'"}
-        ]
-    if not OPENAI_PROXY:
+try:
+        # 组合原始内容和持仓分析提示
+        combined_query = query + generate_analysis_prompt(language)
+        
+        # 配置 DeepSeek 客户端
         client = OpenAI(
-            api_key=OPENAI_API_KEY,
+            api_key=OPENAI_API_KEY,  # 确保已配置环境变量
             base_url=OPENAI_BASE_URL,
+            http_client=httpx.Client(proxy=os.environ.get('OPENAI_PROXY')) if os.environ.get('OPENAI_PROXY') else None
         )
-    else:
-        client = OpenAI(
-            api_key=OPENAI_API_KEY,
-            # Or use the `OPENAI_BASE_URL` env var
-            base_url=OPENAI_BASE_URL,
-            # example: "http://my.test.server.example.com:8083",
-            http_client=httpx.Client(proxy=OPENAI_PROXY),
-            # example:"http://my.test.proxy.example.com",
+
+        # 保持原有消息结构，添加分析要求
+        messages = [
+            {"role": "user", "content": combined_query},
+            {"role": "assistant", "content": 
+                f"请用{language}总结，先提取{keyword_length}个关键词，然后分要点总结（{summary_length}字内）"
+                "格式：'<br><br>总结：'（保留两个换行）" + 
+                ("\n最后用'<br>持仓建议：'附加分析" if language == "zh" else "\nAppend analysis with '<br>Portfolio Advice：'")
+            }
+        ]
+
+        # 调用 DeepSeek API
+        completion = client.chat.completions.create(
+            model="deepseek-chat",  # 固定使用 deepseek-chat 模型
+            messages=messages,
+            temperature=0.5,  # 降低随机性
+            max_tokens=summary_length*2 + 100  # 增加 token 限额
         )
-    completion = client.chat.completions.create(
-        model=model,
-        messages=messages,
-    )
-    return completion.choices[0].message.content
+
+        # 记录分析结果到系统日志
+        result = completion.choices[0].message.content
+        advice = "无建议生成"  # 默认值
+        if '<br>持仓建议：' in result:
+            advice = result.split('<br>持仓建议：')[-1].strip()
+        elif '<br>Portfolio Advice：' in result:
+            advice = result.split('<br>Portfolio Advice：')[-1].strip()
+            
+        log_system('analysis', f"AI分析完成 | 建议：{advice[:50]}")  # 日志截断前50字符
+
+        return result
+        
+    except Exception as e:
+        log_system('error', "DeepSeek API调用失败", e)
+        return None
 
 def output(sec, language):
     """ output
