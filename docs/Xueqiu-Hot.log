@@ -1,0 +1,8 @@
+------------------------------------------------------
+Started: 2025-01-26 11:39:55.191509
+Existing_entries: 0
+Fetching from https://plink.anyfeeder.com/xueqiu/hot
+Fetch error: 503
+Fetch failed from https://plink.anyfeeder.com/xueqiu/hot
+append_entries: 0
+error when rendering xml, skip docs/Xueqiu-Hot

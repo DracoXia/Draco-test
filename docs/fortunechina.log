@@ -1,0 +1,8 @@
+------------------------------------------------------
+Started: 2025-01-26 11:40:18.052107
+Existing_entries: 0
+Fetching from https://plink.anyfeeder.com/fortunechina
+Fetch error: 503
+Fetch failed from https://plink.anyfeeder.com/fortunechina
+append_entries: 0
+error when rendering xml, skip docs/fortunechina
