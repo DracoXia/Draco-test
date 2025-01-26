@@ -106,3 +106,9 @@ Append: [PMI不太可能影响欧洲央行未来两次降息](https://www.fastbu
 Append: [日本央行18年来最大幅度加息引发广泛关注](https://www.fastbull.com/cn/news-detail/4318685_1)
 append_entries: 5
 Finish: 2025-01-26 12:56:52.288846
+------------------------------------------------------
+Started: 2025-01-26 14:47:19.779780
+Existing_entries: 80
+Fetching from https://rsshub.app/fastbull/news
+append_entries: 0
+Finish: 2025-01-26 14:47:20.314271
