@@ -1,0 +1,198 @@
+[2025-01-26 10:18:37][SYSTEM] Application started
+[2025-01-26 10:18:37][SYSTEM] Starting main processing
+[2025-01-26 10:18:37][PROCESS] Processing section: source001
+[2025-01-26 10:18:38][DEBUG] Fetching feed: https://www.ifanr.com/feed
+[2025-01-26 10:18:39][DEBUG] Response status: 200 for https://www.ifanr.com/feed
+[2025-01-26 10:18:39][ERROR] Entry processing failed: https://www.ifanr.com/1613246?utm_source=rss&utm_medium=rss&utm_campaign=
+ERROR DETAIL:
+name 'clean_html' is not defined
+TRACEBACK:
+Traceback (most recent call last):
+  File "main.py", line 136, in process_entry
+    entry.article = clean_html(
+NameError: name 'clean_html' is not defined
+
+[2025-01-26 10:18:39][ERROR] Entry processing failed: https://www.ifanr.com/1612882?utm_source=rss&utm_medium=rss&utm_campaign=
+ERROR DETAIL:
+name 'clean_html' is not defined
+TRACEBACK:
+Traceback (most recent call last):
+  File "main.py", line 136, in process_entry
+    entry.article = clean_html(
+NameError: name 'clean_html' is not defined
+
+[2025-01-26 10:18:39][ERROR] Entry processing failed: https://www.ifanr.com/1613237?utm_source=rss&utm_medium=rss&utm_campaign=
+ERROR DETAIL:
+name 'clean_html' is not defined
+TRACEBACK:
+Traceback (most recent call last):
+  File "main.py", line 136, in process_entry
+    entry.article = clean_html(
+NameError: name 'clean_html' is not defined
+
+[2025-01-26 10:18:39][ERROR] Entry processing failed: https://www.ifanr.com/1613176?utm_source=rss&utm_medium=rss&utm_campaign=
+ERROR DETAIL:
+name 'clean_html' is not defined
+TRACEBACK:
+Traceback (most recent call last):
+  File "main.py", line 136, in process_entry
+    entry.article = clean_html(
+NameError: name 'clean_html' is not defined
+
+[2025-01-26 10:18:39][ERROR] Entry processing failed: https://www.ifanr.com/1613229?utm_source=rss&utm_medium=rss&utm_campaign=
+ERROR DETAIL:
+name 'clean_html' is not defined
+TRACEBACK:
+Traceback (most recent call last):
+  File "main.py", line 136, in process_entry
+    entry.article = clean_html(
+NameError: name 'clean_html' is not defined
+
+[2025-01-26 10:18:39][ERROR] Entry processing failed: https://www.ifanr.com/1613112?utm_source=rss&utm_medium=rss&utm_campaign=
+ERROR DETAIL:
+name 'clean_html' is not defined
+TRACEBACK:
+Traceback (most recent call last):
+  File "main.py", line 136, in process_entry
+    entry.article = clean_html(
+NameError: name 'clean_html' is not defined
+
+[2025-01-26 10:18:39][ERROR] Entry processing failed: https://www.ifanr.com/1613090?utm_source=rss&utm_medium=rss&utm_campaign=
+ERROR DETAIL:
+name 'clean_html' is not defined
+TRACEBACK:
+Traceback (most recent call last):
+  File "main.py", line 136, in process_entry
+    entry.article = clean_html(
+NameError: name 'clean_html' is not defined
+
+[2025-01-26 10:18:39][ERROR] Entry processing failed: https://www.ifanr.com/1613068?utm_source=rss&utm_medium=rss&utm_campaign=
+ERROR DETAIL:
+name 'clean_html' is not defined
+TRACEBACK:
+Traceback (most recent call last):
+  File "main.py", line 136, in process_entry
+    entry.article = clean_html(
+NameError: name 'clean_html' is not defined
+
+[2025-01-26 10:18:39][ERROR] Entry processing failed: https://www.ifanr.com/1612830?utm_source=rss&utm_medium=rss&utm_campaign=
+ERROR DETAIL:
+name 'clean_html' is not defined
+TRACEBACK:
+Traceback (most recent call last):
+  File "main.py", line 136, in process_entry
+    entry.article = clean_html(
+NameError: name 'clean_html' is not defined
+
+[2025-01-26 10:18:39][ERROR] Entry processing failed: https://www.ifanr.com/1612995?utm_source=rss&utm_medium=rss&utm_campaign=
+ERROR DETAIL:
+name 'clean_html' is not defined
+TRACEBACK:
+Traceback (most recent call last):
+  File "main.py", line 136, in process_entry
+    entry.article = clean_html(
+NameError: name 'clean_html' is not defined
+
+[2025-01-26 10:18:39][ERROR] Entry processing failed: https://www.ifanr.com/1612966?utm_source=rss&utm_medium=rss&utm_campaign=
+ERROR DETAIL:
+name 'clean_html' is not defined
+TRACEBACK:
+Traceback (most recent call last):
+  File "main.py", line 136, in process_entry
+    entry.article = clean_html(
+NameError: name 'clean_html' is not defined
+
+[2025-01-26 10:18:39][ERROR] Entry processing failed: https://www.ifanr.com/1612911?utm_source=rss&utm_medium=rss&utm_campaign=
+ERROR DETAIL:
+name 'clean_html' is not defined
+TRACEBACK:
+Traceback (most recent call last):
+  File "main.py", line 136, in process_entry
+    entry.article = clean_html(
+NameError: name 'clean_html' is not defined
+
+[2025-01-26 10:18:39][ERROR] Entry processing failed: https://www.ifanr.com/1612803?utm_source=rss&utm_medium=rss&utm_campaign=
+ERROR DETAIL:
+name 'clean_html' is not defined
+TRACEBACK:
+Traceback (most recent call last):
+  File "main.py", line 136, in process_entry
+    entry.article = clean_html(
+NameError: name 'clean_html' is not defined
+
+[2025-01-26 10:18:39][ERROR] Entry processing failed: https://www.ifanr.com/1612783?utm_source=rss&utm_medium=rss&utm_campaign=
+ERROR DETAIL:
+name 'clean_html' is not defined
+TRACEBACK:
+Traceback (most recent call last):
+  File "main.py", line 136, in process_entry
+    entry.article = clean_html(
+NameError: name 'clean_html' is not defined
+
+[2025-01-26 10:18:39][ERROR] Entry processing failed: https://www.ifanr.com/1612733?utm_source=rss&utm_medium=rss&utm_campaign=
+ERROR DETAIL:
+name 'clean_html' is not defined
+TRACEBACK:
+Traceback (most recent call last):
+  File "main.py", line 136, in process_entry
+    entry.article = clean_html(
+NameError: name 'clean_html' is not defined
+
+[2025-01-26 10:18:39][ERROR] Entry processing failed: https://www.ifanr.com/1612612?utm_source=rss&utm_medium=rss&utm_campaign=
+ERROR DETAIL:
+name 'clean_html' is not defined
+TRACEBACK:
+Traceback (most recent call last):
+  File "main.py", line 136, in process_entry
+    entry.article = clean_html(
+NameError: name 'clean_html' is not defined
+
+[2025-01-26 10:18:39][ERROR] Entry processing failed: https://www.ifanr.com/1612719?utm_source=rss&utm_medium=rss&utm_campaign=
+ERROR DETAIL:
+name 'clean_html' is not defined
+TRACEBACK:
+Traceback (most recent call last):
+  File "main.py", line 136, in process_entry
+    entry.article = clean_html(
+NameError: name 'clean_html' is not defined
+
+[2025-01-26 10:18:39][ERROR] Entry processing failed: https://www.ifanr.com/1612646?utm_source=rss&utm_medium=rss&utm_campaign=
+ERROR DETAIL:
+name 'clean_html' is not defined
+TRACEBACK:
+Traceback (most recent call last):
+  File "main.py", line 136, in process_entry
+    entry.article = clean_html(
+NameError: name 'clean_html' is not defined
+
+[2025-01-26 10:18:39][ERROR] Entry processing failed: https://www.ifanr.com/1612454?utm_source=rss&utm_medium=rss&utm_campaign=
+ERROR DETAIL:
+name 'clean_html' is not defined
+TRACEBACK:
+Traceback (most recent call last):
+  File "main.py", line 136, in process_entry
+    entry.article = clean_html(
+NameError: name 'clean_html' is not defined
+
+[2025-01-26 10:18:39][ERROR] Entry processing failed: https://www.ifanr.com/1612591?utm_source=rss&utm_medium=rss&utm_campaign=
+ERROR DETAIL:
+name 'clean_html' is not defined
+TRACEBACK:
+Traceback (most recent call last):
+  File "main.py", line 136, in process_entry
+    entry.article = clean_html(
+NameError: name 'clean_html' is not defined
+
+[2025-01-26 10:18:39][CRITICAL] Section processing failed: source001
+ERROR DETAIL:
+'dict object' has no attribute 'feed'
+TRACEBACK:
+Traceback (most recent call last):
+  File "main.py", line 185, in output
+    rss_content = template.render(
+  File "/opt/hostedtoolcache/Python/3.8.18/x64/lib/python3.8/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/opt/hostedtoolcache/Python/3.8.18/x64/lib/python3.8/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "<template>", line 4, in top-level template cod
+[2025-01-26 10:18:39][SYSTEM] Processing completed
