@@ -186,10 +186,7 @@ def gpt_summary(query,model,language):
         messages=messages,
     )
     return completion.choices[0].message.content
-    except Exception as e:
-        with open(log_file, 'a') as f:
-            f.write(f"Summarization failed: {e}\n")
-        return None
+   
 
 def output(sec, language):
     """ output
