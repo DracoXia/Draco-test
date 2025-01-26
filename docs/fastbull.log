@@ -95,3 +95,14 @@ Existing_entries: 75
 Fetching from https://rsshub.app/fastbull/news
 append_entries: 0
 Finish: 2025-01-26 12:47:41.794733
+------------------------------------------------------
+Started: 2025-01-26 12:56:51.162413
+Existing_entries: 75
+Fetching from https://rsshub.app/fastbull/news
+Append: [日本央行打响的新年加息 “第一枪” 给金融市场带来了哪些效应？](https://www.fastbull.com/cn/news-detail/4318819_1)
+Append: [英国经济仍然处在滞涨的阴霾中](https://www.fastbull.com/cn/news-detail/4318818_1)
+Append: [美股迎30年来最佳总统任期开局？](https://www.fastbull.com/cn/news-detail/4318817_1)
+Append: [PMI不太可能影响欧洲央行未来两次降息](https://www.fastbull.com/cn/news-detail/4318739_1)
+Append: [日本央行18年来最大幅度加息引发广泛关注](https://www.fastbull.com/cn/news-detail/4318685_1)
+append_entries: 5
+Finish: 2025-01-26 12:56:52.288846
