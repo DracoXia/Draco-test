@@ -12,5 +12,5 @@ def test_api_connection(url):
         print(f"API connection failed: {e}")
 
 if __name__ == "__main__":
-    url = "https://api.deepseek.com/v1/models"
+    url = "https://api.deepseek.com"
     test_api_connection(url)
