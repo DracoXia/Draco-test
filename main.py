@@ -299,16 +299,16 @@ def output(sec, language):
                             f.write(f"error: {e}\n")
                 else:
                     try:
-                        entry.summary = gpt_summary(cleaned_article,model="gpt-4o-mini", language=language)
+                        entry.summary = gpt_summary(cleaned_article,model="deepseek-chat", language=language)
                         with open(log_file, 'a') as f:
                             f.write(f"Token length: {token_length}\n")
-                            f.write(f"Summarized using gpt-4o-mini\n")
+                            f.write(f"Summarized using deepseek-chat\n")
                     except:
                         try:
-                            entry.summary = gpt_summary(cleaned_article,model="gpt-4o", language=language)
+                            entry.summary = gpt_summary(cleaned_article,model="deepseek-reasoner", language=language)
                             with open(log_file, 'a') as f:
                                 f.write(f"Token length: {token_length}\n")
-                                f.write(f"Summarized using GPT-4o\n")
+                                f.write(f"Summarized using deepseek-reasoner\n")
                         except Exception as e:
                             entry.summary = None
                             with open(log_file, 'a') as f:
