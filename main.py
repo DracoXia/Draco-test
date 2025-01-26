@@ -11,8 +11,37 @@ import requests
 from fake_useragent import UserAgent
 import traceback
 
-# 系统日志增强版
-system_log = os.path.join(BASE, 'rss_system.log')  # 现在日志会生成在 docs/rss_system.log
+# 先读取配置
+config = configparser.ConfigParser()
+try:
+    config.read('config.ini')
+except Exception as e:
+    # 临时用 print 输出错误，因为此时日志系统还未初始化
+    print(f"CRITICAL ERROR: Failed to read config.ini - {str(e)}")
+    raise
+
+# 定义配置参数（必须在日志系统之前）
+def get_cfg(sec, name, default=None):
+    try:
+        value = config.get(sec, name, fallback=default)
+        return value.strip('"') if value else value
+    except Exception as e:
+        # 临时用 print 输出错误
+        print(f"ERROR reading config: {sec}.{name} - {str(e)}")
+        return default
+
+# 关键配置项定义
+BASE = get_cfg('cfg', 'BASE', './docs')  # 默认改为 docs 目录
+keyword_length = int(get_cfg('cfg', 'keyword_length', 5))
+summary_length = int(get_cfg('cfg', 'summary_length', 200))
+language = get_cfg('cfg', 'language', 'zh')
+max_entries = int(get_cfg('cfg', 'max_entries', 20))  # 新增的 max_entries
+
+# 创建输出目录（确保后续代码能访问）
+os.makedirs(BASE, exist_ok=True)
+
+# 现在定义日志系统（依赖已定义的 BASE）
+system_log = os.path.join(BASE, 'rss_system.log')  # 日志文件保存在 docs/rss_system.log
 
 def log_system(event_type, message, error=None):
     """增强型日志记录函数"""
@@ -20,26 +49,14 @@ def log_system(event_type, message, error=None):
     log_entry = f"[{timestamp}][{event_type.upper()}] {message}"
     if error:
         log_entry += f"\nERROR DETAIL:\n{str(error)}\nTRACEBACK:\n{traceback.format_exc()[:500]}"
-    with open(system_log, 'a', encoding='utf-8') as f:
-        f.write(log_entry + "\n")
+    try:
+        with open(system_log, 'a', encoding='utf-8') as f:
+            f.write(log_entry + "\n")
+    except Exception as e:
+        print(f"!!! 无法写入日志文件: {system_log} - {str(e)}")
 
 # 初始化系统日志
 log_system('system', 'Application started')
-
-def get_cfg(sec, name, default=None):
-    try:
-        value = config.get(sec, name, fallback=default)
-        return value.strip('"') if value else value
-    except Exception as e:
-        log_system('error', f'Config read error: {sec}.{name}', e)
-        return default
-
-config = configparser.ConfigParser()
-try:
-    config.read('config.ini')
-except Exception as e:
-    log_system('critical', 'Failed to read config.ini', e)
-    raise
 
 # 环境变量验证
 DEEPSEEK_API_KEY = 'sk-10db767782cf4af78e50305aa46ca1dc'
@@ -47,20 +64,14 @@ if not DEEPSEEK_API_KEY:
     log_system('critical', 'DEEPSEEK_API_KEY environment variable not set!')
     raise ValueError("DEEPSEEK_API_KEY is required")
 
-# 配置参数
+# 其他配置参数
 U_NAME = os.environ.get('U_NAME')
 DEEPSEEK_PROXY = os.environ.get('DEEPSEEK_PROXY', '')
 DEEPSEEK_BASE_URL = os.environ.get('DEEPSEEK_BASE_URL', 'https://api.deepseek.com/v1')
 custom_model = 'deepseek-chat'
-max_entries = int(get_cfg('cfg', 'max_entries', 20)) 
 deployment_url = f'https://{U_NAME}.github.io/RSS-GPT/'
-BASE = get_cfg('cfg', 'BASE', './docs')  # GitHub Pages 默认从 docs/ 目录部署
-keyword_length = int(get_cfg('cfg', 'keyword_length', 5))
-summary_length = int(get_cfg('cfg', 'summary_length', 200))
-language = get_cfg('cfg', 'language', 'zh')
 
-# 创建输出目录
-os.makedirs(BASE, exist_ok=True)
+# ... 后续的 fetch_feed、gpt_summary、output 等函数保持不变 ...
 
 def fetch_feed(url, log_file):
     """带详细日志的RSS抓取"""
