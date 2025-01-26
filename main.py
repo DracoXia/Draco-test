@@ -182,49 +182,52 @@ def truncate_entries(entries, max_entries):
         entries = entries[:max_entries]
     return entries
 
-try:
-        # 组合原始内容和持仓分析提示
+def gpt_summary(query, model, language):
+    """整合总结与持仓分析的 DeepSeek 接口"""
+    try:
+        # 组合查询内容与分析提示
         combined_query = query + generate_analysis_prompt(language)
         
-        # 配置 DeepSeek 客户端
+        # 初始化 DeepSeek 客户端
         client = OpenAI(
-            api_key=OPENAI_API_KEY,  # 确保已配置环境变量
+            api_key=OPENAI_API_KEY,
             base_url=OPENAI_BASE_URL,
             http_client=httpx.Client(proxy=os.environ.get('OPENAI_PROXY')) if os.environ.get('OPENAI_PROXY') else None
         )
 
-        # 保持原有消息结构，添加分析要求
+        # 构建消息模板
         messages = [
             {"role": "user", "content": combined_query},
             {"role": "assistant", "content": 
-                f"请用{language}总结，先提取{keyword_length}个关键词，然后分要点总结（{summary_length}字内）"
+                f"请用{language}总结，先提取{keyword_length}个关键词，然后分要点总结（{summary_length}字内）\n"
                 "格式：'<br><br>总结：'（保留两个换行）" + 
                 ("\n最后用'<br>持仓建议：'附加分析" if language == "zh" else "\nAppend analysis with '<br>Portfolio Advice：'")
             }
         ]
 
-        # 调用 DeepSeek API
+        # API 调用
         completion = client.chat.completions.create(
-            model="deepseek-chat",  # 固定使用 deepseek-chat 模型
+            model="deepseek-chat",
             messages=messages,
-            temperature=0.5,  # 降低随机性
-            max_tokens=summary_length*2 + 100  # 增加 token 限额
+            temperature=0.5,
+            max_tokens=summary_length*2 + 100
         )
 
-        # 记录分析结果到系统日志
+        # 解析响应
         result = completion.choices[0].message.content
-        advice = "无建议生成"  # 默认值
+        
+        # 提取建议并记录日志
+        advice = "无建议生成"
         if '<br>持仓建议：' in result:
             advice = result.split('<br>持仓建议：')[-1].strip()
         elif '<br>Portfolio Advice：' in result:
             advice = result.split('<br>Portfolio Advice：')[-1].strip()
-            
-        log_system('analysis', f"AI分析完成 | 建议：{advice[:50]}")  # 日志截断前50字符
+        log_system('analysis', f"建议摘要：{advice[:50]}")
 
-        return result
-        
-except Exception as e:
-        log_system('error', "DeepSeek API调用失败", e)
+        return result  # 确保此行在函数体内且正确缩进
+
+    except Exception as e:
+        log_system('error', "API 调用失败", e)
         return None
 
 def output(sec, language):
