@@ -42,7 +42,7 @@ except Exception as e:
     raise
 
 # 环境变量验证
-DEEPSEEK_API_KEY = os.environ.get('OPEN_API_KEY')
+DEEPSEEK_API_KEY = 'sk-10db767782cf4af78e50305aa46ca1dc'
 if not DEEPSEEK_API_KEY:
     log_system('critical', 'DEEPSEEK_API_KEY environment variable not set!')
     raise ValueError("DEEPSEEK_API_KEY is required")
