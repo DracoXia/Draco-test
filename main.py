@@ -223,7 +223,7 @@ try:
 
         return result
         
-    except Exception as e:
+except Exception as e:
         log_system('error', "DeepSeek API调用失败", e)
         return None
 
