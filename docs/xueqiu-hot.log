@@ -20,3 +20,11 @@ Append: [超材料：开辟全新路径，实现“完美”隐身](https://xueq
 Append: [$欧派家居(SH603833)$ $泸州老窖(SZ000568)$ 今年中秋，在老家，走访了几个熟悉的烟酒店和水果店，反馈的是今年生意差到飞起来（当然只代表一小部分而已），要是...](https://xueqiu.com/1499679172/304795148)
 append_entries: 16
 Finish: 2025-01-26 07:06:52.414646
+------------------------------------------------------
+Started: 2025-01-26 07:17:52.953894
+Existing_entries: 16
+Fetching from https://rsshub.app/xueqiu/today
+Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://rsshub.app/xueqiu/today
+append_entries: 0
+error when rendering xml, skip docs/xueqiu-hot

@@ -79,3 +79,9 @@ Append: [日央行加息再获数据支持！日本12月核心通胀率升至3%]
 Append: [承诺兑现时刻！特朗普签署加密货币行政命令，监管框架与立法努力指日可待？](https://www.fastbull.com/cn/news-detail/4318634_1)
 append_entries: 75
 Finish: 2025-01-26 07:06:52.668216
+------------------------------------------------------
+Started: 2025-01-26 07:18:23.370741
+Existing_entries: 75
+Fetching from https://rsshub.app/fastbull/news
+append_entries: 0
+Finish: 2025-01-26 07:18:23.595738
