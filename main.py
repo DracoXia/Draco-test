@@ -183,10 +183,15 @@ def gpt_summary(query, model, language):
             model=model,
             messages=messages,
         )
-        return completion.choices[0].message.content
+        summary = completion.choices[0].message.content
+        with open(log_file, 'a') as f:
+            f.write(f"Summary generated successfully for query: {query}\n")
+            f.write(f"Summary: {summary}\n")
+        return summary
     except Exception as e:
         with open(log_file, 'a') as f:
-            f.write(f"Summarization failed: {e}\n")
+            f.write(f"Summarization failed for query: {query}\n")
+            f.write(f"Error: {e}\n")
         return None
    
 
