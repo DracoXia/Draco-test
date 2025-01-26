@@ -273,45 +273,45 @@ def process_feed(sec):
     final_entries = all_entries[:max_entries]
 
     # 生成RSS文件
-     try:
-        template = Template(open('template.xml').read())
+             try:
+                template = Template(open('template.xml').read())
+                
+                # 构建符合模板要求的数据结构
+                processed_feed = {
+                    # 第一层feed对象
+                    'feed': {
+                        'title': get_cfg(sec, 'name', 'AI摘要RSS'),
+                        'link': deployment_url,
+                        # 从原始feed中获取描述（如果存在）
+                        'description': getattr(feed, 'feed', {}).get('description', 'AI生成的摘要内容')
+                    },
+                    # 合并新旧条目
+                    'append_entries': append_entries,
+                    'existing_entries': existing_entries
+                }
         
-        # 构建符合模板要求的数据结构
-        processed_feed = {
-            # 第一层feed对象
-            'feed': {
-                'title': get_cfg(sec, 'name', 'AI摘要RSS'),
-                'link': deployment_url,
-                # 从原始feed中获取描述（如果存在）
-                'description': getattr(feed, 'feed', {}).get('description', 'AI生成的摘要内容')
-            },
-            # 合并新旧条目
-            'append_entries': append_entries,
-            'existing_entries': existing_entries
-        }
-
-        # 确保条目结构正确
-        for entry_list in [processed_feed['append_entries'], processed_feed['existing_entries']]:
-            for entry in entry_list:
-                # 强制添加必要属性
-                if not hasattr(entry, 'content'):
-                    entry.content = [{'value': getattr(entry, 'article', '')}]
-                # 处理日期字段
-                if not hasattr(entry, 'published'):
-                    entry.published = datetime.datetime.now().strftime('%a, %d %b %Y %H:%M:%S GMT')
-
-        rss = template.render(feed=processed_feed)
+                # 确保条目结构正确
+                for entry_list in [processed_feed['append_entries'], processed_feed['existing_entries']]:
+                    for entry in entry_list:
+                        # 强制添加必要属性
+                        if not hasattr(entry, 'content'):
+                            entry.content = [{'value': getattr(entry, 'article', '')}]
+                        # 处理日期字段
+                        if not hasattr(entry, 'published'):
+                            entry.published = datetime.datetime.now().strftime('%a, %d %b %Y %H:%M:%S GMT')
         
-        with open(out_dir + '.xml', 'w') as f:
-            f.write(rss)
-
-    except Exception as e:
-        with open(log_file, 'a') as f:
-            f.write(f"RSS生成失败: {str(e)}\n")
-            f.write(f"数据结构验证:\n")
-            f.write(f"- feed层级: {processed_feed.keys()}\n")
-            f.write(f"- feed.feed存在: {'feed' in processed_feed}\n")
-            f.write(f"- 条目数: append={len(append_entries)}, existing={len(existing_entries)}\n")
+                rss = template.render(feed=processed_feed)
+                
+                with open(out_dir + '.xml', 'w') as f:
+                    f.write(rss)
+        
+            except Exception as e:
+                with open(log_file, 'a') as f:
+                    f.write(f"RSS生成失败: {str(e)}\n")
+                    f.write(f"数据结构验证:\n")
+                    f.write(f"- feed层级: {processed_feed.keys()}\n")
+                    f.write(f"- feed.feed存在: {'feed' in processed_feed}\n")
+                    f.write(f"- 条目数: append={len(append_entries)}, existing={len(existing_entries)}\n")
 
 # 主程序
 if __name__ == "__main__":
