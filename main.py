@@ -2,15 +2,30 @@ import feedparser
 import configparser
 import os
 import httpx
-from openai import OpenAI
+from openai import OpenAI  # DeepSeek兼容OpenAI SDK
 from jinja2 import Template
 from bs4 import BeautifulSoup
 import re
 import datetime
 import requests
 from fake_useragent import UserAgent
-#from dateutil.parser import parse
+import traceback
 
+# 新增系统日志功能
+system_log = os.path.join(os.getcwd(), 'system.log')
+
+def init_system_log():
+    with open(system_log, 'a') as f:
+        f.write('\n' + '='*60 + '\n')
+        f.write(f'System Initialized at {datetime.datetime.now()}\n')
+
+init_system_log()
+
+def log_system_event(message):
+    with open(system_log, 'a') as f:
+        f.write(f"[{datetime.datetime.now()}] {message}\n")
+
+# 修改环境变量名称和API端点
 def get_cfg(sec, name, default=None):
     value=config.get(sec, name, fallback=default)
     if value:
@@ -19,16 +34,16 @@ def get_cfg(sec, name, default=None):
 config = configparser.ConfigParser()
 config.read('config.ini')
 secs = config.sections()
-# Maxnumber of entries to in a feed.xml file
 max_entries = 1000
 
-OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
+# 修改为DeepSeek环境变量
+DEEPSEEK_API_KEY = os.environ.get('OPEN_API_KEY')  # 关键修改点1
 U_NAME = os.environ.get('U_NAME')
-OPENAI_PROXY = os.environ.get('OPENAI_PROXY')
-OPENAI_BASE_URL = os.environ.get('OPENAI_BASE_URL', 'https://api.deepseek.com/v1')
-custom_model = os.environ.get('CUSTOM_MODEL')
+DEEPSEEK_PROXY = os.environ.get('DEEPSEEK_PROXY', '')  # 修改变量名
+DEEPSEEK_BASE_URL = os.environ.get('DEEPSEEK_BASE_URL', 'https://api.deepseek.com/v1')  # 关键修改点2
+custom_model = 'deepseek-chat'  # 固定模型
 deployment_url = f'https://{U_NAME}.github.io/RSS-GPT/'
-BASE =get_cfg('cfg', 'BASE')
+BASE = get_cfg('cfg', 'BASE')
 keyword_length = int(get_cfg('cfg', 'keyword_length'))
 summary_length = int(get_cfg('cfg', 'summary_length'))
 language = get_cfg('cfg', 'language')
@@ -154,38 +169,67 @@ def truncate_entries(entries, max_entries):
         entries = entries[:max_entries]
     return entries
 
-def gpt_summary(query,model,language):
-    if language == "zh":
-        messages = [
-            {"role": "user", "content": query},
-            {"role": "assistant", "content": f"请用中文总结这篇文章，先提取出{keyword_length}个关键词，在同一行内输出，然后换行，用中文在{summary_length}字内写一个包含所有要点的总结，按顺序分要点输出，并按照以下格式输出'<br><br>总结:'，<br>是HTML的换行符，输出时必须保留2个，并且必须在'总结:'二字之前"}
-        ]
-    else:
-        messages = [
-            {"role": "user", "content": query},
-            {"role": "assistant", "content": f"Please summarize this article in {language} language, first extract {keyword_length} keywords, output in the same line, then line break, write a summary containing all the points in {summary_length} words in {language}, output in order by points, and output in the following format '<br><br>Summary:' , <br> is the line break of HTML, 2 must be retained when output, and must be before the word 'Summary:'"}
-        ]
-    if not OPENAI_PROXY:
-        client = OpenAI(
-            api_key=OPENAI_API_KEY,
-            base_url=OPENAI_BASE_URL,
+def gpt_summary(query, model, language):
+    log_tag = f"[DeepSeek-API][{datetime.datetime.now().strftime('%Y%m%d%H%M%S')}]"
+    try:
+        # 记录API调用开始
+        log_system_event(f"{log_tag} Starting summary generation")
+        
+        # 构建客户端（修改为DeepSeek配置）
+        client_params = {
+            "api_key": DEEPSEEK_API_KEY,
+            "base_url": DEEPSEEK_BASE_URL,
+        }
+        if DEEPSEEK_PROXY:
+            client_params["http_client"] = httpx.Client(proxy=DEEPSEEK_PROXY)
+
+        client = OpenAI(**client_params)
+
+        # 构建消息（原逻辑不变）
+        if language == "zh":
+            messages = [
+                {"role": "user", "content": query},
+                {"role": "assistant", "content": f"请用中文总结这篇文章，先提取出{keyword_length}个关键词，在同一行内输出，然后换行，用中文在{summary_length}字内写一个包含所有要点的总结，按顺序分要点输出，并按照以下格式输出'<br><br>总结:'，<br>是HTML的换行符，输出时必须保留2个，并且必须在'总结:'二字之前"}
+            ]
+        else:
+            messages = [
+                {"role": "user", "content": query},
+                {"role": "assistant", "content": f"Please summarize this article in {language} language, first extract {keyword_length} keywords, output in the same line, then line break, write a summary containing all the points in {summary_length} words in {language}, output in order by points, and output in the following format '<br><br>Summary:' , <br> is the line break of HTML, 2 must be retained when output, and must be before the word 'Summary:'"}
+            ]
+
+        # API调用
+        completion = client.chat.completions.create(
+            model=model,
+            messages=messages,
         )
-    else:
-        client = OpenAI(
-            api_key=OPENAI_API_KEY,
-            # Or use the `OPENAI_BASE_URL` env var
-            base_url=OPENAI_BASE_URL,
-            # example: "http://my.test.server.example.com:8083",
-            http_client=httpx.Client(proxy=OPENAI_PROXY),
-            # example:"http://my.test.proxy.example.com",
+        
+        # 记录成功日志
+        log_system_event(
+            f"{log_tag} Summary success | "
+            f"Model: {model} | "
+            f"Tokens: {completion.usage.total_tokens} | "
+            f"ID: {completion.id}"
         )
-    completion = client.chat.completions.create(
-        model=model,
-        messages=messages,
-    )
-    return completion.choices[0].message.content
+        return completion.choices[0].message.content
+
+    except Exception as e:
+        # 记录详细错误日志
+        error_msg = (
+            f"{log_tag} Summary failed | "
+            f"Error: {type(e).__name__} | "
+            f"Message: {str(e)} | "
+            f"Trace: {traceback.format_exc()[:500]}"
+        )
+        log_system_event(error_msg)
+        return None
 
 def output(sec, language):
+     """ output函数修改点 """
+    log_file = os.path.join(BASE, get_cfg(sec, 'name') + '.log')
+    
+    # 在开始处理时记录系统日志
+    log_system_event(f"Processing section [{sec}] started")
+
     """ output
     This function is used to output the summary of the RSS feed.
 
@@ -284,36 +328,23 @@ def output(sec, language):
             cnt += 1
             if cnt > max_items:
                 entry.summary = None
-            elif OPENAI_API_KEY:
+            elif DEEPSEEK_API_KEY:  # 修改环境变量检查
                 token_length = len(cleaned_article)
-                if custom_model:
-                    try:
-                        entry.summary = gpt_summary(cleaned_article,model=custom_model, language=language)
+                try:
+                    entry.summary = gpt_summary(cleaned_article, model=custom_model, language=language)
+                    if entry.summary:
                         with open(log_file, 'a') as f:
-                            f.write(f"Token length: {token_length}\n")
-                            f.write(f"Summarized using {custom_model}\n")
-                    except Exception as e:
-                        entry.summary = None
+                            f.write(f"[Success] Summarized using {custom_model}\n")
+                    else:
                         with open(log_file, 'a') as f:
-                            f.write(f"Summarization failed, append the original article\n")
-                            f.write(f"error: {e}\n")
-                else:
-                    try:
-                        entry.summary = gpt_summary(cleaned_article,model="gpt-4o-mini", language=language)
-                        with open(log_file, 'a') as f:
-                            f.write(f"Token length: {token_length}\n")
-                            f.write(f"Summarized using gpt-4o-mini\n")
-                    except:
-                        try:
-                            entry.summary = gpt_summary(cleaned_article,model="gpt-4o", language=language)
-                            with open(log_file, 'a') as f:
-                                f.write(f"Token length: {token_length}\n")
-                                f.write(f"Summarized using GPT-4o\n")
-                        except Exception as e:
-                            entry.summary = None
-                            with open(log_file, 'a') as f:
-                                f.write(f"Summarization failed, append the original article\n")
-                                f.write(f"error: {e}\n")
+                            f.write("[Failed] Summary returned None\n")
+                except Exception as e:
+                    entry.summary = None
+                    with open(log_file, 'a') as f:
+                        f.write(f"[Error] Summarization failed: {str(e)}\n")
+    
+    # 在处理结束时记录系统日志
+    log_system_event(f"Processing section [{sec}] completed")
 
             append_entries.append(entry)
             with open(log_file, 'a') as f:
