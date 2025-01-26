@@ -9,372 +9,336 @@ import re
 import datetime
 import requests
 from fake_useragent import UserAgent
-#from dateutil.parser import parse
+import traceback
 
+# 配置文件处理
 def get_cfg(sec, name, default=None):
-    value=config.get(sec, name, fallback=default)
-    if value:
-        return value.strip('"')
+    value = config.get(sec, name, fallback=default)
+    return value.strip('"') if value else value
 
 config = configparser.ConfigParser()
 config.read('config.ini')
 secs = config.sections()
-# Maxnumber of entries to in a feed.xml file
 max_entries = 1000
 
-OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
+# 环境变量配置
+OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')  # 修改环境变量名以明确用途
 U_NAME = os.environ.get('U_NAME')
-OPENAI_PROXY = os.environ.get('OPENAI_PROXY', '')
-OPENAI_BASE_URL = os.environ.get('OPENAI_BASE_URL', 'https://api.deepseek.com/')
+OPENAI_PROXY = os.environ.get('PROXY_URL', '')
+OPENAI_BASE_URL = os.environ.get('DEEPSEEK_BASE_URL', 'https://api.deepseek.com/v1/')
 custom_model = 'deepseek-chat'
 deployment_url = f'https://{U_NAME}.github.io/RSS-GPT/'
-BASE =get_cfg('cfg', 'BASE')
-keyword_length = int(get_cfg('cfg', 'keyword_length'))
-summary_length = int(get_cfg('cfg', 'summary_length'))
-language = get_cfg('cfg', 'language')
-print(f"当前API密钥状态：{OPENAI_API_KEY is not None}")  # 应输出 True
-print(f"当前模型：{custom_model}")  # 检查是否为 deepseek-chat
+BASE = get_cfg('cfg', 'BASE', './output')
+keyword_length = int(get_cfg('cfg', 'keyword_length', '5'))
+summary_length = int(get_cfg('cfg', 'summary_length', '200'))
+language = get_cfg('cfg', 'language', 'zh')
 
+# 初始化日志
+def init_logger():
+    log_dir = os.path.join(BASE, 'system.log')
+    with open(log_dir, 'a') as f:
+        f.write('\n' + '='*60 + '\n')
+        f.write(f'Initialization at {datetime.datetime.now()}\n')
+        f.write('Configuration:\n')
+        f.write(f'- BASE: {BASE}\n')
+        f.write(f'- API_KEY: {"*****" if OPENAI_API_KEY else "None"}\n')
+        f.write(f'- BASE_URL: {OPENAI_BASE_URL}\n')
+        f.write(f'- PROXY: {OPENAI_PROXY if OPENAI_PROXY else "No proxy"}\n')
+    return log_dir
+
+system_log = init_logger()
+
+# RSS抓取模块
 def fetch_feed(url, log_file):
-    feed = None
-    response = None
-    headers = {}
+    headers = {'User-Agent': UserAgent().random.strip()}
     try:
-        ua = UserAgent()
-        headers['User-Agent'] = ua.random.strip()
         response = requests.get(url, headers=headers, timeout=30)
-        if response.status_code == 200:
-            feed = feedparser.parse(response.text)
-            return {'feed': feed, 'status': 'success'}
-        else:
-            with open(log_file, 'a') as f:
-                f.write(f"Fetch error: {response.status_code}\n")
-            return {'feed': None, 'status': response.status_code}
-    except requests.RequestException as e:
+        response.raise_for_status()
+        return {
+            'feed': feedparser.parse(response.text),
+            'status': 'success',
+            'status_code': response.status_code
+        }
+    except Exception as e:
+        error_msg = f"抓取失败: {str(e)}"
         with open(log_file, 'a') as f:
-            f.write(f"Fetch error: {e}\n")
-        return {'feed': None, 'status': 'failed'}
+            f.write(f"[{datetime.datetime.now()}] {error_msg}\n")
+        return {
+            'feed': None,
+            'status': 'error',
+            'error': error_msg
+        }
 
-def generate_untitled(entry):
-    try: return entry.title
-    except: 
-        try: return entry.article[:50]
-        except: return entry.link
-
-
+# 内容清理模块
 def clean_html(html_content):
-    """
-    This function is used to clean the HTML content.
-    It will remove all the <script>, <style>, <img>, <a>, <video>, <audio>, <iframe>, <input> tags.
-    Returns:
-        Cleaned text for summarization
-    """
-    soup = BeautifulSoup(html_content, "html.parser")
-
-    for script in soup.find_all("script"):
-        script.decompose()
-
-    for style in soup.find_all("style"):
-        style.decompose()
-
-    for img in soup.find_all("img"):
-        img.decompose()
-
-    for a in soup.find_all("a"):
-        a.decompose()
-
-    for video in soup.find_all("video"):
-        video.decompose()
-
-    for audio in soup.find_all("audio"):
-        audio.decompose()
-    
-    for iframe in soup.find_all("iframe"):
-        iframe.decompose()
-    
-    for input in soup.find_all("input"):
-        input.decompose()
-
-    return soup.get_text()
-
-def filter_entry(entry, filter_apply, filter_type, filter_rule):
-    """
-    This function is used to filter the RSS feed.
-
-    Args:
-        entry: RSS feed entry
-        filter_apply: title, article or link
-        filter_type: include or exclude or regex match or regex not match
-        filter_rule: regex rule or keyword rule, depends on the filter_type
-
-    Raises:
-        Exception: filter_apply not supported
-        Exception: filter_type not supported
-    """
-    if filter_apply == 'title':
-        text = entry.title
-    elif filter_apply == 'article':
-        text = entry.article
-    elif filter_apply == 'link':
-        text = entry.link
-    elif not filter_apply:
-        return True
-    else:
-        raise Exception('filter_apply not supported')
-
-    if filter_type == 'include':
-        return re.search(filter_rule, text)
-    elif filter_type == 'exclude':
-        return not re.search(filter_rule, text)
-    elif filter_type == 'regex match':
-        return re.search(filter_rule, text)
-    elif filter_type == 'regex not match':
-        return not re.search(filter_rule, text)
-    elif not filter_type:
-        return True
-    else:
-        raise Exception('filter_type not supported')
-
-def read_entry_from_file(sec):
-    """
-    This function is used to read the RSS feed entries from the feed.xml file.
-
-    Args:
-        sec: section name in config.ini
-    """
-    out_dir = os.path.join(BASE, get_cfg(sec, 'name'))
     try:
-        with open(out_dir + '.xml', 'r') as f:
-            rss = f.read()
-        feed = feedparser.parse(rss)
-        return feed.entries
-    except:
-        return []
+        soup = BeautifulSoup(html_content, "html.parser")
+        # 移除不需要的标签
+        for tag in ["script", "style", "img", "a", "video", "audio", "iframe", "input"]:
+            for element in soup.find_all(tag):
+                element.decompose()
+        # 处理空白字符
+        text = soup.get_text()
+        text = re.sub(r'\s+', ' ', text).strip()
+        return text
+    except Exception as e:
+        with open(system_log, 'a') as f:
+            f.write(f"HTML清理失败: {str(e)}\n")
+        return html_content  # 返回原始内容作为后备
 
-def truncate_entries(entries, max_entries):
-    if len(entries) > max_entries:
-        entries = entries[:max_entries]
-    return entries
-
-def gpt_summary(query, model, language):
-    if language == "zh":
-        messages = [
-            {"role": "user", "content": query},
-            {"role": "assistant", "content": f"请用中文总结这篇文章，先提取出{keyword_length}个关键词，在同一行内输出，然后换行，用中文在{summary_length}字内写一个包含所有要点的总结，按顺序分要点输出，并按照以下格式输出'<br><br>总结:'，<br>是HTML的换行符，输出时必须保留2个，并且必须在'总结:'二字之前"}
-        ]
-    else:
-        messages = [
-            {"role": "user", "content": query},
-            {"role": "assistant", "content": f"Please summarize this article in {language} language, first extract {keyword_length} keywords, output in the same line, then line break, write a summary containing all the points in {summary_length} words in {language}, output in order by points, and output in the following format '<br><br>Summary:' , <br> is the line break of HTML, 2 must be retained when output, and must be before the word 'Summary:'"}
-        ]
+# 过滤模块
+def filter_entry(entry, filter_apply, filter_type, filter_rule, log_file):
     try:
-        if not OPENAI_PROXY:
-            client = OpenAI(
-                api_key=OPENAI_API_KEY,
-                base_url=OPENAI_BASE_URL,
-            )
-        else:
-            client = OpenAI(
-                api_key=OPENAI_API_KEY,
-                base_url=OPENAI_BASE_URL,
-                http_client=httpx.Client(proxy=OPENAI_PROXY),
-            )
-        completion = client.chat.completions.create(
-            model=model,
-            messages=messages,
-        )
-        summary = completion.choices[0].message.content
+        text = ''
+        if filter_apply == 'title':
+            text = getattr(entry, 'title', '')
+        elif filter_apply == 'article':
+            text = getattr(entry, 'article', '')
+        elif filter_apply == 'link':
+            text = getattr(entry, 'link', '')
+        
         with open(log_file, 'a') as f:
-            f.write(f"Summary generated successfully for query: {query}\n")
-            f.write(f"Summary: {summary}\n")
-        return summary
+            f.write(f"\n过滤检查 -> 类型: {filter_apply}\n")
+            f.write(f"原始内容: {text[:200]}...\n")
+            f.write(f"规则: {filter_type} -> {filter_rule}\n")
+
+        if filter_type == 'include':
+            result = re.search(filter_rule, text)
+        elif filter_type == 'exclude':
+            result = not re.search(filter_rule, text)
+        elif filter_type == 'regex match':
+            result = re.fullmatch(filter_rule, text)
+        elif filter_type == 'regex not match':
+            result = not re.fullmatch(filter_rule, text)
+        else:
+            result = True
+
+        with open(log_file, 'a') as f:
+            f.write(f"过滤结果: {'保留' if result else '过滤'}\n")
+        return result
+
     except Exception as e:
         with open(log_file, 'a') as f:
-            f.write(f"Summarization failed for query: {query}\n")
-            f.write(f"Error: {e}\n")
-        return None
-   
+            f.write(f"过滤错误: {str(e)}\n")
+        return True  # 出错时默认保留
 
-def output(sec, language):
-    """ output
-    This function is used to output the summary of the RSS feed.
-
-    Args:
-        sec: section name in config.ini
-
-    Raises:
-        Exception: filter_apply, type, rule must be set together in config.ini
-    """
-    log_file = os.path.join(BASE, get_cfg(sec, 'name') + '.log')
-    out_dir = os.path.join(BASE, get_cfg(sec, 'name'))
-    # read rss_url as a list separated by comma
-    rss_urls = get_cfg(sec, 'url')
-    rss_urls = rss_urls.split(',')
-
-    # RSS feed filter apply, filter title, article or link, summarize title, article or link
-    filter_apply = get_cfg(sec, 'filter_apply')
-
-    # RSS feed filter type, include or exclude or regex match or regex not match
-    filter_type = get_cfg(sec, 'filter_type')
-
-    # Regex rule or keyword rule, depends on the filter_type
-    filter_rule = get_cfg(sec, 'filter_rule')
-
-    # filter_apply, type, rule must be set together
-    if filter_apply and filter_type and filter_rule:
-        pass
-    elif not filter_apply and not filter_type and not filter_rule:
-        pass
-    else:
-        raise Exception('filter_apply, type, rule must be set together')
-
-    # Max number of items to summarize
-    max_items = get_cfg(sec, 'max_items')
-    if not max_items:
-        max_items = 0
-    else:
-        max_items = int(max_items)
-    cnt = 0
-    existing_entries = read_entry_from_file(sec)
-    with open(log_file, 'a') as f:
-        f.write('------------------------------------------------------\n')
-        f.write(f'Started: {datetime.datetime.now()}\n')
-        f.write(f'Existing_entries: {len(existing_entries)}\n')
-    existing_entries = truncate_entries(existing_entries, max_entries=max_entries)
-    # Be careful when the deleted ones are still in the feed, in that case, you will mess up the order of the entries.
-    # Truncating old entries is for limiting the file size, 1000 is a safe number to avoid messing up the order.
-    append_entries = []
-
-    for rss_url in rss_urls:
-        with open(log_file, 'a') as f:
-            f.write(f"Fetching from {rss_url}\n")
-            print(f"Fetching from {rss_url}")
-        feed = fetch_feed(rss_url, log_file)['feed']
-        if not feed:
-            with open(log_file, 'a') as f:
-                f.write(f"Fetch failed from {rss_url}\n")
-            continue
-        for entry in feed.entries:
-            if cnt > max_entries:
-                with open(log_file, 'a') as f:
-                    f.write(f"Skip from: [{entry.title}]({entry.link})\n")
-                break
-
-            if entry.link.find('#replay') and entry.link.find('v2ex'):
-                entry.link = entry.link.split('#')[0]
-
-            if entry.link in [x.link for x in existing_entries]:
-                continue
-
-            if entry.link in [x.link for x in append_entries]:
-                continue
-
-            entry.title = generate_untitled(entry)
-
-            try:
-                entry.article = entry.content[0].value
-            except:
-                try: entry.article = entry.description
-                except: entry.article = entry.title
-
-            cleaned_article = clean_html(entry.article)
-
-            if not filter_entry(entry, filter_apply, filter_type, filter_rule):
-                with open(log_file, 'a') as f:
-                    f.write(f"Filter: [{entry.title}]({entry.link})\n")
-                continue
-
-
-#            # format to Thu, 27 Jul 2023 13:13:42 +0000
-#            if 'updated' in entry:
-#                entry.updated = parse(entry.updated).strftime('%a, %d %b %Y %H:%M:%S %z')
-#            if 'published' in entry:
-#                entry.published = parse(entry.published).strftime('%a, %d %b %Y %H:%M:%S %z')
-
-            cnt += 1
-            if cnt > max_items:
-                entry.summary = None
-            elif OPENAI_API_KEY:
-                token_length = len(cleaned_article)
-                if custom_model:
-                    try:
-                        entry.summary = gpt_summary(cleaned_article,model=custom_model, language=language)
-                        with open(log_file, 'a') as f:
-                            f.write(f"Token length: {token_length}\n")
-                            f.write(f"Summarized using {custom_model}\n")
-                    except Exception as e:
-                        entry.summary = None
-                        with open(log_file, 'a') as f:
-                            f.write(f"Summarization failed, append the original article\n")
-                            f.write(f"error: {e}\n")
-                else:
-                    try:
-                        entry.summary = gpt_summary(cleaned_article,model="deepseek-chat", language=language)
-                        with open(log_file, 'a') as f:
-                            f.write(f"Token length: {token_length}\n")
-                            f.write(f"Summarized using deepseek-chat\n")
-                    except:
-                        try:
-                            entry.summary = gpt_summary(cleaned_article,model="deepseek-reasoner", language=language)
-                            with open(log_file, 'a') as f:
-                                f.write(f"Token length: {token_length}\n")
-                                f.write(f"Summarized using deepseek-reasoner\n")
-                        except Exception as e:
-                            entry.summary = None
-                            with open(log_file, 'a') as f:
-                                f.write(f"Summarization failed, append the original article\n")
-                                f.write(f"error: {e}\n")
-
-            append_entries.append(entry)
-            with open(log_file, 'a') as f:
-                f.write(f"Append: [{entry.title}]({entry.link})\n")
-
-    with open(log_file, 'a') as f:
-        f.write(f'append_entries: {len(append_entries)}\n')
-
-    template = Template(open('template.xml').read())
-    
+# DeepSeek集成模块
+def deepseek_summary(content, log_file):
     try:
-        rss = template.render(feed=feed, append_entries=append_entries, existing_entries=existing_entries)
-        with open(out_dir + '.xml', 'w') as f:
-            f.write(rss)
+        client = OpenAI(
+            api_key=OPENAI_API_KEY,
+            base_url=OPENAI_BASE_URL,
+            http_client=httpx.Client(
+                proxies=OPENAI_PROXY,
+                timeout=30.0
+            ) if OPENAI_PROXY else None,
+            default_headers={
+                "HTTP-Referer": deployment_url,
+                "X-Title": "RSS-GPT",
+                "User-Agent": f"RSS-GPT/1.0 (GitHub; {U_NAME})"
+            }
+        )
+
+        messages = [{
+            "role": "user",
+            "content": f"请用{language}总结以下内容，先提取{keyword_length}个关键词，然后进行分要点总结，总字数不超过{summary_length}字：\n{content}"
+        }]
+
         with open(log_file, 'a') as f:
-            f.write(f'Finish: {datetime.datetime.now()}\n')
-    except:
-        with open (log_file, 'a') as f:
-            f.write(f"error when rendering xml, skip {out_dir}\n")
-            print(f"error when rendering xml, skip {out_dir}\n")
+            f.write("\n正在请求DeepSeek API...\n")
+            f.write(f"请求内容长度: {len(content)} 字符\n")
+            f.write(f"模型: {custom_model}\n")
 
-try:
-    os.mkdir(BASE)
-except:
-    pass
+        response = client.chat.completions.create(
+            model=custom_model,
+            messages=messages,
+            temperature=0.7,
+            max_tokens=summary_length*2
+        )
 
-feeds = []
-links = []
+        summary = response.choices[0].message.content
+        cost = response.usage.total_tokens
 
-for x in secs[1:]:
-    output(x, language=language)
-    feed = {"url": get_cfg(x, 'url').replace(',','<br>'), "name": get_cfg(x, 'name')}
-    feeds.append(feed)  # for rendering index.html
-    links.append("- "+ get_cfg(x, 'url').replace(',',', ') + " -> " + deployment_url + feed['name'] + ".xml\n")
+        with open(log_file, 'a') as f:
+            f.write(f"API响应成功！\n")
+            f.write(f"使用Token数: {cost}\n")
+            f.write(f"摘要内容: {summary[:200]}...\n")
 
-def append_readme(readme, links):
-    with open(readme, 'r') as f:
-        readme_lines = f.readlines()
-    while readme_lines[-1].startswith('- ') or readme_lines[-1] == '\n':
-        readme_lines = readme_lines[:-1]  # remove 1 line from the end for each feed
-    readme_lines.append('\n')
-    readme_lines.extend(links)
-    with open(readme, 'w') as f:
-        f.writelines(readme_lines)
+        return summary
 
-append_readme("README.md", links)
-append_readme("README-zh.md", links)
+    except Exception as e:
+        error_detail = f"""
+        [!] 摘要生成失败！
+        错误类型: {type(e).__name__}
+        错误信息: {str(e)}
+        请求URL: {OPENAI_BASE_URL}
+        代理状态: {'使用中' if OPENAI_PROXY else '未使用'}
+        跟踪信息:
+        {traceback.format_exc()}
+        """
+        with open(log_file, 'a') as f:
+            f.write(error_detail)
+        return None
 
-# Rendering index.html used in my GitHub page, delete this if you don't need it.
-# Modify template.html to change the style
-with open(os.path.join(BASE, 'index.html'), 'w') as f:
-    template = Template(open('template.html').read())
-    html = template.render(update_time=datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"), feeds=feeds)
-    f.write(html)
+# RSS生成核心逻辑
+def process_feed(sec):
+    feed_name = get_cfg(sec, 'name', 'default-feed')
+    log_file = os.path.join(BASE, f"{feed_name}.log")
+    output_file = os.path.join(BASE, f"{feed_name}.xml")
+
+    # 初始化日志
+    with open(log_file, 'a') as f:
+        f.write('\n' + '='*60 + '\n')
+        f.write(f"处理开始时间: {datetime.datetime.now()}\n")
+        f.write(f"配置参数:\n")
+        f.write(f"- 源URL: {get_cfg(sec, 'url')}\n")
+        f.write(f"- 最大条目: {max_entries}\n")
+        f.write(f"- 关键词数量: {keyword_length}\n")
+        f.write(f"- 摘要长度: {summary_length}字\n")
+
+    # 读取现有内容
+    existing_entries = []
+    try:
+        if os.path.exists(output_file):
+            with open(output_file, 'r') as f:
+                existing_feed = feedparser.parse(f.read())
+                existing_entries = existing_feed.entries[:max_entries]
+            with open(log_file, 'a') as f:
+                f.write(f"发现现有文件，已加载 {len(existing_entries)} 条历史条目\n")
+    except Exception as e:
+        with open(log_file, 'a') as f:
+            f.write(f"读取历史文件失败: {str(e)}\n")
+
+    # 处理每个RSS源
+    new_entries = []
+    rss_urls = [url.strip() for url in get_cfg(sec, 'url', '').split(',') if url.strip()]
+
+    for url in rss_urls:
+        with open(log_file, 'a') as f:
+            f.write(f"\n正在处理源: {url}\n")
+
+        feed_data = fetch_feed(url, log_file)
+        if not feed_data['feed'] or not feed_data['feed'].entries:
+            with open(log_file, 'a') as f:
+                f.write("! 无效的RSS源或没有条目\n")
+            continue
+
+        for entry in feed_data['feed'].entries:
+            try:
+                # 基础信息处理
+                entry.link = entry.link.split('#')[0]  # 清理URL
+                entry.title = getattr(entry, 'title', entry.link[:50])
+                entry.article = clean_html(
+                    getattr(entry, 'content', [{}])[0].get('value', 
+                    getattr(entry, 'description', entry.title))
+                )
+
+                # 去重检查
+                if any(e.link == entry.link for e in existing_entries + new_entries):
+                    with open(log_file, 'a') as f:
+                        f.write(f"跳过重复条目: {entry.title}\n")
+                    continue
+
+                # 内容过滤
+                filter_apply = get_cfg(sec, 'filter_apply')
+                filter_type = get_cfg(sec, 'filter_type')
+                filter_rule = get_cfg(sec, 'filter_rule')
+                if not filter_entry(entry, filter_apply, filter_type, filter_rule, log_file):
+                    continue
+
+                # 生成摘要
+                entry.summary = None
+                if OPENAI_API_KEY and len(new_entries) < int(get_cfg(sec, 'max_items', 50)):
+                    entry.summary = deepseek_summary(entry.article, log_file)
+                    if not entry.summary:
+                        entry.article = "摘要生成失败，显示部分原文：" + entry.article[:500]
+
+                new_entries.append(entry)
+                with open(log_file, 'a') as f:
+                    f.write(f"√ 添加新条目: {entry.title}\n")
+
+                # 数量限制
+                if len(new_entries) >= max_entries:
+                    with open(log_file, 'a') as f:
+                        f.write("达到最大条目限制，停止处理\n")
+                    break
+
+            except Exception as e:
+                with open(log_file, 'a') as f:
+                    f.write(f"处理条目时发生错误: {str(e)}\n")
+                continue
+
+    # 合并新旧内容
+    all_entries = new_entries + existing_entries
+    final_entries = all_entries[:max_entries]
+
+    # 生成RSS文件
+    try:
+        with open('template.xml') as f:
+            template = Template(f.read())
+
+        rss_content = template.render(
+            feed={
+                'title': f"{feed_name} (AI摘要版)",
+                'link': deployment_url,
+                'description': f"通过DeepSeek AI生成的摘要内容，源：{', '.join(rss_urls)}",
+                'entries': final_entries,
+                'lastBuildDate': datetime.datetime.now().strftime('%a, %d %b %Y %H:%M:%S GMT')
+            }
+        )
+
+        with open(output_file, 'w') as f:
+            f.write(rss_content)
+
+        with open(log_file, 'a') as f:
+            f.write(f"\n处理完成！生成 {len(final_entries)} 条条目\n")
+            f.write(f"输出文件: {output_file}\n")
+            f.write(f"完成时间: {datetime.datetime.now()}\n")
+
+    except Exception as e:
+        with open(log_file, 'a') as f:
+            f.write(f"生成RSS文件失败: {str(e)}\n")
+
+# 主程序
+if __name__ == "__main__":
+    # 创建输出目录
+    os.makedirs(BASE, exist_ok=True)
+
+    # 处理所有配置节
+    for section in secs[1:]:  # 跳过默认的cfg节
+        try:
+            with open(system_log, 'a') as f:
+                f.write(f"\n开始处理配置节: {section}\n")
+            process_feed(section)
+        except Exception as e:
+            with open(system_log, 'a') as f:
+                f.write(f"处理配置节 {section} 时发生严重错误: {str(e)}\n")
+
+    # 生成索引页面
+    try:
+        feeds_list = []
+        for section in secs[1:]:
+            feeds_list.append({
+                'name': get_cfg(section, 'name'),
+                'url': f"{deployment_url}{get_cfg(section, 'name')}.xml"
+            })
+
+        with open('template.html') as f:
+            template = Template(f.read())
+        
+        index_content = template.render(
+            update_time=datetime.datetime.now().strftime("%Y-%m-%d %H:%M"),
+            feeds=feeds_list
+        )
+
+        with open(os.path.join(BASE, 'index.html'), 'w') as f:
+            f.write(index_content)
+
+        with open(system_log, 'a') as f:
+            f.write("\n索引页面生成成功\n")
+
+    except Exception as e:
+        with open(system_log, 'a') as f:
+            f.write(f"生成索引页面失败: {str(e)}\n")
+
+    print("处理完成！请检查输出目录和日志文件")
