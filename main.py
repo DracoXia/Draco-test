@@ -24,8 +24,8 @@ max_entries = 1000
 
 OPENAI_API_KEY = 'sk-10db767782cf4af78e50305aa46ca1dc'
 U_NAME = os.environ.get('U_NAME')
-OPENAI_PROXY = os.environ.get('OPENAI_PROXY')
-OPENAI_BASE_URL = os.environ.get('OPENAI_BASE_URL', 'https://api.deepseek.com/v1')
+OPENAI_PROXY = os.environ.get('OPENAI_PROXY'，'')
+OPENAI_BASE_URL = 'https://api.deepseek.com/v1')
 custom_model = 'deepseek-chat'
 deployment_url = f'https://{U_NAME}.github.io/RSS-GPT/'
 BASE =get_cfg('cfg', 'BASE')
