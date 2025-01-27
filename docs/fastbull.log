@@ -109,3 +109,21 @@ Append: [日本央行对市场充满信心，十八年来最大幅度加息](htt
 Append: [随着焦点转向美国PMI数据，黄金有望进一步上涨](https://www.fastbull.com/cn/news-detail/4318645_1)
 append_entries: 75
 Finish: 2025-01-26 15:05:13.033553
+------------------------------------------------------
+Started: 2025-01-27 02:39:38.466275
+Existing_entries: 75
+Fetching from https://rsshub.app/fastbull/news
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Authentication Fails (no such user)', 'type': 'authentication_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [代币数量正不断激增，投机乱象丛生](https://www.fastbull.com/cn/news-detail/4318824_1)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Authentication Fails (no such user)', 'type': 'authentication_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [加息至2008年以来最高水平后，日本央行今年最大的挑战是什么 ？](https://www.fastbull.com/cn/news-detail/4318823_1)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Authentication Fails (no such user)', 'type': 'authentication_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [铝：成本回落下的新趋势](https://www.fastbull.com/cn/news-detail/4318529_1)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Authentication Fails (no such user)', 'type': 'authentication_error', 'param': None, 'code': 'invalid_request_error'}}
+Append: [“全球最大ETF”宝座易主？VOO势不可挡](https://www.fastbull.com/cn/news-detail/4318822_1)
+append_entries: 4
+Finish: 2025-01-27 02:39:40.422053
