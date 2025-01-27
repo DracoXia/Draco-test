@@ -22,7 +22,7 @@ secs = config.sections()
 # Maxnumber of entries to in a feed.xml file
 max_entries = 1000
 
-OPENAI_API_KEY = '='
+OPENAI_API_KEY = 'sk-10db767782cf4af78e50305aa46ca1dc'
 U_NAME = os.environ.get('U_NAME')
 OPENAI_PROXY = os.environ.get('OPENAI_PROXY', '')
 OPENAI_BASE_URL = 'https://api.deepseek.com/v1'
