@@ -55,3 +55,5 @@ These feeds on hosted in the [`docs/` subdirectory](https://github.com/yinan-c/R
 I will consider hosting more feeds in the future. Email me or submit an issue if there are any questions using the script or any suggestions.
 
 - https://rsshub.app/fastbull/news -> https://DracoXia.github.io/RSS-GPT/fastbull.xml
+- https://www.gcores.com/rss -> https://DracoXia.github.io/RSS-GPT/GoreCore.xml
+- https://www.ifanr.com/feed -> https://DracoXia.github.io/RSS-GPT/iFan.xml
