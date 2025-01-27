@@ -39,7 +39,7 @@ jobs:
         env:
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
           CUSTOM_MODEL: ${{ secrets.CUSTOM_MODEL }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPEN_API_KEY }}
           U_NAME: ${{ secrets.U_NAME }}
              
       - name: PUSH
