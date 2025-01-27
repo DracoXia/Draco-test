@@ -36,6 +36,11 @@ jobs:
         run: |
           python main.py
           ls -al docs/
+          echo "OPENAI_API_KEY is set: ${#OPENAI_API_KEY} characters"
+          echo "U_NAME is set: $U_NAME"
+          echo "OPENAI_BASE_URL is set: $OPENAI_BASE_URL"
+          echo "CUSTOM_MODEL is set: $CUSTOM_MODEL"
+          
         env:
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
           CUSTOM_MODEL: ${{ secrets.CUSTOM_MODEL }}
