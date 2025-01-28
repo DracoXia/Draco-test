@@ -139,3 +139,33 @@ Existing_entries: 79
 Fetching from https://rsshub.app/fastbull/news
 append_entries: 0
 Finish: 2025-01-27 04:31:25.784116
+------------------------------------------------------
+Started: 2025-01-28 02:37:37.803621
+Existing_entries: 79
+Fetching from https://rsshub.app/fastbull/news
+Token length: 1076
+Summarized using deepseek-chat
+Append: [深夜，英伟达骤然暴跌！](https://www.fastbull.com/cn/news-detail/4318904_1)
+Token length: 7010
+Summarized using deepseek-chat
+Append: [德国民众要怎么投，才能摆脱“一场游戏一场梦”？](https://www.fastbull.com/cn/news-detail/4318518_1)
+Token length: 756
+Summarized using deepseek-chat
+Append: [新加坡央行放松政策，暗示2025年可能进一步放松](https://www.fastbull.com/cn/news-detail/4318738_1)
+Token length: 3960
+Summarized using deepseek-chat
+Append: [可再生能源：增长需要系统改进](https://www.fastbull.com/cn/news-detail/4318734_1)
+Token length: 1093
+Summarized using deepseek-chat
+Append: [俄罗斯已部分恢复在北极理事会的工作](https://www.fastbull.com/cn/news-detail/4318733_1)
+Token length: 1007
+Summarized using deepseek-chat
+Append: [沃伦加入呼吁对特朗普的加密代币进行调查的行列](https://www.fastbull.com/cn/news-detail/4318726_1)
+Token length: 1123
+Summarized using deepseek-chat
+Append: [气候变化与就业生计](https://www.fastbull.com/cn/news-detail/4318718_1)
+Token length: 1503
+Summarized using deepseek-chat
+Append: [新脱碳工具助力水泥制造商走向绿色化和高效率](https://www.fastbull.com/cn/news-detail/4318712_1)
+append_entries: 8
+Finish: 2025-01-28 02:41:59.954181
