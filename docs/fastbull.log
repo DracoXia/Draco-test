@@ -169,3 +169,11 @@ Summarized using deepseek-chat
 Append: [新脱碳工具助力水泥制造商走向绿色化和高效率](https://www.fastbull.com/cn/news-detail/4318712_1)
 append_entries: 8
 Finish: 2025-01-28 02:41:59.954181
+------------------------------------------------------
+Started: 2025-01-29 02:36:58.569980
+Existing_entries: 87
+Fetching from https://rsshub.app/fastbull/news
+Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://rsshub.app/fastbull/news
+append_entries: 0
+error when rendering xml, skip docs/fastbull

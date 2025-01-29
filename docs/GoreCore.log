@@ -77,3 +77,32 @@ Append: [让“炼金工房”走向世界：机核采访《优米雅的炼金�
 Append: [从零开始道诡异仙MUD：大傩世界往事](https://www.gcores.com/articles/194098)
 append_entries: 20
 Finish: 2025-01-28 02:42:51.571038
+------------------------------------------------------
+Started: 2025-01-29 02:37:28.808193
+Existing_entries: 41
+Fetching from https://www.gcores.com/rss
+Token length: 543
+Summarized using deepseek-chat
+Append: [《原子之心》全新DLC“深海迷情”现已推出](https://www.gcores.com/articles/194159)
+Token length: 40
+Summarized using deepseek-chat
+Append: [摄影｜大同 木梁山岩天](https://www.gcores.com/articles/194155)
+Token length: 623
+Summarized using deepseek-chat
+Append: [乙巳小龙到，机核给各位拜年嘞！](https://www.gcores.com/articles/194138)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [与DeepSeek R1的九次问答](https://www.gcores.com/articles/194154)
+Token length: 324
+Summarized using deepseek-chat
+Append: [京都动画纵火案被告撤回上诉，死刑判决确定](https://www.gcores.com/articles/194152)
+Append: [育碧欧洲裁员185人，永久关闭英国莱明顿工作室](https://www.gcores.com/articles/194150)
+Append: [剧集《异形：地球》先导预告公开，夏季上线Hulu](https://www.gcores.com/articles/194149)
+Append: [《消逝的光芒》发布特别节目，公布新活动和系列品牌焕新](https://www.gcores.com/articles/194142)
+Append: [【音频纯享版】聊什么都可以春节特别篇](https://www.gcores.com/radios/194121)
+Append: [【S4U】低保真的现代都市美学，尽享香浓美味的Lofi Chill Beats](https://www.gcores.com/videos/194052)
+Append: [吃点喝点再反思，CEO的2024年工作汇报 | 聊什么都可以春节特别篇](https://www.gcores.com/videos/194039)
+Append: [《空洞骑士 Hollow Knight》系统拆解与MDA设计](https://www.gcores.com/articles/194139)
+Append: [一路向西安](https://www.gcores.com/articles/194131)
+append_entries: 13
+Finish: 2025-01-29 02:39:32.730835
