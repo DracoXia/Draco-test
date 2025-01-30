@@ -177,3 +177,48 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/fastbull/news
 append_entries: 0
 error when rendering xml, skip docs/fastbull
+------------------------------------------------------
+Started: 2025-01-30 02:35:59.111824
+Existing_entries: 87
+Fetching from https://rsshub.app/fastbull/news
+Token length: 1398
+Summarized using deepseek-chat
+Append: [中国消费者转向悦己，“自筑消费”兴起](https://www.fastbull.com/cn/news-detail/4318264_1)
+Token length: 3864
+Summarized using deepseek-chat
+Append: [特朗普归来，“大考”刚刚开始](https://www.fastbull.com/cn/news-detail/4318263_1)
+Token length: 1218
+Summarized using deepseek-chat
+Append: [宏观动态跟踪报告：美国通胀的结构性线索与方向](https://www.fastbull.com/cn/news-detail/4318261_1)
+Token length: 3110
+Summarized using deepseek-chat
+Append: [今年的广义财政赤字水平将如何？](https://www.fastbull.com/cn/news-detail/4318259_1)
+Token length: 1635
+Summarized using deepseek-chat
+Append: [中国继续增持黄金，还有那些因素利好金价？](https://www.fastbull.com/cn/news-detail/4318877_1)
+Token length: 937
+Summarized using deepseek-chat
+Append: [特朗普最新采访内容曝光，涉及格陵兰岛和加拿大！](https://www.fastbull.com/cn/news-detail/4318876_1)
+Token length: 1290
+Summarized using deepseek-chat
+Append: [美国关税大棒挥向全球，前沿市场成避险“香饽饽”](https://www.fastbull.com/cn/news-detail/4318875_1)
+Token length: 3569
+Summarized using deepseek-chat
+Append: [同步指标显示美国经济下行压力如何？](https://www.fastbull.com/cn/news-detail/4318258_1)
+Token length: 1286
+Summarized using deepseek-chat
+Append: [特朗普2.0拉开大幕，企业出海如何乘风破浪？](https://www.fastbull.com/cn/news-detail/4318873_1)
+Token length: 1668
+Summarized using deepseek-chat
+Append: [受利好因素影响，一季度铜价易涨难跌？](https://www.fastbull.com/cn/news-detail/4318256_1)
+Append: [气候危机拉响警报，重重挑战下如何逆风前行？](https://www.fastbull.com/cn/news-detail/4318871_1)
+Append: [极寒天气席卷美欧，国内外小麦要涨吗？](https://www.fastbull.com/cn/news-detail/4318254_1)
+Append: [英伟达历经“至暗时刻”？](https://www.fastbull.com/cn/news-detail/4318908_1)
+Append: [拉加德警告：政治干预威胁央行独立性，或引发经济波动风险](https://www.fastbull.com/cn/news-detail/4318907_1)
+Append: [美国12月新房销量表现亮眼，中西部地区增长明显](https://www.fastbull.com/cn/news-detail/4318906_1)
+Append: [美中贸易战中的关税对美国企业的影响](https://www.fastbull.com/cn/news-detail/4318707_1)
+Append: [银行使用贴现窗口的“耻辱感”](https://www.fastbull.com/cn/news-detail/4318694_1)
+Append: [特朗普交易之G7汇率展望](https://www.fastbull.com/cn/news-detail/4318905_1)
+Append: [加沙停战，没有和平](https://www.fastbull.com/cn/news-detail/4318520_1)
+append_entries: 19
+Finish: 2025-01-30 02:37:13.229944
