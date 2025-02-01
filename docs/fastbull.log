@@ -262,3 +262,39 @@ Append: [美联储宣布维持利率不变，政策声明释放鹰派信号](htt
 Append: [理性看待特朗普的比特币新政](https://www.fastbull.com/cn/news-detail/4318345_1)
 append_entries: 14
 Finish: 2025-01-31 02:39:56.118836
+------------------------------------------------------
+Started: 2025-02-01 02:42:07.081707
+Existing_entries: 120
+Fetching from https://rsshub.app/fastbull/news
+Token length: 1626
+Summarized using deepseek-chat
+Append: [美联储维持利率不变，鲍威尔透露2个关键](https://www.fastbull.com/cn/news-detail/4319109_1)
+Token length: 2218
+Summarized using deepseek-chat
+Append: [全球经济形势回顾与展望](https://www.fastbull.com/cn/news-detail/4318457_1)
+Token length: 1352
+Summarized using deepseek-chat
+Append: [中国如何帮助推动全球绿色转型？](https://www.fastbull.com/cn/news-detail/4318411_1)
+Token length: 1890
+Summarized using deepseek-chat
+Append: [AI画饼 vs. 坍塌的基本面，特斯拉到底还有多少故事可讲？](https://www.fastbull.com/cn/news-detail/4319107_1)
+Token length: 1033
+Summarized using deepseek-chat
+Append: [阿根廷的黄金储备还在“躲猫猫”](https://www.fastbull.com/cn/news-detail/4318392_1)
+Token length: 1098
+Summarized using deepseek-chat
+Append: [美联储开年“按兵不动”，下一次降息何时来？](https://www.fastbull.com/cn/news-detail/4319105_1)
+Token length: 2186
+Summarized using deepseek-chat
+Append: [2025年市场前景更为乐观，可聚焦优质资产的多元化投资，固定收益仍将是关键主题](https://www.fastbull.com/cn/news-detail/4318363_1)
+Token length: 3407
+Summarized using deepseek-chat
+Append: [英特尔第四季度营收142.6亿美元，同比转盈为亏](https://www.fastbull.com/cn/news-detail/4319104_1)
+Token length: 1798
+Summarized using deepseek-chat
+Append: [全球增长形势持续分化](https://www.fastbull.com/cn/news-detail/4318376_1)
+Token length: 3947
+Summarized using deepseek-chat
+Append: [2025年，中国如何提振居民消费？](https://www.fastbull.com/cn/news-detail/4318279_1)
+append_entries: 10
+Finish: 2025-02-01 02:43:51.864492

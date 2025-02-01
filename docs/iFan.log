@@ -67,3 +67,12 @@ Existing_entries: 21
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2025-01-31 02:41:24.808063
+------------------------------------------------------
+Started: 2025-02-01 02:44:42.375379
+Existing_entries: 21
+Fetching from https://www.ifanr.com/feed
+Token length: 3636
+Summarized using deepseek-chat
+Append: [我和 DeepSeek 聊了聊，发现了不被算法推荐控制的方法](https://www.ifanr.com/1613480?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2025-02-01 02:44:55.475905
