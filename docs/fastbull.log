@@ -298,3 +298,33 @@ Summarized using deepseek-chat
 Append: [2025年，中国如何提振居民消费？](https://www.fastbull.com/cn/news-detail/4318279_1)
 append_entries: 10
 Finish: 2025-02-01 02:43:51.864492
+------------------------------------------------------
+Started: 2025-02-02 02:39:48.891367
+Existing_entries: 130
+Fetching from https://rsshub.app/fastbull/news
+Token length: 1316
+Summarized using deepseek-chat
+Append: [政局动荡加剧韩国经济下行风险](https://www.fastbull.com/cn/news-detail/4318600_1)
+Token length: 6218
+Summarized using deepseek-chat
+Append: [2025年宏观经济趋势展望](https://www.fastbull.com/cn/news-detail/4318770_1)
+Token length: 657
+Summarized using deepseek-chat
+Append: [英国制造业面临成本压力与需求下滑双重挑战](https://www.fastbull.com/cn/news-detail/4318598_1)
+Token length: 4072
+Summarized using deepseek-chat
+Append: [成本仅国外三十分之一，中国大模型已经追上美国了？](https://www.fastbull.com/cn/news-detail/4318916_1)
+Token length: 732
+Summarized using deepseek-chat
+Append: [经济学家预警：英国经济增长放缓，衰退将更加频繁](https://www.fastbull.com/cn/news-detail/4318594_1)
+Token length: 2623
+Summarized using deepseek-chat
+Append: [美国那么多社交巨头，为啥没一个打得过TikTok？](https://www.fastbull.com/cn/news-detail/4318913_1)
+Token length: 1804
+Summarized using deepseek-chat
+Append: [菲律宾是美国打冷战的最佳前沿地带](https://www.fastbull.com/cn/news-detail/4318588_1)
+Token length: 5751
+Summarized using deepseek-chat
+Append: [DeepSeek推翻两座大山](https://www.fastbull.com/cn/news-detail/4318910_1)
+append_entries: 8
+Finish: 2025-02-02 02:40:55.932622
