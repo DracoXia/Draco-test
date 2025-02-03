@@ -5,13 +5,170 @@
 <link>https://www.gcores.com</link>
 
 <item>
+<title>通关！动作游戏策略之道</title>
+<link>https://www.gcores.com/articles/194272</link>
+<guid>https://www.gcores.com/articles/194272</guid>
+<content:encoded><![CDATA[
+<div> 硬核动作、策略深度、资源管理、成长树、辅助之道<br><br>总结:<br>1. 硬核动作强调精准操作和快速反应，失败惩罚严苛。<br>2. 策略深度通过资源管理、技能搭配和动态决策提升游戏体验。<br>3. 资源管理设计通过限制资源充裕性影响战斗，如怪猎中的体力系统。<br>4. 成长树设计通过解锁新动作和能力，引导玩家构建专属流派。<br>5. 策略设计应为动作服务，避免策略稀释操作，实现动作为骨、策略为翼的平衡。 <div>
+<img src="https://image.gcores.com/af3117458784395559b2c0a77893c857-2048-1152.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90" /><blockquote>“玩家可以通过策略调整难度。比如在《只狼》中，弹刀是硬核操作的核心，但义手忍具和道具（如爆竹、毒刀）允许玩家根据敌人特性选择更聪明的解法。这种‘动态难度平衡’是我们刻意设计的策略空间。”                                                                                            ——宫崎英高 </blockquote><p>在《怪物猎人》中，除了与体型巨大的怪物正面对战之外，出行前我们也会通过合理的配装来提高自己的战斗力，在战斗中也会使用闪光弹之类的道具；在《黑魂三》中，我们读取boss的一举一动，利用精准的翻滚规避伤害，也会在开战之前给自己上满buff，甚至采用“魂五”的手段与boss对抗。动作游戏并不是仅仅关于动作，一个能在做好“硬核动作”的同时拓展“策略深度”的动作游戏会带给玩家更好的游戏体验。<span style="font-weight: bold;">既动手，也动脑；既有挑战，也有选择。</span></p><h1>
+<span style="font-weight: bold;">一、定义之道</span></h1><p>在正式展开之前，先给出在我视角中“硬核动作”和“策略深度”的定义。</p><p><span style="font-weight: bold;">硬核动作</span>指的是游戏中需要玩家通过<span style="font-weight: bold;">精准操作</span>、<span style="font-weight: bold;">快速反应</span>和<span style="font-weight: bold;">复杂连招</span>来完成战斗的设计。这一方面的设计通常对玩家的技巧要求极高，强调“操作即实力”，失败惩罚严苛。核心特点可以归纳为<span style="font-weight: bold;">高难度输入判定</span>、<span style="font-weight: bold;">复杂连招系统</span>以及<span style="font-weight: bold;">严苛的失败惩罚</span>这三点。</p><p>在《鬼泣五》中，我们就见到过但丁的皇家守卫风格要求精准格挡，还有经典的维吉尔科目一。怪猎系列中也能看到太刀要求预判敌人攻击进行见切或居合。而在这些游戏中 ，操作失败的直接后果就是损失大量的生命值，为玩家带来风险。高操作要求意味着高风险，严苛的失败惩罚与之呼应就形成了这样一个硬核的动作系统。</p><div>
+<figure><img alt="但丁皇家守卫风格" src="https://image.gcores.com/897d5455251042657735f19d72f0cf66-800-450.gif?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(但丁皇家守卫风格)</figcaption></figure></div><p><span style="font-weight: bold;">策略深度</span>指玩家在游戏中需要通过<span style="font-weight: bold;">资源管理</span>、<span style="font-weight: bold;">技能搭配</span>和<span style="font-weight: bold;">动态决策</span>来应对复杂场景的设计。它强调“思考即胜利”，要求玩家在操作之外进行战术规划。其核心特点也可以归纳成<span style="font-weight: bold;">资源分配与Build构建</span>、<span style="font-weight: bold;">动态应对</span>以及<span style="font-weight: bold;">长线目标与风险权衡</span>。</p><p>正如引言中提到的那样，配装也是怪猎非常重要的一环，而在战斗中，面对雌火龙这样的飞龙种，玩家一般需要使用闪光弹让它们回到地面来更好地战斗。而在《死亡细胞》中，玩家会面对是否打开诅咒宝箱这样的风险权衡，并决定自己的打法是激进还是稳健保守。</p><div>
+<figure><img alt="闪光弹制裁浮空龙——下来吧你！" src="https://image.gcores.com/2029b126bf63366fbd377050027decc9-800-450.gif?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(闪光弹制裁浮空龙——下来吧你！)</figcaption></figure></div><p></p><h1>
+<span style="font-weight: bold;">二、平衡之道</span></h1><p>业界这么多年来出现过大量优秀的动作游戏，而它们一般针对自己的游戏体验在动作与策略之间做到了巧妙的平衡，为我们提供了不少值得欣赏的策略性设计。</p><p>在《只狼：影逝二度》里，我们应对敌人的核心手段是通过“弹刀”、“识破”这些操作来提高敌人的架势条最终忍杀，但在应对特定敌人的时候我们也有义手忍具来针对性对抗敌人，比如使用爆竹来对付野兽系敌人。游戏的核心体验更偏向于硬核动作，但是忍具系统的存在为战斗提供了更多选择，合理使用忍具可以降低战斗难度，从而更简单地打败敌人。对于操作水平较低的玩家，这样的设计允许他们也能正常通关，并收获经过思考后获胜的成就感（正如文章最初引用的那样）；而对于操作水平较高的玩家，他们最初更可能倾向于使用纯动作去战胜敌人，而在更高门槛的挑战中，比如速通挑战、无伤通关，他们也会研究类似的道具系统以期望获得更高的通关效率。怪猎里面也是这个道理，单纯依靠武器的固有动作玩家也是可以猎杀怪物的，但是合理使用道具将允许玩家更高效的狩猎。这也正如辻本良三所言：</p><p>“《怪物猎人》的狩猎体验是动作与策略的融合。玩家需要研究怪物弱点、选择武器属性、携带陷阱和闪光弹，这些策略准备和即时操作同样重要。”</p><p>通过<span style="font-weight: bold;">设计辅助系统</span>来辅助战斗，这是一条平衡动作与策略的路，其设计逻辑是<span style="font-weight: bold;">为操作弱势玩家提供战术补偿，同时保留动作核心</span>。为<span style="font-weight: bold;">硬核动作创造输出窗口期</span>或者<span style="font-weight: bold;">单纯造成更高的伤害积累</span>，让战斗有更多选择，而<span style="font-weight: bold;">并不会对动作本身产生影响</span>。</p><div>
+<figure><img alt="只狼爆竹对抗野兽型敌人获得僵直并积攒架势条" src="https://image.gcores.com/0493676e0a03103518142757d5611160-800-450.gif?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(只狼爆竹对抗野兽型敌人获得僵直并积攒架势条)</figcaption></figure></div><p>而有一种经典的设计在动作的使用本身下了功夫——<span style="font-weight: bold;">资源管理</span>。这种设计是以一种资源为核心，通过<span style="font-weight: bold;">限制资源的绝对充裕性</span>并<span style="font-weight: bold;">构造资源的获取与消耗途径</span>来影响战斗。很经典的例子就是怪猎里弓这把武器的设计。弓这把武器围绕着体力这一资源进行战斗，消耗体力资源可以执行各种动作，不执行动作时可以随之时间流逝逐渐回复体力直至上限。在战斗中，玩家需要结合自身体力资源以及怪物动作来决定自己的操作。将体力资源转化成伤害还是用于规避怪物的攻击？这样的一个个选择为战斗增添了更多策略选择，最终能够分化出不同的战斗风格。</p><p><span style="font-weight: bold;">将操作与资源消耗绑定，迫使玩家权衡短期爆发与长期续航</span>，这就是这一设计的逻辑。</p><div>
+<figure><img alt="弓箭消耗体力发动攻击" src="https://image.gcores.com/012e9527ac546c923357e2650a8eec5d-800-450.gif?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(弓箭消耗体力发动攻击)</figcaption></figure></div><p>最后再提出一种更适用于肉鸽和RPG的设计——<span style="font-weight: bold;">成长树</span>。在《苍翼·混沌效应》中，制作组设计了“潜能系统”。这一系统将角色的动作拆分，玩家可以通过特定关卡获得“潜能”，从而在本局游戏中<span style="font-weight: bold;">解锁动作</span>或者为<span style="font-weight: bold;">动作增添效果</span>。同样的，在《九日》中，随着玩家的逐渐探索，玩家可以消耗资源来获得新的能力。在这种设计中，成长系统以树状呈现，玩家能够不断<span style="font-weight: bold;">解锁新的动作</span>从而拓展可执行的连招和对敌的应对措施。根据长线以来加点的不同，打法会分化出不同的流派，创造不同的战斗体验。这种设计也可以放到许多内购制的游戏中以产生付费点，比如在《绝区零》中，当重复获得同一角色时可以强化这一角色，增添<span style="font-weight: bold;">动作效果</span>或者单纯<span style="font-weight: bold;">强化数值</span>，而这也会改变角色的配队思路以及输出手法，带来不同的游戏体验。</p><p>总结来讲的话，这一方法就是<span style="font-weight: bold;">通过局内/局外成长扩展动作可能性，引导玩家构建专属流派</span>。</p><div>
+<figure><img alt="《苍翼混沌效应》的潜能系统解锁新的动作" src="https://image.gcores.com/bf4b1aaa6971ec2695d1d5d1043b3f09-800-450.gif?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(《苍翼混沌效应》的潜能系统解锁新的动作)</figcaption></figure></div><p>以上的三种方法对应特定策略性特点进行设计。而沿着这些策略性方向我们能够设计出许多系统来增添游戏中的策略性以期拓展游戏体验，这里就不继续举例拓展了。 </p><h1>
+<span style="font-weight: bold;">三、辅助之道</span></h1><p>动作游戏的灵魂最终还是要回到其动作上，所以在游戏的核心体验上还是“硬核动作”的部分会更多。在设计的时候我们也要注意不要让“策略稀释操作”，除非你所期待的正是这样更加策略化的游戏体验。<span style="font-weight: bold;">策略设计应为动作服务，而非替代操作</span>，这就是我的经验。这样我们才能做到让《死亡细胞》的无伤玩家可以裸装通关，普通玩家依赖build也能成功；《怪物猎人》的猎人们可以依靠一个个精准的真蓄、登龙实现对怪物的斩杀，但也可以更多的使用道具取得更丰富的互动。</p><p><span style="font-weight: bold;">操作是体验根基，策略是体验延申</span>，两者实现耦合后最终形成<span style="font-weight: bold;">“既需肌肉记忆，也需脑力规划”</span>的多维挑战体验，<span style="font-weight: bold;">即时战斗之外留下一定的策略空间</span>，让玩家在战斗中有着丰富的选择，获得多样化的游戏体验，这就是我眼中动作游戏应有的模样，也决定了策略设计应走这样一条辅助之道。</p><p>动作为骨，策略为翼。感谢你能读到这里，希望我的这些思考能帮助到你或者带给你一些新的视角，助你通关动作游戏设计之道。欢迎随时找我进行讨论，我们下篇文章再见。</p><div>
+<figure><img alt="v哥劲爆尾杀" src="https://image.gcores.com/6aa2e9c2b9283df3fad929b4cc85edba-964-602.png?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(v哥劲爆尾杀)</figcaption></figure></div><p></p>
+]]></content:encoded>
+<pubDate>Sun, 02 Feb 2025 23:39:03 +0800</pubDate>
+<pubDate>Sun, 02 Feb 2025 23:39:03 +0800</pubDate>
+</item>
+<item>
+<title>到底什么人在做人格测试啊？【这题我会#2】</title>
+<link>https://www.gcores.com/radios/194001</link>
+<guid>https://www.gcores.com/radios/194001</guid>
+<content:encoded><![CDATA[
+
+<img src="https://image.gcores.com/3b222e179ef931908e8b717196689099-1600-900.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90" /><p>本期时间轴制作： 小李</p><p>人不能没有人格，请问你是什么人格？ </p><p> 欢迎收听机核网（目前）唯一播客综艺“这题我会！”，这一次我们在互联网上搜集了一些用来给人分门别类的标签，想看看受访者是否能迅速领会它们究竟指向哪类人，并由此展开了我们对人格测试、身份定位等现象七嘴八舌的观点分享。 </p><p> 本节目旨在以最有笑果的方式，解决大家生活中想不明白的大小问题。希望大家在享受欢乐的同时，也来说说你的观察！</p>
+]]></content:encoded>
+<pubDate>Sun, 02 Feb 2025 23:00:00 +0800</pubDate>
+<pubDate>Sun, 02 Feb 2025 23:00:00 +0800</pubDate>
+</item>
+<item>
+<title>LoveLive! 最新企划「LOVELIVE! BLUEBIRD」公布！</title>
+<link>https://www.gcores.com/articles/194270</link>
+<guid>https://www.gcores.com/articles/194270</guid>
+<content:encoded><![CDATA[
+
+<img src="https://image.gcores.com/2b6f156806148b29028d6d4490c46ad0-2299-940.png?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90" /><p>LoveLive! 最新企划「LOVELIVE! BLUEBIRD」公布！</p><div>
+<figure><p>&lt;内嵌内容，请前往机核查看&gt;</p></figure></div><p><span style="font-weight: bold;">视觉图：</span></p><div>
+<figure><img alt="" src="https://image.gcores.com/a423629a60ad8702640b782e644d1aa3-1336-1897.png?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure></div><p></p>
+]]></content:encoded>
+<pubDate>Sun, 02 Feb 2025 20:21:33 +0800</pubDate>
+<pubDate>Sun, 02 Feb 2025 20:21:33 +0800</pubDate>
+</item>
+<item>
+<title>无刺有刺乐队（Girls Band Cry）与She is Legend（炽焰天穹）对邦决定！</title>
+<link>https://www.gcores.com/articles/194269</link>
+<guid>https://www.gcores.com/articles/194269</guid>
+<content:encoded><![CDATA[
+
+<img src="https://image.gcores.com/dca2b4fddf2d35541430581995acb232-690-388.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90" /><p>无刺有刺乐队（《Girls Band Cry》）将与She is Legend（《炽焰天穹》）展开对阵live竞演！日期为5月15日，会场为東京ガーデンシアター ​​。</p><div>
+<figure><img alt="" src="https://image.gcores.com/282f0b7d1c3f93942c14e877bdfa3857-690-388.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure></div><p>She is Legend是游戏《炽焰天穹》中登场的架空乐队，在现实中则是由XAI和铃木木乃美组成的合唱组合，二者也是游戏中茅森月歌歌声的演唱歌手和朝仓可怜歌声的演唱歌手。</p><div>
+<figure><img alt="" src="https://image.gcores.com/2170729c2fc120bdcfb2f891ee1a28a1-1280-720.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure></div><p>无刺有刺乐队（TOGENASHI TOGEARI）则是在TV动画《GIRLS BAND CRY》中登场乐队，也是在现实中活动的真实女子乐队，由剧中的五名声优组成。 </p><div>
+<figure><img alt="" src="https://image.gcores.com/1a7d84305f42475bc8d649f87702fbf8-700-394.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure></div><p></p>
+]]></content:encoded>
+<pubDate>Sun, 02 Feb 2025 20:10:58 +0800</pubDate>
+<pubDate>Sun, 02 Feb 2025 20:10:58 +0800</pubDate>
+</item>
+<item>
+<title>Treyarch联合创始人操作无人机撞上消防飞机，现已认罪认罚</title>
+<link>https://www.gcores.com/articles/194268</link>
+<guid>https://www.gcores.com/articles/194268</guid>
+<content:encoded><![CDATA[
+
+<img src="https://image.gcores.com/e2bf3bf307b41feac86a894961271289-1024-683.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90" /><p>今年1月初，洛杉矶的消防员正奋力控制大火。有人却想要从空中一探火场全貌，结果却用自己的 DJI Mini 3 Pro 无人机撞上了一架正在执行灭火任务的 Super Scooper 消防飞机。美国加州中区联邦检察官办公室于日前确认，肇事者正是 Treyarch 工作室联合创始人  Peter Tripp Akemann 。</p><div>
+<figure><img alt="" src="https://image.gcores.com/27d1300e71b592764d03787f15845f4a-1279-720.webp?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure></div><p>据悉，Akemann 已承认“不安全操作无人机”罪名，该罪名最高可判处一年监禁。根据检察官的说法，他从圣塔莫尼卡一座停车场楼顶放飞无人机，但在飞出约 2.4 公里后失去控制，最终与一架正在执行任务的消防飞机相撞。</p><div>
+<figure><img alt="" src="https://image.gcores.com/34000d8a65f781ba52641cfc0a2dee2a-600-337.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure></div><p>虽然机上两名机组人员毫发无伤，但左机翼被撞出了约7.6厘米×15.2厘米的破洞，导致飞机不得不暂时停飞维修，维修费用高达至少 65,169 美元。由于当时正值火灾扑救，美国联邦航空管理局（FAA）已明令禁止无人机进入火场上空。</p><p>代理美国检察官 Joseph T. McNally 表示：“被告鲁莽地操控无人机闯入了救援人员正在冒死执行任务的空域。他对 Super Scooper 造成的损害，明确警示我们在紧急情况下违规操作无人机的危害。这一鲁莽行为不仅严重威胁救援人员安全，还会干扰警方和消防部门的整体行动能力。正如这起案件，我们将继续坚决追查任何违法使用无人机、干扰紧急救援工作的人士。”</p><div>
+<figure><img alt="" src="https://image.gcores.com/b389661bb3ed0d31bdb38f2711bc6ea6-600-337.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure></div><p>作为认罪协议的一部分，Akemann 将向派遣该消防飞机的加拿大魁北克政府支付维修费用，并完成 150 小时社区服务。美国检察官办公室则将因其认罪态度，建议法院降低量刑等级。Akemann 的律师在声明中表示，他对自己的错误深感懊悔。</p><p>声明表示:“Akemann 承认自己做出了严重的判断失误，并正积极配合政府以努力弥补过失。案件审理过程中还会披露一些影响因素，包括 Akemann 本人依赖 DJI 无人机的地理围栏功能，但该功能未能正常运作。”</p><div>
+<figure><img alt="" src="https://image.gcores.com/960a73c118385eb0af110a22a775a2ba-686-386.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure></div><p>Akemann 于 1996 年共同创立了 Treyarch。2001 年，该工作室被动视收购，并逐步转型为《使命召唤》系列的核心开发团队。随后，Akemann 又参与创办了 The Workshop，该工作室曾协助开发《战争机器 4》《XCOM 2》等多款知名游戏。后来，The Workshop 被 Skydance Media 收购，并更名为 Skydance Interactive，Akemann 也曾一度担任该部门的总裁。</p>
+]]></content:encoded>
+<pubDate>Sun, 02 Feb 2025 19:51:05 +0800</pubDate>
+<pubDate>Sun, 02 Feb 2025 19:51:05 +0800</pubDate>
+</item>
+<item>
+<title>译｜HCG101《创世纪》长系列之：《创世纪VI：虚伪先知》</title>
+<link>https://www.gcores.com/articles/194261</link>
+<guid>https://www.gcores.com/articles/194261</guid>
+<content:encoded><![CDATA[
+
+<img src="https://image.gcores.com/62b5c292ad89b30aafdeaaa2988a96c4-1200-856.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90" /><p>译者按：<a href="http://www.hardcoregaming101.net/ultima-vi-the-false-prophet/">原文链接</a></p><p>作者 Robert"Bladed Edge" Kosarko</p><p>  </p><p></p><div>
+<figure><img alt="" src="https://image.gcores.com/aea4438cbc177f6b90bfb92e7215080f-633-1088.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure></div><p></p><p>距离上次不列颠尼亚的冒险，已过去多年光阴。你那危机四伏的圣者生涯，终究还是换回了地球的平淡安宁。然这寡淡日常令你形若空壳，心底日夜渴盼着不列颠尼亚的召唤。仿佛回应这份执念，某夜霹雳炸响窗棂，血色月门（而非往日的湛蓝）破空显现！你毫不犹豫纵身而入。不列颠尼亚，我已归来！然而——这风暴肆虐的异域是何方所在？周遭簇拥的赤肤獠牙的魔物又是什么？待你惊觉，冰冷锁链已缚住四肢。祭坛之下，狰狞邪魔执刃而立，嘶声吟诵着古老禁咒，寒芒即将贯入你的胸膛...</p><div>
+<figure><img alt="" src="https://image.gcores.com/0a683456b08c6827490ecc908c5b272a-1080-607.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure></div><p>和《命运勇士》一样，不列颠尼亚再次面临外敌威胁。千钧一发之际，老战友Shamino，Iolo和Dupre及时赶到，将你从赤红肌理、獠牙毕露、眼眶空洞的石像鬼手中救下，避免沦为它们祭坛上的牺牲品，我们随后得知，这些石像鬼近期开始大举进攻不列颠尼亚，来势汹汹。游戏以激烈战斗开场，这些生物追击你至不列颠城堡的王座厅，血腥混战就此爆发！这个创世纪系列中首次以战斗作为开场的设计，多少折射出时代的背景：不列颠领主意识到军队已然强弩之末，他别无他法，只得孤注一掷，将最后的赌注押在你这位屡次挽救世界于水火的英雄身上。毕竟，若无法阻止这群肆虐的魔物，不列颠尼亚恐怕会再度陷入黑暗时代，之前的你已多次力挽狂澜，这次的任务，想必也不会太难吧？</p><p>在《虚伪先知》发售二十多年后的今天，谈论起这款游戏背后隐藏的复杂真相，应该也算不上什么剧透了。</p><p>《虚伪先知》自发布以来便被誉为经典，它惊人的可玩性，复杂度和顶尖的叙事至今仍熠熠生辉。正如该系列此前各作不断拓宽玩家选择一样，本作在游戏世界的互动性上更是实现了质的飞跃。《虚伪先知》堪称由1997年《辐射》所发扬光大的非线性开放世界角色扮演游戏的鼻祖。尽管游戏开局就为玩家设定了明确目标并赋予了充分的动力以推进主线剧情，但游戏并未设计任何阻止玩家随意探索世界的机制。</p><p>《虚伪先知》的前作《命运勇士》首次引入的「观察」（Look）机制，能够让玩家获得眼前事物的简短描述，本作则在这个基础上进一步深化——玩家不仅可以查看更多种类的细节，还能对几乎所有物品进行触碰、推动、拾取甚至顺手「盗窃」。你既可以在旅人客栈（Wayfarer Inn）里悠闲用餐，也可以干脆像个偷窃狂一样，偷走整个不列颠尼亚的盘子，并把它们在不列颠领主的王座上堆出塔的样子（当然，是否要大喊：吾乃瓷器（China）之王，还得取决于你自己）。</p><div>
+<figure><img alt="" src="https://image.gcores.com/d79df13aa35f108d6635feb79698cfee-1080-607.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure></div><p>游戏中的所有物品物品都遵循物理法则，具有真实的尺寸和重量，所以你真的想把那面昂贵的全身镜塞进背包里吗？那就祝你好运吧！</p><p>除了主线任务「拯救不列颠尼亚」之外，游戏中还有大量的支线任务和额外目标，以供玩家尽情探索。整个不列颠尼亚并不会静静地等待玩家到来，它是一个生机勃勃、不断变化的世界。</p><p>与《创世纪V》相比，本作的文本量大幅增加，文本几乎增长了十倍。每个NPC都能就每个话题侃侃而谈，连那些看似无关紧要的普通镇民也经过精心刻画，令人印象深刻。当你第一次走出不列颠尼亚城堡的时候，你极有可能会碰上一位自称正在「微服私访」的农民，他正混迹于人群之中，大声索要着捐款，以维持「不列颠领主」的体面。</p><p>此外，你同伴们的个性也变得更加鲜明，他们会相互打趣调侃，有时甚至会在你与NPC对话时候插上一两句自己的评论。系列中首次允许你与当前队伍中的同伴发起对话并进行互动。这一备受欢迎的功能在大多数CRPG中并不多见，在日式角色扮演游戏中更是罕见。</p><p>《虚伪先知》中的对话系统既不同于早期系列中那种‘你问我答’的自由对话，也尚未完全过渡到后期和主机版中采用的基于关键词选择的话题模式。你依然可以输入任何单词作为对话的话题，但系统会自动将关键词高亮显示，这既减少了你下一步提问时的不确定性，又保留了NPC隐藏秘密的可能性。现在的对话还配有交谈对象的角色肖像，这不仅赋予NPC以更多个性，还为偶尔出现的有趣彩蛋提供了机会（Shamino的样子是不是有点眼熟？）</p><div>
+<figure><img alt="" src="https://image.gcores.com/91f9900fdb84af149c5c9b3c0979070b-320-320.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure></div><p>《创世纪VI：虚伪先知》在系列中是一次技术范式的转变。作为首款从零开始为16位平台打造的《创世纪》作品，其色彩更加丰富、画面更为精细、文本量大幅增加，每个角色都拥有专门的头像与丰富对白。不列颠尼亚的规模之大令人叹为观止，你可能要花上数月时间才能发现那隐藏各处的所有宝藏。这种宏大的构建在90年代中期以前极为少见，直至Bethesda推出《上古卷轴》系列后，类似的规模才再次进入大众视野。过去系列中的老式瓦片（tile）画面已不复存在，取而代之的是采用全新的等角俯视视角展示的色彩艳丽的大型精灵画面，这些图像由长期负责游戏包装盒封面和手册设计的Denis Loubet精心绘制。城镇如今融入到整个世界之中，不再是单独的画面。地下城也不再以第一人称视角呈现，整个游戏世界变得无缝衔接。在1990年，看到城镇以真实比例融入世界，不再作为地图上单一的格子存在，是一件非常能够让玩家震惊的事情，整个不列颠尼亚也因此在彰显其巨大之时，又显露出异常的真实感。</p><div>
+<figure><img alt="" src="https://image.gcores.com/d727dfc994921818c6942b68b36a7822-1080-1002.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure></div><p>1990年的PC，鼠标已经算得上标配，所有版本中均增加了对鼠标的支持，这让那些尚未记住繁多控制键的玩家更易上手。虽然系列直到下一作才彻底舍弃键盘指令解析模式，但本作已大幅简化了键盘操作。以往系列中，键盘上的26个字母各自对应不同功能（在《创世纪V》中，甚至需要按下组合键以执行更多操作），《虚伪先知》在这方面则极为友好，它将多个命令简化为只有十个，许多命令都归入了单一的「使用」指令中，鼠标承担了大部分操作任务。同时，本作还在音效方面做出了微妙而重要的改进——丰富的音效增加了层次感和个性，远胜早期游戏中聒噪的蜂鸣声效。《虚伪先知》兼容多种流行的PC声卡，为IBM PC玩家带来了Amiga、Atari ST和C64玩家早已享受的音效体验。</p><p>启蒙时代三部曲（The Age of Enlightenment）被Richard Garriott称为「美德三部曲」（virtue trilogy），《圣者传奇》（Quest of the Avatar）侧重探讨道德问题，《命运勇士》则关注当政府以立法之名介入道德规范时会引发怎样的后果，而《虚伪先知》则关注社会宽容的议题。与角色扮演游戏诞生以来几乎所有其他作品不同，这三部曲中根本没有传统意义上的最终BOSS战或高潮决战。</p><p>到了1990年，电脑游戏已不再仅仅是少数几家公司面向一小部分技术狂热者的产品。《创世纪》不得不与New World Computing的《魔法门》、Strategic Simulations的D&amp;D金盒子系列等成熟作品竞争，同时还要面对在日本因《勇者斗恶龙》的成功而风靡一时的JRPG。《虚伪先知》凭借其庞大而复杂的游戏世界和耐人寻味的叙事独树一帜，即使在今日，也少有角色扮演游戏能让玩家深思为何「英雄」要到处屠戮一切生灵。</p><p>虽然游戏开头似乎延续了黑暗时代三部曲（the Age of Darkness）的风格——由圣者带领不列颠尼亚抵御邪恶且具破坏性的入侵者，但当标题中「虚伪先知」的真实身份揭晓后，整个剧情发生了颠覆性的转折。原本看似简单粗暴的石像鬼入侵问题，最终演变为了一个难以界定是非对错的困境，当玩家发现，正是自己的所作所为令石像鬼对他和不列颠尼亚心生恐惧时，难免会觉得自己仿佛成了游戏中的反派。当然，作为圣者，你仍掌握改变局势，挽回局面的力量。</p><p>与以往所有作品一样，开发《虚伪先知》时，原有代码被完全舍弃，团队从零重新开始编写。尽管在系列，这种「重启代码」的做法并非刻意为之，但到了《虚伪先知》时，它已成为Origin Systems内部视为系列一大标志的做法。</p><p>早期《创世纪》曾与Andrew Greenberg和Robert Woodhead打造的《巫术》（Wizardry）系列展开激烈角逐。在《创世纪》首作面世时，《巫术》系列的销量遥遥领先。然而，《创世纪》的销量平均每推出一部就会翻倍增长，而《巫术》系列的销量则在1980年代末逐渐趋于平稳，除了在日本拥有一批狂热的追随者外，其他地区的销量均明显下滑。</p><p>Garriott认为，之所以出现这种局面，是因为《巫术》系列的各部作品大多只是前作的延续，而《创世纪》系列则不断为玩家引入全新的操作方式和玩法。正是这种设计方向上的偶然突破和不断创新，使得《创世纪》在早期竞争中脱颖而出。</p><p>作为《虚伪先知》的主设计师，为了尽可能发挥Richard Garriott想象力中所蕴含的复杂性，实际的编程工作由多位Origin Systems的员工共同完成。他们实际编写的其实是一个游戏引擎，而非一款具体的游戏—这是一个集框架与工具包于一身的系统，随后由Garriott和他的设计团队向其中注入游戏内容。如今的游戏开发往往需要耗时数月乃至数年，投入数以百万计的美元与数百上千的团队，借助一个可定制并填充内容的游戏引擎已成为普遍标准。但在1990年，游戏通常都是面向单一实体来编写的。这种全新的做法使《虚伪先知》成为《创世纪》系列中首款能够作为平台轻松开发后续作品的作品。此后，《创世纪》系列的游戏也采用了这一方法，他们的引擎被循环用于其他项目，其中最有名的例子是《创世纪VIII》，它成为了Origin的Crusader系列游戏的基础。Origin Systems的其他团队还利用《创世纪VI》的引擎开发了两款衍生游戏，并以《创世纪世界》（Worlds of Ultima）的名义发布，将圣者置于远离不列颠尼亚的陌生新环境中。可惜的是，《创世纪世界》的寿命非常短暂，这几款游戏将在本系列文章的后面详细讨论。</p><p>8位计算机技术最终没能跟上《创世纪》不断提升的技术复杂度和精细度——除了一个特例外（C64版本），《虚伪先知》只能在16位系统上运行。该游戏最早是在IBM PC上开发并发布的，随后又移植到了Atari ST、Amiga、PC-98、FM Towns和X68000平台上。系列游戏第一次出现了，Amiga和Atari St版本的画面表现效果和游戏体验都弱于DOS版本的情况。到了1990年，PC已能使用256色的VGA标准，并凭借销量上的绝对优势成为主流平台，而Amiga仅支持32色，Atari ST仅支持16色，使得这些平台上的《虚伪先知》在画面表现上既过时又逊色。这些版本大多缺少游戏音轨，而且如果不安装到硬盘上运行，游戏速度极为缓慢，而在当时，硬盘在这些机器用户中并不普及。大多数Amiga和Atari ST机型根本没有足够的内存来正常运行《虚伪先知》。</p><p>由Pony Canyon在日本发行的最后一部主系列作品《创世纪VI》也移植到了PC-98和Sharp X68000平台上。这些版本与北美PC版唯一的区别仅在于支持的颜色数以及采用了日文文本。即便在日本，电脑产业也正逐步转向采用IBM兼容机，而非继续沿用PC-98和MSX等平台。随着90年代的到来，微软的MS-DOS和Windows操作系统愈发巩固了其在电脑游戏领域的统治地位，我们难以再见到像《圣者传奇》那样拥有十五个不同版本的游戏。</p><p>富士通的FM Towns版本是游戏的一个独特变体。除了能够在英文和日文文本之间切换之外，这个版本的加载时间较长，FM Towns平台上的版本采用了以《创世纪VII》为蓝本的关键词对话系统，是唯一拥有语音音轨的版本。Origin的团队成员为那些以他们本人为原型的角色配音：Richard Garriott为Shamino和不列颠领主配音，Jeff Hillhouse为Geoffrey配音，David Watson则是Iolo，诸如此类。理论上，这一版本对系列粉丝来说无疑是一次极佳的体验，因为他们终于可以听到主创的真实声音。可惜的是，实际效果却很糟糕。所有配音者均非专业配音演员，这他们从生硬的语调和板滞的朗读中显露无疑，更糟的是，配音使用的是英语，而非日文。</p><p>《虚伪先知》的C64版本是《创世纪》系列中最后一部针对8位计算机开发的作品，使这款游戏能在C64上正常运行，无疑是一项巨大的成就。尽管到1990年，IBM PC已在平台竞赛中独占鳌头，但Atari ST、Amiga，尤其是C64，仍拥有众多用户，特别是在欧洲，C64早已建立起庞大的用户群，若不将游戏移植到该平台，Origin Systems将面临客观的收入损失。由于8位处理器的性能限制，《虚伪先知》从未针对Apple II平台开发。</p><p>除了显而易见的图形质量的下滑和较低的分辨率问题外，C64版本缺乏合适的鼠标支持（在C64上，鼠标外设被机器当作摇杆处理）也使得其界面完全不同。C64版本并未采用那种融合了解析器和图标的全新用户界面，而是回归到该系列前六部作品中使用的纯解析器界面。虽然可以使用鼠标或者摇杆来瞄准，但操作效果相当不尽人意。</p><div>
+<figure><img alt="" src="https://image.gcores.com/cdc021690f01e082ccec5deb9e0c48de-1080-764.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure></div><p>游戏中最致命的问题还在于游戏数据的存储方式。该游戏分布在三张双面磁盘上：其中一面存放启动程序和角色创建内容，另一面存放不列颠尼亚的地表及地下城；另外一张盘则保存了石像鬼世界及其地下城的数据，同时，每张盘的另一面均专门用于对话数据存储。每次你与游戏中的某个角色对话时，都必须先切换到对应的磁盘，等对话结束后再切回存储世界的磁盘。这种操作相当令人恼火，再加上C64磁盘驱动器那臭名昭著的缓慢加载时间，对于习惯了更先进版本的玩家来说，这无疑大大降低了游戏体验。</p><p>此外，为了节省空间，游戏还删减了许多玩法和功能，最明显的就是音效和音乐，原作的容量成功被压缩到IBM PC原版的四分之一左右。尽管每次对话都必须切换磁盘，忍受长时间的加载时间，但当时的电脑杂志似乎仍对这一版本赞不绝口，他们认为即使在如此严峻的技术条件下，这款出色且具有突破性的角色扮演游戏所表现出的效果仍然令人惊叹。现代玩家可能完全无法适应如此长时间的加载等待时间了。互联网上还有传闻说存在某种会导致无法通关的bug，但似乎只是流传的谣言。</p><p>和系列之前的几部作品一样，《创世纪VI》也被移植到了任天堂的主机上。在移植时去掉作品编号，以《创世纪：虚伪先知》的名称于1992年在SNES/超级任天堂平台上发布。和《魔胎》（Exodus）以及《圣者传奇》的任天堂移植一样，这个版本虽然不如PC原版出色，但Origin在将原作忠实移植到主机方面做得要好得多。它不仅继承了相同的美术风格，还在平台限制内尽可能完整地保留了原作的游戏结构。当然，出于内存和性能的考量，部分内容不得不做出删减：开场动画被简化，角色肖像被移除，对话内容也被缩短以减少脚本所占用的内存，与世界物体的交互性也有所降低（比如没有坐下的动画）。操作方式也经过调整，以适应SNES手柄，没有对鼠标的支持（尽管当年任天堂曾推出过与《马里奥绘画》捆绑销售的任天堂鼠标）。由于缺乏键盘，因此对话采用了类似《创世纪VII》及之前主机版的分支关键词树形式。</p><div>
+<figure><img alt="" src="https://image.gcores.com/a84b12f5b7c2f4b2e0ae1a027f87e5e8-1080-831.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure></div><p>此次移植中最显著的变化，也是游戏粉丝讨论最多的话题，就是审查制度。众所周知，80年代和90年代的任天堂为了维护其家庭友好的形象，实行了严格的审查政策，而这一政策在《创世纪VI》的剧本和画面中表现得淋漓尽致。石像鬼不再有角，开场时那个头部被十字弓矢射中的石像鬼形象也被移除，死去的敌人亦不再留下尸体而是直接消失，血液的表现效果彻底被移除，「杀死」（kill）这样的词语也不再出现。虽然这些改动在一定程度上削弱了剧本的表现力，但相比其他版本而言，影响不至于令人无法（这方面参考《创世纪VII》的SNES版本）。《虚伪先知》大概是任天堂主机移植版本中最忠实于电脑原版的一部，而且在二手市场的价格极低。在本文撰写时，大约只需两美元。它显然没有像下一部游戏的主机移植版那般大幅改动原作。</p><div>
+<figure><img alt="" src="https://image.gcores.com/1ff3c5e7c9a28affa0ae808ea38c1c8e-1080-1698.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure></div><p></p><p>链接：</p><p>[Purchase Ultima VI: The False Prophet at gog.com](<a href="http://www.gog.com/en/gamecard/ultima_4_5_6/?pp=e1a864f0b77f6c89794827a9035355dc8d052622">http://www.gog.com/en/gamecard/ultima_4_5_6/?pp=e1a864f0b77f6c89794827a9035355dc8d052622</a>)  </p><p>[Notable Ultima’s release info for Ultima VI](<a href="http://www.notableultima.com/collectibles/Title_U6.html">http://www.notableultima.com/collectibles/Title_U6.html</a>)  </p><p>[Technical documents for the Ultima VI engine, hosted by Ultimaaiera.](<a href="http://www.ultimaaiera.com/blog/ultima-6-technical-documents-2/">http://www.ultimaaiera.com/blog/ultima-6-technical-documents-2/</a>)  </p><p>[Fan-made tools and an entertaining collection of glitches and tricks](<a href="http://it-he.org/ultima6.htm">http://it-he.org/ultima6.htm</a>)  </p><p>[Contemporary review of the C64 port](<a href="http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=073&amp;page=054&amp;thumbstart=0&amp;magazine=zzap&amp;check=1">http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=073&amp;page=054&amp;thumbstart=0&amp;magazine=zzap&amp;check=1</a>)  </p><p>[Ultima V for TI-89 and TI-92 calculators](<a href="http://www.ultimaaiera.com/ultima5/ultima-5-for-ti-calculators/">http://www.ultimaaiera.com/ultima5/ultima-5-for-ti-calculators/</a>)  </p><p>[Youtube video playthrough of the FM-Towns port of the game, including awful acting!](<a href="http://www.youtube.com/user/enirya#g/c/A1A9B1C9F84FB0A6">http://www.youtube.com/user/enirya#g/c/A1A9B1C9F84FB0A6</a>)</p>
+]]></content:encoded>
+<pubDate>Sun, 02 Feb 2025 15:31:04 +0800</pubDate>
+<pubDate>Sun, 02 Feb 2025 15:31:04 +0800</pubDate>
+</item>
+<item>
+<title>教你用羊骨头，打造一把“骸骨小镰刀”</title>
+<link>https://www.gcores.com/videos/194260</link>
+<guid>https://www.gcores.com/videos/194260</guid>
+<content:encoded><![CDATA[
+
+<img src="https://image.gcores.com/a3e7d3a09b4b6c5598308fe96faa1463-1920-1440.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90" /><p>一期新的尝试，尝试用羊骨头，制作了《黑暗之魂》系列里。</p><p>很有梗的一件武器【濡湿小镰刀】。</p><p>原创不易，感谢诸位的支持了~</p>
+]]></content:encoded>
+<pubDate>Sun, 02 Feb 2025 14:48:19 +0800</pubDate>
+<pubDate>Sun, 02 Feb 2025 14:48:19 +0800</pubDate>
+</item>
+<item>
+<title>《城市天际线》：描绘理想的乌托邦城市</title>
+<link>https://www.gcores.com/articles/194255</link>
+<guid>https://www.gcores.com/articles/194255</guid>
+<content:encoded><![CDATA[
+
+<img src="https://image.gcores.com/a42c826535fcf4904c108e7066c5c554-1483-695.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90" /><p>事先说明1：本文章是我的游玩体验心路历程，没有一点营养。</p><p>事先说明2：本人大部分时间是守序善良的市长，偶尔守序邪恶（高税），极少时混乱邪恶（指引群星之路）。</p><h1>正文</h1><p>小时候公公家里有一幅巨大的世界地图，每次到他家里面都会看着它指着上面的首都和主要城市一边读一边问：“基希讷乌是怎么样的地方？圣多美又是什么样的呢？苏克雷呢？卢萨卡呢？（注1）”于我而言，这些世界上遥远而未知的地区确实那么远又那么近——我的指尖能在图中扫过这些城市，但我身边却又无人到访过，甚至没有人能解答我的问题。不久后我的姐姐升入高中选修地理，每逢周末她都会回家打开花花绿绿的地图册进行学习。如同对世界地图的喜爱，我也被地图册所吸引，毕竟它真的图文并茂好好看！我的姐姐也顺从我的意愿从第一页宇宙太阳系开始给我介绍，叙述地球的自转和回归线，指着欧洲西部的地图和插图介绍鲁尔区的工业变迁（注2）。尽管当时我字都不认识几个，但是我却实实在在地能够在小学前准确而熟练地描述春分夏至秋分和冬至日的太阳变化规律，和如何认识这个世界（注3）。我也从地图册的插图中见识了一些主要城市的风貌，但它依旧不能解决基希讷乌、圣多美苏克雷卢萨卡长什么样的问题——毕竟它们也不是必学考点，试卷上都不一定能见过他们的踪迹。除了后来有一次在高中英语阅读题中出现了圣多美和普林西比、多明尼加等偏僻小国的旅游介绍表格。我顺手把中文标在旁边，然后被英语老师吐槽文章里关键的东西油盐不进，却能知晓这些偏僻小地方，但是我附近的同学非常仰慕我能知晓这么多世界的角落。</p><p>对地图对设想架空世界的热爱还表现在无所事事的时候在大白纸上虚构一个国家，虚构一个城市或者虚构一块地区，我就是首领、我就是市长、我就是区长（注4）。但受限于阅历，画来画去也突破不了我所在的地方为背景蓝图，想象力的缺乏也使得我画不出天下奇观。</p><p>我还记得在我小学的时候，跟我们狐朋狗友们（注5）一起创建了一个虚构的猫狗市。 甚至还给猫狗市描绘了宏伟壮丽的铁道网络，和点上各种市政树画上各种分区。当时起名字的灵感来源主要来自于现实中的各个地方，试图在这个虚拟的幻想城中找到一点当规划师的乐趣。 小孩子毕竟是小孩子，翻脸也翻得比任何人都快：不过一个暑假，这个钱用光明而又绮丽壮观的猫狗市连同它繁杂的交通网络一起被扔进了记忆的垃圾桶中，我们要开始了新一轮的角色扮演。但是那个猫狗是铁道图，好像也许大概应该还躺在家里不知道哪一个角落中。 后来等我上初中了之后，又把它翻了出来，试图重新以现实地铁图的模式绘制，然后在Minecraft里面建设，但毕竟一个人的经历总是有限的，还没有造好一个小的区块就已经烂尾了。</p><p>对于城市建设的幻想一直贯穿我的整个求学生涯， 某种程度上可以说他是我放空的精神绿洲。 我曾经在Minecraft上开了不知道多少个存档来建设我的美丽新城市。 我还会在里面试着建设一些，我当时看到的新新内容， 比如说填海造陆修一个新机场、建一栋扭一圈的高楼、当然也包括铁道网络（注6）。但毕竟一个人的精力还是有限的，往往精修了几个车站，精修了一条线路之后，剩下的地方就完全变成了毛坯风格，能用就行了（注7）。</p><div>
+<div>
+<figure><img alt="" src="https://image.gcores.com/df46b83ecd3f23173f8e6c5f1aa9a4ff-1334-750.png?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure><figure><img alt="" src="https://image.gcores.com/7cae6e9f548e2369e3b2e29d70e0786b-1334-750.png?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure><figure><img alt="" src="https://image.gcores.com/647733d99bc18c6d62e87bde09046149-1334-750.png?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure>
+</div></div><p>一些Minecraft的后期设计，比如我都不敢相信最后一个图居然是个车站…今天重新登网易版试着截一些新图写文章，却发现我的一切存档和心血都无了：）</p><p>除了Minecraft之外，我接触到的可以描绘美丽新城市的游戏还属SimCity build it的手游。我还记得当时我和我的一个好朋友合伙冲刺白银史诗建筑，两边协同生产最终冲上了白银，还因此高兴了一段时间。这些所有的游戏在很长一段时间没有玩之后，竟然发现他们却被国区化了，弊端是再也没有办法和世界的人交流，便逐渐弃游。这成为了我过不去的一个遗憾。</p><div>
+<figure><img alt="SimCity build it以及模拟城市在一定程度上也算是我对这类游戏的启蒙游戏了" src="https://image.gcores.com/a6e681765d72b34a6ff05825637f8c3a-1136-640.jpeg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(SimCity build it以及模拟城市在一定程度上也算是我对这类游戏的启蒙游戏了)</figcaption></figure></div><p>再后来城市天际线发布之后的一两年，我也想试着下一个玩一下，做一把市长的滋味，更何况看宣传片那自由度比上述的所有都高多了！但是北京奥运那一年买的电脑性能始终还是有限，在我新注册了一个 steam账户之后果断花了重金原价购买了城市天际线，却发现我的电脑连steam本身都打不开。只能偶尔看看别人的视频解解馋，于是就这么又搁置了三年。但是塞翁失马焉知非福，我的steam账号也因此莫名其妙多了三年，在一众好友里鹤立鸡群（也没有）。</p><div>
+<figure><img alt="居然还有人原价买天际线，而且以前原价都居然只要88…" src="https://image.gcores.com/cd54226053d3dc49a8f07a2e4bdf9bb5-1070-568.jpeg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(居然还有人原价买天际线，而且以前原价都居然只要88…)</figcaption></figure></div><p>2020年初，出于公共卫生事件的缘由得以在家上网课。在奥运会那年买的电脑实在是用不下去了，在“学习要紧”的借口之下，不得不被迫换了一台新电脑。有了新电脑终于可以登上steam，终于可以玩上我三年前心心念念的城市天际线啦！那种千里梦圆在今朝的兴奋感一生难忘。我依旧记得在上物理课的时候，那个讨厌的物理老师一边在讲各种力学电学专题，我一边在下面研究这个讨厌的物理老师的家应该放在哪一个污染区中间的奇妙恶趣味。翻找拥有此游戏的好友，发现居然有人和我一样没品喜欢玩这样小众的游戏！如获至宝，终于有人可以谈论手中紧握天国与地狱的工具，如何在造福民生和陷害刁民之间反复横跳。即使还没有打mod，也玩得津津有味，造了一个又一个小村到小镇、小镇到小城。</p><div>
+<div>
+<figure><img alt="" src="https://image.gcores.com/7488eed2a81b2b44859f97d072839c15-1179-521.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure><figure><img alt="" src="https://image.gcores.com/346e97610ac538649b2a67558ce96394-1179-996.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure>
+</div></div><p>特别感谢我的天际线导师，我的好朋友，我的好兄弟。没有他上网课期间摸鱼的辛勤指导，估计我已经在经历多次挫败不赚钱后弃游许久。</p><p>期间还入了两个dlc：大众运输和大灾难，这一下天国与地狱的工具更上一城楼。在城中把我讨厌的人的家塞到堆填区附近，然后天降陨石精准打击；抑或者是脑洞大开给道路起名字，比如杨枝甘路、椰汁西米路、正扑街；也不断发掘交通工具的无限可能，甚至试着拿缆车来链接江两岸、或者拿来当地铁用……在城中一切的一切有无限可能、和网课相比实在是太有趣了！</p><div>
+<figure><img alt="翻到了一个上课期间玩的截图，和当时做的一些有趣的小meme。" src="https://image.gcores.com/76f647ac8af727b7f721bdd44bf41d4c-1080-1440.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(翻到了一个上课期间玩的截图，和当时做的一些有趣的小meme。)</figcaption></figure></div><p>后来决定用心经营一下、挑战一下海岛图的剧本。在经历了一个早上六连跪，人口全无又破产之后决定还是开个平易近人的剧本吧。于是有了跑马地。我给他起名叫跑马地，是因为香港也有一个跑马地他的英文名字happy vally，我也希望我的市民能够活得非常开心。虽然他和香港真正的跑马地的本意出入甚大。</p><div>
+<div>
+<figure><img alt="" src="https://image.gcores.com/ea8e8d096c3de98539a64dbd1a018de5-1600-900.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure><figure><img alt="" src="https://image.gcores.com/ef7dc4275ad70887c3d49c03730ff509-1600-900.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure>
+</div></div><p>考完高考后，经上面的高人指点，学会了使用创意工坊下载订阅各种资产和mod，打开新世界的大门！精挑细选，下了一堆资产，此刻终于能随我所欲大兴土木了！搜索了一堆高楼把我的跑马地建设成为下一个浦东新区；搜索了一堆模组使我能以pov第一视角沉浸式体验我的伟大城市。不亦乐乎，更上一层楼的美妙乐趣。</p><div>
+<div>
+<figure><img alt="你就说能不能比肩陆家嘴珠江新城吧！" src="https://image.gcores.com/e56f415113f9288cc10492ad3138bc03-1600-900.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(你就说能不能比肩陆家嘴珠江新城吧！)</figcaption></figure><figure><img alt="在这个游戏你甚至可以拍机，飞友狂喜" src="https://image.gcores.com/901ed7fe45073a38ffd5e1f49e6f1849-1600-900.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(在这个游戏你甚至可以拍机，飞友狂喜)</figcaption></figure>
+</div></div><p>20年高考结束之后的那一个暑假我一直在玩跑马地，建造了属于我的第一个真正大城市、第一个开了全部格子的城市。在达成目标的那一刻，我比我收到录取通知书，有大学读这件事情还要高兴。在出成绩到录取的那一段郁郁寡欢的时间，全靠总是天际线支撑着。填报志愿的时候甚至思考过要不要报城乡规划好呢。历经今天造一点新区明天造一会机场，后天再补一下工业区，就这样水多了加面面多的加水终于搓成了我的第一个大城市。为此我还为他录了一段中环POV。</p><div>
+<figure><img alt="" src="https://image.gcores.com/e169f81c2c2e013b1da09f6e857a5034-1600-900.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure></div><div>
+<figure><img alt="2020年9月8日，我实现了第一个剧本胜利。" src="https://image.gcores.com/054c3b31514eaf8e56cd37e666855f42-2654-828.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(2020年9月8日，我实现了第一个剧本胜利。)</figcaption></figure></div><p>此外还有一些感动瞬间：比如我的火箭发射的那一刻，开心程度堪比完形填空全对；在建成太空电梯的那一刻也欢欣雀跃，比我写对了数学最后一问还开心（没实现过所以我也不知道是什么感觉）；当我照着b站up主夕阳小新学着搓立交桥，而后又自己上下摸索。建成了第一个完美的大型立交桥，简直比收到国外大学的录取通知书还高兴（注8）！后来学着造景，也试着做了一些有趣的景象：</p><div>
+<div>
+<figure><img alt="比如在建大学的时候无意识地意外建成了我高中的样子…" src="https://image.gcores.com/632c6e3de1274b6f53f0966e23f6381f-1200-675.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(比如在建大学的时候无意识地意外建成了我高中的样子…)</figcaption></figure><figure><img alt="试着造了一块层次分明的商务社区" src="https://image.gcores.com/fa5e837bc20d9bbafe6a44846a7ee0ef-1600-900.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(试着造了一块层次分明的商务社区)</figcaption></figure><figure><img alt="让我的市民沐浴在社会主义的春风中" src="https://image.gcores.com/490e90759dde3a589ef683235154ea1f-1600-900.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(让我的市民沐浴在社会主义的春风中)</figcaption></figure><figure><img alt="他们怎么就不能搭飞机通勤上班呢？" src="https://image.gcores.com/ae4a521156b2ac2f4520d32f7464d291-1179-1315.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(他们怎么就不能搭飞机通勤上班呢？)</figcaption></figure><figure><img alt="科教兴国，第一次火箭发射！" src="https://image.gcores.com/52207e6a02861e0298445edbbd480460-1606-940.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(科教兴国，第一次火箭发射！)</figcaption></figure><figure><img alt="做出了大型屋邨的样子，但是有点难以描述的复制感..." src="https://image.gcores.com/d51645ac17950c713c87733f57965fc7-1590-894.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(做出了大型屋邨的样子，但是有点难以描述的复制感...)</figcaption></figure><figure><img alt="手搓了第一个大型立交，我实在是太厉害了（赞美）
+" src="https://image.gcores.com/60160547c3ed6f2ccb4b6089732cb547-1250-937.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(手搓了第一个大型立交，我实在是太厉害了（赞美）
+)</figcaption></figure>
+</div></div><p>这个游戏好玩归好玩，也有让人讨厌难受的时候，比如说造高架桥要各种躲柱子、还要想办法应对各种冲突；再比如说需要时不时查看我订阅的资产，防止它哪一天崩坏了我的图就没了；更有甚者在天际线游戏本体更新或新出dlc的时候要祈祷自己订阅的mod和资产不要被官方搞崩溃报错；以及我的电脑带不动一堆mod和资产，没开几秒就崩溃闪退（尖叫）（打滚）（呐喊）（生气）（伤心）（落泪）（无奈）（认命）（啜泣）（流泪）。后来想办法加了内存条情况有所改善。</p><div>
+<figure><img alt="呜呜！没有刁民天际线我要死了！" src="https://image.gcores.com/a0186b995d3db90f27b1c1cd848f98e1-1179-886.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(呜呜！没有刁民天际线我要死了！)</figcaption></figure></div><p>成为了这个游戏的自来水，向全世界宣传这个有趣到极致的游戏，并嘲笑我的朋友居然这都玩不下去没几年就破产or满意度屡创新低。甚至一度指导了另一个朋友如何从零开始建一个新城市。到最后，文科班的那个同学评价道：“学了三年地理，还不如你会造城”。当然，我超级爱玩这个游戏了，在相当长的一段时间里，但凡出了新dlc必买！有时候还会出现如图的情况（笑哭）</p><div>
+<figure><img alt="把我朋友送的生日礼物收到库中然后研究如何畅玩天际线" src="https://image.gcores.com/6888d1bd57c4f161459fb53b243c3730-1179-955.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(把我朋友送的生日礼物收到库中然后研究如何畅玩天际线)</figcaption></figure></div><p>后面为了探究现实中的城市如何设计，居然还真的去了广州市城市规划展览中心，天际线玩家狂喜！也一度疯狂沉迷以至于在现实中疯狂寻找有趣的meme。</p><div>
+<div>
+<figure><img alt="感觉像开了个新地图一样" src="https://image.gcores.com/0c099a51eb30b25d57b95a78fe6641e2-4032-3024.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(感觉像开了个新地图一样)</figcaption></figure><figure><img alt="" src="https://image.gcores.com/d7f112b0d68cd26e8276c9adcb57c920-2472-1854.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure><figure><img alt="" src="https://image.gcores.com/e717b3e7e1f6a34a7cea1b2ca5591595-3740-2805.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /></figure><figure><img alt="耶✌️" src="https://image.gcores.com/25c760ce587cf0bd9151dee596942e85-748-561.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(耶✌️)</figcaption></figure>
+</div></div><div>
+<figure><img alt="一个脑洞大开的meme：东张西望这个图北背景绿色的路好像天际线流量图" src="https://image.gcores.com/f61f44b8667a10540b7538decf24e1ce-1397-786.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(一个脑洞大开的meme：东张西望这个图北背景绿色的路好像天际线流量图)</figcaption></figure></div><p>后来天际线二要出的时候立马花了¥218的价格预购。在宣传片里看到他路网可以重叠，可以自定义的那一刻无比兴奋！天啊终于不用躲柱子了！而且！居然出续集了！</p><div>
+<figure><img alt="有人花了218大洋买了个草稿游戏，是谁我不说。再预购我剁手！" src="https://image.gcores.com/8e5ad24cc2c04c42b3f98bb7ab1333db-1270-548.jpeg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(有人花了218大洋买了个草稿游戏，是谁我不说。再预购我剁手！)</figcaption></figure></div><p>但是我的旧电脑性能极其有限，他甚至连地图都打不开，又回到了六年前的那个暑假。后来我去了好兄弟家（就是前面出现的那位），在他的电脑上，我第一次玩到了城市天际线二，他妈的实在是太好玩了！后来又不知道过了多久，我以出国的名义把旧电脑以旧换新换了一台新游戏本。我终于可以好好地点进去畅玩了。当天晚上大玩特玩，玩到忘记吃饭忘记睡觉，在凌晨两点草草下楼买了个麦当劳吃完才睡觉。这种感觉非常的奇妙，虽然我在先前已经玩了一小段时间，了解了相当的特性和机制。但实机上手的那一刻，那种新鲜感依旧如此！我没日没夜地玩，不知道一天究竟有多少个小时，即便在我和我朋友准备出国前吃一餐饭前出门的几分钟依旧在玩它，但是一些bug和一些feature还是让我觉得有点郁闷。</p><p>在出国一段时间之后，我所有的事情终于安顿了下来，终于有那么一丁点闲情逸致，再一次打开这个尘封了将近两年的游戏，新建了一个存档。玩得不亦乐乎，这真的太他妈好玩了！自从碰了二代，再也回不到一代去了。这种感觉非常的奇妙：就是那种隔了很久很久，却突然间又回到了二零年上网课期间偷偷玩天际线的感觉，同样的游戏和同样的人也依旧在讨论相同的攻略，但是这个时候我们已经相隔万里之遥做上了不一样的事。但和4年前不一样的是，现在再也没有那样的休闲时光去无忧无虑去建我的城：每天被堆积成山的工作和课业压得喘不过气，即使能有空坐下来也不会再想把精神消耗在天际线上面了。在过去的半年也没有什么建树，想象力也枯竭，翻开存档记录也找不到一点好机位拍几张照片…只有七零八落地强行拍一张。不过二代的这个长焦镜头还是很长长又焦焦的。</p><div>
+<figure><img alt="半年只修了这么一点，放在以前一下午就修这么多了…" src="https://image.gcores.com/9e105bd646a168b51a888de4a2a5e7ae-2560-1600.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" /><figcaption>(半年只修了这么一点，放在以前一下午就修这么多了…)</figcaption></figure></div><p>或许还会探索，也或许会向生活的压力低头。在极端抑郁苦闷的时间里找了好兄弟聊天，得知近况后在备忘录里写下：“但是钱难挣屎难吃的生活已经在短短的几个月上彻底磨平了一切的棱角。卡早就用完了，但是或许没有再充了。虽然说着“也不是我曾经最喜欢的东西”，但这种完全的转变还是让人感到无尽的陌生”。但是现在回想看自己乱麻一样的生活，殊不知已经俨然和他一样逐渐变成一个无趣的成年人。但愿在今后的某一天能重新找回对天际线的无限激情吧。</p><h1>
+<span style="font-weight: bold;">后记</span></h1><p>本篇原定计划于城市天际线二期（不是楼盘名称）发售前后发布的，但是实在是太懒了写了个开头就没有然后了。加上犹犹豫豫不知道应不应该加点天际线2的内容，毕竟刚发售的时候我的旧电脑也带不动，只是在朋友家浅玩了一个小时。搞来搞去从23年末新建文件夹到25年的二月才写完（最后还是没来得及在年前写完），经历了一整个申请季，跨越了从国内写毕业论文到确确实实地到了陌生异域的环境的程度。有点感慨时间确实过得真快…那个和我一样对天际线狂热的哥们也步入了社会成为了一名社畜。</p><p>一时间我甚至觉得写这篇文章比我的毕业论文还难产…顺带一提，既然都来到了欧陆读书，也确实打算去坦佩雷看看co社本社的。等去了再写一个番外吧！</p><p>↑上面一段是在24年底写的。谁也没有想到在几周后已经买了年初七去芬兰的机票，2月6号就去坦佩雷！co社我来了！</p><h1>备注</h1><p>（注1）依次为摩尔多瓦、圣多美和普林西比、玻利维亚和赞比亚的首都。</p><p>（注2）去了一趟鲁尔区，感觉有种去魅了的感觉。相比于将工业还给自然的典范，更多的是感觉到东北衰落的破败感。尤其是到了奥伯豪森，一下车感觉就跟德国刚投降一样萧瑟凋敝。</p><p>（注3）地理的启蒙比数学还早，这种认识世界的渴望使我在初中和高中的地理学考都取得满分。中午吃饭最喜欢和隔壁文科班的同学津津有味地讨论他们最新的地理测试题。把我的快乐驻扎在别人的痛苦上，毕竟我高考不用考地理，我也没得选……</p><p>（注4）最近才知道这种行为叫架空国家、架空城市。或许早个几年上网发这种东西命名权就在我的手上了——我会叫它“由神圣而不可侵犯的首领创建的不可被攻破的团结而自由民主的国度模拟”，这样全中文区也要叫它“由神圣而不可侵犯的首领创建的不可被攻破的团结而自由民主的国度模拟”。</p><p>（注5）因为我们彼此之间以动物的名字称呼。我还记得哪几个朋友叫猫猫狗狗狐狐和兔兔…</p><p>（注6）去了一趟日本还学会了私营公司的经营方式，强行把网络分成两家不同的公司</p><p>（注7）但不得不说巴黎地铁确实有种我在Minecraft里面修建的简陋车站。</p><p>（注8）其实现在在读的时候却觉得没有我想象的那么开心…在很长的一段时间里面心情如过山车一般跌宕起伏。到现在也依然如旧…果然读书没有人会快乐，读研究生的快乐只存在于拿到录取通知书的那一刻：（</p>
+]]></content:encoded>
+<pubDate>Sun, 02 Feb 2025 09:26:17 +0800</pubDate>
+<pubDate>Sun, 02 Feb 2025 09:26:17 +0800</pubDate>
+</item>
+<item>
+<title>冷门解谜游戏神作！它如何用极简元素设计精彩绝伦的机制？_蠕虫罐子解析_【游戏设计饭桌01】</title>
+<link>https://www.gcores.com/videos/194245</link>
+<guid>https://www.gcores.com/videos/194245</guid>
+<content:encoded><![CDATA[
+
+<img src="https://image.gcores.com/db8c61facdd9d576e16204d45e38c274-3840-2160.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90" /><p> 这是我首次制作游戏设计分析视频，希望抛砖引玉有所收获，一起交流游戏设计。</p><p> 本视频文本or画面&amp;音乐 游戏资料： 《蠕虫罐子》《cato》《snakebird》《leap year》《pipe push paradise》《Room to grow》《baba is you》《Railbound》《braid》《建与远征》《Maxwell's puzzling demon》  </p>
+]]></content:encoded>
+<pubDate>Sat, 01 Feb 2025 18:54:37 +0800</pubDate>
+<pubDate>Sat, 01 Feb 2025 18:54:37 +0800</pubDate>
+</item>
+
+<item>
 <title>如何成为牌佬 - 集换式卡牌入坑杂谈</title>
 <link>https://www.gcores.com/radios/194005</link>
 <guid>https://www.gcores.com/radios/194005</guid>
 <content:encoded><![CDATA[
 <div> 关键词: 宝可梦卡牌, 入坑指南, 组牌, 进阶, 反作弊
 
-<br><br>总结:  
+<br /><br />总结:  
 1. 本期节目由佟和制作，围绕《宝可梦卡牌 Pocket》的热潮展开。  
 2. 机核办公室掀起了一股实体卡牌入坑风潮，许多同事遇到各种问题。  
 3. 节目为新手提供了全面的入坑指南，包括如何选择游戏、寻找组织。  
@@ -20,17 +177,15 @@
 <img src="https://image.gcores.com/593dd8f9505d4d71636957483abfe338-1600-900.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90" /><p>本期时间轴制作： 佟和</p><p>《宝可梦卡牌 Pocket》的火热在机核办公室掀起了一阵入坑实体卡牌的风潮，也有不少同事遇到了各种各样的问题，借此机会，我们录制了一期面向卡牌新手的入坑小指南，从如何选择游戏、如何寻找组织，到如何组牌、如何进阶，甚至包括如何装X、如何反作弊等趣味小知识，一步一步带你进入集换式卡牌游戏的世界。</p>
 ]]></content:encoded>
 <pubDate>Sat, 01 Feb 2025 23:00:00 +0800</pubDate>
-<pubDate>Sat, 01 Feb 2025 23:00:00 +0800</pubDate>
 </item>
 <item>
 <title>【GPASS限时免费听】从“荒漠”到“美食荒漠”，北京饮食口味六百年变迁，录音笔 VOL.200</title>
 <link>https://www.gcores.com/radios/193964</link>
 <guid>https://www.gcores.com/radios/193964</guid>
 <content:encoded><![CDATA[
-<div> 关键词: GPASS, 限时免费听, 录音笔, 会员专享, 工作日更新<br><br>总结: 1. 从2025年开始，GPASS每月将部分付费节目单集放入限时免费试听库，供用户免费试听，当月结束后离库。2. 用户可关注“GPASS限时免费听”信息，进行免费试听。3. 【录音笔】是GPASS推出的全新会员专享节目，内容来自机核办公室的日常生活和工作记录。4. 每期时长约十几分钟，内容多样，包括碎碎念、暴言或办公室对话。5. 节目每周一至周五下午17:00更新，适合喜欢日常趣事的听众。 <div>
+<div> 关键词: GPASS, 限时免费听, 录音笔, 会员专享, 工作日更新<br /><br />总结: 1. 从2025年开始，GPASS每月将部分付费节目单集放入限时免费试听库，供用户免费试听，当月结束后离库。2. 用户可关注“GPASS限时免费听”信息，进行免费试听。3. 【录音笔】是GPASS推出的全新会员专享节目，内容来自机核办公室的日常生活和工作记录。4. 每期时长约十几分钟，内容多样，包括碎碎念、暴言或办公室对话。5. 节目每周一至周五下午17:00更新，适合喜欢日常趣事的听众。 <div>
 <img src="https://image.gcores.com/2ba26804662cf85abf8340b7062d3d63-640-360.webp?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90" /><p><span style="font-weight: bold;">从25年开始，每月将放出一部分付费节目播单中的单集，进入限时免费试听库。 当月结束之后离库。 如果您还在对购买节目进行观望，欢迎关注“GPASS限时免费听”信息，进行免费试听！ </span></p><p>【录音笔】是GPASS推出的一档全新会员专享节目，内容来自机核办公室日程生活和工作中的一些短小记录，每期时长十几分钟左右（大概吧）。内容也许是一些不成体统的碎碎念，也许是一些突然发疯的暴言，还有可能是哪个缺德的把办公室里真实的日常对话（dui ma）偷偷录了下来，总之就连我们自己现在也不知道每期会有哪些人参与，会录些什么。</p><p>本节目将在每周的每个工作日（即周一至周五）下午17:00更新，希望各位喜欢。</p>
 ]]></content:encoded>
-<pubDate>Sat, 01 Feb 2025 21:00:00 +0800</pubDate>
 <pubDate>Sat, 01 Feb 2025 21:00:00 +0800</pubDate>
 </item>
 <item>
@@ -38,10 +193,9 @@
 <link>https://www.gcores.com/radios/193963</link>
 <guid>https://www.gcores.com/radios/193963</guid>
 <content:encoded><![CDATA[
-<div> 付费节目, 限时免费, GPASS, 录音笔, 会员专享<br><br>总结:<br>1. 从25年开始，每月将放出一部分付费节目单集进入限时免费试听库，当月结束后离库。<br>2. 用户可通过关注“GPASS限时免费听”信息进行免费试听。<br>3. 【录音笔】是GPASS推出的全新会员专享节目，内容来自机核办公室的日常生活和工作记录。<br>4. 每期节目时长约十几分钟，内容多样，包括碎碎念、暴言和真实对话等。<br>5. 节目每周一至周五下午17:00更新，适合对购买节目持观望态度的用户试听。 <div>
+<div> 付费节目, 限时免费, GPASS, 录音笔, 会员专享<br /><br />总结:<br />1. 从25年开始，每月将放出一部分付费节目单集进入限时免费试听库，当月结束后离库。<br />2. 用户可通过关注“GPASS限时免费听”信息进行免费试听。<br />3. 【录音笔】是GPASS推出的全新会员专享节目，内容来自机核办公室的日常生活和工作记录。<br />4. 每期节目时长约十几分钟，内容多样，包括碎碎念、暴言和真实对话等。<br />5. 节目每周一至周五下午17:00更新，适合对购买节目持观望态度的用户试听。 <div>
 <img src="https://image.gcores.com/9e2077e97ff1245b502af180694ca905-640-360.webp?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90" /><p><span style="font-weight: bold;">从25年开始，每月将放出一部分付费节目播单中的单集，进入限时免费试听库。 当月结束之后离库。 如果您还在对购买节目进行观望，欢迎关注“GPASS限时免费听”信息，进行免费试听！ </span> </p><p>【录音笔】是GPASS推出的一档全新会员专享节目，内容来自机核办公室日程生活和工作中的一些短小记录，每期时长十几分钟左右。内容也许是一些不成体统的碎碎念，也许是一些突然发疯的暴言，还有可能是哪个缺德的把办公室里真实的日常对话（dui ma）偷偷录了下来，总之就连我们自己现在也不知道每期会有哪些人参与，会录些什么。</p><p>本节目将在每周的每个工作日（即周一至周五）下午17:00更新，希望各位喜欢。</p>
 ]]></content:encoded>
-<pubDate>Sat, 01 Feb 2025 21:00:00 +0800</pubDate>
 <pubDate>Sat, 01 Feb 2025 21:00:00 +0800</pubDate>
 </item>
 <item>
@@ -49,10 +203,9 @@
 <link>https://www.gcores.com/radios/193962</link>
 <guid>https://www.gcores.com/radios/193962</guid>
 <content:encoded><![CDATA[
-<div> 付费节目, 限时免费, 录音笔, 会员专享, 工作日更新<br><br>总结:<br>1. 从25年开始，每月将放出一部分付费节目单集进入限时免费试听库，当月结束后离库。<br>2. 用户可关注“GPASS限时免费听”信息进行免费试听。<br>3. 【录音笔】是GPASS推出的全新会员专享节目，内容来自机核办公室的日常生活和工作记录。<br>4. 每期时长十几分钟，内容多样，包括碎碎念、暴言和真实对话。<br>5. 节目每周一至周五下午17:00更新。 <div>
+<div> 付费节目, 限时免费, 录音笔, 会员专享, 工作日更新<br /><br />总结:<br />1. 从25年开始，每月将放出一部分付费节目单集进入限时免费试听库，当月结束后离库。<br />2. 用户可关注“GPASS限时免费听”信息进行免费试听。<br />3. 【录音笔】是GPASS推出的全新会员专享节目，内容来自机核办公室的日常生活和工作记录。<br />4. 每期时长十几分钟，内容多样，包括碎碎念、暴言和真实对话。<br />5. 节目每周一至周五下午17:00更新。 <div>
 <img src="https://image.gcores.com/09d46718842afa0224fd697dd4f6f9f0-640-360.webp?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90" /><p><span style="font-weight: bold;">从25年开始，每月将放出一部分付费节目播单中的单集，进入限时免费试听库。 当月结束之后离库。 如果您还在对购买节目进行观望，欢迎关注“GPASS限时免费听”信息，进行免费试听！ </span> </p><p>【录音笔】是GPASS推出的一档全新会员专享节目，内容来自机核办公室日程生活和工作中的一些短小记录，每期时长十几分钟左右。内容也许是一些不成体统的碎碎念，也许是一些突然发疯的暴言，还有可能是哪个缺德的把办公室里真实的日常对话（dui ma）偷偷录了下来，总之就连我们自己现在也不知道每期会有哪些人参与，会录些什么。</p><p>本节目将在每周的每个工作日（即周一至周五）下午17:00更新，希望各位喜欢。</p>
 ]]></content:encoded>
-<pubDate>Sat, 01 Feb 2025 21:00:00 +0800</pubDate>
 <pubDate>Sat, 01 Feb 2025 21:00:00 +0800</pubDate>
 </item>
 <item>
@@ -60,10 +213,9 @@
 <link>https://www.gcores.com/radios/193961</link>
 <guid>https://www.gcores.com/radios/193961</guid>
 <content:encoded><![CDATA[
-<div> 付费节目, 限时免费, 录音笔, 会员专享, 工作日更新<br><br>总结:<br>1. 从25年开始，每月将部分付费节目单集放入限时免费试听库，当月结束后离库。<br>2. 提供“GPASS限时免费听”信息，供用户免费试听。<br>3. 【录音笔】是GPASS推出的全新会员专享节目，内容来自机核办公室的日常生活和工作记录。<br>4. 每期时长约十几分钟，内容多样，包括碎碎念、暴言或真实对话。<br>5. 节目每周一至周五下午17:00更新。 <div>
+<div> 付费节目, 限时免费, 录音笔, 会员专享, 工作日更新<br /><br />总结:<br />1. 从25年开始，每月将部分付费节目单集放入限时免费试听库，当月结束后离库。<br />2. 提供“GPASS限时免费听”信息，供用户免费试听。<br />3. 【录音笔】是GPASS推出的全新会员专享节目，内容来自机核办公室的日常生活和工作记录。<br />4. 每期时长约十几分钟，内容多样，包括碎碎念、暴言或真实对话。<br />5. 节目每周一至周五下午17:00更新。 <div>
 <img src="https://image.gcores.com/8ba3a5b1bbc11b125969d612405a9842-640-360.webp?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90" /><p><span style="font-weight: bold;">从25年开始，每月将放出一部分付费节目播单中的单集，进入限时免费试听库。 当月结束之后离库。 如果您还在对购买节目进行观望，欢迎关注“GPASS限时免费听”信息，进行免费试听！ </span> </p><p>【录音笔】是GPASS推出的一档全新会员专享节目，内容来自机核办公室日程生活和工作中的一些短小记录，每期时长十几分钟左右。内容也许是一些不成体统的碎碎念，也许是一些突然发疯的暴言，还有可能是哪个缺德的把办公室里真实的日常对话（dui ma）偷偷录了下来，总之就连我们自己现在也不知道每期会有哪些人参与，会录些什么。</p><p>本节目将在每周的每个工作日（即周一至周五）下午17:00更新，希望各位喜欢。</p>
 ]]></content:encoded>
-<pubDate>Sat, 01 Feb 2025 21:00:00 +0800</pubDate>
 <pubDate>Sat, 01 Feb 2025 21:00:00 +0800</pubDate>
 </item>
 <item>
@@ -71,10 +223,8 @@
 <link>https://www.gcores.com/radios/193960</link>
 <guid>https://www.gcores.com/radios/193960</guid>
 <content:encoded><![CDATA[
-
 <img src="https://image.gcores.com/640e40117827a94797fe310790314de6-640-360.webp?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90" /><p><span style="font-weight: bold;">从25年开始，每月将放出一部分付费节目播单中的单集，进入限时免费试听库。 当月结束之后离库。 如果您还在对购买节目进行观望，欢迎关注“GPASS限时免费听”信息，进行免费试听！ </span> </p><p>【录音笔】是GPASS推出的一档全新会员专享节目，内容来自机核办公室日程生活和工作中的一些短小记录，每期时长十几分钟左右。内容也许是一些不成体统的碎碎念，也许是一些突然发疯的暴言，还有可能是哪个缺德的把办公室里真实的日常对话（dui ma）偷偷录了下来，总之就连我们自己现在也不知道每期会有哪些人参与，会录些什么。</p><p>本节目将在每周的每个工作日（即周一至周五）下午17:00更新，希望各位喜欢。</p>
 ]]></content:encoded>
-<pubDate>Sat, 01 Feb 2025 21:00:00 +0800</pubDate>
 <pubDate>Sat, 01 Feb 2025 21:00:00 +0800</pubDate>
 </item>
 <item>
@@ -82,7 +232,6 @@
 <link>https://www.gcores.com/radios/193959</link>
 <guid>https://www.gcores.com/radios/193959</guid>
 <content:encoded><![CDATA[
-
 <img src="https://image.gcores.com/1a51fb3cab80924efa36ddf0fb2e6a0d-1600-900.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90" /><p><span style="font-weight: bold;">从25年开始，每月将放出一部分付费节目播单中的单集，进入限时免费试听库。 当月结束之后离库。 如果您还在对购买节目进行观望，欢迎关注“GPASS限时免费听”信息，进行免费试听！ </span> </p><p>本期时间轴制作： 阿机Adji</p><p>1941年，第二次世界大战的全面爆发，不仅意味着电影古典美学的落幕，也同时砸碎了欧洲的电影工业。但二战作为人类历史上影响范围最广的战争，对苏联、美国、欧洲和亚洲的电影工业都产生了巨大的影响。在二战中与战后，电影的思潮又发生了怎样的变化呢？请随着杨治学老师继续我们的电影之旅。</p><p><span style="font-weight: bold;">本期节目中提及的电影片名列表：</span> </p><ol>
 <li>《公民凯恩》 | 奥逊·威尔斯 1941 </li>
 <li>《我们为何而战》 | 弗兰克·卡普拉 1942 </li>
@@ -136,17 +285,14 @@
 </ol>
 ]]></content:encoded>
 <pubDate>Sat, 01 Feb 2025 21:00:00 +0800</pubDate>
-<pubDate>Sat, 01 Feb 2025 21:00:00 +0800</pubDate>
 </item>
 <item>
 <title>【GPASS限时免费听】新浪潮：电影拍摄轻型化和青年文化</title>
 <link>https://www.gcores.com/radios/193952</link>
 <guid>https://www.gcores.com/radios/193952</guid>
 <content:encoded><![CDATA[
-
 <img src="https://image.gcores.com/a26399fbca40def7b3f9e825d86d6a85-1600-900.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90" /><p><span style="font-weight: bold;">从25年开始，每月将放出一部分付费节目播单中的单集，进入限时免费试听库。 当月结束之后离库。 如果您还在对购买节目进行观望，欢迎关注“GPASS限时免费听”信息，进行免费试听！ </span> </p><p>本期时间轴制作： 阿机Adji </p><p>经历过二次大战之后的世界满目疮痍又百废待兴，而在这时，幼年经历过战火与劫难的一代青年导演们成长起来了。他们想对自己的父辈提出的问题只有一个：既然你们说的都对，还阻止我们做这做那，那么我们想知道——你们这些做什么都对的人是怎么把这个世界搞成一团糟的？请跟随杨治学老师继续我们的百部电影之旅，感受“青年文化”与“新浪潮”的激情。</p>
 ]]></content:encoded>
-<pubDate>Sat, 01 Feb 2025 21:00:00 +0800</pubDate>
 <pubDate>Sat, 01 Feb 2025 21:00:00 +0800</pubDate>
 </item>
 <item>
@@ -154,10 +300,8 @@
 <link>https://www.gcores.com/radios/193950</link>
 <guid>https://www.gcores.com/radios/193950</guid>
 <content:encoded><![CDATA[
-
 <img src="https://image.gcores.com/79cde040cf719161f84eb617cf6be21d-1600-900.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90" /><p><span style="font-weight: bold;">从25年开始，每月将放出一部分付费节目播单中的单集，进入限时免费试听库。 当月结束之后离库。 如果您还在对购买节目进行观望，欢迎关注“GPASS限时免费听”信息，进行免费试听！ </span> </p><p>本期时间轴制作：阿机Adji</p><p>本系列节目由科幻作家、清华大学中文系副教授飞氘老师带来，以“文明的出路”为主题的一整套科幻书单。本期的主题是斯特普尔顿，《造星主》的作者。你也许知道，正是这本书启发了戴森球的设想，但其实他的科幻作品也有厚重的哲学底蕴，正是他的作品问出了贯穿了整个本系列的问题：“文明往何处去？”作为系列的开篇，敬请收听，体会百年之前科幻作家用科幻为载体的哲思。  </p>
 ]]></content:encoded>
-<pubDate>Sat, 01 Feb 2025 21:00:00 +0800</pubDate>
 <pubDate>Sat, 01 Feb 2025 21:00:00 +0800</pubDate>
 </item>
 <item>
@@ -165,10 +309,8 @@
 <link>https://www.gcores.com/radios/193945</link>
 <guid>https://www.gcores.com/radios/193945</guid>
 <content:encoded><![CDATA[
-
 <img src="https://image.gcores.com/d252cc1d5392e04f10a58799d7af2e53-1601-901.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90" /><p> </p><p><span style="font-weight: bold;">从25年开始，每月将放出一部分付费节目播单中的单集，进入限时免费试听库。 当月结束之后离库。 如果您还在对购买节目进行观望，欢迎关注“GPASS限时免费听”信息，进行免费试听！ </span> </p><p>本期时间轴制作：KYGinger </p><p>富坚义博，这个令人又爱又恨的名字每次出现，都会引起漫画圈的激烈讨论。</p><p>因为拖稿怒斥其懒惰，又因作品之精彩而苦苦守候，几乎成了每个“老贼受害者”共同的心路历程。</p><p>然而真实的富坚义博是一个怎样的人？他又为何被业界誉为“最接近漫画分镜真理的男人”？本期节目，漫画家CMJ将从主角设计、分镜特点等方面继续全方位剖析《幽游白书》。</p>
 ]]></content:encoded>
-<pubDate>Sat, 01 Feb 2025 21:00:00 +0800</pubDate>
 <pubDate>Sat, 01 Feb 2025 21:00:00 +0800</pubDate>
 </item>
 <item>
@@ -176,10 +318,8 @@
 <link>https://www.gcores.com/radios/193944</link>
 <guid>https://www.gcores.com/radios/193944</guid>
 <content:encoded><![CDATA[
-
 <img src="https://image.gcores.com/76c8b6638fbb4a329ab736f21b476f7f-1601-901.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90" /><p><span style="font-weight: bold;">从25年开始，每月将放出一部分付费节目播单中的单集，进入限时免费试听库。 当月结束之后离库。 如果您还在对购买节目进行观望，欢迎关注“GPASS限时免费听”信息，进行免费试听！ </span> </p><p>本期时间轴制作：KYGinger </p><p>富坚义博，这个令人又爱又恨的名字每次出现，都会引起漫画圈的激烈讨论。</p><p>因为拖稿怒斥其懒惰，又因作品之精彩而苦苦守候，几乎成了每个“老贼受害者”共同的心路历程。</p><p>富坚笔下的角色为什么如此富有魅力？本期节目，漫画家CMJ将从反派角色设计的角度与我们一同回味那部影响了无数中二少年的经典漫画——《幽游白书》。</p>
 ]]></content:encoded>
-<pubDate>Sat, 01 Feb 2025 21:00:00 +0800</pubDate>
 <pubDate>Sat, 01 Feb 2025 21:00:00 +0800</pubDate>
 </item>
 <item>
@@ -187,10 +327,8 @@
 <link>https://www.gcores.com/videos/194221</link>
 <guid>https://www.gcores.com/videos/194221</guid>
 <content:encoded><![CDATA[
-
 <img src="https://image.gcores.com/71602ac4e17f2ca24547da855ac892b9-1706-1279.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90" /><p>去年10月，我拜访了梦田书院。湛江不是大城市，要找一个这样的地方也难寻，但是机缘巧合得知了，过去了，感叹这地方真不错</p><p>后来也结实这里的主理人巍然老师，于是便把她拉来电台，小叙一下</p><p>祝各位新年快乐！</p>
 ]]></content:encoded>
-<pubDate>Sat, 01 Feb 2025 12:00:00 +0800</pubDate>
 <pubDate>Sat, 01 Feb 2025 12:00:00 +0800</pubDate>
 </item>
 <item>
@@ -198,13 +336,10 @@
 <link>https://www.gcores.com/videos/194224</link>
 <guid>https://www.gcores.com/videos/194224</guid>
 <content:encoded><![CDATA[
-
 <img src="https://image.gcores.com/e4b5672dab4b02abfc29abc90894ed61-1920-1440.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90" /><p>这就是了吗？这就是「Dark Soul」的血吗？</p>
 ]]></content:encoded>
 <pubDate>Sat, 01 Feb 2025 00:00:00 +0800</pubDate>
-<pubDate>Sat, 01 Feb 2025 00:00:00 +0800</pubDate>
 </item>
-
 <item>
 <title>游戏摄影 | 《剑星》战斗和DLC</title>
 <link>https://www.gcores.com/articles/194065</link>

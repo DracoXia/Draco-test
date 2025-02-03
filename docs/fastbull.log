@@ -328,3 +328,39 @@ Summarized using deepseek-chat
 Append: [DeepSeek推翻两座大山](https://www.fastbull.com/cn/news-detail/4318910_1)
 append_entries: 8
 Finish: 2025-02-02 02:40:55.932622
+------------------------------------------------------
+Started: 2025-02-03 02:38:41.048543
+Existing_entries: 138
+Fetching from https://rsshub.app/fastbull/news
+Token length: 846
+Summarized using deepseek-chat
+Append: [特朗普第一轮关税如期而至？](https://www.fastbull.com/cn/news-detail/4319165_1)
+Token length: 1008
+Summarized using deepseek-chat
+Append: [比散户更“傻”的人在抢购美股，这不是一个好兆头](https://www.fastbull.com/cn/news-detail/4318784_1)
+Token length: 1201
+Summarized using deepseek-chat
+Append: [特朗普关税大棒挥向加墨，美国经济面临通胀与供应链重组挑战](https://www.fastbull.com/cn/news-detail/4319167_1)
+Token length: 1368
+Summarized using deepseek-chat
+Append: [需求下滑+关税加剧炼油行业困境，石油巨头悲观预测：2025年炼油利润改善无望](https://www.fastbull.com/cn/news-detail/4319166_1)
+Token length: 1471
+Summarized using deepseek-chat
+Append: [国际货币基金组织上调中国经济增长预期](https://www.fastbull.com/cn/news-detail/4318767_1)
+Token length: 1424
+Summarized using deepseek-chat
+Append: [Deepseek和美元正在破坏“特朗普交易”](https://www.fastbull.com/cn/news-detail/4319048_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [德国陷入20年来最长经济衰退](https://www.fastbull.com/cn/news-detail/4318779_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [美联储的降息周期已经结束？](https://www.fastbull.com/cn/news-detail/4319047_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [2024年中国经济复盘与2025年展望](https://www.fastbull.com/cn/institution-article/4318766_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [美联储守口如瓶，利率前景越来越神秘](https://www.fastbull.com/cn/news-detail/4319046_1)
+append_entries: 10
+Finish: 2025-02-03 02:44:33.269408
