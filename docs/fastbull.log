@@ -364,3 +364,30 @@ error: Expecting value: line 1 column 1 (char 0)
 Append: [美联储守口如瓶，利率前景越来越神秘](https://www.fastbull.com/cn/news-detail/4319046_1)
 append_entries: 10
 Finish: 2025-02-03 02:44:33.269408
+------------------------------------------------------
+Started: 2025-02-04 02:38:10.384095
+Existing_entries: 148
+Fetching from https://rsshub.app/fastbull/news
+Token length: 1388
+Summarized using deepseek-chat
+Append: [被deepseek重击的，还有石油巨头的“ai能源梦”](https://www.fastbull.com/cn/news-detail/4319207_1)
+Token length: 1137
+Summarized using deepseek-chat
+Append: [关税风暴下，美元成避险新宠？](https://www.fastbull.com/cn/news-detail/4319209_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [特朗普征原油关税，美油价飙升，全球能源供应链或将重构?](https://www.fastbull.com/cn/news-detail/4319208_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [特朗普“关税核弹”引发美元狂潮，但还有反转？](https://www.fastbull.com/cn/news-detail/4319206_1)
+Token length: 854
+Summarized using deepseek-chat
+Append: [特朗普关税影响有多大？高盛：美股短期或下跌5%](https://www.fastbull.com/cn/news-detail/4319204_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [欧元兑美元暴跌1%！关键支撑位告破，空头机会来了？](https://www.fastbull.com/cn/news-detail/4319205_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [关税与PMI数据奠定基调：美元指数、英镑/美元及欧元/美元展望](https://www.fastbull.com/cn/news-detail/4319202_1)
+append_entries: 7
+Finish: 2025-02-04 02:42:56.161537
