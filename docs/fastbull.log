@@ -391,3 +391,42 @@ error: Expecting value: line 1 column 1 (char 0)
 Append: [关税与PMI数据奠定基调：美元指数、英镑/美元及欧元/美元展望](https://www.fastbull.com/cn/news-detail/4319202_1)
 append_entries: 7
 Finish: 2025-02-04 02:42:56.161537
+------------------------------------------------------
+Started: 2025-02-05 02:39:40.245618
+Existing_entries: 155
+Fetching from https://rsshub.app/fastbull/news
+Token length: 896
+Summarized using deepseek-chat
+Append: [欧盟寻求尽早与美国谈判，以避免特朗普加征关税](https://www.fastbull.com/cn/news-detail/4319321_1)
+Token length: 984
+Summarized using deepseek-chat
+Append: [美国12月职位空缺减少劳动力市场稳步放缓，美联储料6月才降息](https://www.fastbull.com/cn/news-detail/4319317_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [2月5日财经要闻](https://www.fastbull.com/cn/newsdetail/4319315_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [2月风险的确认](https://www.fastbull.com/cn/institution-article/4319318_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [美国经济强势+贸易避险“双引擎“撑腰，美元闪跌难撼多头信心](https://www.fastbull.com/cn/news-detail/4319314_1)
+Token length: 1058
+Summarized using deepseek-chat
+Append: [黄金又破纪录！关税战火点燃“避险王“行情，投行高呼3000美元不是梦](https://www.fastbull.com/cn/news-detail/4319313_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [又创新高！“金价远远超出预算”，还会越等越贵？](https://www.fastbull.com/cn/news-detail/4319277_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [关税协议推动美元/加元回落，空头占据主导了吗？](https://www.fastbull.com/cn/news-detail/4319276_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [周一的市场“过山车”会是2025年全年的预演吗？](https://www.fastbull.com/cn/news-detail/4319275_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [加征关税、诉至wto并实施出口管制，中方多管齐下反制美对华加征关税](https://www.fastbull.com/cn/news-detail/4319274_1)
+Append: [Deepseek持续火爆，多个云平台上线相关模型“抢食”算力需求](https://www.fastbull.com/cn/news-detail/4319273_1)
+Append: [特朗普，又有一系列大动作！](https://www.fastbull.com/cn/news-detail/4319272_1)
+Append: [在与美联储的斗争中，特朗普最大的敌人将是他自己！](https://www.fastbull.com/cn/news-detail/4319271_1)
+append_entries: 13
+Finish: 2025-02-05 02:48:11.925586

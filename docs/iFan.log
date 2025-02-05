@@ -94,3 +94,15 @@ Existing_entries: 22
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2025-02-04 02:45:36.232785
+------------------------------------------------------
+Started: 2025-02-05 02:53:17.082761
+Existing_entries: 22
+Fetching from https://www.ifanr.com/feed
+Token length: 8241
+Summarized using deepseek-chat
+Append: [早报|「微信视频美颜仅自己可见」系谣言/小米集团市值突破万亿港元/多平台宣布接入DeepSeek大模型](https://www.ifanr.com/1613562?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [用了一年 Ultra 机型，最后我还是买了台小屏](https://www.ifanr.com/1613330?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 2
+Finish: 2025-02-05 02:55:09.742635
