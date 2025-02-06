@@ -430,3 +430,77 @@ Append: [特朗普，又有一系列大动作！](https://www.fastbull.com/cn/ne
 Append: [在与美联储的斗争中，特朗普最大的敌人将是他自己！](https://www.fastbull.com/cn/news-detail/4319271_1)
 append_entries: 13
 Finish: 2025-02-05 02:48:11.925586
+------------------------------------------------------
+Started: 2025-02-06 02:40:14.085303
+Existing_entries: 168
+Fetching from https://rsshub.app/fastbull/news
+Token length: 3212
+Summarized using deepseek-chat
+Append: [中美竞争已聚焦于人工智能和关键矿产](https://www.fastbull.com/cn/news-detail/4319397_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [美加墨钢铁关税风波再起，企业备战涨价潮](https://www.fastbull.com/cn/news-detail/4319405_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [华尔街调降特斯拉2025盈利预期，分析师这么看](https://www.fastbull.com/cn/news-detail/4319396_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [可预见的贸易冲突，不可测的Web3结算](https://www.fastbull.com/cn/news-detail/4319390_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [贸易战烧向硅谷？欧盟报复措施或瞄准美国科技巨头](https://www.fastbull.com/cn/news-detail/4319398_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [美国邮政：2月4日起停收来自中国内地和香港地区的入境包裹](https://www.fastbull.com/cn/news-detail/4319394_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [特朗普接管加沙言论“引爆”中东！沙特带头抵制](https://www.fastbull.com/cn/news-detail/4319400_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [销量十年来首次下滑，特斯拉打响蛇年价格战第一枪](https://www.fastbull.com/cn/news-detail/4319387_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [美国政府开启对多国贸易战，短期内或扰动海外市场](https://www.fastbull.com/cn/institution-article/4319366_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [蛇年A股开市首日，AI概念股掀涨停潮！后市行情怎么看？](https://www.fastbull.com/cn/news-detail/4319382_1)
+Append: [本田、日产放弃合并，日本车企抱团取暖失败？](https://www.fastbull.com/cn/news-detail/4319389_1)
+Append: [市场提前“降息”25基点！英国央行同意了吗？](https://www.fastbull.com/cn/institution-article/4319372_1)
+Append: [特朗普关税威胁瞬息万变，投资者只得加倍提防](https://www.fastbull.com/cn/news-detail/4319371_1)
+Append: [特朗普预备挥棒，欧盟谋划应对，如何调整对美对华贸易政策](https://www.fastbull.com/cn/news-detail/4319374_1)
+Append: [白银市场分析：全球经济不确定性推动避险需求，白银价格三个月新高](https://www.fastbull.com/cn/news-detail/4319384_1)
+Append: [特朗普“政府瘦身”大计蔓延至情报机构，中情局提出“买断计划”](https://www.fastbull.com/cn/news-detail/4319375_1)
+Append: [美关税政策下，英镑或成赢家！](https://www.fastbull.com/cn/news-detail/4319377_1)
+Append: [日元收获技术突破，黄金迈向三千雄关！](https://www.fastbull.com/cn/institution-article/4319373_1)
+Append: [环球股市从周一的跌势反弹](https://www.fastbull.com/cn/institution-article/4319370_1)
+Append: [特朗普突踩刹车！美加墨关税战火暂停，欧盟嗅到谈判良机？](https://www.fastbull.com/cn/news-detail/4319360_1)
+Append: [特朗普关税或将致建筑成本飙升2.9万美元，美国购房需求或遭打压](https://www.fastbull.com/cn/news-detail/4319367_1)
+Append: [全球基金大举撤离印度股市！连续22天抛售刷新纪录](https://www.fastbull.com/cn/news-detail/4319365_1)
+Append: [谷歌为何在中国被反垄断调查？](https://www.fastbull.com/cn/news-detail/4319358_1)
+Append: [特朗普打响“加征关税2.0”第一枪：原因、影响、推演及应对](https://www.fastbull.com/cn/institution-article/4319352_1)
+Append: [缔造全球第三大车企计划泡汤？日产和本田据称考虑取消合并谈判](https://www.fastbull.com/cn/news-detail/4319357_1)
+Append: [印度：全面增长目标与改善民生](https://www.fastbull.com/cn/news-detail/4319355_1)
+Append: [A股市场的重大利好：万亿元保险增量资金将进入A股](https://www.fastbull.com/cn/news-detail/4319350_1)
+Append: [2024年全球黄金需求近5000吨再创新高，央行购买量连续三年超1000吨](https://www.fastbull.com/cn/news-detail/4319356_1)
+Append: [马斯克执掌的政府效率部权限引争议，美国财政部解释“只读”](https://www.fastbull.com/cn/news-detail/4319349_1)
+Append: [制造业PMI季节性回落](https://www.fastbull.com/cn/institution-article/4319351_1)
+Append: [特朗普关税对加墨两国“速战速决”？](https://www.fastbull.com/cn/news-detail/4319342_1)
+Append: [特朗普强力打击伊朗原油出口，华尔街银行上调油价预测](https://www.fastbull.com/cn/news-detail/4319346_1)
+Append: [中美“关税大战”隐忧重现](https://www.fastbull.com/cn/news-detail/4319345_1)
+Append: [美元指数阶段止跌反弹，本周重点关注关税政策落地情况](https://www.fastbull.com/cn/institution-article/4319330_1)
+Append: [财新1月中国服务业PMI连续第25个月位于扩张区间，但贸易前景不明朗令企业担忧](https://www.fastbull.com/cn/news-detail/4319340_1)
+Append: [美政府首场数字资产新闻会：已成立立法工作组，有望六个月内完成任务](https://www.fastbull.com/cn/news-detail/4319344_1)
+Append: [市场保持冷静，等待习特会通话结果明朗](https://www.fastbull.com/cn/news-detail/4319336_1)
+Append: [Q4营收不及预期、AI投资飙升，Alphabet股价盘后大跌7%](https://www.fastbull.com/cn/news-detail/4319343_1)
+Append: [日本新房短期转售过热，中国炒房客助推？](https://www.fastbull.com/cn/news-detail/4319335_1)
+Append: [杠杆清算潮席卷币圈，以太坊单日闪崩27%！反促ETF单日交易量创新高](https://www.fastbull.com/cn/news-detail/4319341_1)
+Append: [风云再起，如何破局？新形势下的多重博弈](https://www.fastbull.com/cn/news-detail/4319337_1)
+Append: [关税硝烟起，黄金创新高——春节期间市场四大热点](https://www.fastbull.com/cn/institution-article/4319326_1)
+Append: [日本薪资增速创1997年以来新高，日本央行加息预期大幅升温](https://www.fastbull.com/cn/news-detail/4319332_1)
+Append: [路在何方？美联储进入“观望模式”](https://www.fastbull.com/cn/news-detail/4319324_1)
+Append: [中国服务业PMI数据公布后澳元仍承压](https://www.fastbull.com/cn/news-detail/4319333_1)
+Append: [特朗普关税政策让美联储陷入两难局面：抗通胀还是保增长？](https://www.fastbull.com/cn/news-detail/4319328_1)
+Append: [美联储1月如期暂停降息，3月或继续暂停降息](https://www.fastbull.com/cn/institution-article/4319320_1)
+Append: [CBOT持仓：净多头增加，市场信心回升！谷物期货价格能否继续上涨？](https://www.fastbull.com/cn/news-detail/4319322_1)
+append_entries: 48
+Finish: 2025-02-06 02:49:41.722662

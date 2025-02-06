@@ -106,3 +106,26 @@ error: Expecting value: line 1 column 1 (char 0)
 Append: [用了一年 Ultra 机型，最后我还是买了台小屏](https://www.ifanr.com/1613330?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 2
 Finish: 2025-02-05 02:55:09.742635
+------------------------------------------------------
+Started: 2025-02-06 02:54:47.224903
+Existing_entries: 24
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [官宣！周冠宇加入法拉利 F1 车队](https://www.ifanr.com/1613615?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [法拉利官宣！纯电车型 10 月发布，测试车已被曝光，声浪或将成为一大卖点](https://www.ifanr.com/1613596?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [早报|《哪吒2》进入中国影史票房榜前三/华为小艺助手接入DeepSeek/OpenAI 进行首次品牌重塑](https://www.ifanr.com/1613645?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [DeepSeek 逼急 Gemini 放大招，ChatGPT 搜索功能免费开放，AI 掀起让利战](https://www.ifanr.com/1613627?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [爆火人形机器人宣布与OpenAI终止合作， 30天内要惊艳世界，网友：用DeepSeek了？](https://www.ifanr.com/1613567?utm_source=rss&utm_medium=rss&utm_campaign=)
+Append: [新车自己开出工厂？马斯克：特斯拉 FSD 进入无监管时代！](https://www.ifanr.com/1613451?utm_source=rss&utm_medium=rss&utm_campaign=)
+Append: [「蔚小理特」全都有！春节限时服务大汇总，有些羊毛不得不薅](https://www.ifanr.com/1613119?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 7
+Finish: 2025-02-06 02:59:51.111262
