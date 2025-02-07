@@ -129,3 +129,15 @@ Append: [新车自己开出工厂？马斯克：特斯拉 FSD 进入无监管时
 Append: [「蔚小理特」全都有！春节限时服务大汇总，有些羊毛不得不薅](https://www.ifanr.com/1613119?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 7
 Finish: 2025-02-06 02:59:51.111262
+------------------------------------------------------
+Started: 2025-02-07 02:56:54.960199
+Existing_entries: 31
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [早报|《哪吒2》登顶中国影史票房冠军/iPhone SE 4 有望于下周发布/DeepSeek 首次公开辟谣](https://www.ifanr.com/1613808?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [实测华为小艺版 DeepSeek，和满血版 R1 有差别吗？](https://www.ifanr.com/1613672?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 2
+Finish: 2025-02-07 02:58:58.470852
