@@ -577,3 +577,77 @@ Append: [全球市场最紧张的时刻过去了？10年期美债收益率跌破
 Append: [英国央行料降息25个基点，但通胀忧虑挥之不去](https://www.fastbull.com/cn/news-detail/4319443_1)
 append_entries: 47
 Finish: 2025-02-07 02:51:50.254493
+------------------------------------------------------
+Started: 2025-02-08 02:36:07.468127
+Existing_entries: 263
+Fetching from https://rsshub.app/fastbull/news
+Token length: 4141
+Summarized using deepseek-chat
+Append: [“米莱经济学”能否破解“拉美陷阱”？](https://www.fastbull.com/cn/news-detail/4319640_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [关税威胁、移民驱逐……一顿操作猛如虎，特朗普在拉美意欲何为？](https://www.fastbull.com/cn/news-detail/4319635_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [欧洲的汽车工业是如何崩溃的？](https://www.fastbull.com/cn/news-detail/4319617_1)
+Token length: 1567
+Summarized using deepseek-chat
+Append: [各国央行需求不减，金价还要涨？](https://www.fastbull.com/cn/news-detail/4319627_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [黄金居高不下，非农数据能撼动避险情绪吗？](https://www.fastbull.com/cn/news-detail/4319642_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [泰国总理访华：高调释放友好信号，争取高科技制造业合作](https://www.fastbull.com/cn/news-detail/4319626_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [强美元势头难挡？瑞银：美国经济驱动美元“超级周期”](https://www.fastbull.com/cn/news-detail/4319609_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [德国对美国贸易顺差去年创新高，经济或遭特朗普关税更猛烈冲击](https://www.fastbull.com/cn/news-detail/4319624_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [商品房成交暖意延续，物价同比去年春节走低](https://www.fastbull.com/cn/institution-article/4319628_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [日元汇率独步走高，还会继续升吗？](https://www.fastbull.com/cn/news-detail/4319602_1)
+Append: [英国央行降息25个基点，今晚焦点美国非农就业数据](https://www.fastbull.com/cn/institution-article/4319595_1)
+Append: [亚马逊的“AI豪赌”是神话还是泡沫？](https://www.fastbull.com/cn/news-detail/4319613_1)
+Append: [怕了特朗普！华尔街开始抱团前往中国股市](https://www.fastbull.com/cn/news-detail/4319604_1)
+Append: [欧洲央行高层“大换血”，降息路径或生变？](https://www.fastbull.com/cn/news-detail/4319601_1)
+Append: [印度央行近五年来首次降息，印度股市还能看到“神牛”故事吗？](https://www.fastbull.com/cn/news-detail/4319621_1)
+Append: [非农是否被高估？今晚就业报告将释放明确信号！](https://www.fastbull.com/cn/news-detail/4319607_1)
+Append: [会出现“百万就业大军”消失吗？今晚美国非农揭露“真相”！](https://www.fastbull.com/cn/news-detail/4319599_1)
+Append: [特朗普关税下中美脱钩势加速，数据却揭中国非「主要受害者」？](https://www.fastbull.com/cn/news-detail/4319591_1)
+Append: [打出一揽子政策组合拳后，2025年人民币是升是贬？](https://www.fastbull.com/cn/institution-article/4319593_1)
+Append: [印度央行近五年来首次降息，在全球风险加剧的背景下提振经济](https://www.fastbull.com/cn/news-detail/4319594_1)
+Append: [美国或从叙利亚完全撤军？真实意图存疑！](https://www.fastbull.com/cn/news-detail/4319597_1)
+Append: [澳元/美元现双十字星，反弹会延续吗？](https://www.fastbull.com/cn/news-detail/4319600_1)
+Append: [金价终断连涨，欧股再创新高！](https://www.fastbull.com/cn/institution-article/4319598_1)
+Append: [2025年中国经济发展的十大预判](https://www.fastbull.com/cn/institution-article/4319586_1)
+Append: [美国经济：PMI显示经济放缓但仍有韧性](https://www.fastbull.com/cn/institution-article/4319585_1)
+Append: [印度央行近五年来首次降息](https://www.fastbull.com/cn/news-detail/4319587_1)
+Append: [美国压力下，欧洲能否挺过“完美风暴”？](https://www.fastbull.com/cn/news-detail/4319584_1)
+Append: [1 月PMI回落，节前经济修复暂缓](https://www.fastbull.com/cn/institution-article/4319583_1)
+Append: [美国1月非农就业岗位预计增加17万个，失业率保持在4.1%](https://www.fastbull.com/cn/news-detail/4319582_1)
+Append: [特朗普新任期首个非农来袭！准备迎接混乱，黄金冲击2900？](https://www.fastbull.com/cn/news-detail/4319580_1)
+Append: [美国公布重要就业数据前夕，标普500指数高收](https://www.fastbull.com/cn/institution-article/4319581_1)
+Append: [美国可免费通航巴拿马运河？巴拿马总统驳斥：别再散布“谎言”！](https://www.fastbull.com/cn/news-detail/4319579_1)
+Append: [特斯拉和苹果成“美股七雄”中受关税影响最大的两家公司](https://www.fastbull.com/cn/news-detail/4319578_1)
+Append: [芯片股加剧AI担忧，亚马逊财报后大跌](https://www.fastbull.com/cn/news-detail/4319576_1)
+Append: [美国科技巨头面临拷问：DeepSeek爆火后，巨额AI投资还有意义吗？](https://www.fastbull.com/cn/news-detail/4319573_1)
+Append: [美元冲高回落！](https://www.fastbull.com/cn/news-detail/4319571_1)
+Append: [CBOT持仓：小麦净多仓暴增8000手！黑海寒潮能否引爆20%涨幅？](https://www.fastbull.com/cn/news-detail/4319564_1)
+Append: [拉尼娜下仍遭遇史上最热1月：科学家彻底震惊了！](https://www.fastbull.com/cn/news-detail/4319567_1)
+Append: [投资者消化央行动态，美元指数6日走强](https://www.fastbull.com/cn/news-detail/4319566_1)
+Append: [美国去年12月进口额大幅攀升](https://www.fastbull.com/cn/news-detail/4319561_1)
+Append: [美国非农就业报告前，美联储官员再为降息预期“泼冷水”](https://www.fastbull.com/cn/news-detail/4319563_1)
+Append: [晚盘大幅走弱，瑞日空头明确](https://www.fastbull.com/cn/news-detail/4319565_1)
+Append: [原油交易提醒：供需双杀之下，油价持续走低，等待空头加速](https://www.fastbull.com/cn/news-detail/4319562_1)
+Append: [特朗普对油价出招，嘴炮比制裁“更毒”](https://www.fastbull.com/cn/news-detail/4319557_1)
+Append: [非农前瞻：特朗普新任期首个非农来袭！山火和移民数据影响或巨大](https://www.fastbull.com/cn/news-detail/4319559_1)
+Append: [又一场冲突“重大升级”！](https://www.fastbull.com/cn/news-detail/4319555_1)
+Append: [美邮政署的“反转剧”，折射一个重要现实](https://www.fastbull.com/cn/news-detail/4319553_1)
+Append: [特朗普冲击下的华尔街：对冲保护越来越多、中国资产反受追捧？](https://www.fastbull.com/cn/news-detail/4319551_1)
+append_entries: 48
+Finish: 2025-02-08 02:45:15.042430

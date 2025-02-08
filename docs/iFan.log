@@ -141,3 +141,26 @@ error: Expecting value: line 1 column 1 (char 0)
 Append: [实测华为小艺版 DeepSeek，和满血版 R1 有差别吗？](https://www.ifanr.com/1613672?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 2
 Finish: 2025-02-07 02:58:58.470852
+------------------------------------------------------
+Started: 2025-02-08 02:50:19.422147
+Existing_entries: 33
+Fetching from https://www.ifanr.com/feed
+Token length: 6736
+Summarized using deepseek-chat
+Append: [早报|号称接入DeepSeek键盘鼠标1天卖近100万元/名创CEO：内部沟通严禁使用PPT/极越已成功为61名用户完成退款支付工作](https://www.ifanr.com/1614001?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [不卡顿免费使用 DeepSeek 的在线渠道，我给你整理好了 | 附体验链接](https://www.ifanr.com/1613689?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [OpenAI 突然公开 o3-mini 思维链！首秀遭质疑，实测对比 DeepSeek R1，差距太明显](https://www.ifanr.com/1613813?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [DeepSeek 被误读的 5 个真相，AI 大佬亲自揭秘](https://www.ifanr.com/1613588?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [OpenAI 深夜反击 DeepSeek！紧急上线 o3-mini 免费用，体验后发现差距在这](https://www.ifanr.com/1613516?utm_source=rss&utm_medium=rss&utm_campaign=)
+Append: [OpenAI 称掌握 DeepSeek 违规证据，Anthropic CEO 发万字长文喊话美国加强管制](https://www.ifanr.com/1613463?utm_source=rss&utm_medium=rss&utm_campaign=)
+Append: [突发！DeepSeek被美国质疑「偷窃」，遭OpenAI微软调查，论文曝突破英伟达护城河](https://www.ifanr.com/1613444?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 7
+Finish: 2025-02-08 02:55:25.509933
