@@ -164,3 +164,18 @@ Append: [OpenAI 称掌握 DeepSeek 违规证据，Anthropic CEO 发万字长文�
 Append: [突发！DeepSeek被美国质疑「偷窃」，遭OpenAI微软调查，论文曝突破英伟达护城河](https://www.ifanr.com/1613444?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 7
 Finish: 2025-02-08 02:55:25.509933
+------------------------------------------------------
+Started: 2025-02-09 02:58:50.449114
+Existing_entries: 40
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [早报|OPPO 新机将接入 DeepSeek-R1/《哪吒 2》进入全球动画电影票房榜前十/平台回应封禁汪小菲张兰等账号](https://www.ifanr.com/1614084?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [体验苹果新应用两天后，我开始期待大厂「抄作业」](https://www.ifanr.com/1613728?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [0 产品 0 营收，OpenAI 前首席科学家创办的新公司，就要冲击 200 亿美元估值](https://www.ifanr.com/1613995?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 3
+Finish: 2025-02-09 03:01:53.974718
