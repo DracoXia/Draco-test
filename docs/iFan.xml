@@ -5,11 +5,312 @@
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
 <item>
+<title>OpenAI CEO 深夜发文：AI 成本每年暴跌 10倍，2035 年人人都有超级大脑</title>
+<link>https://www.ifanr.com/1614102?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1614102?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="alignnone size-full wp-image-1614097" height="675" src="https://s3.ifanr.com/wp-content/uploads/2025/02/13-3.png" width="1200" /></p>
+<p>OpenAI CEO Sam Altman 最近很忙。</p>
+<p>忙着到全世界到处演讲，猛刷存在感；忙着回应马斯克的起诉，解决 OpenAI 转型期间的遗留问题，忙着筹备星门计划数据中心的选址。</p>
+<p>当然，今天深夜他还忙着发博客「炒作」AGI，试图夺回公众对 DeepSeek 的注意力和国际报刊的头版头条。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614094" height="880" src="https://s3.ifanr.com/wp-content/uploads/2025/02/10-1.png" width="1184" /></p>
+<p>省流版我们已经总结好了：</p>
+<ol>
+<li>AGI 的目标是确保它能够惠及所有人类，并且已经开始出现系统，这些系统能够在多个领域解决复杂问题。</li>
+<li>人类是工具构建者，每一代都在建立前一代的基础上，创造更有能力的工具，如电力、晶体管、计算机、互联网，以及即将到来的 AGI。</li>
+<li> AGI 作为人类进步的工具，可能会带来前所未有的繁荣和生活质量改善。</li>
+<li> AI 模型的智能水平与用于训练和运行它们的资源成正比，这些资源包括计算能力、数据和推理计算。</li>
+<li> AI 的使用成本每年下降约 10 倍，这可能导致更多的使用和应用。</li>
+<li> 随着 AI 的智能水平线性增加，其带来的社会经济价值是超指数级别的。</li>
+<li> AI Agent 将成为虚拟同事，在各个领域的知识工作中发挥作用。AI 可能在经济上类似于晶体管，是一个可以广泛扩展的大科学发现，它将渗透到经济和社会的每个角落。</li>
+<li> 主动性、意志力和决策能力将成为极其宝贵的品质，社会和经济将需要新的思维方式来适应 AGI 带来的变化。</li>
+<li> AGI 的影响可能会不平衡，一些行业可能会发生巨大变化，而其他行业则可能保持不变。</li>
+<li> 为了确保 AGI 的好处被广泛分配，可能需要新的想法和早期干预。</li>
+<li> 每个人都应该能够访问与整个前一代人类智慧相当的知识能力，这将导致创造性产出的爆炸性增长。</li>
+<li> 微软仍是重要合作伙伴，预计将与微软保持长期合作。</li>
+</ol>
+<p>附上博客原文：</p>
+<h3>三点观察</h3>
+<p>我们的使命是确保 AGI（通用人工智能）造福全人类。</p>
+<p>如今，一些接近 AGI 的系统已经开始显现，因此我们认为理解当前所处的阶段至关重要。AGI 的定义较为模糊，但通常指的是一种能够在人类水平上解决越来越复杂问题的系统，且适用于多个领域。</p>
+<p>（作者注释：本文使用「AGI」一词，我们的目的是清晰表达，并无意改变或重新定义我们与微软的合作关系，以及避免断章取义的解读，我们完全预计将与微软保持长期合作。）</p>
+<p>人类天生具有构建工具的能力，并且拥有理解和创造的驱动力，这促使世界不断进步。每一代人都会在前人发现的基础上进一步创新，创造出更强大的工具——<strong>从电力到晶体管，再到计算机、互联网，如今则是 AGI。</strong></p>
+<p>尽管人类的创新历程并非一帆风顺，但从长远来看，这一进程始终推动着社会发展，使人们的生活在各个方面都得到极大改善。</p>
+<p>从某种角度来看，AGI 只是人类不断攀登进步阶梯的又一个工具。但从另一个角度来看，它可能标志着一个真正不同的时代的开始。未来的经济增长前景令人惊叹，我们甚至可以设想一个世界：所有疾病都能被治愈，我们拥有更多时间陪伴家人，并能够充分发挥自己的创造潜力。</p>
+<p><strong>或许再过十年，地球上的每个人都能拥有比今天最具影响力的人更强的能力。</strong></p>
+<p><img alt="" class="alignnone size-full wp-image-1614095" height="720" src="https://s3.ifanr.com/wp-content/uploads/2025/02/11-1.png" width="1280" /></p>
+<p>我们持续见证 AI 发展的迅猛进步，以下是关于 AI 经济学的三点观察：</p>
+<ol>
+<li>AI 模型的智能水平大致等于其训练和运行所使用资源的对数。这些资源主要包括训练计算（compute）、数据和推理计算（inference compute）。目前的趋势表明，只要投入足够的资金，就能持续且可预测地提升 AI 能力，而支撑这一趋势的缩放定律（Scaling Laws）在多个数量级范围内都被证明是准确的。</li>
+<li> <strong>使用固定级别 AI 的成本大约每 12 个月降低 10 倍，价格下降会极大促进 AI 的使用。</strong>一个明显的例子是 GPT-4 在 2023 年初的使用成本，相比 GPT-4o 在 2024 年中期，其每个 token 的价格下降了约 150 倍。摩尔定律每 18 个月带来 2 倍的性能提升，而 AI 成本下降的速度远超这一趋势，影响将更加深远。</li>
+<li>线性增长的智能水平所创造的社会经济价值呈超指数级增长。这一趋势意味着，对于 AI 的指数级投资在可预见的未来不会停止。</li>
+</ol>
+<p>如果这三点趋势继续保持，AI 对社会的影响将是巨大的。</p>
+<p>目前，<strong>我们已经开始推出 AI Agents，它们最终可能会像「虚拟同事」一样与人类协作。</strong></p>
+<p>以软件工程领域的 AI Agent 为例——这是我们认为极为重要的应用方向之一。设想未来的 AI Agent 能够完成大部分经验 3-5 年的顶级公司软件工程师可以完成的任务，但任务时长限制在几天内。它不会有突破性的创新想法，需要大量的人类监督和指导，在某些方面表现出色，同时在某些意想不到的地方表现较差。</p>
+<p>尽管如此，它仍可以被视作一名真实但相对初级的虚拟同事。<strong>现在，想象一下如果有 1000 个这样的 AI Agnet，或者 1000000 个。再进一步，设想这样的 AI Agnet 被应用到所有知识型工作领域，其影响将难以估量。</strong></p>
+<p>在某些方面，AI 在经济上的作用可能会类似于晶体管——一个重大科学突破，能够大规模推广，并渗透到经济的各个角落。如今，我们不会特别关注晶体管或生产晶体管的公司，但它们的存在让我们的计算机、电视、汽车、玩具等设备变得更加强大、近乎奇迹般地运作。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614096" height="853" src="https://s3.ifanr.com/wp-content/uploads/2025/02/12-2.png" width="1280" /></p>
+<p>世界的变化不会一蹴而就，它从未如此。短期内，生活仍将继续，2025 年的人们大概率会和 2024 年一样度过日常——我们仍会相爱、组建家庭、在网上争论、去大自然中远足等等。</p>
+<p>然而，未来的到来将不可忽视，长期来看，社会和经济的变化将是巨大的。人类将找到新的事物去探索，找到新的方式去互相帮助、去竞争，但这些方式可能与今天的工作模式截然不同。</p>
+<p><strong>在这样的时代，主动性、意志力和决策能力将变得尤为宝贵。正确地决定要做什么，并在不断变化的世界中找到前进的道路，将具有极高的价值。因此，韧性和适应能力将成为关键技能。</strong></p>
+<p>AGI 将是史上最强大的杠杆，极大增强人类的主观能动性，它不会削弱个人的影响力，反而会让个体的能力比以往任何时候都更强大。</p>
+<p><strong>AGI 的影响不会均匀分布。</strong>某些行业可能变化不大，但科学进步的速度可能比今天快得多，甚至可能超越 AGI 带来的所有其他变革。</p>
+<p>长期来看，许多商品的价格将大幅下降（目前，智能成本和能源成本是许多行业的主要限制因素）。与此同时，奢侈品和一些稀缺资源（如土地）的价格可能反而会飙升。</p>
+<p>从技术角度来看，AGI 的发展道路相对清晰。但如何将 AGI 融入社会，公共政策和社会共识将起到至关重要的作用。<strong>这也是我们不断尽早、频繁推出 AI 产品的原因之一——让社会与技术共同演进，为未来做好准备。</strong></p>
+<p><img alt="" class="alignnone size-full wp-image-1614097" height="675" src="https://s3.ifanr.com/wp-content/uploads/2025/02/13-3.png" width="1200" /></p>
+<p><strong>AI 将渗透到经济和社会的方方面面，未来，我们会期待一切都变得智能化。面对这一趋势，许多人认为应该给予个人更多对技术的控制权，比如开放源码等措施，同时也要接受在安全性与个体赋权之间找到平衡，必然需要做出一些取舍。</strong></p>
+<p><strong>我们始终希望避免鲁莽行事，未来在 AGI 安全性方面可能会做出一些不受欢迎的重要决策和限制。</strong>但总体而言，随着 AGI 的逐步实现，我们认为更倾向于个体赋权是正确的方向。否则，我们可能会看到另一条道路。</p>
+<p>确保 AGI 的广泛受益，让 AGI 的好处惠及全社会至关重要。从历史来看，科技进步通常会改善健康状况、经济繁荣等关键指标，且长期来看整体趋势是向好的。但技术本身不会自动带来更大的平等，如果希望在社会公平方面做得更好，我们可能需要新的思维方式。</p>
+<p>尤其值得关注的是，资本与劳动力之间的力量平衡可能会被打破，这可能需要及早干预。</p>
+<p>我们愿意考虑一些听起来不太寻常的想法，比如给每个人分配一定的「计算预算」（compute budget），让全球所有人都能充分利用 AI。<strong>当然，也有一种更简单的方法：持续降低智能计算的成本，让人人都能负担得起 AI。</strong></p>
+<p><strong>到 2035 年，每个人都应该能够调用相当于 2025 年全人类智慧总和的智力资源。所有人都应当获得近乎无限的智能支持，并自由地发挥想象力。</strong>目前，世界上仍有大量人才因缺乏资源而无法充分发挥自己的潜力，如果我们改变这一点，全球的创造力将迎来爆发式增长，并为所有人带来巨大的福祉。</p>
+<p>附上博客原地址：<br />
+https://blog.samaltman.com/three-observations</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1614102">原文链接</a> ·
+<a href="https://www.ifanr.com/1614102#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Mon, 10 Feb 2025 01:42:35 +0000</pubDate>
+<pubDate>Mon, 10 Feb 2025 01:42:35 +0000</pubDate>
+</item>
+<item>
+<title>早报|首款内嵌 DeepSeek 手机曝光/iPhone SE 4 或本周发布，国行苹果 AI 也快了/小米汽车辟谣「断轴」传闻</title>
+<link>https://www.ifanr.com/1614088?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1614088?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<div style="padding: 0 14px; text-align: center;"><img alt="cover" src="https://s3.ifanr.com/images/ep/cover-images/zheng_qi_v2_cover.jpg" /></div>
+<div style="padding: 0 14px;">
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="📱" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4f1.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">苹果 3 月在华举办苹果智能相关活动</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🔍" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f50d.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">DeepSeek 官网日活跃量超 Google Gemini</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🚗" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f697.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">小米汽车辟谣「断轴」传闻</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="❗" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/2757.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">苏宁电器破产重整</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🧠" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f9e0.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">DeepMind 新 AI 系统超越国际数学奥林匹克金牌选手</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="☁" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/2601.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">阿里云百炼上线全尺寸 DeepSeek 模型，满血版、蒸馏版全面支持</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="💰" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4b0.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">蔚来「豪掷」万元，征集黑公关水军线索</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🌐" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f310.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">ai.com 域名现已跳转至 DeepSeek，此前不停蹭热度</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="💬" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4ac.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">荣耀产品经理：本次接入的是「满血」DeepSeek</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🔋" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f50b.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">福特 CEO：想赢中国电动汽车，要先学其技术</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="💡" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4a1.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">AI 教母李飞飞：政策制定必须基于科学，而非科幻小说</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🚗" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f697.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">比亚迪多款智驾版车型今日上线</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="📱" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4f1.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">首款内嵌 DeepSeek 手机曝光</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🎬" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f3ac.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">《哪吒 2》进入全球影史票房榜前 40</p>
+</div>
+</div>
+</div>
+<section><img alt="重磅" src="https://s3.ifanr.com/images/ep/common-images/xin_wen.png" /></section>
+<h3>苹果 3 月在华举办苹果智能相关活动</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5/f24fb570-1323-4062-8759-9898ffaf203f.jpg" /></p>
+<p>日前，苹果向开发者发送了关于「利用苹果智能的力量」开发者活动的相关邮件。</p>
+<p>值得关注的是，本次活动将于 3 月 25 日 10:00 至 12:00 在上海举行，活动主题将围绕苹果智能和机器学习两个方面。而这一举动，也暗示在中国大陆的苹果智能 AI 功能或将上线。</p>
+<p>近期，有消息透露，苹果 CEO 库克在公司的 2024 年 Q4 财报电话会上表示，公司将会在今年 4 月对 Apple Intelligence 适配更多语言，其中包括中文。而苹果也于 1 月 30 日，对 Apple 智能的官网信息进行更新，其中提到 Apple 智能将会支持中文。另外，在 2024 年 9 月秋季发布会中苹果也提到，将会在今年内支持中文等语言。</p>
+<p>此外，1 月 10 日，据天眼查显示，苹果技术开发（上海）有限公司成立，其法定代表人为 Tejas Kirit Gala，注册资本为 3,500 万元；该公司行业归属为软件和信息技术服务业；经营范围包括软件开发、大数据服务、数据处理服务、数据处理和存储支持服务等。</p>
+<p>此外，据彭博社记者 Mark Gurman 报道，iPhone 正在失去优势，一方面是中国市场竞争激烈，另一方面是 iPhone 缺失 AI 的领先技术，尽管如今苹果智能已经亮相，但依然不敌 Google 的 Gemini。</p>
+<p>而本周发布的 iPhone SE 将开启苹果的产品线关键年。Gurman 指出，iPhone 硬件负责高管 John Ternus 近期表示，即将推出的 iPhone 新品将会是其最具雄心的，并且相当看好新品的销售未来。</p>
+<p>据悉，Gurman 此前表示，新款 iPhone SE 的外观设计看起来会更像 iPhone 14，同时将搭载 A18 芯片并支持 Apple Intelligence，接口也将升级成 USB-C。</p>
+<section><img alt="大公司" src="https://s3.ifanr.com/images/ep/common-images/da_gong_si.png" /></section>
+<h3>DeepSeek 官网日活跃量超 Google Gemini</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5/4f3a588a-7175-4a42-96a8-3e46e5d1b08f.jpg" /></p>
+<p>近日，DeepSeek 凭借强大的性价比和开放的开源精神，搅动了海外的 AI 市场。据网站数据分析平台 SimilarWeb 显示，DeepSeek 官网（DeepSeek.com）的日访问量已经超过了谷歌的 Gemini 和 Character.AI。</p>
+<p>具体显示，DeepSeek 官网（deepseek.com）1 月访问量达到 2.77 亿次，已超越 Google Gemini（gemini.google.com）、Character.AI 等热门 AI 公司。而在 1 月 28 日当天，DeepSeek 达到 4,900 万的日访问量，与前一周相比增长 614%。一个月前，DeepSeek 的日均访问量仅为 30 万次。</p>
+<p>自 DeepSeek 发布其开源的 DeepSeek-V3 模型后，其关注度急剧上升。据悉，DeepSeek-V3 的训练成本仅为 558 万美元，远低于如训练成本高达 7,800 万美元的 GPT-4。而后续发布的 DeepSeek R1 更是以较低的训练成本实现了媲美 OpenAI o1 性能的效果。加州伯克利大学在读博士 Jiayi Pan 的研究团队更是以极低的成本（低于 30 美元），复现了 DeepSeek R1-Zero 的关键技术——「顿悟时刻」。</p>
+<h3>小米汽车辟谣「断轴」传闻</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5/5e422836-2d63-4850-8f4b-a0ff74a3a8b8.jpg" /></p>
+<p>近日，有车主称其驾驶小米 SU7 经过坑洼路段后，车辆出现了断轴情况。</p>
+<p>2 月 9 日，小米汽车官方发文辟谣，经查完全不存在所谓「断轴」情况。</p>
+<p>小米汽车信息显示，驾驶员以约 70km/h 的车速高速过路面(该路段悬挂提醒 20km/h 限速的标识)，行至某一破损/坑洼路面，因前述不当驾驶行为，车身部位冲击凹坑边缘，导致车辆右后侧轮胎、轮毂、悬架等部位在冲击后受损。</p>
+<p>同时小米汽车表示，门店和工程团队去往事故现场实地考察，再结合车辆受损部位的痕迹，推断用户车辆在该路况下严重超速行驶，同时车辆受到路坑边缘冲击下，轮胎异常受力后爆胎，而后冲击力直接传递到轮圈、摆臂上，导致摆臂受力过载后断裂，并非个别谣传断轴。</p>
+<p>小米汽车强调，鼓励大家通过合情、合理、合法的渠道来维护自己的权益，但坚决反对任何不实、甚至带有污蔑和诋毁的行为。</p>
+<p>值得关注的是，本次声明中还提到，根据现场情况和保司相关流程提出让驾驶员做酒精检测，但驾驶员拒绝配合，而未能做检测。</p>
+<p>此外，雷军还在 2 月 8 日宣布了小米 YU7 冬季高速长途的测试活动。全程共 15 小时，雷军表示自己开了 1,310 公里，几乎全程高速，平均时速 100km/h 以上，路上最低温度 -10℃，中间充电和休息 2 次。</p>
+<h3>苏宁电器破产重整</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5/d3651016-7909-4c58-b206-a1ec01ba2bb1.jpg" /></p>
+<p>近日，全国企业破产重整案件信息网发布苏宁电器集团、苏宁控股集团、苏宁置业集团破产重整案件信息与一债会公告，三家公司于 2025 年 1 月 26 日由南京中院受理破产重整。</p>
+<p>根据公告要求，3 家公司的债权人需要在 2025 年 3 月 25 日前向苏宁电器集团管理人申报债权，首次债权人会议定于 4 月 2 日在线召开。</p>
+<p>值得关注的是，本次申请破产的并非发生在公众熟知的苏宁易购。企查查显示，苏宁控股、苏宁电器均为苏宁易购股东，持股比例分别为 2.75% 和 1.4%。</p>
+<p>针对两家股东被申请重整一事，作为上市主体的苏宁易购向媒体回应称，被申请重整的两家股东对苏宁易购持股比例较低，不影响公司治理结构及持续经营。</p>
+<p>据悉，苏宁始创于 1990 年，上市公司名称从「苏宁电器」改为「苏宁云商」，后更名「苏宁易购」，其曾是中国最成功的线下零售连锁企业之一，中国最大的 B2C 电子商务平台之一。除零售主业外，苏宁的投资版图遍布地产、物流、体育、电竞、金融等行业。</p>
+<h3>DeepMind 新 AI 系统超越国际数学奥林匹克金牌选手</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5/5e915c29-9b05-4d11-a7ce-cb241d149102.jpg" /></p>
+<p>2 月 8 日，DeepMind AlphaGeometry 项目负责人 Thang Luong 宣布，DeepMind 新 AI 系统 AlphaGeometry2（AG2）在国际数学奥林匹克（IMO）几何问题解答上超越了金牌选手的平均水平。</p>
+<p>研究显示，AlphaGeometry2 能够解决过去 25 年 IMO 竞赛中 84% 的几何题目。在具体测试中，AlphaGeometry2 在 50 道 IMO 历年试题中成功解答了 42 道，超过了平均金牌得主 40.9 的成绩。</p>
+<p>AlphaGeometry2 采用了混合架构设计，结合了 Gemini 系列 AI 模型的语言能力和专门的「符号引擎」，能够通过预测和添加必要的几何构造（如点、线、圆），并结合数学规则进行逻辑推理，最终找到问题的解决方案。此外，由于训练数据匮乏，研究团队特别生成了超过 3 亿个不同复杂程度的定理和证明来训练系统。</p>
+<p>不过，该系统仍存在一些局限性，例如无法处理包含变量点数、非线性方程和不等式的问题。在另一组 29 道更具挑战性的未使用 IMO 备选题中，AlphaGeometry2 仅解决了 20 道。</p>
+<h3>阿里云百炼上线全尺寸 DeepSeek 模型，满血版、蒸馏版全面支持</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5/e8585554-c78f-4b22-8fd4-bf539b34ad50.jpg" /></p>
+<p>2 月 9 日，阿里云宣布百炼平台全面上线 DeepSeek-V3、DeepSeek-R1、DeepSeek-R1-Distill-Qwen-32B 等 6 款全尺寸模型，1 元最高可享受 200 万 tokens。</p>
+<p>官方信息显示，满血版 DeepSeek-R1 的输入价格为4元/百万 tokens；而蒸馏版 DeepSeek-R1-Distill-Qwen-7B 输入价格仅为 0.5 元/百万 tokens，为全网最低价，最小尺寸的 DeepSeek-R1-Distill-Qwen-1.5B 则面向用户限时免费。此外，阿里云百炼还为所有用户提供 DeepSeek-R1 与 DeepSeek-V3 100 万的免费 tokens。</p>
+<p>此前，阿里云 PAI 已支持云上一键部署 DeepSeek-V3、DeepSeek-R1 及其蒸馏版模型，可为企业和开发者提供更定制化的开发服务。</p>
+<h3>蔚来「豪掷」万元，征集黑公关水军线索</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5/9f8fd035-bd8f-4218-aadb-924aafd90561.jpg" /></p>
+<p>2 月 9 日，蔚来法务部发布声明，公开征集黑公关和水军线索，并将给予人民币 1 万元至 100 万元不等的奖励。</p>
+<p>蔚来方面称，近期其采取法律手段打击黑公关和网络水军，并已公布相关维权进展，获得社会各界的广泛支持和积极响应。同时蔚来强调，将坚定不移地维护蔚来及广大用户的合法权益，现面向社会公开征集黑公关和网络水军恶意攻击的线索和证据。</p>
+<p>蔚来法务部于 1 月 26 日和 2 月 5 日分别发布声明，公布了其打击黑公关和网络水军的最新进展，其中包含部分汽车自媒体账号、个人水军账号。</p>
+<p>蔚来方面表示，若网友发现任何网络账号出于获取流量或其他不法利益目的，对蔚来公司及旗下品牌蔚来、乐道和萤火虫进行侮辱、诽谤，或有组织地制造、传播恶意负面信息，均可向蔚来提供相关线索和证据。</p>
+<h3>ai.com 域名现已跳转至 DeepSeek，此前不停蹭热度</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5/c8cc9f3c-35ed-4be0-aea8-92dbb6b7c389.jpg" /></p>
+<p>据爱范儿观察，近期 ai.com 又蹭到了新的热度—DeepSeek。目前 ai.com 域名已跳转至 DeepSeek 的 chat.deepseek.com。</p>
+<p>此前，ai.com 曾跳转过 ChatGPT、xAI，以及 Google Gemini 官网。而此前跳转至 DeepSeek，或意味着 ai.com 该域名依然未出售。</p>
+<p>而根据域名查询网站 whois 显示，ai.com 域名有效期至 2031 年 5 月 5 日，注册联系人显示来自马来西亚首都吉隆坡。</p>
+<h3>荣耀产品经理：本次接入的是「满血」DeepSeek</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5/36971aa8-e0bd-46ca-be41-51a89eef7ace.jpg" /></p>
+<p>2 月 8 日，荣耀终端股份有限公司产品线总裁方飞发文表示，荣耀上线了 DeepSeek，用户打开 YOYO 助理，就能与 DeepSeek 进行对话。</p>
+<p>同日，荣耀终端股份有限公司旗舰手机产品经理李坤转发微博并透露，本次荣耀接入的是满血版 DeepSeek-R1 模型，同时其表示，YOYO 助理接入 DeepSeek 之后有些火爆，刚上线就被用户「挤爆」了。</p>
+<h3>福特 CEO：想赢中国电动汽车，要先学其技术</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5/97de93b7-d885-4e4a-b9d7-bf9dcf755adb.jpeg" /></p>
+<p>近日，福特汽车 CEO Jim Farley 在接受《纽约时报》采访时表示，中国在电动汽车（EV）电池制造领域领先西方车企数年，而福特若想与中国的电动汽车产业平起平坐甚至超越，就必须学习甚至利用中国的相关技术。</p>
+<p>Jim Farley 强调，美国电动汽车与中国电动汽车竞争的方式，就是像中国 20 年前需要美国的知识产权（IP）一样，获取如今中国电动汽车的 IP，然后利用自身创新的生态系统、美国的创造力、强大的规模优势以及与客户的紧密联系，在全球范围内超越中国，并且 Jim Farley 表示，这也将是拯救美国工业经济最重要的一场竞赛。</p>
+<p>据了解，福特正在建设的庞大 BlueOval 电池园区预计将于 2026 年完工，届时将生产电动汽车所需的磷酸铁锂电池，而这些电池依赖于来自中国的电池制造商—宁德时代的技术。行业专家表示，在电池制造方面，美国现在至少落后于中国十年，无论是必要的技术还是产能。</p>
+<h3><img alt="💡" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4a1.png" style="height: 1em;" /> AI 教母李飞飞：政策制定必须基于科学，而非科幻小说</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5/4ad0b609-93ee-4a29-af2e-3610461e67f8.jpg" /></p>
+<p>近日，斯坦福大学教授、拥有「AI 教母」之称的李飞飞发布公开信，信中她提到了人工智能政策制定的三大基本原则」。</p>
+<p>其中，李飞飞指出，政策制定必须基于科学，而非科幻小说。她强调，科学工作的基础是原则性地依赖实证数据和严谨的研究，同样的方法也应该应用到 AI 治理上。并且她提醒，宏大的未来场景固然想象美好，但政策的制定依然要认清 AI 当前的现实。</p>
+<p>同时，李飞飞还提到模型滥用的问题。因此她建议最好的治理政策应旨在战术性地减轻此类风险，同时奖励负责任的实践。她具体说到，政策制定者必须制定实用的责任政策，以阻止故意滥用，同时不会不公平地惩罚善意的行为。</p>
+<p>最后，李飞飞表示，政策必须能够赋能整个人工智能生态系统，包括开源社区和学术界。她解释道，AI 模型和计算工具开放或开源至关重要，因为限制访问或将导致技术会减缓创新甚至停滞不前，并且对于那些资源相对匮乏的学术机构和研究人员来说，他们与私营企业的同行相比，往往处于不利地位。</p>
+<section><img alt="新产品" src="https://s3.ifanr.com/images/ep/common-images/hao_chan_pin.png" /></section>
+<h3>比亚迪多款智驾版车型今日上线</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5/62c1cecc-c334-41b5-8b20-998c46465069.jpg" /></p>
+<p>2 月 9 日，比亚迪宣布今日 19:30 举办智能化战略发布会，届时将发布比亚迪第二代秦 Plus/海豹 05 DM-i/宋 Plus 三款车型的智驾版。</p>
+<p>值得关注的是，本次第二代秦 Plus/海豹 05 DM-i/宋 Plus 三款车型的智驾版将搭载天神之眼 C- 高阶智驾三目版（DiPilot 100）。同时秦 Plus 也迎来第二代，采用与秦 L 相似的「龙颜美学」设计，混动版全系标配第五代 DM 技术。</p>
+<h3>首款内嵌 DeepSeek 手机曝光</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5/b120e5e1-24ea-4ff9-8dc7-23296caeed5a.jpg" /></p>
+<p>2 月 8 日，据博主 @极客村长 爆料称，国产手机努比亚 Z70 Ultra 的 Nebula AIOS 正开展将 DeepSeek 对话功能整合到系统内部的重要测试。</p>
+<p>该博主表示：「业内首个内嵌 DeepSeek 手机的头衔，率先被努比亚 Z70Ultra 拔得头筹」，从分享的用户界面图来看，这款手机能让用户通过星云智能对话平台直接访问 DeepSeek 服务，而无需打开 DeepSeek App 的对话界面。</p>
+<p>已知荣耀、华为等品牌都计划接入 DeepSeek-R1 大模型，而努比亚选择了更深层次的系统嵌入方式，这可能会带来更加流畅的用户体验。</p>
+<p>目前该项目仍处于测试阶段，其最终上线时间尚未确定。</p>
+<h3>消息称徕卡下半年将发布改用电子取景器的 M11 特别版相机</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5/8e70b374-1799-4423-8c50-f5ea50e41c57.jpg" /></p>
+<p>近日据 LeicaRumors 报道称，徕卡将在今年下半年推出一款采用 EVF 取景器的徕卡 M 系列相机，可能作为 M11 的特别版发布，也可能被称为「徕卡 M EVF」。</p>
+<p>据悉，去年 5 月该机型的早期设计图便流出，但当时多数人猜测该机器为配备黄斑联动测距取景和 EVF 电子取景器的徕卡 M12，而目前消息显示，徕卡只是将旗下 M11 相机的黄斑联动测距取景系统改成了 EVF 电子取景器，并将该款特殊机型单独对外销售。</p>
+<p>此外，据报道透露，该款机器或将配备大尺寸 LCD 显示屏，并将取消正面的实体按键。</p>
+<section><img alt="新消费" src="https://s3.ifanr.com/images/ep/common-images/pin_pai.png" /></section>
+<h3>苹果发布「活动邀请」App</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5/164355ad-1f4d-489d-82cc-213dd4e4e19a.jpg" /></p>
+<p>本周，苹果推出全新的「活动邀请（Apple Invites）」App，推出一天已火速登上美国 App Store 排行第一。</p>
+<p>据悉，活动邀请 App 的邀请函采用「卡片」形式，效果类似 iOS 联系人的大图海报。除了自选的照片，苹果还提供了表情符号、摄影以及色彩三款主题的背景图。如果是支持 Apple 智能的机型，还能现场按需生成适合的图片。</p>
+<p>活动邀请更强的功能在于「RSVP」（管理回复）以及与苹果生态的联动。用户可以选择用 iMessage、邮件或者复制链接的形式发给联系人，如果对方没有下载这个应用，或者是 Android 用户，则会直接打开一个网页。在活动当天，邀请函还会提供一个二维码，扫描就能显示活动的详细信息。</p>
+<p>此外，使用活动邀请 App 的邀请者可以直接在其中快速新建一个专门的 iCloud 共享相册，参加者也能在活动页面直接快速选取照片上传。除此之外，如果发起者有 Apple Music 账户，还能把派对 BGM 歌单添加上去。</p>
+<h3>因网络瘫痪，索尼赠送所有 PS Plus 会员额外 5 天订阅</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5/1e94cad0-fa46-454c-b89d-bfbb01047431.jpg" /></p>
+<p>近日，索尼旗下 PlayStation 网络遭遇长达一天的中断故障，因此官方发表道歉声明，同时表示为表歉意，索尼承诺将对所有 PlayStation Plus 会员自动续费额外 5 天的服务。</p>
+<p>据悉，本次 PlayStation 网络中断于北京时间 2 月 8 日早 8 点开始，影响范围波及全球用户。据索尼官方的 PSN 状态页面显示，账户管理、游戏、社交功能、PlayStation Store 等官网均受到影响。</p>
+<h3>美团开放个人摄影师入驻</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5/4931676a-dc22-475e-ae25-8d44e4accb6f.jpg" /></p>
+<p>据 Tech 星球获悉，美团在近期启动个人摄影师招募计划。</p>
+<p>具体显示，首批开放免费入驻城市有北京、上海、杭州、南京和西安，现阶段招募的是人像摄影师，服务类型包含婚恋类、宴会类和景点跟拍类等，摄影师向平台交付 2,000 元押金后，无需营业执照，即可以店铺的形式入驻美团 App 和大众点评 App，并上架自己的团购套餐，摄影师将提供上门服务。</p>
+<p>知情人士透露，为了更好满足用户的新型消费需求，让用户更便捷地找到所需的摄影师，并且发挥团购等产品的标准化优势，美团进一步确定摄影行业服务的专业化水平，保障用户跟拍、旅拍等摄影服务体验。</p>
+<section><img alt="好看的" src="https://s3.ifanr.com/images/ep/common-images/hao_kan_de.png" /></section>
+<h3>《哪吒 2》进入全球影史票房榜前 40</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5/7f265ee8-3666-4dc0-b9a8-150d2d7dad3d.jpeg" /></p>
+<p>2 月 9 日，据灯塔专业版，截至 2 月 9 日 14 时 31 分，影片《哪吒之魔童闹海》票房（含预售）突破 78.09 亿，超过《星球大战：天行者崛起》进入全球影史票房榜前 40。影片也在全球动画电影票房榜中进入影史前 7，这也是首部进入全球票房榜前 40 的亚洲电影。《哪吒之魔童闹海》还打破中国影史累积人次记录，达到 1.6 亿人次。</p>
+<p>2 月 10 日 0 点，《哪吒之魔童闹海》突破 81 亿票房。</p>
+<h3>李安领取美国导演工会的终身成就奖</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5/983a6ca8-7045-46a5-9053-ed043c96a173.jpg" /></p>
+<p>当地时间 2 月 8 日，第 77 届美国导演工会奖颁奖，导演李安获得终身成就奖，并成为首名获此荣誉的华人导演。</p>
+<p>颁奖典礼现场，李安表示，站在领奖台上像是做梦之后变成现实。他感慨，电影是许多人的合作和努力，是别人的人生经历、别的艺术家所作出的贡献，是电影人们奉献心力的成果。</p>
+<p>此外，本次由杨紫琼为李安进行颁奖，两人此前于 2000 年的《卧虎藏龙》合作。</p>
+<h3>电影《厨房》发布中国内地定档预告</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5/975009d2-81ba-4fc0-b873-d7330bf8a833.jpg" /></p>
+<p>电影《厨房（La Cocina）》发布中国内地定档预告，定于 2 月 28 日上映。</p>
+<p>该片为一部 R 级爱情惊悚剧情片，入围第 74 届柏林国际电影节主竞赛单元，以黑白色调和独特调度，聚焦纽约一家餐厅的厨房打工人的癫狂人生。</p>
+<p>影片由阿隆索·帕拉西奥斯执导，劳尔·布里奥内斯、鲁妮·玛拉主演；安娜·迪亚斯、莫泰尔·福斯特出演。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1614088">原文链接</a> ·
+<a href="https://www.ifanr.com/1614088#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Mon, 10 Feb 2025 00:38:46 +0000</pubDate>
+<pubDate>Mon, 10 Feb 2025 00:38:46 +0000</pubDate>
+</item>
+
+<item>
 <title>早报|OPPO 新机将接入 DeepSeek-R1/《哪吒 2》进入全球动画电影票房榜前十/平台回应封禁汪小菲张兰等账号</title>
 <link>https://www.ifanr.com/1614084?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1614084?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-
 <div style="padding: 0 14px; text-align: center;"><img alt="cover" src="https://s3.ifanr.com/images/ep/cover-images/yi_qun_chong_lang_zhe_cover.jpg" /></div>
 <div style="padding: 0 14px;">
 <div>
@@ -243,14 +544,12 @@
 </div>
 ]]></content:encoded>
 <pubDate>Sun, 09 Feb 2025 01:10:37 +0000</pubDate>
-<pubDate>Sun, 09 Feb 2025 01:10:37 +0000</pubDate>
 </item>
 <item>
 <title>体验苹果新应用两天后，我开始期待大厂「抄作业」</title>
 <link>https://www.ifanr.com/1613728?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1613728?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="" class="alignnone size-large wp-image-1614019" height="555" src="https://s3.ifanr.com/wp-content/uploads/2025/02/cover-1-1024x555.jpg" width="1024" /></p>
 <p>除了发产品、搞系统，苹果这几年还在发力「果产应用」赛道：前几年的「翻译」，去年的「密码」和「体育」，本周又推出了全新的「活动邀请（Apple Invites）」，推出一天已火速登上美国 App Store 排行第一。</p>
 <p><img alt="" class="alignnone size-large wp-image-1613719" height="914" src="https://s3.ifanr.com/wp-content/uploads/2025/02/charts-1024x914.jpeg" width="1024" /></p>
@@ -356,14 +655,12 @@
 </div>
 ]]></content:encoded>
 <pubDate>Sat, 08 Feb 2025 04:00:25 +0000</pubDate>
-<pubDate>Sat, 08 Feb 2025 04:00:25 +0000</pubDate>
 </item>
 <item>
 <title>0 产品 0 营收，OpenAI 前首席科学家创办的新公司，就要冲击 200 亿美元估值</title>
 <link>https://www.ifanr.com/1613995?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1613995?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="" class="alignnone size-full wp-image-1613997" height="563" src="https://s3.ifanr.com/wp-content/uploads/2025/02/2-3.png" width="930" /></p>
 <p>回来了，那个男人回来了 。</p>
 <p>今天凌晨，据路透社报道，OpenAI 前首席科学家 Ilya Sutskever 所创公司Safe Superintelligence Inc.（SSI） 正就至少 200 亿美元的估值进行融资谈判。</p>
@@ -404,9 +701,7 @@
 </div>
 ]]></content:encoded>
 <pubDate>Sat, 08 Feb 2025 03:14:57 +0000</pubDate>
-<pubDate>Sat, 08 Feb 2025 03:14:57 +0000</pubDate>
 </item>
-
 <item>
 <title>早报|号称接入DeepSeek键盘鼠标1天卖近100万元/名创CEO：内部沟通严禁使用PPT/极越已成功为61名用户完成退款支付工作</title>
 <link>https://www.ifanr.com/1614001?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>

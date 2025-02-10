@@ -179,3 +179,15 @@ error: Expecting value: line 1 column 1 (char 0)
 Append: [0 产品 0 营收，OpenAI 前首席科学家创办的新公司，就要冲击 200 亿美元估值](https://www.ifanr.com/1613995?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 3
 Finish: 2025-02-09 03:01:53.974718
+------------------------------------------------------
+Started: 2025-02-10 02:57:41.047947
+Existing_entries: 43
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [OpenAI CEO 深夜发文：AI 成本每年暴跌 10倍，2035 年人人都有超级大脑](https://www.ifanr.com/1614102?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [早报|首款内嵌 DeepSeek 手机曝光/iPhone SE 4 或本周发布，国行苹果 AI 也快了/小米汽车辟谣「断轴」传闻](https://www.ifanr.com/1614088?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 2
+Finish: 2025-02-10 02:59:44.195528

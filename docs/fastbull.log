@@ -727,3 +727,40 @@ Append: [关税担忧推动黄金再新高，高盛预计明年或涨至3000美�
 Append: [法国议会通过年度预算，压减公共赤字占比](https://www.fastbull.com/cn/news-detail/4319676_1)
 append_entries: 50
 Finish: 2025-02-09 02:56:38.500852
+------------------------------------------------------
+Started: 2025-02-10 02:43:28.161766
+Existing_entries: 361
+Fetching from https://rsshub.app/fastbull/news
+Token length: 3329
+Summarized using deepseek-chat
+Append: [日本经济失去30年，GDP降至世界第四，原因究竟几何？](https://www.fastbull.com/cn/news-detail/4319759_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [DeepSeek让美国陷入囚徒困境](https://www.fastbull.com/cn/news-detail/4319745_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [“解雇”拜登，新关税威胁又来？特朗普再掀全球市场恐慌](https://www.fastbull.com/cn/news-detail/4319750_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [美国2024年GDP出炉，中美差距扩大至10万亿美元，背后是何原因？](https://www.fastbull.com/cn/news-detail/4319726_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [黄金的“黄金时代”？](https://www.fastbull.com/cn/news-detail/4319757_1)
+Token length: 2596
+Summarized using deepseek-chat
+Append: [800美元免税不再，中国跨境电商如何突围？](https://www.fastbull.com/cn/news-detail/4319743_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [核能能解决人工智能数据中心的电力消耗吗？](https://www.fastbull.com/cn/institution-article/4319747_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [美元汇率展望：特朗普交易出现“审美疲劳”？](https://www.fastbull.com/cn/news-detail/4319709_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [全球农产品市场的风险与挑战](https://www.fastbull.com/cn/news-detail/4319603_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [特朗普称战后美国将接管加沙，且那里无需驻扎美军](https://www.fastbull.com/cn/news-detail/4319744_1)
+Append: [不容忽视的碳排放大户：人工智能](https://www.fastbull.com/cn/news-detail/4319741_1)
+append_entries: 11
+Finish: 2025-02-10 02:52:34.839168
