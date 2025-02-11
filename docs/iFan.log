@@ -191,3 +191,15 @@ error: Expecting value: line 1 column 1 (char 0)
 Append: [早报|首款内嵌 DeepSeek 手机曝光/iPhone SE 4 或本周发布，国行苹果 AI 也快了/小米汽车辟谣「断轴」传闻](https://www.ifanr.com/1614088?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 2
 Finish: 2025-02-10 02:59:44.195528
+------------------------------------------------------
+Started: 2025-02-11 02:56:07.374829
+Existing_entries: 45
+Fetching from https://www.ifanr.com/feed
+Token length: 9224
+Summarized using deepseek-chat
+Append: [早报|超 2000 万人申请数码国补，4-6K 价位手机销量暴涨/苹果有望发布家用机器人/最低 6.98 万，比亚迪发布多款智驾车型](https://www.ifanr.com/1614164?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [6.98 万元起！比亚迪 21 款新车齐发布，智能驾驶进入万元时代](https://www.ifanr.com/1614145?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 2
+Finish: 2025-02-11 02:58:06.227057
