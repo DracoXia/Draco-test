@@ -864,3 +864,80 @@ Append: [春节错位影响明显，服务仍然强于实物消费品](https://w
 Append: [美联储上半年降息还有没有戏？鲍威尔证词携CPI数据本周登场](https://www.fastbull.com/cn/news-detail/4319769_1)
 append_entries: 74
 Finish: 2025-02-11 02:51:27.857066
+------------------------------------------------------
+Started: 2025-02-12 02:40:06.666070
+Existing_entries: 446
+Fetching from https://rsshub.app/fastbull/news
+Token length: 2258
+Summarized using deepseek-chat
+Append: [星链强势扩张，马斯克已成全球宽带巨头噩梦？](https://www.fastbull.com/cn/news-detail/4320041_1)
+Token length: 2841
+Summarized using deepseek-chat
+Append: [隔夜与7天期利率连续多日倒挂，降准时点或延后](https://www.fastbull.com/cn/news-detail/4320039_1)
+Token length: 1668
+Summarized using deepseek-chat
+Append: [莫迪即将访美，先自减关税献上“大礼包”？](https://www.fastbull.com/cn/news-detail/4320037_1)
+Token length: 1485
+Summarized using deepseek-chat
+Append: [日本下次加息将在何时？](https://www.fastbull.com/cn/news-detail/4319960_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [韩国政治经济不确定性持续，增长预期被调降](https://www.fastbull.com/cn/news-detail/4320017_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [美国民主党陷入史诗级难题：政府关门反而正中特朗普下怀?](https://www.fastbull.com/cn/news-detail/4320031_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [欧元陷区间迷局：短期难破1.025，能否跨越1.035迎突破？](https://www.fastbull.com/cn/news-detail/4320030_1)
+Token length: 2392
+Summarized using deepseek-chat
+Append: [特朗普对数字服务税和全球最低企业税“开火”，欧盟如何应对](https://www.fastbull.com/cn/news-detail/4320016_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [2942美元！金价连创新高原因与风险应对分析](https://www.fastbull.com/cn/news-detail/4320021_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [全球绿色氢气发展面临挑战](https://www.fastbull.com/cn/news-detail/4320018_1)
+Append: [国际投行：印度、泰国等亚洲经济体恐受美国“对等关税”最大冲击](https://www.fastbull.com/cn/news-detail/4320027_1)
+Append: [菲律宾政治乱局加剧：家族争斗不断，经济困境难解](https://www.fastbull.com/cn/news-detail/4320010_1)
+Append: [马斯克欲以974亿美元收购OpenAI，奥尔特曼回怼：97.4亿买推特](https://www.fastbull.com/cn/news-detail/4320012_1)
+Append: [美联储按兵不动，欧洲央行和英格兰银行双双降息](https://www.fastbull.com/cn/institution-article/4320015_1)
+Append: [特朗普政府关税政策搅动美元走势，美元长期表现面临更多不确定性](https://www.fastbull.com/cn/news-detail/4320005_1)
+Append: [欧洲天然气储备告急，2025年库存压力加剧](https://www.fastbull.com/cn/news-detail/4320002_1)
+Append: [特朗普拟征互惠关税，印度与泰国首当其冲，亚洲经济压力加剧](https://www.fastbull.com/cn/news-detail/4319986_1)
+Append: [特朗普又要“头疼”了！俄方强硬表态：乌克兰必须满足所有条件才能停战](https://www.fastbull.com/cn/news-detail/4319989_1)
+Append: [美国近期政策调整的多重影响：关税、物流与货币体系变化](https://www.fastbull.com/cn/institution-article/4319987_1)
+Append: [黄金今年已创8个纪录新高！本轮牛市真的不回头？](https://www.fastbull.com/cn/news-detail/4319985_1)
+Append: [马斯克“查账”引发轩然大波！专家怒批：DOGE严重侵害隐私权与财政秩序](https://www.fastbull.com/cn/news-detail/4319980_1)
+Append: [美国铝业关税重启，全球市场震荡加剧，成本上涨压力传导至制造业](https://www.fastbull.com/cn/news-detail/4319982_1)
+Append: [央行疑似强力干预提振汇率，印度卢比创两年多来最大涨幅](https://www.fastbull.com/cn/news-detail/4319984_1)
+Append: [美元多空博弈，鲍威尔证词能否打破僵局？](https://www.fastbull.com/cn/institution-article/4319975_1)
+Append: [黄金屡创纪录新高，原因不仅仅是特朗普的“贸易战”](https://www.fastbull.com/cn/news-detail/4319979_1)
+Append: [美股上扬，美联储主席鲍威尔将于国会作证](https://www.fastbull.com/cn/institution-article/4319968_1)
+Append: [日元汇率开年“反攻”近4%，影响几何？](https://www.fastbull.com/cn/news-detail/4319977_1)
+Append: [“偶像”麦金莱如何塑造特朗普2.0？](https://www.fastbull.com/cn/institution-article/4319978_1)
+Append: [DeepSeek消息及其对AI生态系统的影响](https://www.fastbull.com/cn/institution-article/4319966_1)
+Append: [美国再发两机相撞事故，航空安全惹担忧](https://www.fastbull.com/cn/news-detail/4319971_1)
+Append: [特朗普关税激发避险情绪，黄金突破2900大关](https://www.fastbull.com/cn/news-detail/4319972_1)
+Append: [英国零售支出增长2.6%，但高企的就业成本和通胀压力成隐忧，英镑兑美元前景暗淡](https://www.fastbull.com/cn/news-detail/4319974_1)
+Append: [特朗普对钢铁、铝征收25%关税，引发新的贸易战担忧](https://www.fastbull.com/cn/news-detail/4319967_1)
+Append: [关注美国2025年CPI与PPI的翘尾因素](https://www.fastbull.com/cn/institution-article/4319963_1)
+Append: [中国车在东南亚份额增加，日本车陷苦战](https://www.fastbull.com/cn/news-detail/4319965_1)
+Append: [美国关税2.0政策落地，全球市场波动加大](https://www.fastbull.com/cn/institution-article/4319961_1)
+Append: [提前进口！美国1月份集装箱进口量创历史同期新高 四成来自中国](https://www.fastbull.com/cn/news-detail/4319964_1)
+Append: [极限施压 —— 特朗普新政](https://www.fastbull.com/cn/news-detail/4319958_1)
+Append: [欧洲央行拉加德：通胀正持续回落，但全球贸易摩擦构成风险](https://www.fastbull.com/cn/institution-article/4319959_1)
+Append: [美国竭力控制禽流感爆发之际，鸡蛋批发价已远超历史高点](https://www.fastbull.com/cn/news-detail/4319954_1)
+Append: [美国1月CPI前瞻：服务业通胀暗藏风险，美联储上半年降息无望？](https://www.fastbull.com/cn/news-detail/4319952_1)
+Append: [特朗普加征钢铝关税引发全球经济担忧，油价维持稳定](https://www.fastbull.com/cn/news-detail/4319951_1)
+Append: [马斯克要对美联储动手？就在今晚，鲍威尔“单刀赴会”国会山！](https://www.fastbull.com/cn/news-detail/4319949_1)
+Append: [经济学家乱作一团，美联储降息时间猜不透！](https://www.fastbull.com/cn/news-detail/4319947_1)
+Append: [美元兑日元在151.00附近的两个月低点回升，日元全线走软](https://www.fastbull.com/cn/news-detail/4319945_1)
+Append: [特朗普提高钢铝进口关税，爆发多线贸易战的风险升温](https://www.fastbull.com/cn/news-detail/4319942_1)
+Append: [就业数据仍具韧性，美元降息预期降温](https://www.fastbull.com/cn/institution-article/4319944_1)
+Append: [欧加多空争夺，等待调整结束](https://www.fastbull.com/cn/news-detail/4319943_1)
+Append: [2月11日财经要闻](https://www.fastbull.com/cn/newsdetail/4319941_1)
+Append: [美对冲基金大佬全面增持中概股，曾放言“买入一切中国资产”](https://www.fastbull.com/cn/news-detail/4319940_1)
+Append: [全乱套了！美国通胀预期“诡异”分歧……](https://www.fastbull.com/cn/news-detail/4319939_1)
+append_entries: 51
+Finish: 2025-02-12 02:47:04.185586

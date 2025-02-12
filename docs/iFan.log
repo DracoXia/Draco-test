@@ -203,3 +203,24 @@ error: Expecting value: line 1 column 1 (char 0)
 Append: [6.98 万元起！比亚迪 21 款新车齐发布，智能驾驶进入万元时代](https://www.ifanr.com/1614145?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 2
 Finish: 2025-02-11 02:58:06.227057
+------------------------------------------------------
+Started: 2025-02-12 02:52:09.128630
+Existing_entries: 47
+Fetching from https://www.ifanr.com/feed
+Token length: 9685
+Summarized using deepseek-chat
+Append: [早报|曝国行苹果 AI 与阿里合作，或 4 月到来/特斯拉将推出 7 座焕新版 Model Y/华为、上汽合作敲定，共同打造「尚界」](https://www.ifanr.com/1614376?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [最轻旗舰 Ultra 机型，是这样炼成的](https://www.ifanr.com/1613732?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [三星 Galaxy S25 系列国行发布：5999 元起售享国补，国行有两个独占](https://www.ifanr.com/1614336?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [别再被 DeepSeek R1 本地部署割韭菜，我帮你把坑都踩遍了 | 附免费教程](https://www.ifanr.com/1614269?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [支付宝百宝箱接入 DeepSeek！人人都能用满血 R1 构建智能体了](https://www.ifanr.com/1614226?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 5
+Finish: 2025-02-12 02:56:28.711471
