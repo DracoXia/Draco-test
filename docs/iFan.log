@@ -224,3 +224,24 @@ error: Expecting value: line 1 column 1 (char 0)
 Append: [支付宝百宝箱接入 DeepSeek！人人都能用满血 R1 构建智能体了](https://www.ifanr.com/1614226?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 5
 Finish: 2025-02-12 02:56:28.711471
+------------------------------------------------------
+Started: 2025-02-13 02:51:16.054901
+Existing_entries: 52
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [沃尔沃 4S 店陷「山寨音响」争议，宝华韦健变成「宝华伪健」？](https://www.ifanr.com/1614473?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [早报|iPhone SE 4 再推迟，将下周发布/雷军透露小米 SU7 Ultra 可选配赛道包/华为与广汽首款 MPV 曝光](https://www.ifanr.com/1614504?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [幸好苹果国行 AI 没有选择 DeepSeek](https://www.ifanr.com/1614451?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [7.98 万元起，吉利银河 L6 EM-i 上市](https://www.ifanr.com/1614443?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [Powerbeats Pro 2 体验：支持心率监测，Beats 最平衡的旗舰运动耳机](https://www.ifanr.com/1613657?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 5
+Finish: 2025-02-13 02:56:20.328203
