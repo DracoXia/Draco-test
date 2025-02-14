@@ -245,3 +245,15 @@ error: Expecting value: line 1 column 1 (char 0)
 Append: [Powerbeats Pro 2 体验：支持心率监测，Beats 最平衡的旗舰运动耳机](https://www.ifanr.com/1613657?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 5
 Finish: 2025-02-13 02:56:20.328203
+------------------------------------------------------
+Started: 2025-02-14 02:51:18.846077
+Existing_entries: 57
+Fetching from https://www.ifanr.com/feed
+Token length: 9667
+Summarized using deepseek-chat
+Append: [早报|-《哪吒 2》全球票房突破 100 亿/苹果宣布将在下周发布新品/本田、日产终止合并计划](https://www.ifanr.com/1614597?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [奥特曼剧透 GPT-5 将免费使用！o3 独立发布被腰斩，OpenAI 疑似内涵 DeepSeek](https://www.ifanr.com/1614511?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 2
+Finish: 2025-02-14 02:53:09.547024
