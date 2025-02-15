@@ -257,3 +257,15 @@ error: Expecting value: line 1 column 1 (char 0)
 Append: [奥特曼剧透 GPT-5 将免费使用！o3 独立发布被腰斩，OpenAI 疑似内涵 DeepSeek](https://www.ifanr.com/1614511?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 2
 Finish: 2025-02-14 02:53:09.547024
+------------------------------------------------------
+Started: 2025-02-15 02:42:00.340011
+Existing_entries: 59
+Fetching from https://www.ifanr.com/feed
+Token length: 8773
+Summarized using deepseek-chat
+Append: [早报|苹果计划今年 5 月前推出国行版 AI/TikTok 重新上架美区应用商店/《哪吒 2》发行商市值破千亿元](https://www.ifanr.com/1614653?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 7042
+Summarized using deepseek-chat
+Append: [Sonos Ace 耳机体验：3999 元，找一个不选苹果和索尼的理由](https://www.ifanr.com/1613954?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 2
+Finish: 2025-02-15 02:42:23.583210
