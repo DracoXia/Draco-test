@@ -278,3 +278,18 @@ Summarized using deepseek-chat
 Append: [3500 的新 iPhone SE，可能还不是苹果下周最大的惊喜](https://www.ifanr.com/1614636?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2025-02-16 03:00:22.921452
+------------------------------------------------------
+Started: 2025-02-17 03:07:36.202271
+Existing_entries: 62
+Fetching from https://www.ifanr.com/feed
+Token length: 5659
+Summarized using deepseek-chat
+Append: [早报|Vision Pro 有望迎来 Apple 智能/微信、百度接入DeepSeek/小行星有 2% 概率在 2032 年撞击地球](https://www.ifanr.com/1614721?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [不是微信需要 DeepSeek，而是 DeepSeek 需要微信](https://www.ifanr.com/1614715?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [1100 万人都在玩的 AI 视频神器，三步把你 P 进任何名场面](https://www.ifanr.com/1614676?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 3
+Finish: 2025-02-17 03:10:26.026946

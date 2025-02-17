@@ -1242,3 +1242,36 @@ Append: [美联储降息初期美国各部门利息负担分析](https://www.fas
 Append: [中国货币政策执行报告：取向不变，节奏改变](https://www.fastbull.com/cn/institution-article/4320419_1)
 append_entries: 14
 Finish: 2025-02-16 02:59:39.678678
+------------------------------------------------------
+Started: 2025-02-17 02:56:25.954653
+Existing_entries: 694
+Fetching from https://rsshub.app/fastbull/news
+Token length: 939
+Summarized using deepseek-chat
+Append: [俄乌冲突迎来转机？特朗普透露：普京希望停止战争！](https://www.fastbull.com/cn/news-detail/4320568_1)
+Token length: 1964
+Summarized using deepseek-chat
+Append: [投资者如何应对特朗普2.0](https://www.fastbull.com/cn/news-detail/4320377_1)
+Token length: 1301
+Summarized using deepseek-chat
+Append: [天然气价格欧亚逆转，“西高东低”格局鲜明](https://www.fastbull.com/cn/news-detail/4320519_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [俄罗斯经济向中国靠拢是长期趋势](https://www.fastbull.com/cn/news-detail/4320515_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [欧洲、中东和非洲外汇话题：中东和东欧可能难以保持涨势](https://www.fastbull.com/cn/news-detail/4320509_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [“稀土换援助”：乌克兰资源对于美俄乌中及世界经济的意义何在？](https://www.fastbull.com/cn/news-detail/4320479_1)
+Token length: 1281
+Summarized using deepseek-chat
+Append: [EV之后，日本在新赛道上又输中国了？](https://www.fastbull.com/cn/news-detail/4320307_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [对等关税的“表”与“里”](https://www.fastbull.com/cn/institution-article/4320500_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [中国车企在东南亚走向高端](https://www.fastbull.com/cn/news-detail/4320271_1)
+append_entries: 9
+Finish: 2025-02-17 03:02:30.392901
