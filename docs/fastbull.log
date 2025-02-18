@@ -1275,3 +1275,33 @@ error: Expecting value: line 1 column 1 (char 0)
 Append: [中国车企在东南亚走向高端](https://www.fastbull.com/cn/news-detail/4320271_1)
 append_entries: 9
 Finish: 2025-02-17 03:02:30.392901
+------------------------------------------------------
+Started: 2025-02-18 02:39:38.275238
+Existing_entries: 703
+Fetching from https://rsshub.app/fastbull/news
+Token length: 2730
+Summarized using deepseek-chat
+Append: [中国2月CPI同比或转负](https://www.fastbull.com/cn/news-detail/4320511_1)
+Token length: 1794
+Summarized using deepseek-chat
+Append: [美国即将迎来比上一轮更猛烈的通胀](https://www.fastbull.com/cn/news-detail/4320481_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [连续上涨后，纽元/美元多头动能仍在](https://www.fastbull.com/cn/news-detail/4320585_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [对等关税的“表”与“里”](https://www.fastbull.com/cn/news-detail/4320493_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [金价继续冲击3000美元！本周关注美联储会议纪要及特朗普关税](https://www.fastbull.com/cn/news-detail/4320577_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [没有什么“美国经济神话”](https://www.fastbull.com/cn/news-detail/4320503_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [欧元面临长期疲软风险，政策调整迫在眉睫](https://www.fastbull.com/cn/news-detail/4320575_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [中国汽车行业实现从国企到民企的转变](https://www.fastbull.com/cn/news-detail/4320404_1)
+append_entries: 8
+Finish: 2025-02-18 02:46:15.805190

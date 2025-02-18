@@ -293,3 +293,18 @@ error: Expecting value: line 1 column 1 (char 0)
 Append: [1100 万人都在玩的 AI 视频神器，三步把你 P 进任何名场面](https://www.ifanr.com/1614676?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 3
 Finish: 2025-02-17 03:10:26.026946
+------------------------------------------------------
+Started: 2025-02-18 02:51:09.494984
+Existing_entries: 65
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [早报|《哪吒 2》冲进全球影史票房榜第九/格力回应专卖店更名董明珠健康家/曝 iPhone SE 不支持毫米波 5G](https://www.ifanr.com/1614812?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [蔚来现在最缺的，是信心](https://www.ifanr.com/1614785?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 2535
+Summarized using deepseek-chat
+Append: [首发体验 | 接入 DeepSeek 后，腾讯元宝又放出一个「王炸」](https://www.ifanr.com/1614761?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 3
+Finish: 2025-02-18 02:53:49.461714
