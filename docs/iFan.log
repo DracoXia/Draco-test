@@ -308,3 +308,24 @@ Summarized using deepseek-chat
 Append: [首发体验 | 接入 DeepSeek 后，腾讯元宝又放出一个「王炸」](https://www.ifanr.com/1614761?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 3
 Finish: 2025-02-18 02:53:49.461714
+------------------------------------------------------
+Started: 2025-02-19 02:55:53.400177
+Existing_entries: 68
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [OpenAI 前 CTO 新公司官宣！挖来大批 ChatGPT 核心骨干，北大校友加盟，创业阵容超豪华](https://www.ifanr.com/1614956?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [早报|《哪吒2》登顶全球动画电影票房榜/DeepSeek 发布新论文，梁文峰署名/OpenAI 前 CTO 官宣新公司](https://www.ifanr.com/1614962?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [特斯拉深陷信任危机，多地爆发抗议活动，还有高层要马斯克辞职？](https://www.ifanr.com/1614906?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [苹果的下一个「Apple Watch」，将戴在你的耳朵上](https://www.ifanr.com/1614856?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [马斯克发布「最强大模型」超越 DeepSeek，成本高出 200 多倍](https://www.ifanr.com/1614837?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 5
+Finish: 2025-02-19 03:00:57.660494

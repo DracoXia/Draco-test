@@ -5,11 +5,594 @@
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
 <item>
+<title>OpenAI 前 CTO 新公司官宣！挖来大批 ChatGPT 核心骨干，北大校友加盟，创业阵容超豪华</title>
+<link>https://www.ifanr.com/1614956?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1614956?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<p>靴子落地，OpenAI 前 CTO Mira Murati 创业公司正式官宣。</p>
+<p>新公司 Thinking Machines 的组建阵容相当豪华，且大多数来自 OpenAI 的旧班底，包括但不限于此前早有预告的 Barret Zoph (CTO）、John Schulman (Chief Scientist) 等等。</p>
+<p>官宣阵容里也出现了我们的老熟人 Lilian Weng（翁荔），她本科毕业于北京大学，2017 年加入 OpenAI 担任研究科学家，参与了 GPT-4 的预训练、强化学习与对齐、模型安全等方面的工作。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614957" height="1536" src="https://s3.ifanr.com/wp-content/uploads/2025/02/1-12.png" width="2048" /></p>
+<p>投资不仅只是投产品，更是投人。</p>
+<p>早前就有消息称， 尽管没有发布任何产品，Mira 新公司还是凭借「刷脸」，初期预计融资额超过了 1 亿美元。今天凌晨，Mira 也在 X 平台发文阐述了新公司的成立初衷：</p>
+<blockquote><p>「我与一支杰出的科学家、工程师和建设者团队一起创立了「思维机器实验室」Thinking Machines Lab）。我们正在做三件事：</p>
+<p>帮助人们根据自己的具体需求调整人工智能系统<br />
+构建强大的基础，以开发更强大的人工智能系统<br />
+培养开放科学的文化，帮助整个领域理解并改进这些系统</p>
+<p>我们的目标很简单：通过扎实的基础、开放的科学和实际应用，使人工智能得以广泛使用并更容易理解，从而推动人工智能的发展。」</p></blockquote>
+<p><img alt="" class="alignnone size-full wp-image-1614958" height="1096" src="https://s3.ifanr.com/wp-content/uploads/2025/02/2-11.png" width="1182" /></p>
+<p>对于这支由 29 名知名 AI 人士组成的团队，官网的介绍是这样子的：</p>
+<blockquote><p>我们是科学家、工程师和建设者，曾创造了一些最广泛使用的人工智能产品，包括 ChatGPT 和 Character.ai，开源权重模型如 Mistral，以及像 PyTorch、OpenAI Gym、Fairseq 和 Segment Anything 这样的流行开源项目。</p></blockquote>
+<p><img alt="" class="alignnone size-full wp-image-1614959" height="564" src="https://s3.ifanr.com/wp-content/uploads/2025/02/3-12.png" width="1280" /></p>
+<p>那么 Thinking Machines Lab 会是另一家 OpenAI 吗？</p>
+<p>据官宣博客介绍，Thinking Machines Lab 是一家 AI 研究与产品公司，目标是构建一个未来，让每个人都能够获得知识和工具，将 AI 应用于他们独特的需求和目标。</p>
+<p>虽然 AI 技术取得了重大突破，但科学界对其前沿系统的理解仍然有限，且相关知识主要掌握在顶级研究实验室手中，这影响了公众对 AI 的认知和使用。</p>
+<p>同时，现有系统在个性化定制方面仍存在不足。</p>
+<p>为解决这些问题，这群曾参与开发 ChatGPT、Character.ai 等知名 AI 产品以及 PyTorch 等开源项目的科学家和工程师们建立 Thinking Machines Lab ，旨在提高 AI 系统的可理解性、可定制性和通用性。</p>
+<p>Thinking Machines Lab 认为科学发展需要开放分享，计划通过发布技术博客、论文和代码与研究社区合作。而这些理念共同指向一个目标：创建更实用、更智能、更贴近人类需求的 AI 系统。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614960" height="1586" src="https://s3.ifanr.com/wp-content/uploads/2025/02/4-8.png" width="2940" /></p>
+<p>谈及运营理念和安全策略，博客中提到产品部署能促进技术迭代，同时帮助团队专注于解决最具影响力的问题。</p>
+<p>Thinking Machines Lab 将通过以下方式为 AI 安全做出贡献：</p>
+<ol>
+<li>保持高标准的安全性——防止发布的模型被滥用，同时最大化用户的自由，</li>
+<li>与行业共享构建安全 AI 系统的最佳实践和方法，</li>
+<li>通过共享代码、数据集和模型规格，加速外部在对齐问题上的研究。相信针对现有系统开发的方法，如有效的红队测试和部署后监控，将为未来更强大的系统提供有价值的见解。</li>
+</ol>
+<p>另外，Mira 新公司的命名（Thinking Machines Lab），也大有来头。</p>
+<p>据外媒连线杂志报道，在三十多年前，美国发明家 Danny Hillis 就已经憧憬人类与机器之间的协同合作。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614961" height="1647" src="https://s3.ifanr.com/wp-content/uploads/2025/02/5-3.jpg" width="2000" /></p>
+<p>作为 AI 先驱 Marvin Minsky 的学生，Hillis 构建了一台拥有强大并行运行芯片的超级计算机，这可以说是今天运行 AI 计算集群的前身。而 Hillis 正是在这台计算机的基础上建立了新公司 Thinking Machines。</p>
+<p>只是，这台计算机超前于时代，最终在 1994 年宣告破产。</p>
+<p>如今，这个充满历史意义的名称以新的形式重生，Mira 将接过这面历史的旗帜，打造下一个 Thinking Machines。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1614956">原文链接</a> ·
+<a href="https://www.ifanr.com/1614956#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Wed, 19 Feb 2025 01:09:25 +0000</pubDate>
+<pubDate>Wed, 19 Feb 2025 01:09:25 +0000</pubDate>
+</item>
+<item>
+<title>早报|《哪吒2》登顶全球动画电影票房榜/DeepSeek 发布新论文，梁文峰署名/OpenAI 前 CTO 官宣新公司</title>
+<link>https://www.ifanr.com/1614962?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1614962?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<div style="padding: 0 14px; text-align: center;"><img alt="cover" src="https://s3.ifanr.com/images/ep/cover-images/hai_bian_chong_lang_cover.jpg" /></div>
+<div style="padding: 0 14px;">
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🎉" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f389.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">Grok 3 正式发布</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🌟" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f31f.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">OpenAI 宣布开源</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="💰" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4b0.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">惠普将以 1.16 亿美元收购 Humane 核心 AI 技术</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="📃" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4c3.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">DeepSeek 发布新论文，创始人亲自挂名</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="📱" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4f1.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">OpenAI 前 CTO 官宣新公司</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🔍" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f50d.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">本田向日产提出恢复合并谈判条件</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="💹" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4b9.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">腾讯紧急调用元宝支持微信搜索</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="📰" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4f0.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">百度发布 2024 全年财报</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="💼" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4bc.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">消息称罗福莉已到小米上班</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="📉" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4c9.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">月之暗面暂缓「烧钱」，大砍投放预算</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="💡" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4a1.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">上海交大讲席教授：人工智能曾走了 20 年弯路</p>
+</div>
+</div>
+</div>
+<section><img alt="重磅" src="https://s3.ifanr.com/images/ep/common-images/xin_wen.png" /></section>
+<h3>Grok 3 正式发布</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/250219/38e46647-0ed3-48aa-950c-97e834bdc4fa.png" /></p>
+<p>2 月 18 日，马斯克旗下 xAI 正式发布 Grok 3 模型。</p>
+<p>据官方介绍，Grok 3 在 Chatbot 竞技场之称的 LMSYS 盲测中，代码、指令响应等各个方面排名第一，超过 Gemini-2 Pro、DeepSeek-V3、GPT-4o 等模型。同时，Grok 3 mini 也一同公布，其将牺牲部分性能，换取更快的响应能力。</p>
+<p>而推理版本的 Grok 3 Reasoning Beta 支持深度思考，其在最新的 AIME 竞赛中表现断层领先。值得关注的是，对比模型中还出现了近期火爆的 DeepSeek R1 模型。但 Grok 3 Reasoning 目前仍处于测试阶段。</p>
+<p>据悉，Grok 3 训练累积使用了 20 万张 H100 显卡。xAI 表示，最大的挑战是让整个模型在海量的 H100 上进行训练，并保持一致性。</p>
+<p>xAI 还一同带来了由 Grok 3 加持的 DeepSearch，号称是下一代搜索引擎。模型将自主像 agent 一样运作，并且理解用户提问背后的意图，能够在互联网以及 X 中进行全面检索。</p>
+<p>备受关注的语音模式也有了进一步的公布。马斯克在直播中透露，语音模式将是 Grok 最好的体验之一，同时在发布直播尾声，xAI 还放出了一段语音模式的预览视频，其效果十分接近人类声音。而语音模式预计在一周内发布早期版本。</p>
+<p>费用方面，X 的 Premium+ 订阅用户（每月 40 美元）将率先体验 Grok 3，而其他高级功能则被纳入 xAI 推出的新计划「SuperGrok」中。SuperGrok 的月费为 30 美元，年费为 300 美元，仅提供额外的推理和 DeepSearch 查询功能，还包含了无限量的图像生成服务。</p>
+<p>此外，Grok API 还将在未来几周内推出，包含推理模型和深度研究功能。并且 xAI 还宣布，当 Grok 3 成熟稳定之后，大概几个月将会开源 Grok 2。</p>
+<section><img alt="大公司" src="https://s3.ifanr.com/images/ep/common-images/da_gong_si.png" /></section>
+<h3>OpenAI 宣布开源</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/250219/b1b21085-e32f-4114-a3de-35f9d126c5f7.png" /></p>
+<p>2 月 18 日，OpenAI CEO Sam Altman 发文询问，对于 OpenAI 下一个开源项目，公司应当选择体积虽小但仍需借助 GPU 运行的 o3 mini 层级模型，还是应当致力开发一个尺寸适合手机且表现最佳的模型。</p>
+<p>对此，Altman 对发起投票。截止发稿前，o3 mini 层级模型的投票率领先。但在帖子评论区显示，相比于 o3 mini 的开源，显然高赞评论的网友更希望开源 GPT-4。值得关注的是，Altman 曾在本月初公开承认 OpenAI 的策略「站在了历史错误的一边」。</p>
+<p>前日，Altman 还表示 OpenAI 将对 GPT 4o 进行更新，并夸赞 GPT &#8211; 4o 的表现非常出色。同时其在评论区还表示，GPT &#8211; 4o 是「网上最好的搜索产品之一」。</p>
+<h3>惠普将以 1.16 亿美元收购 Humane 核心 AI 技术</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/250219/421a6773-195d-473f-ad48-ed5f00217f75.png" /></p>
+<p>北京时间今天凌晨， Humane 宣布，惠普公司将以 1.16 亿美元收购「其关键人工智能能力」，其中包括 Humane 所拥有的人工智能平台 Cosmos、高技能技术人才以及拥有 300 多项专利和专利申请的知识产权。</p>
+<p>此外，Humane 还发布 AI Pin 支持文件，表示自即日起，将停止销售新的 Ai Pin。</p>
+<p>而已经购买 Ai Pin 的用户，其设备将正常工作至 2025 年 2 月 28 日 12点 （太平洋标准时间）。自此之后，Ai Pin 将不再连接到 Humane 的服务器，通话、消息、AI 查询/响应或云访问等功能都无法使用。</p>
+<h3>DeepSeek 发布新论文，创始人亲自挂名</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/250219/6358429d-ae9e-4089-af7a-acb5eb4e0b18.png" /></p>
+<p>2 月 18 日，DeepSeek 官方发文公布了一篇新的论文，值得关注的是，论文中提出了一种新的注意力机制「NSA」。</p>
+<p>据 DeepSeek 介绍，「NSA」是一个用于超快长上下文训练和推断的本地可训练的稀疏注意力机制，并且还具有与硬件对齐的特点。</p>
+<p>研究通过对现实世界语言语料库的综合实验来评估 NSA。其中作者评估了 NSA 在通用语言评估、长上下文评估和链式推理评估中的表现。实验结果表明，NSA 实现了与 Full Attention 基线相当或更优的性能，同时优于现有的稀疏注意力方法。</p>
+<p>此外，与 Full Attention 相比，NSA 在解码、前向和后向阶段提供了明显的加速，且加速比随着序列长度的增加而增加。这些结果验证了分层稀疏注意力设计有效地平衡了模型能力和计算效率。</p>
+<h3>OpenAI 前 CTO 官宣新公司</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/250219/1d489f3c-0cbf-4583-a705-3a3bc0d5b14a.png" /></p>
+<p>北京时间今天凌晨，OpenAI 前 CTO Mira Murati 宣布，创立名为 thinkingmachines 的 AI 公司。</p>
+<p>而根据 thinkingmachines 官方介绍，工作人员由来自「ChatGPT、 Character.AI 、PyTorch 和 Mistral」等公司的成员构成。</p>
+<p>在官网上可以看到，目前团队成员中，有相当一部分的成员有过在 OpenAI 任职的经历，如前 OpenAI 研究（后培训）副总裁 Barret Zoph、前 OpenAI VP 翁荔等人。</p>
+<p>Mira Murati 表示， thinkingmachines 正在构建一下三件事：</p>
+<ul>
+<li>帮助人们调整人工智能系统以适应其的特定需求</li>
+<li>打造强大的基础模型，用以构建更强大的 AI 系统</li>
+<li>培养开放科学的氛围，帮助整个领域理解和改进这些系统</li>
+</ul>
+<h3>本田向日产提出恢复合并谈判条件</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/250219/9f50c876-7564-486f-8bb5-c604ab7beaee.jpg" /></p>
+<p>近日，据金融时报报道称，如果日产汽车公司社长内田诚卸任，本田愿意恢复收购谈判。</p>
+<p>据知情人士透露，本田将准备在日产新社长上任后重新开启谈判，前者认为日产新社长或能够更好地控制公司内部的反对意见。知情人士还表示，目前日产董事会已经开始就内田诚离职的时间，进行非正式讨论。</p>
+<p>内田诚现年 58 岁，曾是日产内部最强烈支持与本田达成交易的人之一。但因本田对日产重组的速度和财务问题的恶化而感到不乐观，所以内田诚与本田社长三部敏宏之间的关系恶化。</p>
+<p>内田诚曾表示希望在日产任职至 2026 年，然而在本田与日产合作谈判失败后，其开始面临董事会和合作伙伴雷诺给到的离职压力。</p>
+<p>报道指出，本田仍对日产以及三菱汽车的插电式混动技术感兴趣，因日产、三菱的插电混动在东南亚有较大的市场影响力。</p>
+<p>据悉，本田、日产于 2 月 13 日正式宣布结束合并谈判。据联合发布终止合并谈判的谅解备忘录显示，因未能满足本田成为日产母公司的想法，所以双方未能达成一致。此前双方曾探讨将合并成为世界第四大汽车集团。</p>
+<p>此外，本田社长三部敏宏透露，本田并未也不会考虑对日产发起恶意收购。</p>
+<h3>腾讯紧急调用元宝支持微信搜索</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/250219/ae94e489-6cd7-40ed-aa34-98a649226c06.png" /></p>
+<p>近期微信搜索灰度测试 AI 搜索，用户对 DeepSeek 模型的使用热情远远超出预期。</p>
+<p>2 月 18 日，爱范儿获悉，为了让更多用户方便稳定地体验和使用 DeepSeek，腾讯内部紧急协调部署，调用元宝支持微信搜索，给用户提供更多入口和选择。</p>
+<p>从即日开始，尚未被灰度到 AI 搜索的用户，点击微信对话框顶部的搜索栏，进入微信搜索，将有机会在页面中看到「下载元宝（体验 DeepSeek-R1）」。</p>
+<p>用户通过腾讯元宝，可以免费使用 DeepSeek-R1 满血版、DeepSeek-V3、腾讯混元深度思考模型 T1 以及腾讯混元通用模型 Turbo。不仅支持深度思考，也支持快速输出答案。</p>
+<p>值得一提的是，腾讯元宝支持联网搜索，覆盖公众号等腾讯生态内容及互联网权威信源。腾讯方面表示，未来将持续优化产品能力，提升模型性能，为用户提供更优质的 AI 使用体验。</p>
+<p>此外，据博主三个老爸实验室发文称，元宝的 DeepSeek 回答疑似植入广告。随后腾讯公司公关总监张军在评论区回应表示，回答中所谓的广告，实际上是联网搜索参考了相关的链接内容，并非植入。张军还表示，已经跟技术团队同步，会尽快优化处理类似的呈现问题。</p>
+<h3>百度发布 2024 全年财报</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/250219/5d0e8d7e-3f84-4f98-9e9b-de0eb8eb2d50.jpeg" /></p>
+<p>昨日，百度公布了其 2024 年 Q4 及全年财报。其中显示，百度集团 Q4 营收 341 亿元，全年营收 1,331 亿元，均同比下滑 1%。</p>
+<p>其他数据显示，全年营收中归属百度核心净利润达 234 亿元，同比增长 21%。此外受 AI 驱动，百度智能云呈高速增长，Q4 收入同比增长达 26%。百度还宣布，12 月，文心大模型日均调用量达 16.5 亿次，一年增长 33 倍；百度文库 AI MAU 达 9,400 万，同比增长 216%，环比增长 83%。</p>
+<p>百度联合创始人兼 CEO 李彦宏表示，2024 年是百度从以互联网为中心转向以人工智能为先的关键一年。同时其还表示，随着百度的 AI 战略不断被验证，其相信 AI 相关投入将在 2025 年带来更大的成果。</p>
+<p>此外，据新浪科技报道，在百度 2024 年 Q4 及全年财报电话会上，李彦宏透露，文心大模型 4.5 将开源，同时 4.5 将是百度有史以来最强大的大模型。百度近日曾发文宣布，将在未来几个月陆续推出文心大模型 4.5 系列，并在 6 月 30 日正式开源。</p>
+<h3>消息称罗福莉已到小米上班</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/250219/1a60e670-6dbb-4d7f-b47b-5504363ed866.jpeg" /></p>
+<p>今年春节前，雷军在直播时说，希望用千万年薪挖角「AI 天才少女」罗福莉，请她到小米带领团队从事 AI 大模型研究。此前，红星新闻曾通过其高中班主任向她求证是否入职小米，当时她表示还在考虑要不要加入小米。</p>
+<p>近期，据红星新闻报道，罗福莉已到新岗位上班。此外，据罗福莉的一名亲戚透露，因罗福莉的爱人在春节期间忙着开发一个新产品，所以两人春节都没回老家。该亲戚还称，罗福莉老公的研究方向与她是同一个领域，只是细分项目不一样。</p>
+<p>据悉，罗福莉硕士毕业于北京大学计算语言学研究所，并在自然语言处理领域有着杰出的研究经历和成果。此后，罗福莉在阿里巴巴的达摩院机器智能实验室工作，并主导开发了多语言预训练模型 VECO。2022 年，罗福莉参与 DeepSeek 的 MoE 大模型 DeepSeek-V2 的开发。</p>
+<p>此前第一财经曾报道并指出，雷军认为小米在大模型领域发力太晚，于是亲自挖人。而罗福莉的加入可能加速小米在大模型领域的研发进度。</p>
+<h3>月之暗面暂缓「烧钱」，大砍投放预算</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/250219/e34dde6c-0942-4e21-8d14-dbd6d4665156.png" /></p>
+<p>据界面新闻获悉，月之暗面近期决定大幅收缩产品投放预算，包括暂停多个安卓渠道的投放，以及第三方广告平台的合作。报道称，月之暗面内部对此次调整解释称，公司近期受到「外部因素和内部战略调整影响」。</p>
+<p>知情人士透露称，DeepSeek 的爆火对月之暗面内部而言是不小的刺激，团队复盘后认为还是要坚持基础模型 SOTA。未来月之暗面可能会重新训练基础模型，并且内部选中 DeepResearch 功能作为产品方向。据悉，上述功能为 OpenAI 在 2 月发布的面向深度研究领域的智能体产品。</p>
+<p>同时，有大模型领域投资人分析称，月之暗面此举是终于意识到投放的无效性，接下来如果要继续留在 AGI 牌桌上竞争，它只能依靠模型创新。</p>
+<h3>上海交大讲席教授：人工智能曾走了 20 年弯路</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/250219/2d1f9d1b-50af-44f8-927e-bc90eda52747.jpg" /></p>
+<p>近期，上海交通大学致远讲席教授徐雷接受《AI&amp;Society 百人百问》采访，徐雷教授表示，人工智能初诞后逆着自然演化方向走了 20 年弯路。</p>
+<p>采访中徐雷教授表示，在 1956 年人工智能诞生之初，因发展方向与自然相反，跳过了形象思维阶段，导致基础不牢而走进死胡同。20 年后，随着神经网络研究和深度学习的高度兴起，AI 才逐渐步入正轨，并且才有了近 20 年的大发展。</p>
+<p>随后，徐雷教授也谈及了 Scaling Law。他提到，90 年代前后神经网络研究高潮期间，缺的就是大型的硬件规模，导致没办法像如今一样快速发展。但徐雷教授也表示，硬件规模只是个必要条件，并不等于规模大了模型就一定能做好，其认为要从探索本质特性、在训练数据下功夫、考虑合适框架来进行释放潜力。</p>
+<p>徐雷教授还提到，人其实也会像大模型一样出现幻觉。并且 AI 的幻觉跟人类所产生的一样，这种如梦境的生成有对，也有不对的。徐雷教授认为，很难判断大模型输出的「幻觉」，或许也是一种好的创新。</p>
+<section><img alt="新产品" src="https://s3.ifanr.com/images/ep/common-images/hao_chan_pin.png" /></section>
+<h3>阶跃星辰与吉利联合开源两款 Step 系列多模态大模型</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/250219/24e29b08-45e6-49ef-86c6-db8d4d68b3b7.jpg" /></p>
+<p>2 月 18 日，阶跃星辰和吉利汽车集团联合宣布，将双方合作的阶跃两款 Step 系列多模态大模型向全球开发者开源。</p>
+<p>本次合作的大模型包含目前全球范围内参数量最大、性能最好的开源视频生成模型阶跃 Step-Video-T2V，以及行业内首款产品级开源语音交互大模型阶跃 Step-Audio。</p>
+<p>据悉，阶跃 Step-Video-T2V 模型的参数量达到 300 亿，可以直接生成 204 帧、540P 分辨率的高质量视频。</p>
+<p>阶跃星辰还发布并开源了针对文生视频质量评测的新基准数据集 Step-Video-T2V-Eval，其包含 128 条源于真实用户的中文评测问题。评测结果显示，阶跃 Step-Video-T2V 的模型性能在多方面，均显著超过市面上既有的效果最佳的开源视频模型。</p>
+<p>而阶跃 Step-Audio 是行业内首个产品级的开源语音交互模型，能够根据不同的场景需求生成情绪、方言、语种、歌声和个性化风格的表达，能和用户自然地高质量对话。</p>
+<p>在 LlaMA Question、Web Questions 等 5 大主流公开测试集中，阶跃 Step-Audio 模型性能均超过了行业内同类型开源模型，位列第一。阶跃 Step-Audio 在 HSK-6（汉语水平考试六级）评测中的表现尤为突出，是最懂中国话的开源语音交互大模型。</p>
+<p>此外，阶跃星辰自建并开源了多维度评估体系 StepEval-Audio-360 基准测试。通过人工横评后的结果显示，阶跃 Step-Audio 的模型能力十分均衡，且在各个维度上均超过了此前市面上效果最佳的开源语音模型。</p>
+<p>即日起，可在跃问 App 内体验阶跃 Step-Video-T2V 和阶跃 Step-Audio。</p>
+<h3>昆仑万维开源首个面向 AI 短剧创作的视频生成模型</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/250219/c77e743e-f85d-45a7-90eb-cfda1ce9cb2a.png" /></p>
+<p>2 月 18 日，昆仑万维开源中国首个面向AI短剧创作的视频生成模型 SkyReels-V1、中国首个 SOTA 级别基于视频基座模型的表情动作可控算法 SkyReels-A1。</p>
+<p>据悉，昆仑万维本次开源的两款视频模型，是针对解决当前全球 AI 视频生成模型和产品不开源、用不到、费用高、不好用等痛点，并且将面向 AI 短剧创作的技术成果回馈开源社区和 AIGC 用户。</p>
+<p>其中，SkyReels-V1 可实现影视级人物微表情表演生成，支持多种细腻人物表情与多种自然动作组合；同时加入人物空间位置感知、表演场景理解。</p>
+<p>此外，SkyReels-V1 还能支持图生视频，是开源视频生成模型中参数最大的支持图生视频的模型，在同等分辨率下各项指标实现开源 SOTA；并且其还是围绕人物表演、开源视频生成模型中性能最强的，多项参数表现超过 HunyuanVideo。</p>
+<p>而 SkyReels-A1 将对标 Runway 的 Act-One。其能够基于任意人体比例，生成高度逼真的人物动态视频，其真实感源自对人物表情变化和情绪的精准模拟、皮肤肌理、身体动作跟随等多维度细节的深度还原。</p>
+<p>SkyReels-V1 和 SkyReels-A1 将同时进行开源。昆仑万维表示，这将是 AI 短剧行业首例，也是昆仑万维 SkyReels 回馈行业迈出的一小步，更是促进 AI 短剧创作和视频生成行业枝繁叶茂的一大步。</p>
+<h3>iPhone 17 Pro 模具遭曝光</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/250219/3891e84c-4d17-4d57-87bc-010018813bc1.png" /></p>
+<p>近日，博主 MajinBu 发文分享了一组有关 iPhone 17 系列机型外观的图片信息。</p>
+<p>MajinBu 分享的图片中，有一组其称是 iPhone 17 Pro 相机模组的原型物料。从图片中可以看出，iPhone 17 Pro 或将一改以往方形的相机模组设计，采用大面积圆角矩形相机模组，并且闪光灯和一个未知开孔被摆放在模组右侧，而镜头排列保持三角形阵列设计。</p>
+<p>另外，MajinBu 还一同公布了两张 iPhone 17 系列手机壳的 CAD 图纸。据 MajinBu 描述，两张 CAD 图纸分别对应 iPhone 17 Pro 以及 iPhone 17 Air。图纸显示，两款机器的后置镜头模组均采用贯穿式，其中 iPhone 17 Air 因为单摄，而采用贯穿式长条模组；iPhone 17 Pro 则与上述描述一致。</p>
+<p>此前，据分析师郭明錤和媒体 MacRumors 预测，iPhone 17 Air 机身厚度最薄处仅 5.5mm，接近 12.9 英寸 iPad Pro 的 5.1mm 厚度。郭明錤还指出，iPhone 17 Air 将配备一颗 48MP 的后置摄像头，且受限机身空间影响，该机型后置摄像头方案为单摄。</p>
+<h3>月之暗面推出新模型 Kimi Latest</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/250219/c5a2def1-9290-4fb2-bde6-c1017826b342.png" /></p>
+<p>2 月 18 日，月之暗面宣布推出新模型 Kimi Latest，将对标 Kimi 智能助手当前使用的模型。官方强调，Kimi Latest 将随智能助手产品更新而同步升级，模型名称始终为 kimi-latest。</p>
+<p>官方介绍，Kimi Latest 上下文长度为 128k，并自动根据上下文长度选择计费模型；同时 Kimi Latest 也是视觉模型，支持图片理解；另外还支持自动上下文缓存，缓存命中的 Tokens 费用为人民币 1 元 / M Tokens；其余功能与 moonshot-v1 系列模型保持一致。</p>
+<p>目前 kimi-latest 仅支持调用 kimi 普通版模型，Kimi k1.5 长思考模型暂不支持 API 调用。</p>
+<p>官方表示，Kimi Latest 推出是为了令开放平台的用户既能体验到最新模型带来的卓越效果（包括尚未稳定的试验性特性），又能保持原有模型的稳定性。</p>
+<section><img alt="新消费" src="https://s3.ifanr.com/images/ep/common-images/pin_pai.png" /></section>
+<h3>GTA6 被曝将引入官方 Mod 平台</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/250219/4bdbb695-fde2-40ab-b0fd-41878160f0da.png" /></p>
+<p>媒体 Digiday 近日报道，据知情人士透露，Rockstar（简称 R 星）私下联系了游戏《Roblox》和《堡垒之夜》的第三方游戏内容创作者，计划让他们在《GTA 6》中提供一些「定制化的游戏体验」。</p>
+<p>报道称，R 星或允许上述所提及的创作者修改游戏中的环境和资产内容，并融入创作者的创作内容。报道指出，这将意味着 R 星将为《GTA 6》提供官方的 Mod 平台，或也有可能是 R 星会进一步开放游戏自定义性，类似于《GTA OL》中用户设计的各种自定义赛道内容。</p>
+<p>据了解，R 星还在 2023 年收购了 CFX.RE。而该团队曾为《GTA 5》和《荒野大镖客：救赎 2》提供 MOD 工具。同时，《GTA 5》中的角色扮演服务器（RP 服务器）在海外平台流行，相对应的 Mod 允许玩家在 GTA 的框架下，引入类似《模拟人生》的游戏模式，并通过向用户收取订阅费来盈利。</p>
+<p>此外，本月 R 星母公司 Take-Two 曾表示，《GTA 6》仍然按照计划在「今年秋季」发布。</p>
+<h3>Spotify 将上线「Music Pro」会员</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/250219/bf1bdd67-927c-401e-b390-e3d6326f0529.jpeg" /></p>
+<p>近期，据彭博社报道，Spotify 即将上线一款全新的「Music Pro」订阅制会员服务。</p>
+<p>据介绍，Music Pro 订阅计划将以现有套餐为基础，每月额外收取最高 5.99 美元，为订阅该服务的用户提供更高品质的流媒体资源、AI 混响功能以及独家演唱会门票等内容。</p>
+<p>报道指出，目前 Spotify 正在处理细节内容，与各大音乐公司获取资源授权；Spotify 还在测试各种演唱会门票的销售方法，并同步与票务经销商进行初步谈判，未来或将能为 Music Pro 订阅用户提供「专属售票通道」和「优质座位选择」。</p>
+<p>报道还提到，Spotify 的 Music Pro 会员服务早已筹备多年。2021 年 2 月，Spotify 曾宣布计划推出「Hi-Fi」的会员，但最终未能落地。</p>
+<p>目前，Spotify 发言人对于该计划拒绝发表评论。</p>
+<h3>广州文和友暂停营业</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/250219/63030d3e-440c-4fb3-bf21-469764de226b.jpg" /></p>
+<p>近日，据界面新闻及羊城晚报获悉，广州文和友的租约已于 1 月底提前结束，据大众点评显示，目前广州文和友已经「暂停营业」。</p>
+<p>2 月 18 日，广州太古汇方面表示，其一直审视和研究汇坊的商业模式升级方向，该项工作始终在持续进行中。太古汇方面透露，经过前期筹备，目前汇坊的各租户计划于近期结束营业，之后项目将进入深度规划设计及改造的阶段。</p>
+<p>同一时间，文和友总部回应称，广州文和友租约到期，不再续租。但其未对文和友退出广州市场作出回应。</p>
+<p>上年 7 月，广州市规划和自然资源局官网发布的「批前公示」显示，堡泉（广州）物业管理有限公司拟对广州文和友所在地 — 天河区天河东路 75 号（天河区汇坊）进行改造。根据拟调整方案的效果示意图，改造完成后广州文和友将不见踪影。</p>
+<p>此前，广州文和友在试营业期间，单日取号高峰超过了 2,000 个。但在开业后不久，广州文和友遭遇「水土不服」，客流量下滑而且不时有商户退出。文和友 CEO 冯彬也曾表示，在既有成功的元素和本地文化中间做平衡，广州文和友做得不够好的。</p>
+<section><img alt="好看的" src="https://s3.ifanr.com/images/ep/common-images/hao_kan_de.png" /></section>
+<h3>《哪吒 2》登顶全球动画电影票房榜</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/250219/a23d730d-22a7-452c-8c21-8755206fc8be.jpg" /></p>
+<p>2 月 18 日，据灯塔专业版，影片《哪吒之魔童闹海》全球票房突破 123.2 亿元（人民币），超过《头脑特工队 2》，登顶全球影史动画电影票房榜。</p>
+<p>同时，《哪吒之魔童闹海》跻身进入全球影视票房榜第 8 位。</p>
+<p>2 月 13 日，据灯塔专业版数据显示，《哪吒之魔童闹海》全球累计票房（含预售）正式突破 100 亿，成为亚洲首部百亿票房影片。</p>
+<p>此外，导演饺子近日接受人民日报采访时透露，之后如果有《哪吒 3》《哪吒 4》，故事观、世界观会越来越庞大，进入故事的人物会越来越多，可能渐渐会推动到「封神大战」；并表示因为第二部自己和团队已经没给留余地了，第三部确实是很难突破的。</p>
+<h3>诺兰新片《奥德赛》公布剧照</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/250219/ec8d04c6-8aa2-4d4b-be31-01eadb831416.jpg" /></p>
+<p>近期，克里斯托弗·诺兰导演的新片《奥德赛》首次公布剧照，马特·达蒙饰演奥德修斯。</p>
+<p>据悉，该影片改编自荷马史诗故事，讲述特洛伊战争后，奥德修斯回乡的漫长旅程。此外，《奥德赛》将是一部使用全新 IMAX 电影技术，并在全球拍摄的神话动作史诗。</p>
+<p>本片将由罗伯特·帕丁森、马特·达蒙、汤姆·霍兰德、 安妮·海瑟薇、查理兹·塞隆、 赞达亚 、露皮塔·尼永奥等共同出演。《奥德赛》将于明年 7 月 17 日北美上映。</p>
+<h3>第 27 届上海国际电影节公布举办时间</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/250219/9a5c04af-f291-44bb-ab6e-7c7d6d27ee7d.png" /></p>
+<p>近日，「中国电影之夜 — 2025 年上海国际电影节柏林推广会」在欧洲电影市场举行，本次推广会上，上海国际影视节中心副主任曹吟介绍，第 27 届上海国际电影节将于 2025 年 6 月 13 日至 22 日举办。</p>
+<p>曹吟表示，金爵奖将秉持专业性，开展主竞赛、亚洲新人单元、纪录片、动画片和短片五个单元的评奖。</p>
+<p>同时上海国际电影节也向世界影人发出盛情邀请，欢迎大家走进 SIFF 一起感受中国电影市场的魅力以及中国影迷的观影热情，共同推动中国电影与世界电影的交流与合作。曹吟还提醒，金爵奖评选和国际影片展映的征片截止时间为3月31日。</p>
+<p>此外，曹吟还透露，上海国际电影节也长期支持参赛参展的电影在中国院线上映和新媒体发行，而引入中国公映的国际影片也都收获了较好的票房成绩。</p>
+<p>据统计，2024 年来上海国际电影节参赛或参展的作品中，包括《里斯本丸沉没》《完美的日子》《蓦然回首》《猫猫的奇幻漂流》等 15 部影片已在中国院线公映或定档。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1614962">原文链接</a> ·
+<a href="https://www.ifanr.com/1614962#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Wed, 19 Feb 2025 00:58:15 +0000</pubDate>
+<pubDate>Wed, 19 Feb 2025 00:58:15 +0000</pubDate>
+</item>
+<item>
+<title>特斯拉深陷信任危机，多地爆发抗议活动，还有高层要马斯克辞职？</title>
+<link>https://www.ifanr.com/1614906?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1614906?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="alignnone size-full wp-image-1614915" height="675" src="https://s3.ifanr.com/wp-content/uploads/2025/02/dafghftm3.jpg" width="1200" /></p>
+<p>上周末，北美数十家特斯拉门店前挤满了抗议人群。</p>
+<p>在明尼阿波利斯郊外的服务中心，示威者高举「拔掉疯狂国王马斯克的插头」、「这辆车靠法西斯主义运行」的标语；曼哈顿展厅外，数百人高呼「不要用特斯拉资助政变」。</p>
+<p>这场名为 #TeslaTakedown 的抗议运动席卷全美 37 个城市，甚至蔓延至柏林、海牙和维多利亚——涂鸦、纵火未遂、投射纳粹符号，一场针对马斯克个人的「符号战争」，正在演变为特斯拉成立 20 年来最严峻的公众信任危机。</p>
+<h3><img alt="" class="alignnone size-full wp-image-1614907" height="800" src="https://s3.ifanr.com/wp-content/uploads/2025/02/gtbsdf.jpg" width="1200" /></h3>
+<h3>从硅谷偶像到政治靶标</h3>
+<p>这场风暴的核心，是马斯克日益激进的政治化身份。2024 年美国大选后，这位全球首富多了一个新头衔：特朗普政府「政府效率部」（DOGE）负责人。他主导的公务员裁员、联邦机构预算削减、教育部裁撤，被抗议者视为「商业领袖对民主制度的劫持」。</p>
+<p>更致命的是，马斯克在欧洲的政治冒险——公开支持德国极右翼政党选择党（AfD）、呼吁推翻英国工党政府——彻底点燃了跨大西洋的愤怒。</p>
+<p>当 CEO 成为政治斗争的代名词时，企业就失去了安全区。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614908" height="527" src="https://s3.ifanr.com/wp-content/uploads/2025/02/agd.jpg" width="920" /></p>
+<p><em>Ludicrous: The Unvarnished Story of Tesla Motors</em> 作者 Edward Niedermeyer 在波特兰抗议现场对媒体表示，由于马斯克的权力并非来自公职选举，抵制和抛售特斯拉是遏制其议程的唯一手段。</p>
+<p>特斯拉展厅玻璃上的涂鸦、柏林超级工厂外投射的图像，无不显示这场危机的本质：公众已不再区分马斯克与特斯拉，而是将两者视为「极右翼联盟」的象征。</p>
+<p>讽刺的是，特斯拉最坚定的批评者，恰恰来自它曾引以为傲的阵营——环保主义者。</p>
+<p>西雅图气候活动家 Emily Johnston 组织的「反 DOGE」抗议中，马斯克的名字和形象占据了标语牌的显眼位置。在商业上伤害特斯拉是其中的一部分，任何关心民主的人都应该为驾驶特斯拉感到羞耻，」Johnston 说道「公众最好的筹码就是摧毁他的声誉。」</p>
+<p>这场背叛早有预兆：马斯克在 DOGE 推动取消联邦电动汽车税收抵免、公开质疑气候行动的紧迫性，甚至搁置低成本车型开发，彻底激怒了曾视其为环保先锋的群体。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614910" height="779" src="https://s3.ifanr.com/wp-content/uploads/2025/02/asfgadf.jpg" width="1500" /></p>
+<p>这种撕裂感催生了荒诞的「去马斯克化」运动：加拿大车主们纷纷在车尾贴上「我在他发疯前买了这辆车」的保险杠贴纸，试图将产品与 CEO 切割——当车主需要靠贴纸自证清白时，品牌忠诚度已岌岌可危。</p>
+<p>外部的怒火，与特斯拉内部的低气压形成残酷对照。</p>
+<p>《华盛顿邮报》获得的一段内部会议录音显示，特斯拉某部门最近举行的员工会议上，特斯拉员工和高级管理人员公开表达了对于马斯克的担忧。</p>
+<p>两名特斯拉员工称，公司上下对马斯克的不满情绪日益增加。一些员工认为，马斯克为特朗普政府效力使得他对特斯拉的关注减少，且由于特朗普是个争议性人物，公司内部也越发担心马斯克与他建立紧密关系，认为这已经损害了公司在部分消费者中的品牌形象。</p>
+<p>一名员工表示，一些高级管理人员在员工会议中暗示，如果马斯克辞职，公司的情况可能会更好。这场罕见的公开质疑，暴露了特斯拉内部的价值观裂痕——</p>
+<p>当马斯克将时间分配给 DOGE、xAI、X 平台和特朗普的椭圆形办公室会议时，员工们发现，公司官网上「加速世界向可持续能源转型」的使命宣言，正在变成一具空壳。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614839" height="632" src="https://s3.ifanr.com/wp-content/uploads/2025/02/2-10.png" width="1135" /></p>
+<div class="editor-image-source">
+<p>▲2 月 18 日，马斯克的 xAI 发布了 Grok 3</p>
+</div>
+<p>一直以来，我们对于马斯克强硬的管理风格并不陌生，但如今，通过裁员清除异己的策略似乎已经不太奏效了，马斯克手底下的员工们正在以一种前所未有的方式质疑他的领导能力，越来越多的人认为他「玷污了品牌」。</p>
+<p>「他（马斯克）似乎已经对自己的公司置之不理了，」咨询公司 ValueEdge Advisors 副主席 Nell Minow 说，她去年将大部分特斯拉股票捐赠给了慈善机构。「他对公司形象造成了巨大的损害。」</p>
+<p>这场危机揭示了一个残酷现实：</p>
+<p>在政治极化的时代，企业领袖的政治站位不再是个人选择，而是品牌的致命变量。特斯拉曾凭借科技光环跨越意识形态鸿沟，环保主义者、自由派科技精英、保守派自由市场拥护者都能在「可持续能源」旗帜下找到共鸣。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614911" height="1333" src="https://s3.ifanr.com/wp-content/uploads/2025/02/dafghf.jpg" width="2000" /></p>
+<p>但当马斯克主动踏入政治雷区，这种平衡瞬间崩解，特斯拉的展厅成了政治立体的实体投票站，支持者看到技术创新，反对者只看见特朗普盟友的充电桩。</p>
+<p>眼下，这场危机尚无解药，继续沉默将被视为默许激进立场，公开切割则可能激怒马斯克的忠实信徒。当一家企业的命运与 CEO 的政治人格深度绑定时，它的展厅注定无法回归平静。</p>
+<h3>当「马斯克溢价」沦为负资产</h3>
+<p>特斯拉展厅外的涂鸦颜料还未干透，资本市场的绞索已经收紧。2 月 8 日，特斯拉股价单周暴跌 11%，较三个月前的历史高点蒸发超 25%。</p>
+<p>这场崩塌没有局部事故，只有全局溃败，特斯拉的危机正在以惊人的速度蔓延。当一家公司的 CEO 忙于在白宫推行「政府效率改革」，在德国极右翼集会上演讲，甚至与印度总理讨论「国家级 AI 项目」时，他的电动汽车帝国正在经历一场无声的雪崩。</p>
+<p>欧洲曾是特斯拉对抗传统车企的桥头堡，如今却成了特斯拉第一块倒下的多米诺骨牌。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614912" height="693" src="https://s3.ifanr.com/wp-content/uploads/2025/02/tesla-giga-berlin1-scaled-2.jpg" width="1200" /></p>
+<p>德国联邦机动车运输管理局的数据冰冷刺骨：2025 年 1 月，特斯拉新车注册量仅为 1277 辆，同比暴跌近 60%，而在同一片市场，纯电汽车总体销量增长 53.5%。</p>
+<p>类似的场景正在整个西方世界复刻，法国销量下滑 23%，英国交付量减少 18%，瑞典交付量下降 44%，就连马斯克最珍视的「环保标杆」挪威市场，特斯拉也只卖出了 689 辆，同比下降 38%。</p>
+<p>东方战线同样失守。特斯拉 1 月在华交付量同比下降 11.5%，环比下降 32.6%。尽管中国市场整体销量仍保持增长，但特斯拉的市场份额还是从 2023 年的 7.8% 下滑到了 5.4%。</p>
+<p>为了应对销量承压的局面，顺利度过 Model Y 的换代期，特斯拉采取了一系列降价和优惠政策。例如，2025 年 2 月 5 日，特斯拉宣布焕新版 Model 3 可享 8000 元限时保险补贴及 5 年 0 息贷款政策，补贴后起售价低至 22.75 万元，刷新焕新版 Model 3 最低售价纪录。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614913" height="382" src="https://s3.ifanr.com/wp-content/uploads/2025/02/dghasgt.jpg" width="394" /></p>
+<p>北美大本营的警报同样刺耳——加州第四季度销量同比下滑 8%，全年萎缩 12%，马斯克当年在弗里蒙特工厂打地铺催产的执着，如今成了遥远传说。</p>
+<p>资本市场的反应比销售数据更残酷。在过去的一个月里，特斯拉股价跌至 355 美元，缩水 16%。裁撤教育部、削减联邦机构预算、现身德国选择党集会演讲……每一条关于 DOGE 的新闻都在特斯拉股价上剜了一刀。</p>
+<p>与此同时，销量的崩塌暴露了更深的危机：</p>
+<p>特斯拉的技术护城河正在干涸，不仅改款进度落后，自动驾驶团队的日子同样难熬——FSD 正式版迟迟未能推送，而友商的城区 NOA 已经开始穿梭于中国的街头巷尾。当汽车业务的营收开始下滑，就连特斯拉最忠实的极客粉丝也开始怀疑，「钢铁侠」是否已经忘了怎么造车。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614914" height="675" src="https://s3.ifanr.com/wp-content/uploads/2025/02/sgdfad.jpg" width="1200" /></p>
+<p>颇具讽刺意味的是，马斯克财富版图中唯一坚挺的，竟是离地球最远的业务——SpaceX 最新估值突破 3500 亿美元，猎鹰火箭的尾焰照亮了资本市场的夜空。</p>
+<p>SpaceX 可以挣脱地心引力，特斯拉却被困在了政治引力的泥潭里。</p>
+  <div id="ifanr_profile" style="border: 1px solid #ccc; font-size: 14px; margin: 27px auto; font-family: Arial;">
+    <div style="overflow: hidden;"><a href="https://www.ifanr.com/author/tanjiewen" style="color: #000; text-decoration: none;" target="_blank"></a>
+
+      <div style="text-align: left; line-height: 23px; margin-left: 80px;">
+        <div style="padding: 10px 10px 10px 0;">
+          <div style="margin: 0; font-size: 14px;"><strong><a href="https://www.ifanr.com/author/tanjiewen" style="color: #000; text-decoration: none;" target="_blank">李华 (李华)</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height: 20px;">带轮子的都关注，欢迎交流。
+邮箱：tanjiewen@ifanr.com</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align: right; border-top: 1px dotted #ccc; padding: 2px 10px; font-size: 12px;">
+      <div>
+                                <a href="mailto:tanjiewen@ifanr.com" style="margin-right: 14px; text-decoration: none;" target="_blank">邮箱</a>
+
+          
+                                  <a href="5" style="margin-right: 14px; text-decoration: none;" target="_blank">8</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1614906">原文链接</a> ·
+<a href="https://www.ifanr.com/1614906#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Tue, 18 Feb 2025 11:20:15 +0000</pubDate>
+<pubDate>Tue, 18 Feb 2025 11:20:15 +0000</pubDate>
+</item>
+<item>
+<title>苹果的下一个「Apple Watch」，将戴在你的耳朵上</title>
+<link>https://www.ifanr.com/1614856?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1614856?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="alignnone wp-image-1614885" height="671" src="https://s3.ifanr.com/wp-content/uploads/2025/02/cover-1024x573.png" width="1200" /></p>
+<blockquote><p>爱范儿关注「明日产品」，硬哲学栏目试图剥离技术和参数的外衣，探求产品设计中人性的本源。</p></blockquote>
+<p>时隔 6 年，Beats 终于发布了第二代 PowerBeats Pro 2 耳机。但比起它的设计、音质、续航等等传统要素，大家讨论的重心，是一个和耳机甚少交集的全新特色功能：心率监测。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614857" height="480" src="https://s3.ifanr.com/wp-content/uploads/2025/02/powerbeats.jpg" width="720" /></p>
+<p>不少人的第一反应可能是一个大大的问号：心率监测？在耳机上？然后开始质疑这个功能是不是又一个科技品牌没活硬整的噱头。</p>
+<p>这个看着有点不搭调的组合，其实背后有一个非常坚实的逻辑在支撑。</p>
+<h3>耳机和心率传感器更相配</h3>
+<p>在 PowerBeats Pro 2 耳塞一旁，胶囊形状的黑色模组，就是耳机的心率传感器。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614858" height="480" src="https://s3.ifanr.com/wp-content/uploads/2025/02/sensor.jpg" width="720" /></p>
+<p>传感器由四个组件构成：</p>
+<ul>
+<li>LED 传感器，每秒超过 100 脉冲的速度射出绿色 LED 光，穿过皮肤击中血液的红细胞</li>
+<li>光电二极管，接收由红细胞反射的经过血流调幅的光线</li>
+<li>光学透镜，用于引导和分离发射光和反射光</li>
+<li>加速感应器，消除运动伪影，确保数据采集的准确性和一致性</li>
+</ul>
+<p>Beats 表示，这个心率传感器技术，很大一部份来自于其母公司苹果在 Apple Watch 上的成果。</p>
+<p>如果仔细将两者进行比对，就会发现 PowerBeats Pro 2 这个心率传感器就像是从 Apple Watch 的背面拿下的精简缩小版，二者在运作时都会发出绿光。</p>
+<p><img alt="" class="alignnone size-large wp-image-1614860" height="768" src="https://s3.ifanr.com/wp-content/uploads/2025/02/comparison-1024x768.jpg" width="1024" /></p>
+<p>和 iPhone 完成配对之后，PowerBeats Pro 2 心率检测器默认打开，只要戴在耳朵上，不需要像 Apple Watch 那样打开运动模式，就能进行实时的心率监测，每 5 秒在「健康」应用输出一次数字。</p>
+<p><img alt="" class="alignnone size-large wp-image-1614861" height="1024" src="https://s3.ifanr.com/wp-content/uploads/2025/02/beats-525x1024.jpg" width="525" /></p>
+<p>Apple Watch 在打开「心脏」应用后，也能进入 5 秒一次的实时测量模式，我将这个数字与 PowerBeats Pro 2 测量的数据进行比对，发现两者的数字极其接近，差距不超过 2。</p>
+<p>要把心率测准，找对位置非常重要。虽然市面上大部分健康可穿戴设备都是手表或手环形态，但手腕其实并非最理想的测量部位。</p>
+<p>生物识别技术公司 Valencell 曾经对人体多个部位进行了测试，<strong>发现可穿戴设备能够在耳朵上收集最准确的心率</strong>。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614859" height="540" src="https://s3.ifanr.com/wp-content/uploads/2025/02/HeartDetect.gif" width="960" /></p>
+<p>比起手腕，耳朵要更加稳定，即使身体在运动，也能保持相对的静止。</p>
+<p>耳朵的生理结构也很适合心率监测：以软骨为主，还拥有理想的动脉群，并直接连接到颈动脉系统，血液特征能够更准确反映心脏的真实情况。</p>
+<p>外网最近在流行一个有点匪夷所思的趋势，让我看到像 PowerBeats Pro 2 这种产品成立，甚至成功的关键因素：<strong>不少人选择把 Apple Watch 戴在脚踝上</strong>，看起来有点像欧美国家的「电子脚铐」。</p>
+<p><img alt="" class="alignnone size-large wp-image-1614862" height="786" src="https://s3.ifanr.com/wp-content/uploads/2025/02/anklewatch-1024x786.jpg" width="1024" /></p>
+<div class="editor-image-source">
+<p>▲ 图源：New York Times</p>
+</div>
+<p>这不是吃饱了没事干，背后都有一些很无奈的理由：有些人的手臂太细，市面上很难找到能用的表带；有些医护人员因为职业原因不能戴手表；也有的人只是单纯不习惯手上绑一块这么重的东西。</p>
+<p>这恰恰说明，对于用户来说，测量的准确性，其实还没有设备使用的便利程度重要。</p>
+<h3>心率检测对运动很重要</h3>
+<p>但这又带来了一个问题：对比几乎可以 24 小时佩戴的手表，耳机无法长时间佩戴，所以不能提供健康风险预警和睡眠检测这些功能，更适合的场景是运动。</p>
+<p>相信不少小伙伴都有保持日常锻炼的习惯，我粗暴地区分成两拨人：用和不用智能手表的。</p>
+<p>用智能手表的理由很简单，都是为了记录锻炼数据；不用的理由则千奇百怪，有的人可能是上文提到的无法或者不爱用手表，或者干脆没有这个意识。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614863" height="438" src="https://s3.ifanr.com/wp-content/uploads/2025/02/applewatch.jpg" width="780" /></p>
+<p>可能不少人都觉得，我平时就简单跑跑步，有必要额外买个设备吗？</p>
+<p>公司有个小伙伴是 Apple Watch 用户，去年有段时间感觉心脏不太舒服，但手表上的数据都还算正常。最后他还是选择去医院检查，常规的心电图后，医生让他贴着仪器上一下跑步机，发现他存在心脏早搏问题，在运动时更加明显。</p>
+<p>所以看到 PowerBeats Pro 2 时，他虽然现在不常运动，还是站在一个从业者的角度，点赞了这个产品。</p>
+<p>心率可以说是人体状态最直接的反馈，在进行锻炼的时候，很多人或许都没意识到，自己的运动量已经超出了自己的负荷，不仅长期以来容易造成心血管等疾病，还很有可能直接急性发作。</p>
+<p><img alt="" class="alignnone size-large wp-image-1614865" height="560" src="https://s3.ifanr.com/wp-content/uploads/2025/02/workout-1024x560.jpeg" width="1024" /></p>
+<p>北京大学第三医院心内科副主任医师赵威表示，<strong>常见的运动性猝死都是心源性猝死，大部分由于潜在的心脏疾病导致</strong>。</p>
+<p>特别是不少想要锻炼减重的小伙伴，会更倾向于给自己加运动强度，同时又可能会因为体型原因，心血管功能不是特别好，更需要心率检测。</p>
+<p>而有一些在前期比较隐性的心血管问题，比如上文小伙伴的早搏，在运动时更容易被检测出，从而及时获得帮助。</p>
+<p>耳机还有一个先天的优势：<strong>它是一个绝佳的运动搭子。</strong></p>
+<p><img alt="" class="alignnone size-large wp-image-1614864" height="592" src="https://s3.ifanr.com/wp-content/uploads/2025/02/pbpro2-p02.jpg.large_.2x-1024x592.jpg" width="1024" /></p>
+<p>锻炼时听个音乐找节奏，或者放播客缓解无聊，顺便隔绝健身房想给你卖课的教练&#8230;..总之去健身，我会忘记带水壶，但很少忘记带耳机。</p>
+<p>锻炼时你可能不会主动选择在手上戴一个设备，但头上基本上都会有一副耳机，如果耳机能测心率，相信大部分人都不会拒绝。</p>
+<p>不过，目前 PowerBeats Pro 2 在锻炼中的体验明显还没完善，给人感觉只是给用户上了一个功能，而不是一种体验，使用起来非常的「不苹果」。</p>
+<p>和抬起手腕就能看数据的手表不同，耳机的数据都反馈在手机应用当中，所以实际上在佩戴 PowerBeats Pro 2 做运动时，用户根本没法实时查看自己的心率如何，也没有高心率或低心率通知，只能通过询问 Siri 的方式来曲线救国。</p>
+<p><img alt="" class="alignnone size-large wp-image-1614866" height="1024" src="https://s3.ifanr.com/wp-content/uploads/2025/02/siri-472x1024.gif" width="472" /></p>
+<h3>一副能测心率的耳机，其实很重要</h3>
+<p>能测心率的耳机其实并不新鲜，国外品牌捷波朗，国产大牌如华为、OPPO、荣耀等等都推出过，但这些产品都反响平平。</p>
+<p>只是这没有停住苹果前进的脚步，PowerBeats Pro 2 只是一次试水，关于 AirPods Pro 3 的爆料，基本上都提到它将会突破传统耳机的形式，通过全新的传感器来收集用户的身体数据，甚至还可能带有一个微型摄像头。</p>
+<p><img alt="" class="alignnone size-large wp-image-1614867" height="538" src="https://s3.ifanr.com/wp-content/uploads/2025/02/AirpodsPro-1024x538.jpg" width="1024" /></p>
+<div class="editor-image-source">
+<p>▲ AirPods Pro 2</p>
+</div>
+<p>其实关于 AirPods 搭载健康监测功能的可能性，在五六年前就已经进行过不少讨论。对于钻研 Apple Watch 长达十年的苹果来说，最大的挑战就是如何把那些手腕上的传感器塞进迷你的耳机里。</p>
+<p>而 PowerBeats Pro 2 那颗酷似 Apple Watch 等比缩小版的传感器，证明苹果已经跨过了技术的难关。</p>
+<p>既然苹果选择只在子公司的一款产品上首发这项技术，说明苹果可能为 AirPods Pro 3 准备了更多大招。</p>
+<p>有消息称，AirPods 未来不仅只能监测心率，体温等其他身体参数也已经在计划当中。</p>
+<p>或许 PowerBeats Pro 2 锻炼时这种还不尽如人意的心率检测体验，还需要等亲儿子 AirPods Pro 3 推出后，苹果才会进行适配和优化。</p>
+<p>AirPods 这个离大脑更近的佩戴位置，也意味着它的潜力不仅成为一个 Apple Watch 的代替。</p>
+<p>一份专利披露，苹果正在探索一套用于 AirPods 的传感器系统，在耳塞上放置大量的触点和电极，可以捕捉生物信号和大脑的电活动，从而测量脑电图、肌电图、眼电图等数据。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614868" height="524" src="https://s3.ifanr.com/wp-content/uploads/2025/02/patent.jpg" width="867" /></p>
+<div class="editor-image-source">
+<p>▲ 图源：Patently Apple</p>
+</div>
+<p>对苹果来说，AirPods 已经不是一个单纯谈音质、降噪的普通耳机，而是一个覆盖更多人的健康管理系统。</p>
+<p>毕竟戴智能手表的用户不算特别多，但基本上人人都会有一副无线蓝牙耳机。根据 IDC 的数据，可穿戴设备中，蓝牙耳机的出货量已经接近智能手表的两倍。</p>
+<p><img alt="" class="alignnone size-large wp-image-1614869" height="584" src="https://s3.ifanr.com/wp-content/uploads/2025/02/forecast-chart-1024x584.png" width="1024" /></p>
+<div class="editor-image-source">
+<p>▲ 耳机的出货量未来几年还会不断增长，图源：IDC</p>
+</div>
+<p>买一副能检测心率的耳机，其实用户还是主要冲着耳机本身好不好听降不降噪去的，健康功能只是添头。这更像是苹果借助畅销的耳机产品，将自家的健康管理系统介绍给更多用户，或许还能拉动 Apple Watch 的销量。</p>
+<p>虽然耳机做不到像手表那样持续性的身体数据监控，但长期的数据收集，也能或多或少检测出身体的变化。而上文提到的运动锻炼，那就是和耳机更加契合的落地场景。</p>
+<p>不管是全世界范围还是国内，心血管疾病都是城乡居民疾病死亡构成的头号杀手。而根据世卫组织《2023 世界心脏报告》，<strong>超过 80% 的过早心脏病发作和中风都可以被预防</strong>。</p>
+<p>Apple Watch 和 AirPods 不能代替正规医疗程序，但是它是一种更普遍的个人监测工具，可以捕捉那些不太显眼的身体信号，让用户能及时去获得需要的健康援助。</p>
+<p>这有点像 AirPods Pro 2 已经实装的「听力检测」和「助听器」功能，并非代替正规医疗，只是帮助更多大量潜在听力损伤用户发现健康问题，并获得帮助。</p>
+<p><img alt="" class="alignnone size-large wp-image-1614871" height="538" src="https://s3.ifanr.com/wp-content/uploads/2025/02/hearinghealth-1024x538.png" width="1024" /></p>
+<p>如果想要避免重蹈友商的覆辙，苹果需要通过长期的努力引导消费者和用户接受、习惯，最终爱上耳机上的心率传感器，就像他们对 Apple Watch 做得那样——从不被看好，到成为公司仅次于 iPhone、iPad、AirPods 的畅销产品，成为一种被更多人接纳的生活方式。</p>
+<p>作为头部厂商的苹果的带动作用，也会推动整个行业跟进相关领域。未来会有越来越多厂商将耳机纳入自己的健康可穿戴生态体系，也会有更多用户去在意自己的耳机能不能测心率、体温，从而挽救更多生命。</p>
+<p>这就是心率检测登陆耳机产品的价值：<strong>一次范围更广的健康平权</strong>。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1614856">原文链接</a> ·
+<a href="https://www.ifanr.com/1614856#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Tue, 18 Feb 2025 10:00:43 +0000</pubDate>
+<pubDate>Tue, 18 Feb 2025 10:00:43 +0000</pubDate>
+</item>
+<item>
+<title>马斯克发布「最强大模型」超越 DeepSeek，成本高出 200 多倍</title>
+<link>https://www.ifanr.com/1614837?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1614837?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="alignnone size-full wp-image-1614876" height="500" src="https://s3.ifanr.com/wp-content/uploads/2025/02/25341739862756_.pic_.jpg" width="1175" /></p>
+<p>「聪明得可怕」，这是马斯克预告 Grok 3 时的说法，以至于今天一大早，全网都在苦苦等待。</p>
+<p>在全网蹲点发布会时，App Store 先一步更新了。而在发布会进行过程中，Grok 网页版也一度火到崩溃。</p>
+<p>可以，看着很有信心的样子。</p>
+<p>Grok 3 不是一个简单的产品迭代，在此之前，是马斯克大手笔建设的数据中心、豪气的显卡配置，采用最佳的预训练模型并继续使用强化学习进行训练，堪称「富养」出来的新一代。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614839" height="632" src="https://s3.ifanr.com/wp-content/uploads/2025/02/2-10.png" width="1135" /></p>
+<p>要点提炼如下：</p>
+<ul>
+<li>美区账号已经可以更新，英区、欧洲 2.28 推出</li>
+<li>推出 SuperGrok 高级订阅计划，月费为 30 美元，年费为 300 美元，提供额外的推理和 DeepSearch 查询功能，包含了无限量的图像生成服务</li>
+</ul>
+<h3>Grok 3 推理能力领先 DeepSeek R1</h3>
+<p>在 Chatbot 竞技场之称的 LMSYS 盲测中，Grok 3 在代码、指令响应等各个方面排名第一。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614840" height="632" src="https://s3.ifanr.com/wp-content/uploads/2025/02/3-11.png" width="1135" /></p>
+<p>作为诞生于 20 万张显卡的产物，Grok 3 断层级别的表现依旧证明了 Scaling Law 仍在生效。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614841" height="662" src="https://s3.ifanr.com/wp-content/uploads/2025/02/4-7.png" width="1280" /></p>
+<p>相比于 DeepSeek 以低成本创造高收益，Grok 3 主打一个「大力出奇迹。」</p>
+<p><img alt="" class="alignnone size-full wp-image-1614842" height="674" src="https://s3.ifanr.com/wp-content/uploads/2025/02/5-2.jpg" width="1186" /></p>
+<p>这次，引入推理能力的 Grok 3 的重点在于更灵活地进行实时计算资源分配，在保证推理质量的同时，最聪明的使用计算资源。</p>
+<p>曾经 Grok 2 的推理能力，就已经达到过当时的 SOTA 水平。在经过多次迭代之后，模型的泛化能力有大幅提升。Grok 3 在最新的 AIME 竞赛中则再次刷新了自己的记录。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614843" height="708" src="https://s3.ifanr.com/wp-content/uploads/2025/02/6-7.png" width="1280" /></p>
+<p>不过，仅仅只是推理能力强显然是不够的，快、狠、准才能参与大模型内卷。发布会现场，工程团队展示了两个案例。</p>
+<p>一个是请求生成一个从地球发射到火星并返回地球的 3D 动画代码，Grok 思考了 19 秒，详细描述了其思考过程，包括使用 Python 进行绘图，以及使用 NumPy 进行计算。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614844" height="872" src="https://s3.ifanr.com/wp-content/uploads/2025/02/7-6.png" width="1584" /></p>
+<p>另一个则是试图让 Grok 将《俄罗斯方块》和《宝石迷阵》这两款游戏结合起来，创造出一个新的游戏。</p>
+<p>很遗憾，Grok 一上来就遭遇了连续两次的翻车，连马斯克回头看了屏幕上糟糕的演示环节，也不免尴尬地发出了一句「oh man」。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614845" height="881" src="https://s3.ifanr.com/wp-content/uploads/2025/02/8-6.png" width="1591" /></p>
+<p>不过，后续演示中，也端上了正常的案例（该不会准备好的 demo 吧）。</p>
+<p>而一些幸运的网友已经玩上 Grok 3 了。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614846" height="2048" src="https://s3.ifanr.com/wp-content/uploads/2025/02/9-8.png" width="955" /></p>
+<div class="editor-image-source">
+<p>▲图片来自 X 网友 @jesselaunz</p>
+</div>
+<h3>DeepSearch 登场，要革搜索引擎的命</h3>
+<p>作为这次更新的重磅产品，Grok 3 加持的 DeepSearch 号称是下一代搜索引擎。模型将自主像 agent 一样运作，并且理解用户提问背后的意图，省下在 Google 花的时间。</p>
+<p>现场展示的环节里，工程师给 Grok 3 出了一道有趣的题：预测 NCAA 「疯狂三月」的胜负数，也就是所有层级里的比赛结果。</p>
+<p>这是巴菲特在 2014 年发起的一个活动，赌注高达十亿美元，赌得就是让巴菲特破产。历史上无人成功，甚至无人接近，因为即使专家预测，前几轮后也会出现大量错误。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614847" height="989" src="https://s3.ifanr.com/wp-content/uploads/2025/02/10-6.png" width="1280" /></p>
+<div class="editor-image-source">
+<p>▲2023 年 NCAA 对阵图</p>
+</div>
+<p>当年这就是一个营销活动，毕竟赢下的概率之小，几乎是千千亿分之一的概率，基本等于不可能。把这个问题甩给Grok 3，不可谓不大胆。</p>
+<p>返送的答案中，除了援引的材料，还做了结构化处理。开头介绍、背景知识、分析图表、总结陈词，相当完整。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614848" height="501" src="https://s3.ifanr.com/wp-content/uploads/2025/02/11-6.png" width="898" /></p>
+<p>检索的重点在于，如何交叉核实各个信息源。Grok 3 通过设计一个子任务面板来完成这个工作，用户可以自己实时监测正在进行的任务，从而保证答案是可用的、可靠的。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614849" height="500" src="https://s3.ifanr.com/wp-content/uploads/2025/02/12-2.gif" width="900" /></p>
+<p>在这个基础上，agent 自主检索十分钟，抵掉自己摸索一小时，才是有效减少工作量。</p>
+<p>最终 Grok 3 也给出了它认为的 2025 年 NCAA 冠军，三月还没来，让我们拭目以待它的「神预言」会不会成真。</p>
+<p>至于 Grok 3 的体验方式，官方说了，X 的 Premium+ 订阅用户将率先体验，而其他高级功能则被纳入 xAI 推出的新计划——SuperGrok 中。</p>
+<p>SuperGrok 的月费为 30 美元，年费为 300 美元，仅提供额外的推理和 DeepSearch 查询功能，还包含了无限量的图像生成服务。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614850" height="881" src="https://s3.ifanr.com/wp-content/uploads/2025/02/13-5.png" width="1591" /></p>
+<h3>贾维斯来了？还没完全来</h3>
+<p>就在昨晚，Shivon Zilis 路透了她和有 Grok 3 加持的人工智能助理 Ara 的对谈，并称这是生命中最意想不到的收获。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614851" height="974" src="https://s3.ifanr.com/wp-content/uploads/2025/02/14-3.png" width="1182" /></p>
+<p>简直是徒增大家对语音模式的期待，马斯克在发布会召开前就已经宣布语音模式只会在一周内推出，这也意味着无缘演示环节。</p>
+<p>不过，在现场直播环节，马斯克也表示这将是 Grok 最好的体验之一，在发布会的尾声，语音模型也放出了一个男声，听着倒是挺有人味的。</p>
+<p><img alt="" class="alignnone size-full wp-image-1614852" height="881" src="https://s3.ifanr.com/wp-content/uploads/2025/02/15-1.png" width="1591" /></p>
+<p>这一点点的路透，激起了极大的好奇，到了QA环节关于语音模式的提问涌上来。当然，还有现在必不可少的灵魂拷问：「开源否」我们节选了一部分<img alt="👇🏻" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f447-1f3fb.png" style="height: 1em;" /></p>
+<h3>QA</h3>
+<p>问：Grok 语音模式什么时候推出；是基于文本转语音，还是能理解人类说话并直接回应的模型？<br />
+答：Grok 基本上会理解人类所说的话，将首先在一周内发布早期版本，后续将迅速进行迭代更新。</p>
+<p>问：什么时候推出 Grok API？<br />
+答：将在接下来的几周内推出，包含推理模型和深度研究功能。</p>
+<p>问：Grok 能记住互动的谈话内容吗？<br />
+答：正在努力开发这个功能，不过目前还没有完全完成。</p>
+<p>问：是否还会开源 Grok 模型<br />
+答：当 Grok 3 成熟稳定之后，大概几个月将会开源 Grok 2。</p>
+<p>问：做这个项目最困难的部分是什么？<br />
+答：最大的挑战是让整个模型在海量的 H100 上进行训练，并保持一致性</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1614837">原文链接</a> ·
+<a href="https://www.ifanr.com/1614837#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Tue, 18 Feb 2025 07:24:06 +0000</pubDate>
+<pubDate>Tue, 18 Feb 2025 07:24:06 +0000</pubDate>
+</item>
+
+<item>
 <title>早报|《哪吒 2》冲进全球影史票房榜第九/格力回应专卖店更名董明珠健康家/曝 iPhone SE 不支持毫米波 5G</title>
 <link>https://www.ifanr.com/1614812?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1614812?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-
 <div style="padding: 0 14px; text-align: center;"><img alt="cover" src="https://s3.ifanr.com/images/ep/cover-images/ka_fei_guan_zhong_de_nv_hai_men_cover.jpg" /></div>
 <div style="padding: 0 14px;">
 <div>
@@ -241,14 +824,12 @@
 </div>
 ]]></content:encoded>
 <pubDate>Tue, 18 Feb 2025 00:54:56 +0000</pubDate>
-<pubDate>Tue, 18 Feb 2025 00:54:56 +0000</pubDate>
 </item>
 <item>
 <title>蔚来现在最缺的，是信心</title>
 <link>https://www.ifanr.com/1614785?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1614785?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="" class="alignnone size-full wp-image-1614794" height="675" src="https://s3.ifanr.com/wp-content/uploads/2025/02/WL-6.jpg" width="1200" /></p>
 <p>已经有很多人对造车新势力三大代表「蔚小理」的命名有异议了，以销量和股价来说，目前都是理想居首，小鹏次之，蔚来殿后，但命名却是反过来的，甚至还有人说，在销量榜上，理想和小鹏之外，还有零跑、问界、极氪、小米等比蔚来卖得好的品牌存在，「蔚小理」已经似乎过去式，大有「他乔峰大好男儿，你慕容复不配相提并论」的意思。</p>
 <p>类似的事情还出在此前的 BAT 命名上，数年前国内最大的三家互联网公司分别是百度，阿里巴巴和腾讯，但是后来百度在业绩和股价上逐渐掉队，加上字节跳动、美团和滴滴等企业的崛起，很多人呼吁，BAT 可以保留，但是 B 应该是 ByteDance（字节跳动）。</p>
@@ -349,14 +930,13 @@
 </div>
 ]]></content:encoded>
 <pubDate>Mon, 17 Feb 2025 09:11:25 +0000</pubDate>
-<pubDate>Mon, 17 Feb 2025 09:11:25 +0000</pubDate>
 </item>
 <item>
 <title>首发体验 | 接入 DeepSeek 后，腾讯元宝又放出一个「王炸」</title>
 <link>https://www.ifanr.com/1614761?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1614761?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-<div> 关键词：腾讯元宝、DeepSeek R1、Hunyuan T1、微信生态、模型选择<br><br>总结:<br>1. 腾讯元宝接入满血版DeepSeek R1，解决了服务器繁忙问题。<br>2. 推出自研Hunyuan T1模型，反应更快，支持多问题并发处理。<br>3. Hunyuan T1深度整合腾讯生态系统信息，精准调取微信公众号内容。<br>4. 用户可在元宝应用内自由切换使用DeepSeek R1和Hunyuan T1模型。<br>5. 腾讯元宝通过用户反馈不断优化模型，提供更好的用户体验。 <div>
+<div> 关键词：腾讯元宝、DeepSeek R1、Hunyuan T1、微信生态、模型选择<br /><br />总结:<br />1. 腾讯元宝接入满血版DeepSeek R1，解决了服务器繁忙问题。<br />2. 推出自研Hunyuan T1模型，反应更快，支持多问题并发处理。<br />3. Hunyuan T1深度整合腾讯生态系统信息，精准调取微信公众号内容。<br />4. 用户可在元宝应用内自由切换使用DeepSeek R1和Hunyuan T1模型。<br />5. 腾讯元宝通过用户反馈不断优化模型，提供更好的用户体验。 <div>
 <p><img alt="" class="alignnone size-full wp-image-1614770" height="960" src="https://s3.ifanr.com/wp-content/uploads/2025/02/8-1.jpg" width="1280" /></p>
 <p>腾讯元宝不语，只是一味地更新。</p>
 <p>当 DeepSeek 在春节期间爆火，所有人都在猜测国内 AI 厂商将会如何跟进时，腾讯元宝上周宣布接入满血版 DeepSeek R1，APPSO 体验后彻底告别了「服务器繁忙」。</p>
@@ -427,9 +1007,7 @@
 </div>
 ]]></content:encoded>
 <pubDate>Mon, 17 Feb 2025 06:27:16 +0000</pubDate>
-<pubDate>Mon, 17 Feb 2025 06:27:16 +0000</pubDate>
 </item>
-
 <item>
 <title>早报|Vision Pro 有望迎来 Apple 智能/微信、百度接入DeepSeek/小行星有 2% 概率在 2032 年撞击地球</title>
 <link>https://www.ifanr.com/1614721?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
