@@ -1472,3 +1472,93 @@ Append: [镑瑞阳线拉升，寻求做多机会](https://www.fastbull.com/cn/ne
 Append: [原油交易提醒：OPEC+或推迟增产计划，俄油供应受限推动油价上涨](https://www.fastbull.com/cn/news-detail/4320805_1)
 append_entries: 43
 Finish: 2025-02-20 02:51:59.713513
+------------------------------------------------------
+Started: 2025-02-21 02:53:54.579468
+Existing_entries: 826
+Fetching from https://rsshub.app/fastbull/news
+Token length: 2423
+Summarized using deepseek-chat
+Append: [在欧中国车企的“韧劲”一面](https://www.fastbull.com/cn/news-detail/4321059_1)
+Token length: 1542
+Summarized using deepseek-chat
+Append: [越南通过政府“瘦身”计划，10万公务员或受影响](https://www.fastbull.com/cn/news-detail/4321061_1)
+Token length: 647
+Summarized using deepseek-chat
+Append: [日元套息交易前景因日本央行政策变化存在不确定性](https://www.fastbull.com/cn/news-detail/4321079_1)
+Token length: 2070
+Summarized using deepseek-chat
+Append: [欧洲抓紧应对美关税政策风险](https://www.fastbull.com/cn/news-detail/4321051_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [澳元/美元涨势动摇，2月上涨行情面临威胁](https://www.fastbull.com/cn/news-detail/4321078_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [计划加薪日企比例创历史新高！工资增长等多重因素支持日央行加息前景](https://www.fastbull.com/cn/news-detail/4321043_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [欧元/美元技术信号强烈：突破1.0442还是再度回调？](https://www.fastbull.com/cn/news-detail/4321076_1)
+Token length: 1499
+Summarized using deepseek-chat
+Append: [全美“蛋荒”？美国农业部称今年蛋价或涨逾20%，特朗普政府如何应对](https://www.fastbull.com/cn/news-detail/4321044_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [欧盟同意另一项对俄罗斯的制裁方案](https://www.fastbull.com/cn/news-detail/4321053_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [财政风险溢价将进入欧元区](https://www.fastbull.com/cn/news-detail/4321057_1)
+Append: [刚刚，金价历史新高！特朗普，突然决定！](https://www.fastbull.com/cn/news-detail/4321070_1)
+Append: [交易员大举买入VIX看涨期权！策略师警告：或成美股波动重要推手](https://www.fastbull.com/cn/news-detail/4321063_1)
+Append: [特朗普助推日元升值到149日元](https://www.fastbull.com/cn/news-detail/4321055_1)
+Append: [特朗普肆意妄为，美元终将难逃一劫？](https://www.fastbull.com/cn/news-detail/4321032_1)
+Append: [欧洲央行鹰派言论加剧财政压力](https://www.fastbull.com/cn/news-detail/4321050_1)
+Append: [美联储会议记录公布后，美股和美债升幅温和](https://www.fastbull.com/cn/institution-article/4321024_1)
+Append: [乌克兰关键筹码缩水，俄罗斯宣布收回库尔斯克60%被占区](https://www.fastbull.com/cn/news-detail/4321047_1)
+Append: [大事不妙，比特币正在被“人为”压价？](https://www.fastbull.com/cn/news-detail/4321049_1)
+Append: [就任满月：特朗普的忧虑](https://www.fastbull.com/cn/institution-article/4321031_1)
+Append: [中国2月LPR连四月按兵不动，两会前降准降息或暂蛰伏待机](https://www.fastbull.com/cn/news-detail/4321025_1)
+Append: [韩国在这一黄金需求上成为“世界第一”？](https://www.fastbull.com/cn/news-detail/4321056_1)
+Append: [2025年，还要继续买黄金吗？](https://www.fastbull.com/cn/institution-article/4321029_1)
+Append: [伊朗恢复稳定的机会眇茫](https://www.fastbull.com/cn/news-detail/4321027_1)
+Append: [乌克兰被威胁结束战争，欧股涨势能延续吗?](https://www.fastbull.com/cn/institution-article/4321021_1)
+Append: [特朗普交易中被忽视的角落热度不减：今年已暴涨100%！](https://www.fastbull.com/cn/news-detail/4321038_1)
+Append: [资金风向有变！美国科技股拥挤度下降，海外资产更香](https://www.fastbull.com/cn/news-detail/4321020_1)
+Append: [德国1月PPI：增速逊预期，非耐用消费品成价格主推力](https://www.fastbull.com/cn/newsdetail/4321030_1)
+Append: [北极寒流引爆一类资产！美日跌创年内新低](https://www.fastbull.com/cn/institution-article/4320996_1)
+Append: [油市瘫痪！面对特朗普的政策洪流，交易员麻了](https://www.fastbull.com/cn/news-detail/4321018_1)
+Append: [黄金标普续创新高，原油恐延续下行](https://www.fastbull.com/cn/institution-article/4321016_1)
+Append: [“特朗普2.0”满月，美国正与“再次伟大”背道而驰](https://www.fastbull.com/cn/news-detail/4321017_1)
+Append: [重磅！美联储，最新暗示！](https://www.fastbull.com/cn/news-detail/4321009_1)
+Append: [美欧俄乌博弈：欧洲股市的潜在机遇](https://www.fastbull.com/cn/institution-article/4320995_1)
+Append: [美联储杰斐逊：实现2%目标的进展缓慢，预计通胀之路将继续坎坷](https://www.fastbull.com/cn/institution-article/4321008_1)
+Append: [俄乌冲突即将三周年，泽连斯基的绝望写在脸上](https://www.fastbull.com/cn/news-detail/4321007_1)
+Append: [人民币走强！突破7.27关口！美联储降息预期有变？](https://www.fastbull.com/cn/news-detail/4321003_1)
+Append: [美联储博斯蒂克：通胀目标预计2026年初达成，短期内不急于降息](https://www.fastbull.com/cn/institution-article/4321006_1)
+Append: [特朗普引爆“淘金热”，这场黄金大挪移将如何收场？](https://www.fastbull.com/cn/news-detail/4321002_1)
+Append: [食品通胀或将飙升，日本央行加息步伐要加快了？](https://www.fastbull.com/cn/news-detail/4321001_1)
+Append: [美俄关系重启？中国会面临怎样的局势？](https://www.fastbull.com/cn/news-detail/4320999_1)
+Append: [在AI浪潮下，铜价有望重启涨势](https://www.fastbull.com/cn/institution-article/4320993_1)
+Append: [特朗普欲强推协议获取矿产，但乌克兰可能把他骗惨了……](https://www.fastbull.com/cn/news-detail/4320988_1)
+Append: [2月LPR保持不变，中国央行稳汇率防风险政策持续](https://www.fastbull.com/cn/news-detail/4320992_1)
+Append: [日本央行今年或再加息一次，第三季度成关键时点](https://www.fastbull.com/cn/news-detail/4320986_1)
+Append: [澳洲央行维持谨慎降息路径，通胀或低于目标中点](https://www.fastbull.com/cn/news-detail/4320990_1)
+Append: [中东原油价格偏高，欧佩克+将缩小减产](https://www.fastbull.com/cn/news-detail/4320982_1)
+Append: [新西兰联储奥尔：经济回暖支撑降息预期，纽元短期波动有限](https://www.fastbull.com/cn/institution-article/4320981_1)
+Append: [巴菲特青睐的石油股“转亏”，石油公司集体陷入盈利困境](https://www.fastbull.com/cn/news-detail/4320980_1)
+Append: [狂欢结束？比特币价格或将回调至86000美元](https://www.fastbull.com/cn/news-detail/4320979_1)
+Append: [特朗普新政令油市迷失方向，交易商降低风险敞口](https://www.fastbull.com/cn/news-detail/4320978_1)
+Append: [澳洲就业市场强劲依旧，失业率微升难掩繁荣](https://www.fastbull.com/cn/news-detail/4320977_1)
+Append: [美联储1月份会议纪要：通胀前景存在上行风险，考虑放缓或暂停缩表](https://www.fastbull.com/cn/institution-article/4320975_1)
+Append: [加征关税不得民心！特朗普支持率较上任之初下滑](https://www.fastbull.com/cn/news-detail/4320961_1)
+Append: [从全球价值链洞察对华关税影响](https://www.fastbull.com/cn/institution-article/4320962_1)
+Append: [降至7590亿美元！中国持有美债处于2009年以来的最低水平](https://www.fastbull.com/cn/news-detail/4320960_1)
+Append: [黄金风暴：多重因素推动金价攀升，能否突破3000美元大关？](https://www.fastbull.com/cn/news-detail/4320956_1)
+Append: [套利交易推升需求，上周黄金价格整体上涨](https://www.fastbull.com/cn/institution-article/4320959_1)
+Append: [美国24Q4居民信贷状况小幅恶化](https://www.fastbull.com/cn/institution-article/4320957_1)
+Append: [欧日坚决阴线，短期调整做空](https://www.fastbull.com/cn/news-detail/4320958_1)
+Append: [市场继续关注地缘局势走向，美元指数19日上涨](https://www.fastbull.com/cn/news-detail/4320954_1)
+Append: [英国企业和家庭部门面临更大的价格压力，经济增长动能进一步趋弱](https://www.fastbull.com/cn/news-detail/4320951_1)
+Append: [2月20日财经要闻](https://www.fastbull.com/cn/news-detail/4320953_1)
+Append: [CBOT持仓解读：玉米净多头暴增2万手，小麦大豆空头为何疯狂加码？](https://www.fastbull.com/cn/news-detail/4320948_1)
+Append: [美联储在担心什么？1月纪要最大意外：讨论暂停或放缓缩表](https://www.fastbull.com/cn/news-detail/4320947_1)
+append_entries: 64
+Finish: 2025-02-21 03:00:33.162890

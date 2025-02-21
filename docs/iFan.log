@@ -347,3 +347,25 @@ error: Expecting value: line 1 column 1 (char 0)
 Append: [OpenAI 放开成人内容？体验新版 GPT-4o 后，我想再次感谢 DeepSeek](https://www.ifanr.com/1614917?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 4
 Finish: 2025-02-20 03:01:09.502928
+------------------------------------------------------
+Started: 2025-02-21 03:05:33.217149
+Existing_entries: 77
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [尊界 S800 凭什么卖一百万？余承东解释了一个半小时](https://www.ifanr.com/1615225?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 10113
+Summarized using deepseek-chat
+Append: [早报|格力回应「董明珠健康家」/小米 15 Ultra 将进行爆料直播/马斯克旗下 AI 模型免费开放使用](https://www.ifanr.com/1615258?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [OPPO Find N5 首发体验！不展开，也是旗舰！](https://www.ifanr.com/1615175?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [二十年磨一剑，微软刚发布的巴掌大量子芯片碾压全球超算，马斯克转发力挺](https://www.ifanr.com/1615145?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [劳斯莱斯发布了有史以来最强大的车型](https://www.ifanr.com/1615012?utm_source=rss&utm_medium=rss&utm_campaign=)
+Append: [理想自研电机上来就被骂？](https://www.ifanr.com/1614804?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 6
+Finish: 2025-02-21 03:09:56.976577
