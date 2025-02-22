@@ -369,3 +369,21 @@ Append: [劳斯莱斯发布了有史以来最强大的车型](https://www.ifanr.
 Append: [理想自研电机上来就被骂？](https://www.ifanr.com/1614804?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 6
 Finish: 2025-02-21 03:09:56.976577
+------------------------------------------------------
+Started: 2025-02-22 02:41:59.509377
+Existing_entries: 83
+Fetching from https://www.ifanr.com/feed
+Token length: 5622
+Summarized using deepseek-chat
+Append: [早报|曝iPhone 17系列将采用苹果自制Wi-Fi芯片/DeepSeek将连发5个开源项目/曝理想新车智驾硬件将全系标配激光雷达](https://www.ifanr.com/1615367?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 2381
+Summarized using deepseek-chat
+Append: [最低调的「AI 六小龙」阶跃星辰，在 DeepSeek 浪潮中交出了一份新答卷](https://www.ifanr.com/1615369?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 7627
+Summarized using deepseek-chat
+Append: [OPPO Find N5：折叠屏的版本答案](https://www.ifanr.com/1615075?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 298
+Summarized using deepseek-chat
+Append: [在华为方舟壹号，遇见未来智能空间的起点](https://www.ifanr.com/1615317?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 4
+Finish: 2025-02-22 02:42:57.718094

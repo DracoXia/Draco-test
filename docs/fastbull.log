@@ -1562,3 +1562,91 @@ Append: [CBOT持仓解读：玉米净多头暴增2万手，小麦大豆空头为
 Append: [美联储在担心什么？1月纪要最大意外：讨论暂停或放缓缩表](https://www.fastbull.com/cn/news-detail/4320947_1)
 append_entries: 64
 Finish: 2025-02-21 03:00:33.162890
+------------------------------------------------------
+Started: 2025-02-22 02:38:31.639194
+Existing_entries: 890
+Fetching from https://rsshub.app/fastbull/news
+Token length: 2771
+Summarized using deepseek-chat
+Append: [巴菲特致股东信本周六重磅来袭，接班人、对股市看法等料成焦点](https://www.fastbull.com/cn/news-detail/4321241_1)
+Token length: 2389
+Summarized using deepseek-chat
+Append: [特朗普能否振兴印太并夺回美国领导地位？](https://www.fastbull.com/cn/news-detail/4321237_1)
+Token length: 2227
+Summarized using deepseek-chat
+Append: [黄金直逼3000美元关口，分析师看向3200~3300美元](https://www.fastbull.com/cn/news-detail/4321250_1)
+Token length: 2446
+Summarized using deepseek-chat
+Append: [中国车型受俄消费者喜爱，本土化战略破解增长瓶颈](https://www.fastbull.com/cn/news-detail/4321235_1)
+Token length: 2125
+Summarized using deepseek-chat
+Append: [PMI显示欧元区经济增长依旧乏力，德法两大“火车头”表现分化](https://www.fastbull.com/cn/news-detail/4321248_1)
+Token length: 4355
+Summarized using deepseek-chat
+Append: [中国香港发布虚拟资产监管路线图，专家解读五大支柱背后深意](https://www.fastbull.com/cn/news-detail/4321231_1)
+Token length: 1350
+Summarized using deepseek-chat
+Append: [到达上升通道边界，澳元/美元会突破阻力吗？](https://www.fastbull.com/cn/news-detail/4321249_1)
+Token length: 832
+Summarized using deepseek-chat
+Append: [各国对美国展开报复关税，日本申请豁免](https://www.fastbull.com/cn/news-detail/4321243_1)
+Token length: 794
+Summarized using deepseek-chat
+Append: [德国大选前夕欧元1.0500遇阻](https://www.fastbull.com/cn/institution-article/4321184_1)
+Token length: 1758
+Summarized using deepseek-chat
+Append: [欧元冲高受限，德国大选与经济数据将决定短期走势！](https://www.fastbull.com/cn/news-detail/4321247_1)
+Append: [美元指数走势疲软，市场情绪和经济数据对美元形成压力](https://www.fastbull.com/cn/news-detail/4321246_1)
+Append: [特朗普重回白宫的这一个月，美国有何不同？](https://www.fastbull.com/cn/news-detail/4321225_1)
+Append: [日产高层拟邀特斯拉入股！与本田合并失败后竟瞄准更大“金主”](https://www.fastbull.com/cn/news-detail/4321229_1)
+Append: [裁撤政府人员、审核所有行政法规，为特朗普拓权的幕后推手是谁？](https://www.fastbull.com/cn/news-detail/4321214_1)
+Append: [债市迎来深度调整，机构固收配置思路有何转变？](https://www.fastbull.com/cn/news-detail/4321204_1)
+Append: [德国左翼党的大选目标：阻击“黑红大联盟”再度执政](https://www.fastbull.com/cn/news-detail/4321217_1)
+Append: [德国2月PMI：经济增长回暖，制造业拖累减轻](https://www.fastbull.com/cn/institution-article/4321221_1)
+Append: [欧元区2月PMI：经济微幅增长，制造业跌势放缓](https://www.fastbull.com/cn/institution-article/4321222_1)
+Append: [韩国经济因政治动荡而陷入困境](https://www.fastbull.com/cn/news-detail/4321182_1)
+Append: [阿里业绩和AI支出承诺提振信心，港股主要指数齐升至约三年来高位](https://www.fastbull.com/cn/news-detail/4321207_1)
+Append: [中国央行稳舵穿越逆风，债市盛宴中途歇场](https://www.fastbull.com/cn/news-detail/4321193_1)
+Append: [法国2月PMI：经济下滑加剧，服务业拖累整体表现](https://www.fastbull.com/cn/institution-article/4321195_1)
+Append: [人民币近日升值态势明显！后市如何看？](https://www.fastbull.com/cn/news-detail/4321187_1)
+Append: [2025年大豆市场上演多空“拉锯战”](https://www.fastbull.com/cn/institution-article/4321173_1)
+Append: [日本2月PMI：服务业支撑经济扩张，制造业仍处低谷](https://www.fastbull.com/cn/institution-article/4321185_1)
+Append: [多个非美“破位”在即！美股离筑顶多远？](https://www.fastbull.com/cn/institution-article/4321178_1)
+Append: [美股三大指数震荡拉回金价再创新高，澳洲央行宣布降息1码](https://www.fastbull.com/cn/institution-article/4321176_1)
+Append: [“关税风暴”渐退，市场自满情绪暗涌，金价见顶了？](https://www.fastbull.com/cn/news-detail/4321181_1)
+Append: [市场热议“东升西降”：阿里掀起中国AI投资巨浪，大量资金逃离美股](https://www.fastbull.com/cn/news-detail/4321175_1)
+Append: [DeepSeek令中国股市独领风骚，科技引领的重估如何持续？](https://www.fastbull.com/cn/news-detail/4321179_1)
+Append: [美股下跌，受消费前景担忧拖累](https://www.fastbull.com/cn/institution-article/4321171_1)
+Append: [美联储官员警告特朗普政策不确定性和通胀上升风险](https://www.fastbull.com/cn/news-detail/4321177_1)
+Append: [阿里巴巴10～12月净利润同比增3.4倍](https://www.fastbull.com/cn/news-detail/4321172_1)
+Append: [澳大利亚2月PMI：私营部门扩张加速，服务业表现强劲](https://www.fastbull.com/cn/institution-article/4321174_1)
+Append: [新川式关税](https://www.fastbull.com/cn/institution-article/4321169_1)
+Append: [特朗普又放大招！恢复死刑、审查诺克斯堡金库，未来5年内削减约3000亿美元军费](https://www.fastbull.com/cn/news-detail/4321170_1)
+Append: [发达经济体通胀存在上行风险，降息通道或暂时关闭](https://www.fastbull.com/cn/news-detail/4321167_1)
+Append: [避险资金涌入！日元创两个月新高，全球投资者在担心什么？](https://www.fastbull.com/cn/news-detail/4321164_1)
+Append: [美联储穆萨莱姆：需警惕通胀预期上升，并考虑发生滞涨的风险](https://www.fastbull.com/cn/institution-article/4321163_1)
+Append: [关税博弈升级！美欧贸易谈判聚焦汽车行业，双方试探降税可能](https://www.fastbull.com/cn/news-detail/4321161_1)
+Append: [“特朗普关税”令经济前景蒙阴，韩国请求获得美国关税豁免](https://www.fastbull.com/cn/news-detail/4321157_1)
+Append: [新时代的“布雷顿森林协议”呼之欲出? 为缓解美债重压，特朗普政府酝酿“海湖庄园协议”](https://www.fastbull.com/cn/news-detail/4321152_1)
+Append: [美联储古尔斯比：PCE通胀数据或低于CPI](https://www.fastbull.com/cn/institution-article/4321149_1)
+Append: [在中国调解下，这个“九反之地”终于迎来了重要和平窗口期](https://www.fastbull.com/cn/news-detail/4321145_1)
+Append: [欧盟新的以农业为重点的愿景为何对食品行业如此重要](https://www.fastbull.com/cn/news-detail/4321144_1)
+Append: [华尔街想知道：DOGE主导的裁员会否将美国推入衰退？](https://www.fastbull.com/cn/news-detail/4321141_1)
+Append: [“有望吸引2000亿美元净买入”！中国资产站上新风口](https://www.fastbull.com/cn/news-detail/4321150_1)
+Append: [德国提前7个月举行大选：谁在选、怎么选、新政府如何组阁？](https://www.fastbull.com/cn/news-detail/4321127_1)
+Append: [美联储库格勒：通胀依然面临上行风险，应在一段时间内按兵不动](https://www.fastbull.com/cn/institution-article/4321147_1)
+Append: [澳洲联储对降息持谨慎态度，澳元升至逾两个月高位](https://www.fastbull.com/cn/news-detail/4321143_1)
+Append: [日本通胀加速，再次加息的可能性增加](https://www.fastbull.com/cn/news-detail/4321142_1)
+Append: [美联储“鹰声”不断：通胀停滞，特朗普关税或重创供应链！](https://www.fastbull.com/cn/news-detail/4321133_1)
+Append: [日本1月核心通胀率创19个月新高，增强继续加息押注](https://www.fastbull.com/cn/news-detail/4321131_1)
+Append: [日本通胀加速上行，央行加息路径愈加清晰](https://www.fastbull.com/cn/news-detail/4321124_1)
+Append: [英国经济寒冬？降息难解“信心冰点”](https://www.fastbull.com/cn/news-detail/4321129_1)
+Append: [美关税举措损害全球经济增长](https://www.fastbull.com/cn/news-detail/4321125_1)
+Append: [最终选择突破，镑美指向多头](https://www.fastbull.com/cn/news-detail/4321122_1)
+Append: [2月21日财经要闻](https://www.fastbull.com/cn/newsdetail/4321120_1)
+Append: [彻底转向？美国据悉反对在G7声明中称俄罗斯为“侵略者”](https://www.fastbull.com/cn/news-detail/4321119_1)
+Append: [美联储有高官预计今年还能降息两次，超鸽派高官对关税感到担忧](https://www.fastbull.com/cn/news-detail/4321118_1)
+Append: [德国大选看点一览：总理之位或易主，极右势力异军突起](https://www.fastbull.com/cn/news-detail/4321116_1)
+Append: [稳字当头！离岸人民币创近三个月新高，今年累计上涨逾1000点](https://www.fastbull.com/cn/news-detail/4321115_1)
+append_entries: 62
+Finish: 2025-02-22 02:40:52.344725
