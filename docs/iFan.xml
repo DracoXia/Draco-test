@@ -4,6 +4,7 @@
 <title>爱范儿</title>
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
+
 <item>
 <title>早报|曝iPhone 17系列将采用苹果自制Wi-Fi芯片/DeepSeek将连发5个开源项目/曝理想新车智驾硬件将全系标配激光雷达</title>
 <link>https://www.ifanr.com/1615367?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> 关键词：iPhone 17、字节跳动、企业微信、上汽集团、GPT-4.5
 
-<br><br>总结:
+<br /><br />总结:
 1. iPhone 17系列将采用苹果自制的Wi-Fi芯片，提升用户体验并降低成本。
 2. 字节跳动大模型团队架构调整，吴永辉负责基础研究，朱文佳负责模型应用。
 3. 企业微信接入DeepSeek大模型，提升内部协作和客户服务效率。
@@ -190,14 +191,13 @@
 </div>
 ]]></content:encoded>
 <pubDate>Sat, 22 Feb 2025 01:10:38 +0000</pubDate>
-<pubDate>Sat, 22 Feb 2025 01:10:38 +0000</pubDate>
 </item>
 <item>
 <title>最低调的「AI 六小龙」阶跃星辰，在 DeepSeek 浪潮中交出了一份新答卷</title>
 <link>https://www.ifanr.com/1615369?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1615369?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-<div> 关键词：阶跃星辰、多模态、推理能力、智能终端、AGI<br><br>总结:<br>1. 阶跃星辰在首届Step UP生态开放日公布了探索AGI的方式，重点布局智能终端，如汽车、手机、具身智能和IoT。<br>2. 阶跃星辰强调多模态能力和推理能力是智能体发展的关键，多模态让智能体感知世界，推理能力则使其能进行长思维链的思考。<br>3. 阶跃星辰已发布11款多模态大模型，并开源了Step-Video-T2V视频生成模型和Step-Audio语音模型。<br>4. 阶跃星辰与多家企业合作，推动AI在智能终端场景的应用，如与吉利合作的智能座舱Agent、与OPPO共建的「一键问屏」功能等。<br>5. 姜大昕提出AGI发展需经历模拟世界、探索世界、归纳世界三大阶段，阶跃星辰选择智能终端Agent作为实现AGI的路径。 <div>
+<div> 关键词：阶跃星辰、多模态、推理能力、智能终端、AGI<br /><br />总结:<br />1. 阶跃星辰在首届Step UP生态开放日公布了探索AGI的方式，重点布局智能终端，如汽车、手机、具身智能和IoT。<br />2. 阶跃星辰强调多模态能力和推理能力是智能体发展的关键，多模态让智能体感知世界，推理能力则使其能进行长思维链的思考。<br />3. 阶跃星辰已发布11款多模态大模型，并开源了Step-Video-T2V视频生成模型和Step-Audio语音模型。<br />4. 阶跃星辰与多家企业合作，推动AI在智能终端场景的应用，如与吉利合作的智能座舱Agent、与OPPO共建的「一键问屏」功能等。<br />5. 姜大昕提出AGI发展需经历模拟世界、探索世界、归纳世界三大阶段，阶跃星辰选择智能终端Agent作为实现AGI的路径。 <div>
 <p>DeepSeek 掀起的浪潮还没结束 ，不只是 OpenAI ，中国的「 AI 六小龙」都要面临拷问：Scaling Law 是否还能持续，开源还是闭源，AI 落地的路线是否还行得通。</p>
 <p>今天，AI 六小龙中一直比较低调的阶跃星辰，率先交出今年的第一份答卷。</p>
 <p>在首届 Step UP生态开放日，阶跃星辰公布了自己探索 AGI 的方式，开启多模态推理的技术研究，并将 AI 落地的重点押注在智能终端，重点布局汽车、手机、具身智能、IoT 等应用场景。</p>
@@ -255,14 +255,13 @@
 </div>
 ]]></content:encoded>
 <pubDate>Fri, 21 Feb 2025 12:31:41 +0000</pubDate>
-<pubDate>Fri, 21 Feb 2025 12:31:41 +0000</pubDate>
 </item>
 <item>
 <title>OPPO Find N5：折叠屏的版本答案</title>
 <link>https://www.ifanr.com/1615075?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1615075?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-<div> 折叠屏、轻薄、体验、性能、影像<br><br>总结:<br>1. OPPO Find N5 通过极致优化实现了轻薄设计，折叠态厚度仅8.93mm，重量229g，接近直板机手感。<br>2. 外屏采用6.62英寸超通透钻石屏，支持1-120Hz刷新率，体验媲美直板旗舰。<br>3. 内屏8.12英寸，接近iPad mini尺寸，支持全景虚拟屏功能，提升多任务处理效率。<br>4. 搭载骁龙8 Elite处理器，性能强劲，支持50W无线充电和80W SuperVOOC闪充，续航表现优异。<br>5. 影像系统保持高水准，配备5000万像素主摄和潜望长焦，支持长焦微距和悬停拍摄，满足日常拍摄需求。 <div>
+<div> 折叠屏、轻薄、体验、性能、影像<br /><br />总结:<br />1. OPPO Find N5 通过极致优化实现了轻薄设计，折叠态厚度仅8.93mm，重量229g，接近直板机手感。<br />2. 外屏采用6.62英寸超通透钻石屏，支持1-120Hz刷新率，体验媲美直板旗舰。<br />3. 内屏8.12英寸，接近iPad mini尺寸，支持全景虚拟屏功能，提升多任务处理效率。<br />4. 搭载骁龙8 Elite处理器，性能强劲，支持50W无线充电和80W SuperVOOC闪充，续航表现优异。<br />5. 影像系统保持高水准，配备5000万像素主摄和潜望长焦，支持长焦微距和悬停拍摄，满足日常拍摄需求。 <div>
 <p><img alt="" class="alignnone size-full wp-image-1615076" height="2966" src="https://s3.ifanr.com/wp-content/uploads/2025/02/IMG_8562.jpg" width="4449" /></p>
 <p>科技进化的本质，不是让选择消失，而是让矛盾相拥。</p>
 <p>在折叠屏面世的六年间，爱范儿已经体验过非常多的折叠屏手机，毋庸置疑，折叠屏就是近年来智能手机产品形态的巨大变革，技术显性化的特质也让折叠屏成为了手机厂商们叩击高端市场的「捷径」。</p>
@@ -429,7 +428,6 @@
 </div>
 ]]></content:encoded>
 <pubDate>Fri, 21 Feb 2025 10:00:57 +0000</pubDate>
-<pubDate>Fri, 21 Feb 2025 10:00:57 +0000</pubDate>
 </item>
 <item>
 <title>在华为方舟壹号，遇见未来智能空间的起点</title>
@@ -438,7 +436,7 @@
 <content:encoded><![CDATA[
 <div> 关键词：华为方舟壹号、空间智能、开放实验室、智能化实景、互动关系
 
-<br><br>总结:  
+<br /><br />总结:  
 1. 华为方舟壹号是国内首个空间智能化大型开放实验室，面积达8600m²。  
 2. 实验室涵盖了别墅、公寓、康养空间、酒店、教室、会议室等多种生活场景。  
 3. 通过智能化技术，将未来生活的愿景转化为可落地的实景。  
@@ -480,9 +478,7 @@
 </div>
 ]]></content:encoded>
 <pubDate>Fri, 21 Feb 2025 03:47:48 +0000</pubDate>
-<pubDate>Fri, 21 Feb 2025 03:47:48 +0000</pubDate>
 </item>
-
 <item>
 <title>尊界 S800 凭什么卖一百万？余承东解释了一个半小时</title>
 <link>https://www.ifanr.com/1615225?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
