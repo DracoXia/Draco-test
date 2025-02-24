@@ -1689,3 +1689,36 @@ Append: [“矿产换援助”被拒，美或寻求与乌达成“简化版协�
 Append: [美国二手房销量1月份意外下滑，结束连续三个月增长趋势](https://www.fastbull.com/cn/news-detail/4321270_1)
 append_entries: 13
 Finish: 2025-02-23 03:00:30.909278
+------------------------------------------------------
+Started: 2025-02-24 02:58:52.304851
+Existing_entries: 965
+Fetching from https://rsshub.app/fastbull/news
+Token length: 2744
+Summarized using deepseek-chat
+Append: [俄乌冲突三周年，和平曙光何时到来？](https://www.fastbull.com/cn/news-detail/4321290_1)
+Token length: 1567
+Summarized using deepseek-chat
+Append: [德国政坛变天：联盟党重新掌权，极右翼崛起为第二大党](https://www.fastbull.com/cn/news-detail/4321289_1)
+Token length: 1877
+Summarized using deepseek-chat
+Append: [AI+时代来临，竞争焦点在哪儿？](https://www.fastbull.com/cn/news-detail/4321223_1)
+Token length: 1416
+Summarized using deepseek-chat
+Append: [欧洲竞争力下滑，如何应对扭转不利局面？](https://www.fastbull.com/cn/news-detail/4321215_1)
+Token length: 1641
+Summarized using deepseek-chat
+Append: [DeepSeek的开源战略动摇AI旧秩序](https://www.fastbull.com/cn/news-detail/4320994_1)
+Token length: 3485
+Summarized using deepseek-chat
+Append: [俄乌冲突或现曙光，地缘冲突缓和施压油价下跌](https://www.fastbull.com/cn/institution-article/4321238_1)
+Token length: 1766
+Summarized using deepseek-chat
+Append: [黄金价格波动的背后逻辑与未来走势](https://www.fastbull.com/cn/news-detail/4321190_1)
+Token length: 2204
+Summarized using deepseek-chat
+Append: [美欧对华新能源政策变化趋势](https://www.fastbull.com/cn/news-detail/4320966_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [中国如何利用其在关键矿产贸易中的主导地位](https://www.fastbull.com/cn/news-detail/4321234_1)
+append_entries: 9
+Finish: 2025-02-24 03:03:12.601561

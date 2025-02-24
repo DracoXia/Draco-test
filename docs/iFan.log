@@ -393,3 +393,12 @@ Existing_entries: 87
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2025-02-23 03:01:45.135049
+------------------------------------------------------
+Started: 2025-02-24 03:06:32.364265
+Existing_entries: 87
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [早报|新款 MacBook Air 发布时间曝光/小米 15 Ultra 影像配置公布/马斯克投资的飞行汽车试飞成功](https://www.ifanr.com/1615400?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2025-02-24 03:07:34.376697
