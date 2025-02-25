@@ -1722,3 +1722,83 @@ error: Expecting value: line 1 column 1 (char 0)
 Append: [中国如何利用其在关键矿产贸易中的主导地位](https://www.fastbull.com/cn/news-detail/4321234_1)
 append_entries: 9
 Finish: 2025-02-24 03:03:12.601561
+------------------------------------------------------
+Started: 2025-02-25 02:57:46.741642
+Existing_entries: 974
+Fetching from https://rsshub.app/fastbull/news
+Token length: 1577
+Summarized using deepseek-chat
+Append: [DeepSeek会改写英伟达的增长剧本吗？](https://www.fastbull.com/cn/news-detail/4321393_1)
+Token length: 2569
+Summarized using deepseek-chat
+Append: [俄乌冲突三周年：俄罗斯回稳，乌克兰艰难复苏，欧洲“失落三年”](https://www.fastbull.com/cn/news-detail/4321403_1)
+Token length: 900
+Summarized using deepseek-chat
+Append: [特朗普阴影笼罩下，德国提议与英法“核共享”](https://www.fastbull.com/cn/news-detail/4321407_1)
+Token length: 3677
+Summarized using deepseek-chat
+Append: [欧亚股市今年以来跑赢美股！多家国际投行唱多中国股市](https://www.fastbull.com/cn/news-detail/4321399_1)
+Token length: 1058
+Summarized using deepseek-chat
+Append: [下降三角形中，美元/加元会如何破局？](https://www.fastbull.com/cn/news-detail/4321412_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [豪车巨头为何“失速”新能源赛道？](https://www.fastbull.com/cn/news-detail/4321396_1)
+Token length: 1042
+Summarized using deepseek-chat
+Append: [美股全线暴跌后，屡试不爽的“逢低买入”策略这次还能奏效吗？](https://www.fastbull.com/cn/news-detail/4321411_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [黄金价值重估就能“化债”？小心结果适得其反！](https://www.fastbull.com/cn/news-detail/4321385_1)
+Token length: 846
+Summarized using deepseek-chat
+Append: [特朗普指示限制中国对美尖端技术等投资](https://www.fastbull.com/cn/news-detail/4321389_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [日元预测：通胀、英伟达焦点下美元/日元的事件风险加剧](https://www.fastbull.com/cn/news-detail/4321406_1)
+Append: [黄金本周有望摸到3000美元，回调可逢低买入？](https://www.fastbull.com/cn/news-detail/4321384_1)
+Append: [Deepseek让微软变卦了？被曝取消多个数据中心租约，缩减开支大幕已开启](https://www.fastbull.com/cn/news-detail/4321391_1)
+Append: [大宗商品消息：市场情绪低落](https://www.fastbull.com/cn/newsdetail/4321379_1)
+Append: [人民币汇率回到三个月高点应有DeepSeek一份功劳，关键考验在二季度](https://www.fastbull.com/cn/news-detail/4321382_1)
+Append: [特朗普只想速战速决，但普京的野心更大！](https://www.fastbull.com/cn/news-detail/4321380_1)
+Append: [德国大选：政策转向“美国化”？](https://www.fastbull.com/cn/institution-article/4321371_1)
+Append: [美联储会议纪要显示进一步降息须通胀下行](https://www.fastbull.com/cn/institution-article/4321362_1)
+Append: [三个关键词看2025年德国联邦议院选举](https://www.fastbull.com/cn/news-detail/4321375_1)
+Append: [欧洲央行不知不觉降息过多？央行管委提醒潜在风险](https://www.fastbull.com/cn/news-detail/4321378_1)
+Append: [美联储政策转向与财政安抚，美债市场获得喘息之机](https://www.fastbull.com/cn/news-detail/4321376_1)
+Append: [印尼版“淡马锡”今日正式启动！将向AI等多领域投资200亿美元](https://www.fastbull.com/cn/news-detail/4321373_1)
+Append: [特朗普要求乌克兰“稀土换援助”，打的什么如意算盘？](https://www.fastbull.com/cn/news-detail/4321368_1)
+Append: [英伟达财报大考：AI牛市的“终极试金石”！](https://www.fastbull.com/cn/news-detail/4321361_1)
+Append: [避险主题重燃，“大转折”正发生？](https://www.fastbull.com/cn/institution-article/4321357_1)
+Append: [德国大选结果出炉，市场聚焦英伟达财报](https://www.fastbull.com/cn/institution-article/4321348_1)
+Append: [靠近布林带上轨，澳元/美元这波反弹能走到哪儿？](https://www.fastbull.com/cn/news-detail/4321358_1)
+Append: [加密行业又出大劫案：全球第二大加密交易所被盗近15亿美元代币](https://www.fastbull.com/cn/news-detail/4321351_1)
+Append: [俄乌局势三周年和英伟达财报](https://www.fastbull.com/cn/institution-article/4321347_1)
+Append: [关税预期放缓、政经局势变幻，黄金表现依然强势](https://www.fastbull.com/cn/institution-article/4321344_1)
+Append: [大选后，欧洲“火车头”驶向何方？](https://www.fastbull.com/cn/news-detail/4321335_1)
+Append: [特朗普的“大刀”挥向美国科学界](https://www.fastbull.com/cn/news-detail/4321330_1)
+Append: [美联储，困在特朗普的政策里](https://www.fastbull.com/cn/news-detail/4321329_1)
+Append: [美国经济“亮红灯”](https://www.fastbull.com/cn/institution-article/4321325_1)
+Append: [韩国散户面临大考：卖空禁令将于3月底解除](https://www.fastbull.com/cn/news-detail/4321328_1)
+Append: [日本央行“冷眼旁观”：债券收益率飙升，紧急购债门槛高企](https://www.fastbull.com/cn/news-detail/4321327_1)
+Append: [“强心针”中国民营经济促进法即将问世，如何细化及落实是关键](https://www.fastbull.com/cn/news-detail/4321324_1)
+Append: [美乌矿产协议谈判陷僵局，泽连斯基拒认5000亿债务称"赠款非债"](https://www.fastbull.com/cn/news-detail/4321326_1)
+Append: [大选结束，德国接下来怎么走](https://www.fastbull.com/cn/news-detail/4321323_1)
+Append: [DeepSeek被超越，AI竞赛进入新局面](https://www.fastbull.com/cn/news-detail/4321321_1)
+Append: [地缘新阶段，关注风险落地](https://www.fastbull.com/cn/institution-article/4321319_1)
+Append: [战争三步曲，乌克兰战败在即谁之过？](https://www.fastbull.com/cn/news-detail/4321316_1)
+Append: [俄罗斯原油海运量：面向中印是冲突前4倍](https://www.fastbull.com/cn/news-detail/4321313_1)
+Append: [股价房价暴涨背后：美国经济比以往任何时候都更依赖富人！](https://www.fastbull.com/cn/news-detail/4321318_1)
+Append: [贸易摩擦如何影响资本市场？](https://www.fastbull.com/cn/institution-article/4321317_1)
+Append: [特朗普再压油价，伊拉克“被迫”宣布恢复库尔德石油出口](https://www.fastbull.com/cn/news-detail/4321309_1)
+Append: [美股二月收官战打响](https://www.fastbull.com/cn/news-detail/4321312_1)
+Append: [特斯拉股价今年恐腰斩？马斯克曾经的忠实信徒罗列四大看衰理由](https://www.fastbull.com/cn/news-detail/4321308_1)
+Append: [美瑞临近关键支撑，等待自行破位](https://www.fastbull.com/cn/news-detail/4321304_1)
+Append: [乌克兰危机升级三年，多方博弈仍在激化](https://www.fastbull.com/cn/news-detail/4321301_1)
+Append: [德国大选出口民调出炉！联盟党领先，但要出现组阁困局？](https://www.fastbull.com/cn/news-detail/4321298_1)
+Append: [德国选举结果提振欧元，美元因经济前景担忧走软](https://www.fastbull.com/cn/news-detail/4321303_1)
+Append: [2月24日财经要闻](https://www.fastbull.com/cn/news-detail/4321299_1)
+Append: [美元涨势缓和，全球资金重返亚洲新兴市场股市](https://www.fastbull.com/cn/news-detail/4321295_1)
+Append: [乌克兰纪念战事三周年，泽连斯基表明愿辞总统换取乌加入北约](https://www.fastbull.com/cn/news-detail/4321291_1)
+append_entries: 54
+Finish: 2025-02-25 03:04:12.526624
