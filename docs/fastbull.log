@@ -1802,3 +1802,86 @@ Append: [美元涨势缓和，全球资金重返亚洲新兴市场股市](https:
 Append: [乌克兰纪念战事三周年，泽连斯基表明愿辞总统换取乌加入北约](https://www.fastbull.com/cn/news-detail/4321291_1)
 append_entries: 54
 Finish: 2025-02-25 03:04:12.526624
+------------------------------------------------------
+Started: 2025-02-26 02:56:31.794927
+Existing_entries: 1028
+Fetching from https://rsshub.app/fastbull/news
+Token length: 2043
+Summarized using deepseek-chat
+Append: [平常心看外资变化：外资因何而来，又因何而去？](https://www.fastbull.com/cn/news-detail/4321548_1)
+Token length: 5209
+Summarized using deepseek-chat
+Append: [资产负债表修复的初步思考](https://www.fastbull.com/cn/news-detail/4321550_1)
+Token length: 1632
+Summarized using deepseek-chat
+Append: [比特币一度跌破87000美元，市场发生了什么？](https://www.fastbull.com/cn/news-detail/4321563_1)
+Token length: 1810
+Summarized using deepseek-chat
+Append: [中日利率逆转渐行渐近](https://www.fastbull.com/cn/news-detail/4321536_1)
+Token length: 622
+Summarized using deepseek-chat
+Append: [央行降息预期升温，欧元区四季度薪资增速降至4.1%](https://www.fastbull.com/cn/news-detail/4321562_1)
+Token length: 1553
+Summarized using deepseek-chat
+Append: [困境中的特斯拉为进驻印度左右为难？](https://www.fastbull.com/cn/news-detail/4321515_1)
+Token length: 799
+Summarized using deepseek-chat
+Append: [特朗普原油关税害人害己？高盛：将令美国家庭多承担220亿美元成本](https://www.fastbull.com/cn/news-detail/4321561_1)
+Token length: 688
+Summarized using deepseek-chat
+Append: [德国经济2024年第四季度增长缓慢，机构对欧元走势预测存在分歧](https://www.fastbull.com/cn/news-detail/4321542_1)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [有缺陷的和平协议不会结束乌克兰战争](https://www.fastbull.com/cn/news-detail/4321510_1)
+Token length: 1443
+Summarized using deepseek-chat
+Append: [英伟达迎财报“大考”](https://www.fastbull.com/cn/institution-article/4321567_1)
+Append: [港股显疲态？原油继续徘徊在70美元附近](https://www.fastbull.com/cn/institution-article/4321560_1)
+Append: [里士满制造业指数或将引发波动，英镑/美元、欧元/美元前景分析](https://www.fastbull.com/cn/news-detail/4321559_1)
+Append: [投资热情正在从美股蔓延至全球](https://www.fastbull.com/cn/news-detail/4321503_1)
+Append: [加密资产抛售潮持续上演，比特币价格失守9万美元大关](https://www.fastbull.com/cn/news-detail/4321554_1)
+Append: [马斯克对联邦雇员下“最后通牒”：第二次不交“周报” 将被解雇！](https://www.fastbull.com/cn/news-detail/4321540_1)
+Append: [市场对关税风险保持谨慎](https://www.fastbull.com/cn/news-detail/4321537_1)
+Append: [市场对德国支出预期持谨慎态度](https://www.fastbull.com/cn/news-detail/4321520_1)
+Append: [德国政坛仍将左右摇摆](https://www.fastbull.com/cn/news-detail/4321507_1)
+Append: [欧股跑赢美股背后：特朗普正在倒逼“让欧洲再次伟大”？](https://www.fastbull.com/cn/news-detail/4321539_1)
+Append: [特朗普“都要”，欧盟也想要，美欧“合伙”瓜分乌克兰矿产资源](https://www.fastbull.com/cn/news-detail/4321535_1)
+Append: [美国优先投资政策的可能影响](https://www.fastbull.com/cn/institution-article/4321509_1)
+Append: [加沙停火协议失效在即，巴以双方能否顺利完成第二阶段谈判？](https://www.fastbull.com/cn/news-detail/4321530_1)
+Append: [美国频繁发出关税威胁，让欧洲多国经济“雪上加霜”](https://www.fastbull.com/cn/news-detail/4321502_1)
+Append: [监管风向突变后，加密货币关注三大变量！](https://www.fastbull.com/cn/news-detail/4321524_1)
+Append: [韩国央行下调利率，且有望进一步降息](https://www.fastbull.com/cn/news-detail/4321512_1)
+Append: [苹果狂砸5000亿美元加入科技“军备竞赛”，但这对公司财务有何影响？](https://www.fastbull.com/cn/news-detail/4321518_1)
+Append: [德国大选意味着什么？](https://www.fastbull.com/cn/institution-article/4321517_1)
+Append: [市场缩量震荡，农业、大基建崛起](https://www.fastbull.com/cn/institution-article/4321506_1)
+Append: [乌克兰危机三周年：全球大宗商品市场是否将再次重构？](https://www.fastbull.com/cn/news-detail/4321500_1)
+Append: [巴菲特百亿美元“豪赌”引爆日本股市](https://www.fastbull.com/cn/news-detail/4321505_1)
+Append: [美元持续承压但跌势放缓，日元受经济数据影响大幅走高](https://www.fastbull.com/cn/institution-article/4321501_1)
+Append: [美国单边加税措施严重违反世贸组织规则](https://www.fastbull.com/cn/news-detail/4321489_1)
+Append: [OPEC+的“减产困局”：拖延战术或将失去油市控制力](https://www.fastbull.com/cn/news-detail/4321499_1)
+Append: [马斯克的DOGE风风火火降开支，但债市根本不买账...](https://www.fastbull.com/cn/news-detail/4321498_1)
+Append: [美股表现波动，收市大致报跌](https://www.fastbull.com/cn/institution-article/4321496_1)
+Append: [欧洲真急了？欧盟考虑打破财政公约以启动全欧国防资金系统](https://www.fastbull.com/cn/news-detail/4321492_1)
+Append: [美元或迎2017式崩盘？这一线成关键阻力](https://www.fastbull.com/cn/news-detail/4321494_1)
+Append: [中国央行2月MLF续做无惊喜，顺风环境下坚持“冷静”态度](https://www.fastbull.com/cn/news-detail/4321485_1)
+Append: [“最大压力”行动开启！美财政部对伊进行新一轮制裁！](https://www.fastbull.com/cn/news-detail/4321486_1)
+Append: [金价再创新高，美股调整压力将持续多久](https://www.fastbull.com/cn/news-detail/4321483_1)
+Append: [苹果宣布史上最大投资计划，未来四年在美投资5000亿美元](https://www.fastbull.com/cn/news-detail/4321484_1)
+Append: [内忧外困之际，韩国央行降息25个基点至两年半新低](https://www.fastbull.com/cn/news-detail/4321482_1)
+Append: [特朗普关税带来不确定性，韩国央行如期降息25个基点](https://www.fastbull.com/cn/news-detail/4321466_1)
+Append: [俄乌冲突三周年：谈判桌上没有乌欧，不解决欧洲安全秩序的“和平”不可持续](https://www.fastbull.com/cn/news-detail/4321477_1)
+Append: [“蛋荒”持续，美国指望土耳其多“供蛋”](https://www.fastbull.com/cn/news-detail/4321469_1)
+Append: [美墨加关税计划推动避险情绪，美元回升](https://www.fastbull.com/cn/news-detail/4321465_1)
+Append: [加密货币低迷情绪持续发酵，山寨币和以太坊跌跌不休](https://www.fastbull.com/cn/news-detail/4321453_1)
+Append: [无视马斯克最后通牒，美国多个政府机构不配合交"周报"](https://www.fastbull.com/cn/news-detail/4321462_1)
+Append: [英国央行丁格拉：需警惕消费疲软，支持减少限制水平](https://www.fastbull.com/cn/institution-article/4321461_1)
+Append: [币圈最大盗窃案后续：Bybit悬赏10亿](https://www.fastbull.com/cn/news-detail/4321456_1)
+Append: [韩国1月利率决议：降息25基点至2.75%，应对经济放缓并维持通胀稳定](https://www.fastbull.com/cn/newsdetail/4321463_1)
+Append: [受伊朗新制裁和伊拉克对OPEC+承诺影响，油价收高](https://www.fastbull.com/cn/news-detail/4321452_1)
+Append: [美股领头羊齐疲软，分析师警告市场情绪正在变得糟糕](https://www.fastbull.com/cn/news-detail/4321451_1)
+Append: [2月25日财经要闻](https://www.fastbull.com/cn/newsdetail/4321448_1)
+Append: [特朗普称将如期对加墨征税，尽管边境和芬太尼问题取得进展](https://www.fastbull.com/cn/news-detail/4321445_1)
+Append: [韩国央行降息25个基点，小幅下调今年经济增长预期](https://www.fastbull.com/cn/news-detail/4321447_1)
+Append: [澳洲的第二次降息离我们还有多远？](https://www.fastbull.com/cn/news-detail/4321444_1)
+append_entries: 57
+Finish: 2025-02-26 03:00:37.904131

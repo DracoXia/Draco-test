@@ -417,3 +417,24 @@ error: Expecting value: line 1 column 1 (char 0)
 Append: [一文看懂 DeepSeek 刚刚开源的 FlashMLA，这些细节值得注意](https://www.ifanr.com/1615416?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 3
 Finish: 2025-02-25 03:11:41.796189
+------------------------------------------------------
+Started: 2025-02-26 03:03:50.217997
+Existing_entries: 91
+Fetching from https://www.ifanr.com/feed
+Token length: 2878
+Summarized using deepseek-chat
+Append: [一文看懂 DeepSeek 开源项目第三弹，300 行代码揭示 V3/R1 推理效率背后的关键](https://www.ifanr.com/1615619?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 206
+Summarized using deepseek-chat
+Append: [叔叔我当年挑着电脑主机，在移动办公界 chuang 出一片天地](https://www.ifanr.com/1615640?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 10956
+Summarized using deepseek-chat
+Append: [微信电脑端支持接收红包/江汽回应尊界租车暴力测试传闻/理想纯电车型亮相，雷军转发](https://www.ifanr.com/1615616?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 5701
+Summarized using deepseek-chat
+Append: [AR 眼镜，正在迎来它的 iPhone 时刻](https://www.ifanr.com/1615566?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Expecting value: line 1 column 1 (char 0)
+Append: [iPhone 16e 上的这颗全新芯片，为什么值得苹果烧几十亿美元？](https://www.ifanr.com/1615484?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 5
+Finish: 2025-02-26 03:06:52.800598
