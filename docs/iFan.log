@@ -438,3 +438,21 @@ error: Expecting value: line 1 column 1 (char 0)
 Append: [iPhone 16e 上的这颗全新芯片，为什么值得苹果烧几十亿美元？](https://www.ifanr.com/1615484?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 5
 Finish: 2025-02-26 03:06:52.800598
+------------------------------------------------------
+Started: 2025-02-27 01:00:03.510443
+Existing_entries: 96
+Fetching from https://www.ifanr.com/feed
+Token length: 1757
+Summarized using deepseek-chat
+Append: [始祖鸟，在澳门购物中心建了一座「悬崖庇护所」](https://www.ifanr.com/1615439?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 2725
+Summarized using deepseek-chat
+Append: [理想 i8 的两张图，让理想汽车涨了 260 亿](https://www.ifanr.com/1615597?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 2068
+Summarized using deepseek-chat
+Append: [蔚来乐道 CEO 爆料：新车 L90 即将发布，尺寸比 ES8 还要大？](https://www.ifanr.com/1615462?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 3059
+Summarized using deepseek-chat
+Append: [官宣！奔驰「大鼠标」要绝版了](https://www.ifanr.com/1615358?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 4
+Finish: 2025-02-27 01:01:03.872194
