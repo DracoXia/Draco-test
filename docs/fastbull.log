@@ -1965,3 +1965,74 @@ Append: [CBOT持仓异动预警：玉米小麦空头暴增，南美丰收+基金
 Append: [美国消费者信心降至八个月最低，对特朗普政策负面影响的担忧加剧](https://www.fastbull.com/cn/news-detail/4321611_1)
 append_entries: 54
 Finish: 2025-02-27 00:58:49.273497
+------------------------------------------------------
+Started: 2025-02-28 00:56:27.073127
+Existing_entries: 1054
+Fetching from https://rsshub.app/fastbull/news
+Token length: 3608
+Summarized using deepseek-chat
+Append: [下届总理默茨能拯救德国经济吗？](https://www.fastbull.com/cn/news-detail/4321821_1)
+Token length: 2320
+Summarized using deepseek-chat
+Append: [DeepSeek对英伟达“慢刀子捶打”](https://www.fastbull.com/cn/news-detail/4321832_1)
+Token length: 5967
+Summarized using deepseek-chat
+Append: [中资如何参与沙特供应链？](https://www.fastbull.com/cn/news-detail/4321818_1)
+Token length: 2070
+Summarized using deepseek-chat
+Append: [特朗普威胁征税、称欧盟成立是为“搞砸美国”，欧盟这样回应](https://www.fastbull.com/cn/news-detail/4321815_1)
+Token length: 1035
+Summarized using deepseek-chat
+Append: [股指期权波动率高达20%+，这代表什么？](https://www.fastbull.com/cn/institution-article/4321835_1)
+Token length: 3068
+Summarized using deepseek-chat
+Append: [加密货币市场的低迷表现还会持续吗？](https://www.fastbull.com/cn/news-detail/4321806_1)
+Token length: 2466
+Summarized using deepseek-chat
+Append: [黄金完成“双针探底”，美瑞重大谐波转向？](https://www.fastbull.com/cn/institution-article/4321837_1)
+Token length: 1567
+Summarized using deepseek-chat
+Append: [变数陡增，美欧通胀预期分歧创三年新高！](https://www.fastbull.com/cn/news-detail/4321813_1)
+Token length: 1821
+Summarized using deepseek-chat
+Append: [美股跌美债升，股债跷跷板效应能持续吗？](https://www.fastbull.com/cn/institution-article/4321834_1)
+Token length: 1362
+Summarized using deepseek-chat
+Append: [近十年来首次！日元也要看日本经济数据“脸色”了](https://www.fastbull.com/cn/news-detail/4321800_1)
+Append: [本轮中国资产大涨，最大驱动因素或是它！](https://www.fastbull.com/cn/news-detail/4321812_1)
+Append: [美股在交易“滞胀”吗？](https://www.fastbull.com/cn/institution-article/4321814_1)
+Append: [日本人口危机加剧：去年出生人口创逾120年来最低！](https://www.fastbull.com/cn/news-detail/4321808_1)
+Append: [美股、美元双双遇冷，“美国例外论”光环正在褪色？](https://www.fastbull.com/cn/news-detail/4321796_1)
+Append: [特朗普收回拜登对委内瑞拉的石油“特许”！油价从低点回温](https://www.fastbull.com/cn/news-detail/4321810_1)
+Append: [债务上限与缩表交织，美联储面临两难](https://www.fastbull.com/cn/news-detail/4321809_1)
+Append: [华尔街预热“海湖庄园协议”：变种的“广场协议2.0”，贬值、赖账，耍流氓？](https://www.fastbull.com/cn/news-detail/4321794_1)
+Append: [股息股陷入困境，如何在风云变幻的市场中稳健获利？](https://www.fastbull.com/cn/news-detail/4321804_1)
+Append: [英国号召欧洲盟友共商乌克兰问题，回应特朗普的和平倡议](https://www.fastbull.com/cn/news-detail/4321802_1)
+Append: [特朗普首次内阁会，回答了这些问题](https://www.fastbull.com/cn/news-detail/4321798_1)
+Append: [加密市场震荡中，如何让财富稳健增值？](https://www.fastbull.com/cn/news-detail/4321792_1)
+Append: [美乌矿产协议在即，三大争议点引关注](https://www.fastbull.com/cn/news-detail/4321787_1)
+Append: [“套路”太多，市场对迷因币失去信心](https://www.fastbull.com/cn/news-detail/4321786_1)
+Append: [美元回升但不稳，瑞郎会如何表现？](https://www.fastbull.com/cn/news-detail/4321784_1)
+Append: [美债收益率“失守”年内新低，降息押注与政策变局触发债市狂欢](https://www.fastbull.com/cn/news-detail/4321785_1)
+Append: [日本米价暴涨90%，投放储备米能平抑米价吗？](https://www.fastbull.com/cn/news-detail/4321782_1)
+Append: [轮到铜爆发，关税风险刺激全球竞相将铜运往美国](https://www.fastbull.com/cn/news-detail/4321781_1)
+Append: [乌克兰有哪些矿产资源？开发存在难题](https://www.fastbull.com/cn/news-detail/4321780_1)
+Append: [美联储最青睐的“衰退指标”再亮红灯！](https://www.fastbull.com/cn/news-detail/4321776_1)
+Append: [债务上限掣肘，美联储缩表进退维谷](https://www.fastbull.com/cn/news-detail/4321775_1)
+Append: [日元会继续升值？](https://www.fastbull.com/cn/news-detail/4321772_1)
+Append: [强势美国经济显现阴影，日元面临升值压力](https://www.fastbull.com/cn/news-detail/4321773_1)
+Append: [关税威胁特朗普政府又盯上“铜博士”？专家：美国本土产能增长有限](https://www.fastbull.com/cn/news-detail/4321768_1)
+Append: [Nvidia公布第一季财测超预期，DeepSeek横空出世不减AI热潮](https://www.fastbull.com/cn/news-detail/4321770_1)
+Append: [“特朗普交易”彻底熄火！比特币现货ETF单日“失血”逾10亿美元！下一站7万？](https://www.fastbull.com/cn/news-detail/4321765_1)
+Append: [澳美天图头部渐显，空头波动反复](https://www.fastbull.com/cn/news-detail/4321764_1)
+Append: [美联储迎来审查，利率决策会怎样变化？](https://www.fastbull.com/cn/news-detail/4321763_1)
+Append: [特朗普开内阁会议下令再裁员：谁对马斯克不满，把谁赶出会议](https://www.fastbull.com/cn/news-detail/4321762_1)
+Append: [美国1月新屋销售重挫，房价中位数创2022年来新高](https://www.fastbull.com/cn/news-detail/4321760_1)
+Append: [比特币一个月跌15%，币圈“踩踏”，8000亿美元“灰飞烟灭”](https://www.fastbull.com/cn/news-detail/4321759_1)
+Append: [美乌已敲定矿产协议最终版本，特朗普：“我们将拿回我们的钱”](https://www.fastbull.com/cn/news-detail/4321757_1)
+Append: [特朗普对加墨关税新表态让人困惑，拟对欧盟商品征收25%关税](https://www.fastbull.com/cn/news-detail/4321754_1)
+Append: [2月27日财经要闻](https://www.fastbull.com/cn/newsdetail/4321756_1)
+Append: [比特币快速下挫！英伟达超预期财报也无法缓解恐慌情绪？](https://www.fastbull.com/cn/news-detail/4321752_1)
+Append: [CBOT持仓：空头突袭谷物市场，基金抛售潮暗藏哪些交易信号？](https://www.fastbull.com/cn/news-detail/4321750_1)
+append_entries: 45
+Finish: 2025-02-28 00:59:10.540383
