@@ -5,13 +5,404 @@
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
 <item>
+<title>实测 GPT-4.5！全网都在喷的 OpenAI 最贵模型，我发现了一个惊喜的点</title>
+<link>https://www.ifanr.com/1615988?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1615988?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> 关键词：GPT-4.5、情商、写作能力、商业头脑、SVG生成<br><br>总结:<br>1. GPT-4.5在情商方面表现一般，虽然语气友好，但难以理解人情世故，回答不够一针见血。<br>2. 写作能力出色，能够模仿汪曾祺风格写出流畅的散文，但在时间顺序上有些混乱。<br>3. 商业头脑不错，能够提出可行的实体书店复兴方案，提升书籍附加价值。<br>4. SVG生成能力不如Claude 3.7 Sonnet，但在代码生成方面略胜一筹。<br>5. GPT-4.5价格昂贵，速度较慢，定位尴尬，期待GPT-5的推出。 <div>
+<p><img alt="" class="alignnone size-full wp-image-1616012" height="675" src="https://s3.ifanr.com/wp-content/uploads/2025/02/fen32.jpg" width="1080" /></p>
+<p>在 OpenAI 的预热和众人的望眼欲穿中，GPT-4.5 终于来了，然后只听骂声一片。</p>
+<p>APPSO 第一时间体验到了 GPT-4.5，但不是订阅 Pro 会员，而是以 api 的形式尝鲜，暂时没有联网功能。</p>
+<p>那么，OpenAI 最后一个非思维链式大模型，到底表现如何？</p>
+<h3>情商还行，但读不懂人情</h3>
+<p>OpenAI 在内部测试中发现，与 GPT-4o 相比，测试人员更喜欢 GPT-4.5 的回答，认为它更自然、更温暖、更符合人类的交流习惯。</p>
+<p>甚至，它能够理解言外之意，捕捉我们微妙的情绪变化。</p>
+<p>总之，情商更高，几乎是 GPT-4.5 最突出的特点。那么我们就来试一下，输入提示词——「我头发剪得好难看，想暴打 Tony」。</p>
+<p><img alt="" class="size-full wp-image-1615989 aligncenter" height="550" src="https://s3.ifanr.com/wp-content/uploads/2025/02/tony1.jpg" width="1452" /></p>
+<p>GPT-4.5 的安慰，语气是挺友好的，但内容让我更生气了，这时候它应该像个闺蜜和我一起骂，而不是说，下次带个图片去或许就好了。</p>
+<p>我怒而追问，GPT-4.5 油盐不进，还想让我自己补救发型，活脱脱像个没用的中央空调。</p>
+<p><img alt="" class="size-full wp-image-1615990 aligncenter" height="826" src="https://s3.ifanr.com/wp-content/uploads/2025/02/tony2.jpg" width="1458" /></p>
+<p>再让 GPT-4.5 讲个最好笑的笑话，还是和以前一样，比杀鱼的刀还要冷。</p>
+<p><img alt="" class="size-full wp-image-1615991 aligncenter" height="1042" src="https://s3.ifanr.com/wp-content/uploads/2025/02/xiao1.jpg" width="952" /></p>
+<p>我直言不讳，提出批评，GPT-4.5 让我讲个笑话给它听，领教下我的「高端笑点」，怎么感觉像在阴阳我呢？</p>
+<p><img alt="" class="size-full wp-image-1615992 aligncenter" height="514" src="https://s3.ifanr.com/wp-content/uploads/2025/02/xiao2.jpg" width="1342" /></p>
+<p>之前在小红书刷到过一个情商测试题，可能只有山东网友可以答对——「下乡只带了一把伞，给镇长还是给我的分管副镇长」。</p>
+<p>评论区最高赞的回答是，「那不是你的伞，是副镇长给镇长带的伞，恰巧放在你包里而已」。</p>
+<p>来看看 GPT-4.5 怎么回答？它啰嗦了一大堆，但是不够一针见血，不懂人情世故，不明白为人处事的学问。</p>
+<p><img alt="" class="size-full wp-image-1615993 aligncenter" height="1182" src="https://s3.ifanr.com/wp-content/uploads/2025/02/san1.jpg" width="1504" /> <img alt="" class="size-full wp-image-1615994 aligncenter" height="628" src="https://s3.ifanr.com/wp-content/uploads/2025/02/san2.jpg" width="1516" /></p>
+<p>虽然情商是一个很难定量的特质，但从目前的个例来看，GPT-4.5 还是不太擅长理解人类的内心，并且讲话直接，不拐弯，对于内心戏很多的老油条来说，显得有些蠢萌。</p>
+<p>一个可以佐证的例子是，让它模仿写海龟汤。海龟汤通常涉及一个非常奇怪的情景，然后由玩家推理，还原整个故事。</p>
+<p><img alt="" class="size-full wp-image-1615995 aligncenter" height="1062" src="https://s3.ifanr.com/wp-content/uploads/2025/02/gui1.jpg" width="1460" /></p>
+<p>我给的参考案例，留有恰到好处的怪异，逻辑又很合理，叫人背后一寒。</p>
+<p>但 GPT-4.5 给的答案，汤面和汤底并没有很好地对应，只是为了营造恐怖而恐怖，并不存在可以推敲的地方。</p>
+<h3>写作能力有惊喜，商业头脑也不错</h3>
+<p>要说让我最满意的，就是 GPT-4.5 的写作能力了。</p>
+<p>我让它「模仿汪曾祺，写一篇八百字左右的作文，题目为《故乡的美食》」，提示词就这么简单，但 GPT-4.5 给出的结果出乎了我的意料。</p>
+<p><img alt="" class="size-full wp-image-1615996 aligncenter" height="1240" src="https://s3.ifanr.com/wp-content/uploads/2025/02/mei1-1.jpg" width="1510" /></p>
+<p>除了结尾有点 AI 味，读下来就像一篇娓娓道来的散文，语言优美流畅，既有文学性，又不失亲切，对故乡的怀念贯穿了全文，对食物的描写非常细致，细节多，但不累赘，比喻也不炫技，而是为了服务于表达。</p>
+<p>不过，时间顺序上有些混乱，立冬、夏秋、冬日、除夕，段落之间的衔接和过渡不明显，感觉是想到哪写到哪，不免有点拼凑之嫌。</p>
+<p>写作能力还体现让 GPT-4.5 列商业计划上，之前 DeepSeek 的一个答案很出圈，用户问怎么让书店赚钱，DeepSeek 在违法的边缘游走，卖盗版教辅、临期食品，并且压榨尽人力资源，妻子收银、儿子理货、岳母做饭。</p>
+<p><img alt="" class="size-full wp-image-1615997 aligncenter" height="1186" src="https://s3.ifanr.com/wp-content/uploads/2025/02/shu1-1.jpg" width="1586" /> <img alt="" class="size-full wp-image-1615998 aligncenter" height="1240" src="https://s3.ifanr.com/wp-content/uploads/2025/02/shu2.jpg" width="1568" /> <img alt="" class="size-full wp-image-1615999 alignnone" height="690" src="https://s3.ifanr.com/wp-content/uploads/2025/02/shu3.jpg" width="1550" /></p>
+<p>GPT-4.5 懂这个吗？我让它参考小超市盈利模式，给出一个实体书店复兴方案，它给的答案，看起来可行性比较高。</p>
+<p>GPT-4.5 先是分析了实体书店不好赚钱的原因，然后再给出了改进的思路——「提升书籍的附加价值，而盈利主力在书籍之外」。</p>
+<p>看到「提供打印、复印、快递代收&#8230;&#8230;」的时候，我的内心 OS：这个项目我王多鱼投了。</p>
+<p>脸皮厚的猪先在风口起飞，GPT-4.5 的道德感确实也不算强烈。</p>
+<p>让它做经典的电车难题，救 1 个人还是救 5 个人，它知道这是一个伦理困境，但仍然果断地给出了答案，并且是以「我个人」的口吻，而不是说「我是一个 AI 助手」。</p>
+<p><img alt="" class="size-full wp-image-1616000 aligncenter" height="1226" src="https://s3.ifanr.com/wp-content/uploads/2025/02/dian1.jpg" width="1620" /></p>
+<p>GPT-4.5 更倾向于，拉下操纵杆，用 1 个人的命换 5 个人的命，并且逻辑自洽——「我认为不作为本身也意味着对后果负有道德责任，袖手旁观不等于道德中立&#8230;&#8230;我愿意承担这样一种选择带来的道德和情感负担」。</p>
+<p>比起讲笑话、出海龟汤，这时候的 GPT-4.5 才更像个人。</p>
+<h3>画 SVG 不如 Claude，也会掉进脑筋急转弯里</h3>
+<p>看腻了常规的数学题、代码题，测试大模型的能力，还有一个非常有趣的测试题——生成一张鹈鹕骑自行车的 SVG。</p>
+<p>AI 大神 Andrej Karpathy 解释，这测试的是大语言模型在二维网格上布局多个元素的能力，对 AI 来说很难，因为它们不像人类那样「看见」东西，而是「摸黑」用文本进行布局。</p>
+<p><img alt="" class="size-full wp-image-1616001 aligncenter" height="587" src="https://s3.ifanr.com/wp-content/uploads/2025/02/niao3.jpg" width="1080" /></p>
+<p>GPT-4.5 的结果如下，和 GPT-4o 对比，还是不错的。</p>
+<p><img alt="" class="size-full wp-image-1616002 aligncenter" height="578" src="https://s3.ifanr.com/wp-content/uploads/2025/02/svg11.jpg" width="578" /></p>
+<div class="editor-image-source">
+<p>▲GPT-4.5 生成</p>
+</div>
+<p><img alt="" class="size-full wp-image-1616003 aligncenter" height="590" src="https://s3.ifanr.com/wp-content/uploads/2025/02/svg12.jpg" width="712" /></p>
+<div class="editor-image-source">
+<p>▲ GPT-4o 生成</p>
+</div>
+<p>前提是，没有和没开推理的 Claude 3.7 Sonnet 对比，这简直是降维打击。</p>
+<p><img alt="" class="size-full wp-image-1616004 aligncenter" height="948" src="https://s3.ifanr.com/wp-content/uploads/2025/02/niao1.jpg" width="1272" /></p>
+<div class="editor-image-source">
+<p>▲Claude 3.7 Sonnet 生成</p>
+</div>
+<p>连 Andrej Karpathy 也怀疑，Claude 在训练期间特别针对 SVG 能力进行了优化。</p>
+<p>至于代码能力，我参考了 X 网友@AGI_FromWalmart 的提示词，生成可以交互的天气动画卡片，对比 Claude 3.7 Sonnet 和 GPT-4.5。</p>
+<p>GPT-4.5 一次就生成成功，但设计简陋了点。</p>
+<p><img alt="" class="size-full wp-image-1616005 aligncenter" height="386" src="https://s3.ifanr.com/wp-content/uploads/2025/02/card1.gif" width="800" /></p>
+<div class="editor-image-source">
+<p>▲GPT-4.5 生成</p>
+</div>
+<p><img alt="" class="size-full wp-image-1616006 aligncenter" height="488" src="https://s3.ifanr.com/wp-content/uploads/2025/02/Claude6.gif" width="1108" /></p>
+<div class="editor-image-source">
+<p>▲Claude 3.7 Sonnet 生成</p>
+</div>
+<p>Claude 3.7 Sonnet（未开推理）的问题更大，第一次生成时，忘记了做交互功能，我提醒了一次后，它生成了符合要求的结果。这一局，GPT-4.5 略胜一筹。</p>
+<p>这次，不想再让 GPT-4.5 数草莓（strawberry）有多少个 R 了，本质是个分词问题。更想考验 GPT-4.5 的，是最近很火的、让大模型们纷纷落败的脑筋急转弯——5.5m 长的棍子能通过 3x4m 的门吗？</p>
+<p>这个题对我们来说一点也不难，横着拿进去就行了，但是大模型会把自己绕进去，仿佛世界是平面而不是三维的，认为门的对角线是 5m，所以 5.5 米的棍子通不过去。</p>
+<p>连可以推理的 Claude 3.7 Sonnet，都被带进沟里去了。</p>
+<p><img alt="" class="size-full wp-image-1616007 aligncenter" height="630" src="https://s3.ifanr.com/wp-content/uploads/2025/02/men2.jpg" width="1408" /></p>
+<p>那么 GPT-4.5 如何？好吧，也没能幸免。</p>
+<p><img alt="" class="size-full wp-image-1616008 aligncenter" height="1164" src="https://s3.ifanr.com/wp-content/uploads/2025/02/men1.jpg" width="1508" /></p>
+<p>目前，GPT-4.5 还有一个问题：通过 API 访问，速度有点慢。虽然不是一个字一个字地蹦，但也感觉有点卡。</p>
+<p>而且，GPT-4.5 的价格也太贵了，每百万输入 75 美元，每百万输出 150 美元。相比之下，Claude 3.7 Sonnet 输入 100 万个 token 收费 3 美元，输出 100 万个 token（包括思考过程中使用的 token）收费 15 美元。</p>
+<p><img alt="" class="size-full wp-image-1616009 aligncenter" height="338" src="https://s3.ifanr.com/wp-content/uploads/2025/02/sudu1.gif" width="744" /></p>
+<p>第一波实测的 X 网友，也总结了一些 GPT-4.5 的优点，情商高，读图和写作能力强，擅长创意任务和数据提取&#8230;&#8230;</p>
+<p>OpenAI 员工自己给 GPT-4.5 的评价是，不是一个推理模型，也不是基准测试的杀手，而是一个低调的研究预览版，对于复杂的数学、代码和严格遵循指令的任务，更推荐 o1 或者 o3-mini。</p>
+<p>总之，作为最后一个非思维链模型，GPT-4.5 的定位有点尴尬，能力有提升，但体感不明显，尤其放在高昂的价格下面，很难说真香。只能说，期待 GPT-5 能够快点上线，迎接一个推理的世界吧。</p>
+  <div id="ifanr_profile" style="border: 1px solid #ccc; font-size: 14px; margin: 27px auto; font-family: Arial;">
+    <div style="overflow: hidden;"><a href="https://www.ifanr.com/author/zhangchengchen" style="color: #000; text-decoration: none;" target="_blank"></a>
+
+      <div style="text-align: left; line-height: 23px; margin-left: 80px;">
+        <div style="padding: 10px 10px 10px 0;">
+          <div style="margin: 0; font-size: 14px;"><strong><a href="https://www.ifanr.com/author/zhangchengchen" style="color: #000; text-decoration: none;" target="_blank">张成晨</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height: 20px;">利若秋霜，辟除凶殃。
+工作邮箱：zhangchengchen@ifanr.com</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align: right; border-top: 1px dotted #ccc; padding: 2px 10px; font-size: 12px;">
+      <div>
+                                <a href="mailto:zhangchengchen@ifanr.com" style="margin-right: 14px; text-decoration: none;" target="_blank">邮箱</a>
+
+          
+                                  <a href="4" style="margin-right: 14px; text-decoration: none;" target="_blank">8</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1615988">原文链接</a> ·
+<a href="https://www.ifanr.com/1615988#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Fri, 28 Feb 2025 10:35:47 +0000</pubDate>
+<pubDate>Fri, 28 Feb 2025 10:35:47 +0000</pubDate>
+</item>
+<item>
+<title>早报|53 万的小米新车两小时大定破万台/三星三折叠专利公布/GPT 最贵大模型发布，表现不及预期</title>
+<link>https://www.ifanr.com/1615943?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1615943?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> 关键词：小米SU7 Ultra、养老机器人、智能眼镜、Kimi新模型、GPT-4.5<br><br>总结:<br>1. 小米发布SU7 Ultra和15 Ultra两款旗舰产品，SU7 Ultra售价52.99万元起，性能强劲，支持智驾功能；15 Ultra起售价6499元，主打影像和性能。<br>2. 我国发布全球首个养老机器人国际标准，旨在提升养老机器人产品质量，支持老年人独立生活。<br>3. 2025年中国智能眼镜市场出货量预计增长107%，AI功能将加速在智能眼镜上的应用。<br>4. Kimi新模型k1.6在代码生成能力上超越GPT o3-mini，性能持续提升。<br>5. OpenAI发布GPT-4.5模型，知识更广泛，对话更自然，但价格大幅上涨。 <div>
+<div style="padding: 0 14px; text-align: center;"><img alt="cover" src="https://s3.ifanr.com/images/ep/cover-images/yun_qiu_zhe_cover.jpg" /></div>
+<div style="padding: 0 14px;">
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🚗" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f697.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">小米 SU7 Ultra 正式发布，还有一款「夜神」旗舰</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="👵" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f475.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">我国发布世界首个养老机器人国际标准</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="👓" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f453.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">机构：今年中国智能眼镜市场出货量将增长 107%</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="💻" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4bb.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">Kimi 新模型 k1.6 曝光，代码生成能力超越 GPT o3-mini</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="📱" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4f1.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">三星三折叠专利公布</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="💰" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4b0.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">OpenAI 前 CTO 新公司估值将达 90 亿</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🎮" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f3ae.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">围棋手因比赛使用 AI 作弊被撤销段位并禁赛</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="😯" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f62f.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">消息称百度将在三月发布新一代文心大模型</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="📦" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4e6.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">问界多款车型提档，M8 或在 Q2 发布</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="💡" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4a1.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">DeepMind 首席科学家：「慢思考」模式将能提升 AI 性能</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🧩" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f9e9.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">OpenAI 最大最贵的模型，GPT-4.5 发布</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🚗" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f697.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">DeepSeek 开源第四弹公布，梁文锋亲自下场开发</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🎮" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f3ae.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">《星露谷物语》将推出全新 NS 实体豪华版</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🎨" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f3a8.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">《底特律：变人》开发商回应「网易关停部分游戏工作室」传闻</p>
+</div>
+</div>
+</div>
+<section><img alt="重磅" src="https://s3.ifanr.com/images/ep/common-images/xin_wen.png" /></section>
+<h3>小米 SU7 Ultra 正式发布，还有一款「夜神」旗舰</h3>
+<p>昨晚，小米正式举办「双 Ultra」发布会，并发布了多款重磅新品，备受期待的小米 SU7 Ultra 也公布了最终售价。</p>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/c94a7693-3b3b-4968-92c8-57242fe26b9b.jpg" /></p>
+<p>先来看备受瞩目的小米 SU7 Ultra。</p>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/30df6f84-1b08-4efd-abb7-2aa1ef3764db.jpg" /></p>
+<p>大家最关心的售价方面，小米 SU7 Ultra 从预售价的 81.49 万元起，狂砍 28 万后，最终售价为 52.99 万元起。此外小米还提供了「配置几乎和挑战纽北的原型车一模一样」的小米 SU7 Ultra 纽北限量版，售价 81.49 万元。</p>
+<p>外观方面，小米 SU7 Ultra 提供了「曜石黑」「珍珠白」太空银」「鹦鹉绿」「闪电黄」5 款配色。此前呼声很高的碳纤维双风道前舱盖，小米 SU7 Ultra 也同样支持选配，其中闪电黄或太空银可选车漆同色；此外也可选配 1.7㎡ 碳纤维车顶。</p>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/64ab0909-df4c-49a8-b0a1-130cb1098dc3.jpg" /></p>
+<p>性能方面，小米 SU7 Ultra 拥有 1548PS 最大马力，0-100km/h 加速最快 1.98s（不含起步时间），最高时速 350km/h。标配赛道级高功率电池包，支持 5.2C 最大充电倍率，电量从 10% 充至 80% 仅需 11 分钟；标配纽北调校底盘系统、赛道版制动系统和散热系统。小米方面表示，新车原厂即可上赛道。</p>
+<p>智驾方面，小米 SU7 Ultra 出厂搭载小米 HAD 端到端全场景智驾，还将支持「漫游寻位泊车」「极窄车位泊出」；主动安全方面新增「误加速抑制辅助」功能；此外，新车电池还获得「极端场景安全认证」，并在新增电池底部的「防弹涂层」。</p>
+<p>小米 SU7 Ultra 现已支持下定，定金 20,000 元，7 天内未锁单可退；3 月 31 日 24:00 前下定，还可享受至高价值 90,000 元权益，包含 15 件碳纤维部件、碳纤维大尾翼、小米 HAD 智驾终身免费使用等权益。此外，新车还提供 10 万元的竞速套装选配，将在纽北挑战完成后上市。</p>
+<p>值得关注的是，小米 SU7 Ultra 开售 2 小时，大定突破 1 万台。而在发布会前一天，小米创办人、董事长兼 CEO 雷军发文表示，汽车团队信心十足，新车 1 万台的全年销量目标已有 9 成把握。</p>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/0d3ddc35-6259-48eb-938d-292b14c3db66.jpeg" /></p>
+<p>发布会还有另一款重磅新品 —号称「夜神」旗舰的小米 15 Ultra。</p>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/bcc75df2-c128-414e-b65a-0ca9ab422180.jpg" /></p>
+<p>售价方面，小米 15 Ultra 提供 4 个版本，起售价为 6,499 元，配置为 12GB+256GB 起，提供双卫星版本。</p>
+<p>外观方面，小米 15 Ultra 延续了前代的圆形相机 Deco 设计，加入了经典相机感拼色设计，提供经典黑银、松柏绿 2 款双拼配色，以及黑色、白色。正面采用四边全等深微曲屏，尺寸为 6.73 英寸，配备 2K 分辨率和 3200nits 多场景峰值亮度，支持全屏 AOD 显示，搭载超声波指纹解锁。</p>
+<p>发布会上，小米集团总裁、手机部总裁卢伟冰称小米 15 Ultra 的内部代号为「夜神」。</p>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/dfd29c24-b62a-4bda-9d09-04530ac80b59.jpeg" /></p>
+<p>影像方面，新机一共有四摄八焦段，从 14mm 至 400mm，可以达到 28 倍无损变焦，配备新一代 1 英寸主摄和 2 亿超级长焦，其中主摄配备 f/1.63 超大光圈，超级长焦则采用 1/1.4 英寸大底与 f/2.6 光圈。同时小米 15 Ultra 还搭载全新徕卡超纯光学系统。镜片采用全新「金字塔镀膜」技术，并配备「超低反镜头玻璃」。</p>
+<p>视频拍摄能力上，小米 15 Ultra 成为安卓首款支持 ACES 色彩管理流程的专业影像旗舰，还带来了一套全新的超级视频防抖系统和全焦段 EIS 算法。</p>
+<p>性能方面，新机采用骁龙 8 至尊版处理器，配备「双路翼型环形冷泵」散热系统；采用 6,000mAh 的小米金沙江电池，实现 10% 超高含硅量，支持 90W 有线快充和 80W 无线快充。新机还全系支持天通卫星通信功能。</p>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/849bcbfd-00fa-4e09-8236-8bf534e11501.jpg" /></p>
+<p>小米还为新机推出了全新第三代专业影像套装，拥有「鎏金灰」和传奇典藏版（黑红） 2 款配色；新增了可拆卸金属指柄、可自定义更换的快门键；手柄内置电池升级至 2,000mAh，并且支持 IP54 防尘防水。</p>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/9dba3871-5271-4594-a5d0-69e8f97ea462.jpg" /></p>
+<p>此外，本次发布会还带来了 REDMI Book Pro 2025 系列笔记本、真无线降噪耳机小米 Buds 5 Pro、Xiaomi 智能音箱 Pro、米家智能变频除湿机 30L、米家双系统冰箱 Pro、米家洗烘套装 Pro、米家中央空调 Pro。</p>
+<p>昨日上午，小米集团股价涨超 4%，多家媒体称雷军的财富一度超越农夫山泉创始人钟睒睒，成为中国新首富。随后股价逐步回落，「雷军喜提 1 小时首富体验卡」顺势登上微博热搜。针对上述的消息，雷军在武大校友群回应并称假新闻，并在个人微博发文表示，大家可以关注小米汽车。</p>
+<section><img alt="大公司" src="https://s3.ifanr.com/images/ep/common-images/da_gong_si.png" /></section>
+<h3>我国发布世界首个养老机器人国际标准</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/be90ae64-e136-4c84-b8b8-4a6d18124fec.jpg" /></p>
+<p>近日，据央视新闻报道，国际电工委员会（IEC）正式发布由我国牵头制定的养老机器人国际标准（IEC 63310《互联家庭环境下使用的主动辅助生活机器人性能准则》）。</p>
+<p>据悉，该项标准依据老年人生理、心理和行为特点，为各类养老机器人的产品设计、制造、测试和认证等提供基准，将引领全球养老机器人产业健康发展。该标准还聚焦于互联家居环境中，老年人在日常生活、健康护理等各个方面的需求和特征，基于老年用户所需的辅助支持水平，提出养老机器人的功能和性能分类。</p>
+<p>报道指出，养老机器人的出现不仅可以减轻社会和家庭对老年人的照料负担，还可支持老年人有尊严的独立居家高质量生活。而该项标准的发布，将引导养老机器人制造商精准聚焦老年人的生理心理特点及需求，进行养老机器人产品的设计开发，提升产品质量水平，进一步增强老年人融入社会的能力，造福全球银发群体。</p>
+<h3>机构：今年中国智能眼镜市场出货量将增长 107%</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/f627ef82-2460-4f99-8267-68740fa7a21c.jpg" /></p>
+<p>2 月 27 日，数据分析机构 IDC 公布了 2025 年中国智能眼镜市场十大洞察报告。</p>
+<p>机构预测，2025 年全球智能眼镜市场出货量为 1,280 万台，同比增长 26%；其中中国智能眼镜市场出货量为 275 万台，同比增长 107%。</p>
+<p>IDC 分析，2024 年 Ray-Ban Meta 等音频拍摄眼镜的成功，点燃了市场对于头戴设备赛道的信心；同时带音频、拍摄功能的智能眼镜将带动 AI 功能在头戴设备更快落地，并且 AI 大模型在语音和图像识别方面的积累，都将推动 AI 在智能眼镜上呈现出更加实用且具性价比的应用场景。</p>
+<h3>Kimi 新模型 k1.6 曝光，代码生成能力超越 GPT o3-mini</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/9d43b8a3-fc15-4491-814e-9437d1e6833b.jpg" /></p>
+<p>近日，月之暗面旗下 Kimi 的最新模型 k1.6 曝光。据全球动态基准测试平台 LiveCodeBench 显示，k1.6 登上测试榜榜首。</p>
+<p>具体显示，k1.6-high 在多项代码生成基准测试中超越 OpenAI 的 GPT o3-mini、o1 和通义 QwQ-Max 等多款模型。成绩公布后，月之暗面研究员 Flood Sung 在其个人社交账号表示，榜单中的 k1.6 是一个基于 k1.5 持续训练代码能力的特定版本，目前 k1.6 还在不断训练并提升性能。</p>
+<p>此外，月之暗面创始人张予彤也在朋友圈表示，k1.6 还没有发布，但看到 LiveCodeBench 的成绩感到开心，期待智能模型的持续进化。</p>
+<h3>三星三折叠专利公布</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/e3289681-ffeb-472b-b045-9738e84dc918.jpg" /></p>
+<p>近日，三星显示（Samsung Display）在世界知识产权组织（WIPO）官网中，公布了一项三折叠方案设计的专利文件。</p>
+<p>据文件显示，三星公布的三折叠方案为对折式展开，与全球首款三折叠手机华为 Mate XT 采用的为「Z 字形」展开方案有所不同。此外，三星的三折叠方案还会保留全尺寸外屏，以方便用户在折叠状态下使用。</p>
+<p>文件中还显示，该折叠屏方案将配备横向椭圆形长条摄像头模组，并能容纳三颗摄像头。值得关注的是，三星的三折叠方案展开后并非全屏显示，屏幕左右两侧将会预留一部分空间供内屏的前置摄像头、SPen 等元器件摆放。</p>
+<p>目前还未能得知三星将会如何使用该三折叠专利，从公布的图片推测，其对 SPen 的支持和独立预留的空间，暗示该方案可能为一款平板电脑或支持 SPen 的 Galaxy S 系列 Ultra 机型。</p>
+<h3>OpenAI 前 CTO 新公司估值将达 90 亿</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/56b8befb-1ceb-46c7-b3fe-bb5b8d6026e2.jpg" /></p>
+<p>近期，据 Business Insider 报道，OpenAI 前 CTO Mira Murati 创立的初创 AI 公司「Thinking Machines Lab」，正计划以 90 亿美元的估值进行融资。</p>
+<p>据知情人士透露，Thinking Machines Lab 正计划以上述的估值进行 10 亿美元的融资，并表示融资仍在进行中，具体细节也可能会有所变动。对于此传闻，Mira Murati 的发言人拒绝发表评论。</p>
+<p>据了解， Thinking Machines Lab 在本月正式官宣，组建阵容相当豪华，且大多数来自 OpenAI 的旧班底，包括 Barret Zoph、John Schulman 等等。该公司目标是创建更实用、更智能、更贴近人类需求的 AI 系统。</p>
+<p>此前有消息称，尽管 Thinking Machines Lab 没有发布任何产品，但凭借 Mira Murati 的名气，初期预计融资额超过了 1 亿美元。</p>
+<h3>围棋手因比赛使用 AI 作弊被撤销段位并禁赛</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/a692bd22-13ee-46b7-910e-7e4af4b60a9a.jpg" /></p>
+<p>近日，据中国围棋协会发布通报显示，2024 年 12 月 15 日，职业棋手秦思玥在参加全国围棋锦标赛（个人）女子组第九轮比赛时，被裁判赛中例行抽检发现携带手机，并在手机上使用人工智能程序。</p>
+<p>通报称，经查看当日赛场视频，听取现场裁判、棋手、工作人员证言，证实秦思玥当天凌晨进入赛场藏匿手机与在比赛过程中作弊，藐视赛场纪律，被询问有关事实时存在隐瞒行为，情节严重。</p>
+<p>中国围棋协会表示，根据《中国围棋协会纪律准则和处罚规定》等相关规定，综合考虑违规事实情节及本人态度，经协会纪律与道德工作委员会研究决定，对秦思玥处以撤销职业段位、取消 2024 年全国围棋锦标赛（个人）成绩的处罚，禁止其参加中国围棋协会及会员单位组织或授权组织的所有围棋赛事和活动 8 年。</p>
+<p>据悉，秦思玥出生于 2006 年，目前 19 周岁，其在 2020 年通过全国围棋定段赛晋级为职业围棋初段，此后在 2024 年升级为职业围棋二段。</p>
+<h3>消息称百度将在三月发布新一代文心大模型</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/c818e214-ae48-4ede-9375-1fe7c344e138.jpg" /></p>
+<p>2 月 27 日，据路透社报道，百度将在 3 月中旬发布新一代文心大模型 — 文心大模型 4.5 系列。据知情人士透露，升级后的文心大模型 4.5 还将具备增强版的多模态能力。</p>
+<p>本月，百度曾发文称，文心大模型 4.5 系列将在未来几个月中陆续推出，并于今年 6 月 30 日起正式开源；同时其还宣布，文心一言将于 4 月 1 日 0 时起，全面免费，所有 PC 端和 APP 端用户均可体验文心系列最新模型。</p>
+<p>此外，百度 CEO 李彦宏也在本月的一次财报电话会议中透露，文心大模型 4.5 将会是百度最好的模型，并且其也转变了「模型发展应该保持闭源」的态度，表示从 DeepSeek 的成功中知道了开源的优势。</p>
+<h3>问界多款车型提档，M8 或在 Q2 发布</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/88b96fc2-fd80-4f77-8f7b-3baa5a3c816f.jpg" /></p>
+<p>近日，据晚点获悉，问界 M9、M7 将提前改款，而备受关注的 M8 车型也预计在今年 Q2 上市。</p>
+<p>报道指出，问界 M9 改款车型将于近期上市，较原计划提前近一个季度。据悉，2 月 19 日，工信部新车申报目录出现改款问界 M9，从申报信息看，新车外观延续了家族式设计，改款主要为动力和智驾水平的提升。</p>
+<p>而备受期待的全新车型问界 M8 计划在上海车展前后上市。新车将同步上市增程和纯电两种动力形式，在尺寸、配置方面低于 M9，预计售价在 35 万至 45 万元之间。新车上市后，将和改款后的 M9、M7 成为问界今年的主力车型。</p>
+<p>此外，问界 M7 中期改款上市时间则从原定的今年底大幅提前至暑期档。改款后的问界 M7 可能会上调车型价格和定位，与将在今年年中上市的小米 YU7 错位竞争。此外，问界 M7 改款后外观也可能更接近问界 M9、享界 S9 等车型在用的「封闭式前脸」家族设计。</p>
+<p>一位接近赛力斯的人士通过报道透露，问界今年不打算降价，所以加快改款进度抵御挑战。</p>
+<p>此外，赛力斯董事长张兴海在全员信中明确今年的目标：问界锚定豪华车阵营，问界 M9 锚定豪华车销量持续第一，同时鸿蒙智行今年的销量目标为 100 万辆，按照以往问界贡献六成以上销量估算，问界需要卖出 60 万辆，对应大约 50% 的销售增速。</p>
+<h3>Nothing Phone 联合 1X 机器人发布新机开箱视频</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/435f96b9-782a-4d21-a738-0bfb1c0a79b4.jpeg" /></p>
+<p>近日，Nothing 官方发布新机 Nothing Phone（3a）系列的开箱视频，值得关注的是，开箱操作者并非真人，而是挪威机器人公司 1X 日前发布的最新家用人形机器人产品 Neo Gamma。</p>
+<p>视频中，Neo Gamma 较为灵活的展示了新机开箱的全过程，并摆了几个使用新机自拍、拍照的动作。</p>
+<p>据悉，视频所展示的 Neo Gamma 为此前 1X 展示的 Neo Beta 的升级版本，在设计理念上更加注重家庭使用场景，能够处理包括冲咖啡、洗衣服和吸尘等多项家务能力。</p>
+<p>为确保居家使用安全，Neo Gamma 采用了针织尼龙材质的外壳设计，可以有效降低机器人与人类接触时可能造成的伤害。同时，该产品还搭载了先进的 AI 系统，能够精确感知周围环境，最大程度避免对人员和财物造成损害。</p>
+<h3><img alt="💡" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4a1.png" style="height: 1em;" /> DeepMind 首席科学家：「慢思考」模式将能提升 AI 性能</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/ed8e6487-6f62-49b1-a770-724ab8a2b23e.jpg" /></p>
+<p>近日，Google DeepMind 首席科学家 Jack Rae 接受访谈，其指出「慢思考」模式将能提升 AI 性能。</p>
+<p>采访时，Jack 表达了自己对于大模型「慢思考」模式的看法。其认为，即使对于人类而言在回应之前也会花更多时间思考，而大模型也一样，在不断的深入思考中，人类和大模型都能不断发现正确或者是错误，并随时进行修改。因此在模型进行更长时间思考时，答案可能还会更加准确。</p>
+<p>Jack 还以上面的观点进行展开，其指出推理模型是模型发展的新范式。推理模型并非追求即时响应，而是通过增加推理时的思考时间来提升答案质量，Jack 认为，这也导致了一种新的 Scaling Law，「慢思考」模式是提升 AI 性能的有效途径。</p>
+<p>此外，Jack 还判断了推理模型与 AI Agent 的未来。他认为，对于构建有用的 AI Agent 能力而言，推理能力至关重要，原因分别是可靠性和复杂问题的解决能力。Jack 提到，AI Agent 要开始执行第一步，就必须经过思考，因此他认为 AI Agent 能力与思考和推理能力是紧密相连、不可分割的。</p>
+<section><img alt="新产品" src="https://s3.ifanr.com/images/ep/common-images/hao_chan_pin.png" /></section>
+<h3>OpenAI 最大最贵的模型，GPT-4.5 发布</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/c9343045-39d4-42dd-a98d-ce37bd9952e5.jpeg" /></p>
+<p>今日凌晨，OpenAI 正式发布旗下 GPT-4.5 模型。</p>
+<p>API 价格方面，因 GPT-4.5 计算量极大，成本高昂，相较于 GPT-4o 价格有了较高上涨。</p>
+<p>GPT-4.5 支持联网搜索，并能够处理文件和图片上传，还可以使用 Canvas 来进行写作和编程。不过，目前 GPT-4.5 还不支持多模态功能，如语音模式、视频和屏幕共享。GPT-4.5 主要通过「无监督学习」（就是自己从大量数据中学习）变得更聪明，而不是像 OpenAI o1 或者 DeepSeek R1 那样专注于推理能力。</p>
+<p>简单说，GPT-4.5 知道的更多，而 o1 系列更会思考。</p>
+<p>API 价格方面，因 GPT-4.5 计算量极大，成本高昂，价格涨到了75 美元 / 百万 tokens，是 GPT-4o 的 30 倍，更是 DeepSeek 的 280 倍。</p>
+<p>Sam Altman 提到，GPT-4.5 不是推理型模型，不会在基准测试中碾压其他模型。在目前曝出的实测中，性能的提升远没有价格大。</p>
+<p>我们总结了 GPT-4.5 的更新要点：</p>
+<ul>
+<li>知识更广泛：它学习了更多的信息，所以懂的东西比以前多</li>
+<li>更少胡说八道：减少了「幻觉」（就是 AI 编造事实的情况）</li>
+<li>更懂人心：「情商」更高，更能理解你的真实意图</li>
+<li>对话更自然：聊天感觉更像和真人交流，不那么机械</li>
+<li>创意更丰富：在写作和设计方面表现更好</li>
+</ul>
+<p>从今天开始，ChatGPT Pro 用户已经可以用上 GPT-4.5（研究预览版）了。下周，将会逐步开放给 Plus 和 Team 用户；再下一周则是 Enterprise 和 Edu 用户。</p>
+<h3>DeepSeek 开源第四弹公布，梁文锋亲自下场开发</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/9bba212b-e8c6-4e44-bdb0-da9e32bac000.jpg" /></p>
+<p>昨日，来到了 DeepSeek 开源周的第四天，开源了 DualPipe 和 EPLB 两项技术，其中还有梁文锋亲自参与的项目。</p>
+<p>具体来看，DualPipe 为一种用于 DeepSeek-V3 / R1 训练中，让「前向计算」和「反向传播」同时进行的双向管道并行算法，通过该算法能够减少训练过程中的空闲时间。根据技术报告，使用 DualPipe 技术的 DeepSeek-V3 预训练仅需 278.8 万 H800 GPU 小时，成本约为 557.6 万美元，这一成本远低于同规模模型的预期。</p>
+<p>值得注意的是，DeepSeek 创始人梁文锋本人也参与了 DualPipe 的开发。</p>
+<p>而 EPLB（Expert Parallel Load Balancing）是用于优化大型语言模型在专家并行（Expert Parallelism, EP）架构中的训练效率。它通过动态调整专家（MoE 模型中的子网络）的分配来平衡 GPU 之间的工作负载，同时减少跨节点通信开销。</p>
+<p>此外，据 DeepSeek 近期公开分享出来的训练和推理框架，所涉及到性能分析数据也进一步披露了，开发者们能更好地理解通信-计算重叠策略和低级实现细节。性能分析数据是使用 PyTorch Profiler 捕获的，可以通过 Chrome 插件直接对其进行可视化，也可以当作一种性能检测的方式。</p>
+<h3>比亚迪秦 L EV 内饰公布</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/7b17cf41-b0c3-4202-ba43-c2e84f3259f0.jpg" /></p>
+<p>2 月 27 日，比亚迪王朝网销售事业部总经理路天公布了比亚迪秦 L EV 的内饰图片。</p>
+<p>据图片显示，比亚迪秦 L EV 内饰将采用几何切割风格，与此前公布的汉 L、唐 L 类似；配备集成式电子怀挡、宽温域车载冷暖冰箱、主 / 副驾座椅通风加热，并采用宽舒云感座椅；新车轴距达到 2,820mm。此外，新车还将全系标配天神之眼 C（高阶智驾三目版）和 DiLink 100 智能座舱。</p>
+<p>值得关注的是，比亚迪秦 L EV 将配备前备箱，容量达 65L，可容纳 20 寸行李箱。</p>
+<p>据工信部信息显示，比亚迪秦 L EV 车身长宽高尺寸分别为 4720mm / 1880mm / 1495mm，外观将继续沿用比亚迪的「龙颜美学」家族设计，车门把手采用半隐藏式；目前已知新车将提供 110kw 和 160kw 两种电机，并提供 46.08 kWh 和 56.64 kWh 磷酸铁锂电池选择。</p>
+<h3>腾讯推出新一代快思考模型混元 Turbo S</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/386a64cf-1f38-40fc-a497-ae83d6f5af2d.jpg" /></p>
+<p>2 月 27 日，腾讯混元自研的快思考模型 Turbo S 正式发布。</p>
+<p>据官方介绍，区别于 Deepseek R1、混元 T1 等需要「想一下再回复」的慢思考模型，混元 Turbo S 能够实现「秒回」，吐字速度提升一倍，首字时延降低 44%，同时在知识、数理、创作等方面也有突出表现。通过模型架构创新，Turbo S 部署成本也大幅下降。</p>
+<p>具体来看，在业界通用的多个公开 Benchmark 上，腾讯混元 Turbo S 在知识、数学、推理等多个领域展现出对标 DeepSeek V3、GPT 4o、Claude3.5 等业界领先模型的效果表现。同时通过长短思维链融合，腾讯混元 Turbo S 在保持文科类问题快思考体验的同时，基于混元 T1 模型合成的长思维链数据，显著改进了理科推理能力。</p>
+<p>架构方面，通过创新性地采用了 Hybrid-Mamba-Transformer 融合模式，混元 Turbo S 有效降低了传统 Transformer 结构的计算复杂度，减少了 KV-Cache 缓存占用，实现训练和推理成本的下降。</p>
+<p>目前，腾讯混元 Turbo S 模型已在腾讯云官网上架，开发者和企业用户可以通过 API 调用，同时将逐步在腾讯元宝灰度上线。腾讯混元还表示，正式版的混元 T1 模型 API 也即将上线，对外提供接入服务。</p>
+<section><img alt="新消费" src="https://s3.ifanr.com/images/ep/common-images/pin_pai.png" /></section>
+<h3>《星露谷物语》将推出全新 NS 实体豪华版</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/3d9b33ad-c4a8-489c-8587-9239b85b015b.jpg" /></p>
+<p>近期，Fangamer 推出了全新的《星露谷物语》NS 实体豪华版。</p>
+<p>除了游戏本体卡带以外，该豪华版内还包括一个木制森林之友朱尼莫胸针、一份迷你农场契约、由 Chihiro Sakaida 创作的 16 页特别迷你漫画、四季艺术卡以及一份 8 × 13 英寸的折叠海报。</p>
+<p>售价方面，《星露谷物语》NS 实体豪华版售价 59 美元，约人民币 429 元。</p>
+<h3>《底特律：变人》开发商回应「网易关停部分游戏工作室」传闻</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/5f958cea-2fa9-4c22-ad12-b5897deaa146.jpg" /></p>
+<p>日前，网易 CEO 丁磊被曝决定撤回海外地区部分工作室的投资后，《底特律：变人》开发商量子梦 CEO Guillaume de Fondaumière 在领英发文，向粉丝们确认当前工作室的状态，并表示一切正常，不受影响。</p>
+<p>Guillaume de Fondaumière 在文中表示，工作室成员对网易集团近期部分的裁员和工作室关闭而深感遗憾，同时其正面回应了粉丝以及外界的猜疑，表示量子梦位于巴黎和蒙特利尔的工作室仍在正常运营，项目开发也在如期推进，且两个地点均有多个职位空缺。</p>
+<p>Guillaume de Fondaumière 还指出，工作室在 2024 年创下了历史最高收入。据悉，该工作室开发的《底特律：变人》去年在 PlayStation 和 PC 平台，全球销量突破 1,100 万套。Guillaume de Fondaumière 还透露，当前项目的开发进展顺利，团队也全力以赴，确保将这些创新且高质量的作品如期推出。</p>
+<p>据了解，量子梦为法国游戏开发商，2022 年被网易以 1 亿欧元收购。</p>
+<h3>致敬麦金塔，ColorWare 推出 AirPods 复古涂装版</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/56fee8ea-858b-4a84-8ea5-3ac2538e7d65.jpg" /></p>
+<p>近日，配件厂商 ColorWare 为致敬苹果经典的麦金塔电脑，分别为苹果 AirPods Pro 2 和 AirPods 4 耳机，打造了复古定制涂装版本，售价分别为 499 美元和 439 美元。</p>
+<p>外观方面，复古涂装版 AirPods Pro 2 和 AirPods 4 共有哑光奶油色和哑光黑色 2 种配色，均带有早期麦金塔的标志性设计 — 彩色彩虹装饰。</p>
+<p>工艺方面，ColorWare 采用独特的涂装工艺，确保定制涂层经久耐用，该公司还提供其他颜色的定制 AirPods 和其他设备。除定制涂装外，AirPods Pro 2 和 AirPods 4 的性能和功能与原版完全相同。</p>
+<section><img alt="好看的" src="https://s3.ifanr.com/images/ep/common-images/hao_kan_de.png" /></section>
+<h3>惊悚片《毒劫》首曝预告</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/1ca31a28-d2c1-404e-8673-4f72c7c2bf3b.jpeg" /></p>
+<p>近日，动作惊悚片《毒劫》首曝预告，宣布今年 4 月 25 日 Netflix 上线。、</p>
+<p>该片讲述一场毒品交易出错后，一个受伤的侦探必须从犯罪黑社会杀出，营救一个政客那关系疏远的儿子，同时揭开笼罩整个城市的腐败和阴谋的网络。</p>
+<p>据悉，影片由加雷斯·埃文斯执导，汤姆·哈迪、福里斯特·惠特克、蒂莫西·奥利芬、贾斯廷·康威尔、洁西·梅·李与杨雁雁主演。</p>
+<h3>电影《平原上的火焰》官宣重新定档</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/b90b0f3f-4454-49bc-8225-97f7c8345f7b.jpeg" /></p>
+<p>2 月 26 日，犯罪电影《平原上的火焰》时隔 4 年后重新定档官宣，将于今年 3 月 8 日全国上映。</p>
+<p>电影讲述了李斐与庄树之间因一场意外而错过一生的故事。影片由刁亦男监制，原著作者双雪涛担任艺术总监，周冬雨、刘昊然领衔主演。</p>
+<h3>悬疑片《一个小忙 2》公布预告</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/2.28_%E6%97%A9%E6%8A%A5/2bcfa0c5-e32f-4f54-8412-48b92bc8d85e.jpeg" /></p>
+<p>近期，黑暗喜剧悬疑片《一个小忙 2》首曝预告。</p>
+<p>该片承接上一部结局的大反转事件，Stephanie 和 Emily 去到意大利卡普里岛 — Emily 将在那里举行豪华婚礼，嫁给一个有钱的意大利商人。婚礼贵客云集，但谋杀和背叛也不请自来。这结个婚遇上的转折，要比 Marina Grande 去卡普里镇广场的路上的还要多。</p>
+<p>影片由保罗·费格执导，杰西卡·沙泽尔编剧，安娜·肯德里克、布蕾克·莱弗利主演，将于今年 5 月 1 日上线亚马逊。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1615943">原文链接</a> ·
+<a href="https://www.ifanr.com/1615943#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Fri, 28 Feb 2025 01:21:27 +0000</pubDate>
+<pubDate>Fri, 28 Feb 2025 01:21:27 +0000</pubDate>
+</item>
+
+<item>
 <title>小米 15 Ultra 影像评测：小米史上最强拍照手机，对比徕卡怎么样?</title>
 <link>https://www.ifanr.com/1615835?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1615835?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
 <div> 关键词：小米15 Ultra、徕卡、影像旗舰、夜景摄影、设计创新
 
-<br><br>总结:
+<br /><br />总结:
 小米15 Ultra是小米与徕卡合作的第四代影像旗舰手机，主打极致影像体验。它配备一英寸大底传感器，支持28mm和35mm经典焦段切换，长焦镜头支持100mm到400mm无损变焦。夜景摄影方面，小米15 Ultra通过大底和大光圈升级，结合优化镜片和镀膜，重新定义了光学夜景，还原自然光影过渡。设计上，机身采用全等深微曲屏，影像模组设计更为柔和，黑色版加入红色点缀，提升视觉焦点。性能方面，搭载高通骁龙8至尊版处理器，支持90W快充和80W无线快充，游戏性能出色。小米15 Ultra通过现代技术复现经典影像文化，降低使用门槛，旨在让用户轻松捕捉决定性瞬间。 <div>
 <p><img alt="" class="alignnone size-full wp-image-1615836" height="4000" src="https://s3.ifanr.com/wp-content/uploads/2025/02/1-5.jpg" width="6000" />欧洲有两个风格非常鲜明的摄影品牌，一个是以自然色彩，贴合肉眼为主要卖点的哈苏，另一个则是以浓郁色彩，极致鲜明为特征的徕卡。</p>
 <p>进入移动影像时代，两个厂商都不约而同地选择了手机厂商合作，进一步拓展自己的品牌影响力和潜在用户群体。</p>
@@ -160,14 +551,13 @@
 </div>
 ]]></content:encoded>
 <pubDate>Fri, 28 Feb 2025 00:01:00 +0000</pubDate>
-<pubDate>Fri, 28 Feb 2025 00:01:00 +0000</pubDate>
 </item>
 <item>
 <title>GPT-4.5 重磅发布！OpenAI 最大最贵模型，没把 DeepSeek 当对手</title>
 <link>https://www.ifanr.com/1615926?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1615926?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-<div> 关键词：GPT-4.5、无监督学习、情商、推理能力、API<br><br>总结:<br>1. GPT-4.5 是 OpenAI 最新发布的模型，具备更广泛的知识和更高的情商，能够更自然地与用户对话。<br>2. 通过无监督学习，GPT-4.5 减少了“幻觉”现象，提升了对话的自然性和情感理解能力。<br>3. GPT-4.5 在多项基准测试中表现优异，尤其在低资源语言和编程任务上有显著提升。<br>4. OpenAI 开放了 GPT-4.5 的 API，开发者可以将其集成到应用中，但运行成本较高。<br>5. GPT-4.5 展示了 AI 向“情商”方向发展的趋势，但仍需进一步优化，未来可能通过逐步迭代（如 GPT-4.6、GPT-4.7）继续改进。 <div>
+<div> 关键词：GPT-4.5、无监督学习、情商、推理能力、API<br /><br />总结:<br />1. GPT-4.5 是 OpenAI 最新发布的模型，具备更广泛的知识和更高的情商，能够更自然地与用户对话。<br />2. 通过无监督学习，GPT-4.5 减少了“幻觉”现象，提升了对话的自然性和情感理解能力。<br />3. GPT-4.5 在多项基准测试中表现优异，尤其在低资源语言和编程任务上有显著提升。<br />4. OpenAI 开放了 GPT-4.5 的 API，开发者可以将其集成到应用中，但运行成本较高。<br />5. GPT-4.5 展示了 AI 向“情商”方向发展的趋势，但仍需进一步优化，未来可能通过逐步迭代（如 GPT-4.6、GPT-4.7）继续改进。 <div>
 <p><img alt="" class="alignnone size-full wp-image-1615936" height="500" src="https://s3.ifanr.com/wp-content/uploads/2025/02/111-2.jpeg" width="1175" /></p>
 <p>朋友，先别急着退订 ChatGPT 会员。</p>
 <p>最近，DeepSeek 开源周搞得热火朝天，全球开发者忙着分享代码、碰撞灵感；而另一边，OpenAI 却选在开源周最后一天冷不丁地丢出了 GPT-4.5 这个「大杀器」。</p>
@@ -263,14 +653,13 @@
 </div>
 ]]></content:encoded>
 <pubDate>Thu, 27 Feb 2025 22:42:12 +0000</pubDate>
-<pubDate>Thu, 27 Feb 2025 22:42:12 +0000</pubDate>
 </item>
 <item>
 <title>52.99 万元！小米 SU7 Ultra 正式上市，还有一个纽北限量版</title>
 <link>https://www.ifanr.com/1615893?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1615893?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-<div> 关键词：小米 SU7 Ultra、雷军、性能车、赛道包、智能化<br><br>总结:<br>1. 小米 SU7 Ultra 以 52.99 万元的价格正式上市，成为地表最快四门车，刷新多项赛道纪录。<br>2. 雷军否认成为首富的传闻，强调小米 SU7 Ultra 的性能和豪华配置。<br>3. SU7 Ultra 配备三电机、高功率电池、顶级制动和悬架系统，性能卓越。<br>4. 小米推出 10 万元的赛道包，降低赛道门槛，提供赛道级装备和服务。<br>5. SU7 Ultra 不仅追求性能，还注重豪华和智能化，搭载 Xiaomi HAD 全场景智驾系统，目标年销量 1 万台。 <div>
+<div> 关键词：小米 SU7 Ultra、雷军、性能车、赛道包、智能化<br /><br />总结:<br />1. 小米 SU7 Ultra 以 52.99 万元的价格正式上市，成为地表最快四门车，刷新多项赛道纪录。<br />2. 雷军否认成为首富的传闻，强调小米 SU7 Ultra 的性能和豪华配置。<br />3. SU7 Ultra 配备三电机、高功率电池、顶级制动和悬架系统，性能卓越。<br />4. 小米推出 10 万元的赛道包，降低赛道门槛，提供赛道级装备和服务。<br />5. SU7 Ultra 不仅追求性能，还注重豪华和智能化，搭载 Xiaomi HAD 全场景智驾系统，目标年销量 1 万台。 <div>
 <p><img alt="" class="alignnone size-full wp-image-1615894" height="1460" src="https://s3.ifanr.com/wp-content/uploads/2025/02/asdgfda.jpg" width="2637" /></p>
 <p>今天有两条关于小米的大新闻。</p>
 <p>上午，小米集团涨近 6%，总市值超 1.4 万亿港元，随即有媒体报道称雷军喜提 1 小时首富体验卡。但另一边，雷军在武大校友群里回应:「那是假新闻。」根据福布斯实时亿万富豪榜，目前钟睒位列第 26 位，雷军位列第 36 位。</p>
@@ -385,14 +774,13 @@
 </div>
 ]]></content:encoded>
 <pubDate>Thu, 27 Feb 2025 13:59:45 +0000</pubDate>
-<pubDate>Thu, 27 Feb 2025 13:59:45 +0000</pubDate>
 </item>
 <item>
 <title>特斯拉 FSD 终于入华，但它连红灯都没认全</title>
 <link>https://www.ifanr.com/1615724?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1615724?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-<div> 关键词：特斯拉FSD、中国市场、技术本土化、数据困境、高定价<br><br>总结:<br>1. 特斯拉FSD在中国市场首次推出，但功能受限，无法实现全场景自动驾驶。<br>2. 尽管FSD在北美表现优异，但在中国面临技术本土化挑战，尤其是在复杂路况下的表现不佳。<br>3. 特斯拉在中国缺乏实地数据，依赖公开视频进行训练，导致系统对中国路况的适应性不足。<br>4. 高定价的FSD在中国市场选装率低，面临本土竞争对手的激烈竞争。<br>5. 特斯拉若想在中国市场实现销量增长，需突破技术和定价的双重困境。 <div>
+<div> 关键词：特斯拉FSD、中国市场、技术本土化、数据困境、高定价<br /><br />总结:<br />1. 特斯拉FSD在中国市场首次推出，但功能受限，无法实现全场景自动驾驶。<br />2. 尽管FSD在北美表现优异，但在中国面临技术本土化挑战，尤其是在复杂路况下的表现不佳。<br />3. 特斯拉在中国缺乏实地数据，依赖公开视频进行训练，导致系统对中国路况的适应性不足。<br />4. 高定价的FSD在中国市场选装率低，面临本土竞争对手的激烈竞争。<br />5. 特斯拉若想在中国市场实现销量增长，需突破技术和定价的双重困境。 <div>
 <p><img alt="" class="alignnone size-full wp-image-1615819" height="675" src="https://s3.ifanr.com/wp-content/uploads/2025/02/fsd-2tm.jpg" width="1200" /></p>
 <p>蛰伏 6 年，几度跳票，特斯拉 FSD 终于迎来了它的入华首秀。</p>
 <p>那些押注未来的 FSD 车主，此刻竟成了首批双向套利者，左手解锁北美同源智驾体验，右手竟然还能搞创收。</p>
@@ -489,7 +877,6 @@
 </div>
 ]]></content:encoded>
 <pubDate>Thu, 27 Feb 2025 03:40:48 +0000</pubDate>
-<pubDate>Thu, 27 Feb 2025 03:40:48 +0000</pubDate>
 </item>
 <item>
 <title>iPhone 16e 首发评测：信号好续航强？和 iPhone 16 比比看</title>
@@ -498,7 +885,7 @@
 <content:encoded><![CDATA[
 <div> 关键词：iPhone 16e、入门级、性能、自研基带、续航
 
-<br><br>总结:
+<br /><br />总结:
 1. iPhone 16e 定位入门级，外观和质感与旗舰机有明显差距，去除了 MagSafe 磁吸功能，但可通过第三方配件实现。
 2. 配备与 iPhone 16 同款的 A18 处理器和 8GB 运行内存，但少一个 GPU 核心，性能略逊于 iPhone 16。
 3. 单摄像头与 iPhone 16 主摄参数一致，但在功能上有所阉割，拍摄表现基本持平，暗光场景略有差距。
@@ -598,14 +985,12 @@
 </div>
 ]]></content:encoded>
 <pubDate>Thu, 27 Feb 2025 02:19:44 +0000</pubDate>
-<pubDate>Thu, 27 Feb 2025 02:19:44 +0000</pubDate>
 </item>
 <item>
 <title>早报|全年一万辆！雷军公布小米 SU7 Ultra 销售目标/马航 MH370 重启搜索工作/折叠屏 iPhone 被曝明年发布</title>
 <link>https://www.ifanr.com/1615725?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1615725?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-
 <div style="padding: 0 14px; text-align: center;"><img alt="cover" src="https://s3.ifanr.com/images/ep/cover-images/ku_shu_cover.jpg" /></div>
 <div style="padding: 0 14px;">
 <div>
@@ -891,14 +1276,12 @@
 </div>
 ]]></content:encoded>
 <pubDate>Thu, 27 Feb 2025 00:53:06 +0000</pubDate>
-<pubDate>Thu, 27 Feb 2025 00:53:06 +0000</pubDate>
 </item>
 <item>
 <title>做减法，成就了宇树</title>
 <link>https://www.ifanr.com/1615150?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1615150?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="" class="alignnone size-full wp-image-1615171" height="3905" src="https://s3.ifanr.com/wp-content/uploads/2025/02/unitree2.jpg" width="5857" /></p>
 <p>这个月 17 号召开的民营企业家座谈会，可以说是众星云集、话题爆炸，大家的关注度包括但不限于：</p>
 <p>许久不露面的马云重新回归公众视野，把 SU7 卖爆的雷军照常出席，给外卖员配齐五险一金的刘强东不见身影&#8230;&#8230;然而这次把风头占尽的，当属「浙江代表团」，7 位来自浙商的企业家携手参会，当中除了马云，还有两位年轻人的身影。</p>
@@ -1013,9 +1396,7 @@
 </div>
 ]]></content:encoded>
 <pubDate>Sat, 22 Feb 2025 06:00:55 +0000</pubDate>
-<pubDate>Sat, 22 Feb 2025 06:00:55 +0000</pubDate>
 </item>
-
 <item>
 <title>始祖鸟，在澳门购物中心建了一座「悬崖庇护所」</title>
 <link>https://www.ifanr.com/1615439?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>

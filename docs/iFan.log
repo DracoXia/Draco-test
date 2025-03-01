@@ -479,3 +479,15 @@ Append: [早报|全年一万辆！雷军公布小米 SU7 Ultra 销售目标/马�
 Append: [做减法，成就了宇树](https://www.ifanr.com/1615150?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 7
 Finish: 2025-02-28 01:02:13.416471
+------------------------------------------------------
+Started: 2025-03-01 01:04:20.574799
+Existing_entries: 107
+Fetching from https://www.ifanr.com/feed
+Token length: 3083
+Summarized using deepseek-chat
+Append: [实测 GPT-4.5！全网都在喷的 OpenAI 最贵模型，我发现了一个惊喜的点](https://www.ifanr.com/1615988?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 10353
+Summarized using deepseek-chat
+Append: [早报|53 万的小米新车两小时大定破万台/三星三折叠专利公布/GPT 最贵大模型发布，表现不及预期](https://www.ifanr.com/1615943?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 2
+Finish: 2025-03-01 01:04:52.740535
