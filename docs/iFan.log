@@ -491,3 +491,12 @@ Summarized using deepseek-chat
 Append: [早报|53 万的小米新车两小时大定破万台/三星三折叠专利公布/GPT 最贵大模型发布，表现不及预期](https://www.ifanr.com/1615943?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 2
 Finish: 2025-03-01 01:04:52.740535
+------------------------------------------------------
+Started: 2025-03-02 01:02:25.612828
+Existing_entries: 109
+Fetching from https://www.ifanr.com/feed
+Token length: 9150
+Summarized using deepseek-chat
+Append: [早报|雷军发布会同款火出圈，多家售罄/中国空间站将迎来首位外籍航天员/《哪吒 2》超越蜘蛛侠，进入全球票房前 7](https://www.ifanr.com/1616059?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2025-03-02 01:02:49.113844

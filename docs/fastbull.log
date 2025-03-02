@@ -2103,3 +2103,33 @@ Append: [美俄破冰之旅：土耳其会谈聚焦使馆运作，乌克兰问�
 Append: [CBOT持仓：USDA报告引爆持仓异动，玉米暴跌预警VS大豆强势破局，谁将主导3月行情？](https://www.fastbull.com/cn/news-detail/4321872_1)
 append_entries: 41
 Finish: 2025-03-01 01:03:10.100903
+------------------------------------------------------
+Started: 2025-03-02 00:59:28.747226
+Existing_entries: 1041
+Fetching from https://rsshub.app/fastbull/news
+Token length: 1198
+Summarized using deepseek-chat
+Append: [俄罗斯与非洲之间的经济合作发展](https://www.fastbull.com/cn/news-detail/4321894_1)
+Token length: 2969
+Summarized using deepseek-chat
+Append: [关税风险重创美股，警惕美国“滞胀”卷土重来](https://www.fastbull.com/cn/news-detail/4321964_1)
+Token length: 2579
+Summarized using deepseek-chat
+Append: [特朗普的“对等关税”冲击全球贸易](https://www.fastbull.com/cn/news-detail/4321831_1)
+Token length: 2190
+Summarized using deepseek-chat
+Append: [为什么香港特区坚决不能放弃联系汇率？](https://www.fastbull.com/cn/news-detail/4321790_1)
+Token length: 2874
+Summarized using deepseek-chat
+Append: [美联储最青睐的通胀指标降温，但关税重压之下市场热议“滞胀”](https://www.fastbull.com/cn/news-detail/4321963_1)
+Token length: 4680
+Summarized using deepseek-chat
+Append: [制造业转移的历史规律已经打破](https://www.fastbull.com/cn/news-detail/4321695_1)
+Token length: 1774
+Summarized using deepseek-chat
+Append: [超2万亿美元，美联储还要谨慎缩表](https://www.fastbull.com/cn/news-detail/4321621_1)
+Token length: 999
+Summarized using deepseek-chat
+Append: [从早八到晚八！下周韩国股市交易时间扩容至一天12个小时](https://www.fastbull.com/cn/news-detail/4321962_1)
+append_entries: 8
+Finish: 2025-03-02 01:01:16.630870
