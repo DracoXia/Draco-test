@@ -2133,3 +2133,24 @@ Summarized using deepseek-chat
 Append: [从早八到晚八！下周韩国股市交易时间扩容至一天12个小时](https://www.fastbull.com/cn/news-detail/4321962_1)
 append_entries: 8
 Finish: 2025-03-02 01:01:16.630870
+------------------------------------------------------
+Started: 2025-03-03 00:58:17.407876
+Existing_entries: 1008
+Fetching from https://rsshub.app/fastbull/news
+Token length: 1618
+Summarized using deepseek-chat
+Append: [欧洲央行面临两难选择](https://www.fastbull.com/cn/news-detail/4321936_1)
+Token length: 2501
+Summarized using deepseek-chat
+Append: [美国不容忽视的税收漏洞](https://www.fastbull.com/cn/news-detail/4321920_1)
+Token length: 1011
+Summarized using deepseek-chat
+Append: [全球航运市场新动向：中国调整粮食进口策略](https://www.fastbull.com/cn/news-detail/4321905_1)
+Token length: 1351
+Summarized using deepseek-chat
+Append: [特朗普原油增产号令失效？](https://www.fastbull.com/cn/news-detail/4321901_1)
+Token length: 3096
+Summarized using deepseek-chat
+Append: [“世界不会等待德国”，大选将如何改变德国？](https://www.fastbull.com/cn/news-detail/4321898_1)
+append_entries: 5
+Finish: 2025-03-03 00:59:56.434015
