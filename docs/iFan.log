@@ -509,3 +509,25 @@ Summarized using deepseek-chat
 Append: [早报|小米 SU7 Ultra 开启交付，雷军亲自接待/曝M4 MacBook Air 将于本周发布/董明珠回应「格力专卖店」改名](https://www.ifanr.com/1616064?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2025-03-03 01:02:35.414603
+------------------------------------------------------
+Started: 2025-03-04 01:00:58.100975
+Existing_entries: 111
+Fetching from https://www.ifanr.com/feed
+Token length: 10104
+Summarized using deepseek-chat
+Append: [早报|新款 MacBook Air 将在本周发布/小米「模块相机」实测来了/苹果客服回应多用户称免密支付遭盗刷](https://www.ifanr.com/1616178?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 4888
+Summarized using deepseek-chat
+Append: [小米手机的外挂镜头很强，但不会颠覆相机｜硬哲学](https://www.ifanr.com/1616138?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 1627
+Summarized using deepseek-chat
+Append: [高通发布 X85 调制解调器及射频，速度很快，AI 让它更快](https://www.ifanr.com/1616084?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 1797
+Summarized using deepseek-chat
+Append: [1.6 万元！比亚迪推出史上最贵配件](https://www.ifanr.com/1616085?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 6162
+Summarized using deepseek-chat
+Append: [扎克伯格这款不会发售的新品，又在探索 AI 眼镜的终极形态](https://www.ifanr.com/1616014?utm_source=rss&utm_medium=rss&utm_campaign=)
+Append: [广汽埃安发布 UT 鹦鹉龙，6.98 万起售，挑战吉利星愿和比亚迪海鸥](https://www.ifanr.com/1616115?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 6
+Finish: 2025-03-04 01:02:29.813717
