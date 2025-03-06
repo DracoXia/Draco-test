@@ -5,11 +5,465 @@
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
 <item>
+<title>这个中国 AI 产品一夜刷屏！全网都在要邀请码，可能是 DeepSeek 后最大惊喜</title>
+<link>https://www.ifanr.com/1616503?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1616503?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> Manus、AGI、Agent、GAIA、肖弘<br><br>总结:<br>1. Manus是一款由肖弘创立的自主智能体，性能远超OpenAI同类产品。<br>2. Manus在GAIA基准测试中创下新纪录，展示了其在多任务处理和执行质量上的优势。<br>3. Manus不仅能生成想法，还能独立思考和采取行动，被视为通向AGI的窗口。<br>4. 肖弘此前还推出了AI助手Monica，用户规模破百万。<br>5. Manus的技术理念是“更少的结构，更多的智能”，强调模型能力和架构灵活性。<br>6. 尽管Manus表现出色，但距离真正的AGI仍有距离，需解决模型能力和任务泛化等挑战。 <div>
+<p><img alt="" class="alignnone size-full wp-image-1616520" height="500" src="https://s3.ifanr.com/wp-content/uploads/2025/03/12.jpeg" width="1175" /></p>
+<p>几乎在昨晚苹果发布新品的同时，整个科技圈却被一个名为 Manus 的产品刷屏了。</p>
+<p><a href="https://mp.weixin.qq.com/s/TDkjSx2CJOOwl_6OEiLqjQ">这是全球首款真正意义上的通用 AI Agent，从官网展示的案例可以看到，它能够独立思考、规划并执行复杂任务，直接交付完整成果。</a></p>
+<p>比起 Claude 的 Computer use 等同样能操作多任务，或者能帮你点外卖订酒店的 Agent， Manus 可以覆盖更多领域和达成更高的执行质量。</p>
+<p>Manus 在权威的 GAIA 基准测试中创下新纪录， 性能远超 OpenAI 的同类产品。</p>
+<p>而 Manus 这个名字来自拉丁语，Mens et Manus，就是 mind and hand，即手脑并用。这也是麻省理工学院的校训，以此鼓励学生将创意落地为实际成果。</p>
+<p>创始人肖弘在 Manus 发布的前几个小时，在即刻平台上发文「高潮来临」，并分享了莎士比亚的一段书摘：</p>
+<p><img alt="" class="alignnone size-full wp-image-1616515" height="1280" src="https://s3.ifanr.com/wp-content/uploads/2025/03/12.jpg" width="960" /></p>
+<p>很难现在就判定 Manus 的诞生就是 AGI 的里程碑，但它很有可能将让 Agent （智能体）时代真的进入「高潮时刻」。</p>
+<p>Manus 体验申请链接 <img alt="👇" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f447.png" style="height: 1em;" />：<br />
+https://manus.im/invitation</p>
+<h3>筛简历、选房炒股，Manus 真会「干活」？</h3>
+<p>官方宣称，Manus 不仅仅是一个只会聊天的对话式 AI 工具，而是一个真正的自主智能体（Agent）。</p>
+<p>当其他 AI 可能只停留在生成想法的阶段，而 Manus 能够独立思考并采取行动。官方将其视为人机协作的新范式，甚至可能是通向 AGI 的一个窗口。</p>
+<p>与 Manus 同步出圈的还有一段长达四分钟的演示 demo。在这些案例中，Manus 完全自主地完成从规划到执行的全流程，展示了真正的 Agent 能力，而非简单的助手功能。</p>
+<p>比方说，首先从一个常见的人力资源任务——筛选简历开始。</p>
+<p>演示一开始就放了个大招，官方向 Manus 发送了一个包含 10 份简历的压缩文件，Manus 能像专业招聘人员一样高效工作。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616504" height="896" src="https://s3.ifanr.com/wp-content/uploads/2025/03/1-2.png" width="1856" /></p>
+<p>它会先解压文件，然后逐页浏览每份简历，并记录重要信息。Manus 还能异步处理文件，这意味着你可以随时关闭电脑，等任务完成后，它会通知你。</p>
+<p>当然，在这个过程中，你也可以随时给它新的指令。</p>
+<p>接着，继续向 Manus 上传 5 份简历。在认真阅读了所有 15 份简历后，Manus 给出了排名建议，并提供了候选人资料和评估标准作为参考。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616505" height="360" src="https://s3.ifanr.com/wp-content/uploads/2025/03/2-2.gif" width="640" /></p>
+<p>这还没完，我们还可以让 Manus 生成电子表格。</p>
+<p>由于 Manus 具有知识和记忆能力，所以下次执行类似任务时，它会直接以电子表格的形式交付结果。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616506" height="1652" src="https://s3.ifanr.com/wp-content/uploads/2025/03/3-4.png" width="2940" /></p>
+<p>另一个演示案例中，结合家庭收入情况和孩子的上学要求，让 Manus 在纽约筛选一个安全、犯罪率低的社区，并购买符合标准的房产。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616507" height="1646" src="https://s3.ifanr.com/wp-content/uploads/2025/03/4-3.png" width="2922" /></p>
+<p>面对这类复杂任务，Manus 同样是有条不紊地将其拆解为多个步骤，并创建详细的待办清单。</p>
+<ul>
+<li>搜索并阅读关于纽约最安全社区的文章。</li>
+<li>研究纽约的中学情况。</li>
+<li>编写 Python 程序来计算预算。</li>
+<li>基于预算，在房地产网站上筛选合适的房源。</li>
+<li>整合所有信息，撰写详细报告并整理相关资料</li>
+</ul>
+<p><img alt="" class="alignnone size-full wp-image-1616508" height="360" src="https://s3.ifanr.com/wp-content/uploads/2025/03/5.gif" width="640" /></p>
+<p>转场到第三个案例，Manus 摇身一变成了专业的股票分析师。</p>
+<p>让其分析英伟达、迈威尔科技，以及台积电在过去 3 年的股票价格之间的相关性，Manus 可以通过 API 访问权威数据源。在验证数据后，它开始编写用于数据分析和可视化的代码。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616509" height="1650" src="https://s3.ifanr.com/wp-content/uploads/2025/03/6-3.png" width="2940" /></p>
+<p>在完成数据分析和可视化后，Manus 也能基于这些数据创建一个网站。经用户的授权后，还能将网站部署至线上，并提供了一个可供分享的链接。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616510" height="360" src="https://s3.ifanr.com/wp-content/uploads/2025/03/7.gif" width="640" /></p>
+<p><a href="https://mp.weixin.qq.com/s/TDkjSx2CJOOwl_6OEiLqjQ">X 网友 @DavidAIinchina 也体验到了 Manus，并给出了极高的评价——「令人难以置信的用例」。</a></p>
+<p>官方表示，以上展示的内容仅仅是 Manus 能力的冰山一角。</p>
+<p>在用于评估通用 AI 助手在解决现实世界问题方面的能力的 GAIA 基准测试中，Manus 在所有三个难度级别上都达到了 SOTA 水平。</p>
+<p>为了确保结果的可重复性，Manus 使用与其正式版本完全一致的配置进行评测。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616511" height="720" src="https://s3.ifanr.com/wp-content/uploads/2025/03/8-3.png" width="1280" /></p>
+<p>除了基准测试，Manus 还在 Upwork 和 Fiverr 等平台上解决真实世界的问题，并在 Kaggle 竞赛中证明了自己的实力。</p>
+<p>而这一切都离不开优秀的开源社区，因此官方也希望能回馈社区。</p>
+<p>Manus 采用多重签名（multisig）系统，由多个独立模型驱动。今年晚些时候，官方将计划开源其中的一些模型，特别是 Manus的推理（postering）部分。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616512" height="663" src="https://s3.ifanr.com/wp-content/uploads/2025/03/9-3.png" width="1280" /></p>
+<h3>中国团队、两款爆品、百万用户</h3>
+<p>那么这款震撼业界的产品背后是谁？</p>
+<p>据悉，Manus AI 背后的创始人肖弘是是华中科技大学软件工程专业 2015 届校友。</p>
+<p>毕业后，他连续创业，2015 年创立夜莺科技，推出「壹伴助手」和「微伴助手」，服务超 200 万 B 端用户，获腾讯、真格基金等投资。</p>
+<p>萦绕在肖弘身上的还有一个更鲜明的 AI 产品——Monica。</p>
+<p>这是一款号称 All-in-One 的 AI 助手，最初以浏览器插件的形式推出。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616513" height="689" src="https://s3.ifanr.com/wp-content/uploads/2025/03/10-2.png" width="1280" /></p>
+<p>通过集成主流大模型（如 Claude 3.5、DeepSeek 等），Monica 提供聊天、翻译、文案处理等功能，用户可通过自然语言创建定制化工具，并共享至工具广场。</p>
+<p>Monica 同样是早期以海外市场为主，用户规模破百万，成为 AI 插件领域头部产品。</p>
+<p>今年 2 月份，Monica 的中文版（monica.cn）已开启内测，目前免费向国内用户开放。该版本基于DeepSeek R1 和 V3 模型打造，具备深度推理思考能力，并支持记忆功能和实时联网搜索。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616514" height="1594" src="https://s3.ifanr.com/wp-content/uploads/2025/03/11-1.png" width="2940" /></p>
+<h3>Manus 的技术哲学：less structure more intelligence</h3>
+<p>Manus 奉行的技术理念与主流也有些不同，是 「less structure more intelligence.」（更少的结构，更多的智能）</p>
+<p>他们认为，当数据足够优质、模型足够强大、架构足够灵活、工程足够扎实时，computer use、deep research、coding agent 等能力会自然涌现，无需被设计为特定的产品功能。</p>
+<p>作为大力出奇迹的代表之一，GPT-4-Turbo 在 GAIA 公开排行榜上的平均成绩不到 7%，即使是使用复杂多智能体系统的解决方案也仅达到 40%。Manus 的表现可以说是「遥遥领先」。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616516" height="720" src="https://s3.ifanr.com/wp-content/uploads/2025/03/13.jpg" width="1280" /></p>
+<p>创始人肖弘在最近在和张小珺的访谈中，他也提前谈到了当时还未发布的 Agent 产品 Manus 。</p>
+<p>「看上去它确实应该就是一个 chatbot，这是很符合大家想象的，同时在应用侧却很复杂，和 Monica 不一样，光用好不同模型就挺复杂。」</p>
+<p>肖弘还将目前 AI 应用分为两类：一是填补主要应用产品的空档的不足，二是为特定场景提供独特解决方案的应用，比如 Perplexity (提供联网搜索功能) 和 Monica (浏览器插件形态) 都属于此类，它们填补了现有产品留下的空白。</p>
+<p>而模型驱动的新场景这类应用，主要出现在图片和视频领域，直接由模型技术的进步驱动。像 Pika 和 Runway 等产品利用模型能力创造了新的应用场景。</p>
+<p>有用户调侃 Manus 是「极致的套壳就是牛逼」，实际上肖弘并不忌讳让用户知道自己的产品用的是别人的模型。早在去年，他就把 Monica 比作消费电子产品，并把 ChatGPT 的 Logo 打在官网。</p>
+<h3>人机交互新时代已来，但别急着把 Manus 捧上 AGI 神坛</h3>
+<p>APPSO 在 2024 年年初曾作出一个预测：大模型将成为智能手机新的操作系统，自然用户界面（Natural user interface， NUI ）将逐步替代现有的图形用户界面（GUI）。</p>
+<p>而实现这种新交互的重要入口，就是 Agent 。</p>
+<p>去年我们在很多手机的发布会上都看到类似的案例。 vivo 发布会展示可以 AI 订餐的 「Phone GPT」，华为鸿蒙的小艺和意图框架，还是荣耀的 YOYO 智能体，以及智谱的 AutoGLM，核心都是一样的：</p>
+<p>让 AI 模仿人类的 Plan-Do-Check-Act（计划-执行-检查-行动）循环 ，从而像人类那样去操作设备。</p>
+<p>智谱 AI CEO 张鹏之前提到，目前的 Agent 能力更像是在用户和应用之间，增加一个智能的调度层，链接所有应用甚至是所有设备。</p>
+<p>这可以看做是大模型通用操作系统 LLM-OS的一种雏形，将对人机交互形式产生极大的影响。OpenAI 创始成员、AI 技术大牛 Andrej Karpathy 也曾多次谈到大语言模型操作系统（LLM OS）。</p>
+<p>他认为大模型某种程度来说就是一种新的计算机和操作系统，它可以连接各种软件和硬件，以及所有模态信息组成的外设，并通过函数调用执行各种任务。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616519" height="1040" src="https://s3.ifanr.com/wp-content/uploads/2025/03/111.png" width="1842" /></p>
+<p>传统操作系统中，你需要围绕 CPU 构建一堆外设，比如鼠标和键盘、磁盘存储、以及缓存空间等。</p>
+<p>而在 LLM OS 中，大模型本身就是中央处理器。I/O 外设也不再是鼠标和键盘，因为 LLM 可以兼容更多模态的数据输入和输出。同时大模型调用的外部工具也将从传统软件升级为智能体工具。</p>
+<p>其中跨应用的操作是非常关键的一环，这意味着 Agent 能实现更加复杂的自主连贯操作，也可能走向真正的商业化落地。至于各家互联网公司提供的服务能否打通，可能是未来实现这种交互最大的障碍。</p>
+<p>不过现在很多 AI 助手实现代操作的方式，实际上是调用手机的无障碍功能 (accessibility features) 的权限，来控制屏幕点击。</p>
+<p>Manus 的出现，意味着 Agent 模式下的 AI 能够理解需求后独立工作，直到任务完成。这无疑是人机交互领域的一大步，它让我们看到了 AI 从工具向伙伴转变的潜力。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616520" height="500" src="https://s3.ifanr.com/wp-content/uploads/2025/03/12.jpeg" width="1175" /></p>
+<p>但要说我们已经一只脚迈入了 AGI 大门，也还为时尚早。肖弘自己也提到，早期的 Agent 更像是「功能机」，需要不断迭代和完善。目前的 Agent 仍需依赖于模型能力的提升，以及更完善的虚拟环境支持，才能真正胜任各种长尾任务。</p>
+<p>如果类比智能驾驶，大概也相当于从 L2 级升级到 L3 级的辅助驾驶。虽然 Manus 在 GAIA 基准测试中表现出色，但这并不意味着它已具备通用人工智能的全部特征。通往 AGI 的道路依然漫长，需要解决模型能力、自主学习、任务泛化等多重挑战。</p>
+<p>但因为有了 Manus 在自主性与通用性上的突破，通往 AGI 的大航海中，又多了一颗照亮我们的星。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1616503">原文链接</a> ·
+<a href="https://www.ifanr.com/1616503#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Wed, 05 Mar 2025 22:25:05 +0000</pubDate>
+<pubDate>Wed, 05 Mar 2025 22:25:05 +0000</pubDate>
+</item>
+<item>
+<title>百度文库、网盘接入 DeepSeek，这才是学生党真正想要的 AI</title>
+<link>https://www.ifanr.com/1616426?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1616426?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> 关键词：DeepSeek-R1、百度文库、百度网盘、AI生成、开放生态
+
+<br><br>总结:
+1. 百度文库和百度网盘全量接入DeepSeek-R1满血版，显著提升了用户体验。
+2. 百度文库通过DeepSeek-R1实现了一键生成PPT和AI有声画本功能，极大简化了创作流程。
+3. 百度网盘利用DeepSeek-R1增强了文件搜索和智能总结功能，使资料管理更加高效。
+4. 百度通过技术优化和产品创新，展现了其在AI领域的开放态度和强大实力。
+5. 百度的开放策略和强大的技术基础，推动了AI创作的大众化进程。 <div>
+<p><img alt="" class="alignnone size-full wp-image-1616464" height="724" src="https://s3.ifanr.com/wp-content/uploads/2025/03/su1.jpeg" width="1158" /></p>
+<p>又一个「DeepSeek 王炸组合」，来了。2 月 28 日，两个国民级应用，百度文库和百度网盘，全量接入了 DeepSeek-R1 满血版。</p>
+<p>作为用户，看到百度的一系列动作，心情肯定是欣喜的，使用 DeepSeek 的渠道又多了一个，但更重要的是，百度鲜明地表达了自己的态度——开放。</p>
+<p>在一众接入 DeepSeek 的平台里，百度真的有些不一样。体验了加强版的文库和网盘之后，我们可以先下一个结论：<strong>这是学生党的神器</strong>。</p>
+<p>当最强的模型，遇上了最好用的工具，不用人类做搬运工，很多活可以直接交给 AI 解决。</p>
+<h3>接入 DeepSeek 的百度文库，一键搞定 PPT 和画本</h3>
+<p>之前你可能在微博看到过「DeepSeek 王炸组合」的热搜，我当时兴冲冲地点了进去，却大失所望。</p>
+<p><img alt="" class="size-full wp-image-1616427 aligncenter" height="714" src="https://s3.ifanr.com/wp-content/uploads/2025/03/zha3.jpg" width="508" /></p>
+<p>就说制作 PPT 这件事，DeepSeek 确实可以提供 PPT 的大纲，但生成最终的 PPT，还需要打开另一个 AI 工具，把大纲复制粘贴进去。搞了半天，人类还是要担任中间商。</p>
+<p>但百度文库不一样，<strong>它本身就有生成 PPT 的功能</strong>，接入 DeepSeek-R1 之后，真正让我体会到了，用强大的模型和工具一键生成 PPT 是什么感觉。</p>
+<p><img alt="" class="size-full wp-image-1616428 aligncenter" height="900" src="https://s3.ifanr.com/wp-content/uploads/2025/03/ppt1.jpg" width="2092" /></p>
+<p>使用方式很简单，点击百度文库首页的「智能 PPT」，点亮对话框下方的「DeepSeek-R1 满血版」，直接输入我们的主题就好。</p>
+<p>大一的时候，应该都做过经典书目的读书笔记作业吧？往事不堪回首，作为萌新，学术素养实在有限，能把书读懂就不错了。现在的大学生，倒是可以让 AI 帮自己入门。</p>
+<p>我在输入框填进了以下内容：「《社会学的想象力》读书笔记汇报，按作者介绍、内容概述、主要观点三个部分进行展开，主要观点的部分需要再细分，详细论述每个观点。」</p>
+<p>几乎不需要等待，DeepSeek-R1 先展现它的思维链，然后再输出 PPT 大纲。看这不明觉厉的用词，调子起得够高。</p>
+<p><img alt="" class="size-full wp-image-1616455 aligncenter" height="394" src="https://s3.ifanr.com/wp-content/uploads/2025/03/xiang1.gif" width="866" /></p>
+<div class="editor-image-source">
+<p>▲ 思维链</p>
+</div>
+<p><img alt="" class="size-full wp-image-1616454 aligncenter" height="394" src="https://s3.ifanr.com/wp-content/uploads/2025/03/xiang2.gif" width="866" /></p>
+<div class="editor-image-source">
+<p>▲ 大纲</p>
+</div>
+<p>我们可以按自己的想法微调大纲的章节和子节，接着就开始挑模板，百度文库的素材够多，审美也够高级，我选了一个简约现代带点渐变的模板，PPT 便开始生成了。</p>
+<p><img alt="" class="size-full wp-image-1616457 aligncenter" height="466" src="https://s3.ifanr.com/wp-content/uploads/2025/03/li3-1.gif" width="878" /> <img alt="" class="size-full wp-image-1616458 aligncenter" height="466" src="https://s3.ifanr.com/wp-content/uploads/2025/03/li4-1.gif" width="878" /></p>
+<p>生成PPT还不算结束，<strong>PPT 的侧边栏有个「智能助手」</strong>，可以编辑 PPT，或者围绕 PPT 生成更多的内容。插入一页 PPT，生成口语化的演讲稿，都不在话下。</p>
+<p><img alt="" class="size-full wp-image-1616459 aligncenter" height="354" src="https://s3.ifanr.com/wp-content/uploads/2025/03/xiang7.gif" width="290" /></p>
+<div class="editor-image-source">
+<p>▲演讲稿基本没有 AI 味</p>
+</div>
+<p>顺带一提，<strong>「编辑」功能几乎在百度文库随处可见</strong>，看似不起眼的功能，却非常影响 AI 产出的质量。当人工修改的空间更大，那么 AI 生成的内容也更能符合我们的预期。</p>
+<p>除了生成 PPT 这种学生党必备的功能，百度文库还有一个形式非常创新的玩法——<strong>AI 有声画本</strong>，目前也接入了 DeepSeek-R1。</p>
+<p>AI 有声画本在百度文库 app 体验，点击底部的「智能助手」，再选择「AI 有声画本」，输入一个主题就能生成画本，方便家长给小朋友讲丑小鸭之类的睡前故事。</p>
+<p>其实，画本也很适合用来给大朋友学习，我们可以输入类似这样的主题——「通俗易懂地科普，大模型的 Token 是什么」。</p>
+<p><img alt="" class="size-full wp-image-1616435 aligncenter" height="446" src="https://s3.ifanr.com/wp-content/uploads/2025/03/to3.gif" width="330" /></p>
+<p>画本文案只用几秒钟就生成了，然后再挑选我们喜欢的画风，等待几分钟，让百度文库生成匹配文案的图片，画本的形态就基本完整了。</p>
+<p>画本生成后，点击「播放」，画本会自动给文案配音，得到图文声并茂的视频。</p>
+<p><img alt="" class="size-full wp-image-1616436 aligncenter" height="446" src="https://s3.ifanr.com/wp-content/uploads/2025/03/to2.gif" width="330" /></p>
+<p>从「DeepSeek 王炸组合」的热搜看，用户们普遍希望，「聪明但不爱干活」的 DeepSeek，可以在多模态的场景里发挥作用，无奈创作过程有点长——先输入想法，由 DeepSeek 优化，再将内容复制粘贴到图片、视频等 AI 工具。</p>
+<p>奔波在多个软件之间，并非长久之计，此时就需要<strong>工具类平台主动接入模型</strong>，百度文库便是一个例子。顺着用户的需求升级产品，效益显而易见。</p>
+<p>当<strong>工具类平台将创作的链路变得更短</strong>，就是对创作者的赋能。未来，百度文库的智能研报、漫画、小说、海报等全模态能力，也将全面接入 DeepSeek-R1 模型，值得期待。</p>
+<h3>拥抱 DeepSeek 的网盘，把积灰的资料盘活了</h3>
+<p>储存了大量赛博财产的百度网盘，是另一个接入 DeepSeek 的国民级应用。</p>
+<p>以前我们怎么在网盘找资料？通常是在搜索框输入关键词，打多或者打少了字，可能找不到，或者结果不相关。</p>
+<p>但现在不一样了，<strong>有资料要找，直接和百度网盘智能助理「云一朵」聊</strong>。</p>
+<p><img alt="" class="size-full wp-image-1616437 aligncenter" height="984" src="https://s3.ifanr.com/wp-content/uploads/2025/03/yun1.jpeg" width="1167" /></p>
+<p>点击网盘底部栏中间的「云一朵」入口，选择对话框下面的第一个 logo，再点击「搜文件」，然后说人话就可以。</p>
+<p><img alt="" class="size-full wp-image-1616438 aligncenter" height="500" src="https://s3.ifanr.com/wp-content/uploads/2025/03/shang1.gif" width="326" /></p>
+<p>当我要求「找出和商务英语有关的资料」，DeepSeek 开始思考，哪些文件名称和路径明确提到了「商务英语」，或者「BEC」「剑桥商务英语」等相关的关键词。</p>
+<p>同时，它排除了名字只带「商务」的文件，包括我之前做过的一些商务项目。</p>
+<p>最终，云一朵找出了 157 个文件，并按教材、真题、听力专项训练进行了分类整理，不仅有教材的 PDF 文件和压缩包，还找到了音频材料的 mp3 文件和压缩包。</p>
+<p><img alt="" class="size-full wp-image-1616439 aligncenter" height="500" src="https://s3.ifanr.com/wp-content/uploads/2025/03/shang2.gif" width="326" /></p>
+<p>点击文件末尾的标号，mp3 可以直接播放，然后云一朵还能继续发力，帮我生成 mp3 的摘要和总结，恨不得我立刻开始学习。</p>
+<p>还有一点值得一提，云一朵会温馨提醒我，找到的所有文件可以创建成一个「专辑」，省了我自己整理材料和重复查找的功夫，非常适合懒癌晚期的本人。</p>
+<p><img alt="" class="size-full wp-image-1616440 aligncenter" height="500" src="https://s3.ifanr.com/wp-content/uploads/2025/03/shang3.gif" width="326" /></p>
+<p>不光是文档，图片也可以这样搜索——点击「智能搜图」，然后输入主题。</p>
+<p><img alt="" class="size-full wp-image-1616441 aligncenter" height="500" src="https://s3.ifanr.com/wp-content/uploads/2025/03/dog1.gif" width="330" /></p>
+<p>找到资料的目的，是为了不积灰。收藏如山倒，读书如抽丝，这时候，可以使用百度网盘的<strong>「智能总结」</strong>，至少让我们的学习开始得更容易些。</p>
+<p>「智能总结」妙就妙在，可以调出某个存在网盘的文件，然后帮我解读。举个例子，让它概括网络传播概论的主要知识点，它丝滑地帮我完成了「量子速读」。</p>
+<p><img alt="" class="size-full wp-image-1616442 aligncenter" height="500" src="https://s3.ifanr.com/wp-content/uploads/2025/03/wang1.gif" width="326" /></p>
+<p>接入了 DeepSeek 的百度网盘，让我看到了让收藏夹不再被冷落、把资料都活用起来的可能，这应该也是资料等身的大学生们的愿望。</p>
+<p>当<strong>强大的模型和个人的数据库无缝地结合</strong>，数据库不再只是存储，<strong>通用的 AI 也能真正地「以我为主」</strong>，变得更加个性化。总之，该好好学习了！</p>
+<h3>越来越开放的，也必将越来越好用</h3>
+<p>万物皆可接入 DeepSeek，这话本身没错，但为什么接入，以及怎么接入，是在蹭热点之外，每个平台或者产品都必须要思考的问题。</p>
+<p>百度文库和百度网盘，在 2月 28 日全量上线 DeepSeek-R1 满血版，论接入的时间，并不算领先，但这一系列开放动作，是非常坚定且有效的。</p>
+<p>先从技术的角度看，百度自己就是一家大模型厂商，旗下有各种尺寸的文心模型，它对于开源模型并非简单地接入，而是做了技术的精调和优化，<strong>将各种模型整合成了一个协调的系统</strong>。</p>
+<p>百度文库便是一个例子，它采用的是 MoE（混合专家模型，Mixture of Experts）架构，像分派专家一样，给模型分工，可以根据不同的输入数据，动态地选择多个擅长不同任务的子模型，从而提高效率，并降低计算成本。</p>
+<p>多样的模型，共同组成了「最强大脑」。而且，背靠大厂，模型使用的体验感也更好，在文库和网盘使用 DeepSeek-R1 时，<strong>不用再担心服务器崩溃或响应慢的问题</strong>。</p>
+<p>再就是产品的维度，百度文库和百度网盘这两个工具，很值得被拎出来谈谈，为什么它们接入 DeepSeek-R1 是很有优势的。</p>
+<p>百度文库有 14 亿的文档资源，百度网盘有海量的个人数据，再加上搜索，公私域的内容被打通了，<strong>数据这块首先就是个护城河，方便用户调用全网信息，打造自己的知识库</strong>。</p>
+<p>而在数据之外，它们的形态也和聊天式的 AI 产品不一样，提供了大量的多模态功能，支持内容的一站式存储、获取、问答、创作、编辑、分发，同时还具备其他平台缺乏的编辑器、播放器、阅读器等工程层基建，可以说，<strong>内容创作的全流程，都被包圆了</strong>。</p>
+<p>产品的基建做得扎实，就像拥有健全的四肢，再将模型作为大脑，金风玉露一相逢，用户们想要创作什么内容，就不必在多个网页和产品之间辗转，原地就能把事情解决了。这才叫，<strong>既能思考，又能干活</strong>。</p>
+<p>除了效率更高，全面的产品形态还有一个好处：形成一个持续、流畅的内容循环。生成前，我们消费内容，生成中，AI 按我们的指令产生内容，生成后，我们还能再编辑内容。从灵感激发到内容创作，源源不断的创造将在其中产生。</p>
+<p>变现的效果，直观地说明了产品是否被用户认可。目前，百度文库的付费用户突破了 4000 万，位列全球第二中国第一。截至 2024 年 12 月，<strong>文库的 AI MAU（月活跃用户数）已经达到 9400 万</strong>。文库的智能 PPT 功能，更是占了超过八成的市场份额。</p>
+<p>文库和网盘接入 DeepSeek-R1 之后，百度还有什么动作？</p>
+<p><img alt="" class="size-full wp-image-1616448 aligncenter" height="2169" src="https://s3.ifanr.com/wp-content/uploads/2025/03/qiang5.jpg" width="2340" /></p>
+<p>看得出来，<strong>百度是下定决心要开放了</strong>。百度搜索、自由画布、文心智能体平台，同样接入了 DeepSeek。百度 app 也焕新升级，用回了那句经典口号「百度一下，你就知道」，上线新的「AI 搜索」入口。</p>
+<p>同时，想要留在牌桌上，技术仍然是最硬的底牌，百度显然加快了自有模型升级和开源的脚步，3 月 16 日文心大模型 4.5 发布，4 月 1 日 0 时起文心一言全面免费，并且文心大模型 4.5 系列将于 6 月 30 日起正式开源。</p>
+<p>收费变免费，闭源变开源，画风转变的百度，全力拥抱了开放的生态。同时，百度所拥有的强大的模型、好用的工具、海量的数据，又让它成为了 AI 行业里有些特别的存在。当强大的技术和国民级的产品可以被人人享用，一个大众化的 AI 创作新时代，便真正地开始了。</p>
+  <div id="ifanr_profile" style="border: 1px solid #ccc; font-size: 14px; margin: 27px auto; font-family: Arial;">
+    <div style="overflow: hidden;"><a href="https://www.ifanr.com/author/zhangchengchen" style="color: #000; text-decoration: none;" target="_blank"></a>
+
+      <div style="text-align: left; line-height: 23px; margin-left: 80px;">
+        <div style="padding: 10px 10px 10px 0;">
+          <div style="margin: 0; font-size: 14px;"><strong><a href="https://www.ifanr.com/author/zhangchengchen" style="color: #000; text-decoration: none;" target="_blank">张成晨</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height: 20px;">利若秋霜，辟除凶殃。
+工作邮箱：zhangchengchen@ifanr.com</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align: right; border-top: 1px dotted #ccc; padding: 2px 10px; font-size: 12px;">
+      <div>
+                                <a href="mailto:zhangchengchen@ifanr.com" style="margin-right: 14px; text-decoration: none;" target="_blank">邮箱</a>
+
+          
+                                  <a href="4" style="margin-right: 14px; text-decoration: none;" target="_blank">8</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1616426">原文链接</a> ·
+<a href="https://www.ifanr.com/1616426#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Wed, 05 Mar 2025 12:39:37 +0000</pubDate>
+<pubDate>Wed, 05 Mar 2025 12:39:37 +0000</pubDate>
+</item>
+<item>
+<title>在这个「变态」产品展，「三折叠」笔记本比 DeepSeek 更火</title>
+<link>https://www.ifanr.com/1616323?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1616323?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> 关键词：小米镜头、MWC 2025、太阳能充电、折叠屏、模块化配件
+
+<br><br>总结:
+1. 小米推出了一款外置定焦镜头，具备M43传感器和高速传输能力，提升了手机摄影性能。
+2. MWC 2025展会上，传音和联想展示了太阳能充电技术，分别应用于手机和笔记本电脑。
+3. 三星展示了多款折叠屏产品，包括三折叠手机和折叠游戏掌机，探索新型屏幕形态。
+4. 联想推出了模块化配件Magic Bay，通过磁吸方式扩展笔记本电脑功能。
+5. 真我手机推出了一款十倍光学镜头，采用物理光学改装，提升手机摄影能力。
+这些创新产品展示了科技行业在硬件和设计上的不断突破，尤其是中国品牌在全球科技展上的影响力日益增强。 <div>
+<p>这两天，小米靠着一颗镜头，又双叒叕出了圈。</p>
+<p>这颗可以吸附在小米 15 背板上的外置定焦镜头，拥有 M43 传感器，35mm 焦段，以及 F1.4 光圈。依靠光信号传输，使得它能以 10Gb/s 的传输速度，将照片无损传到手机上。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616332" height="2304" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc1.jpg" width="4096" /></p>
+<p>许多博主上手评测后，都表示这种硬件和物理层面上的提升，让手机真的能和传统相机一较高低，虽说它在强光环境下还是会过曝，不过作为实验产品，外接镜头，或许会成为手机影像进化的全新思路。</p>
+<p>小米模块光学技术也正在巴塞罗那的 MWC（世界移动大会）展会上亮相，而类似这种新奇、好玩的科技新物种，在这届 MWC 上，还有很多。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616337" height="723" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc6.jpg" width="1200" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：Google</p>
+</div>
+<p>这回，爱范儿也来到了 MWC 2025 的现场，我们就一起来看看展会上那些奇葩，且有趣的产品。</p>
+<h3>一些老又新的补能方式</h3>
+<p>MWC 上的产品非常多，从移动硬件，到软件 AI，大部分厂商都会把引以为豪的阶段性成果带到展会上，秀秀肌肉。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616333" height="630" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc5.jpg" width="1200" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：Google</p>
+</div>
+<p>其中有些已经走入我们的生活，比如小米把上周刚发布的 SU7 Ultra 开到了站台上；有些还是概念产品，可能在未来的某一天才跟我们见面；有些则会成为绝版，见的这第一面，也是最后一面。</p>
+<p>能够入选这次「新奇榜单」的产品，一般都满足几个条件：</p>
+<ul>
+<li>不一定有用，但一定要新；</li>
+<li>消费市场里几乎看不到，甚至从未出现过；</li>
+<li>可以让人挠头，但脑洞一定得大开。</li>
+</ul>
+<p>太阳能大家都不陌生，毕竟以前出现过「太阳能+充电宝」「太阳能+电子表」的组合，本次 MWC 上「太阳能+」的概念更进一步，走到了手机上。</p>
+<p>你没看错，现在给你的手机晒晒太阳就能充电，Infinix 在 MWC 上展示了一款集成太阳能电池板的手机，也就是手机背面的银色背板。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616325" height="969" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc16.jpg" width="1440" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：CNET</p>
+</div>
+<p>官方称，这块背板上的太阳能电池，采用新技术钙钛矿材质，效率比传统太阳能板高 30%，成本却只用 1/20。最关键的是，在效率提升的同时，还能把电池做得很薄，因此也就很适合装在小型移动设备上。</p>
+<p>另外，Infinix 称这项技术不仅能集成在手机上，还可以用在手机壳上，不过比较遗憾且有点搞笑的是，太阳能充电功率最高只有 2W。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616329" height="969" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc15.jpg" width="1440" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：Google</p>
+</div>
+<p>The Verge 在体验完两种新品后，他们觉得「太阳能外壳似乎是一个不错的折中选择」，不过看到 2W 的功率后，有网友表示：</p>
+<ul>
+<li>用它充一下午，不如品牌快充一分钟。</li>
+<li>2W？边充电、边发烫、边掉电是吧？</li>
+</ul>
+<p>Infinix 这次在 MWC 上的花招几乎都用在手机背板上，他们还带来了旗下第二代变色 E Ink 手机，也就是可以自定义背板图案，在之前的版本中，后面板只有在插入电源时才会变色。现在，Infinix 将使用手机的内部电池供电，并且可以通过多种图案和调色板进行自定义。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616356" height="262" src="https://s3.ifanr.com/wp-content/uploads/2025/03/1-2.gif" width="480" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：YouTube</p>
+</div>
+<p>插个题外话，可能有些朋友对 Infinix 不太熟悉，但换成他们的中文名，应该就会顺耳很多——传音手机，国内的公司，在外海爆火，因其针对非洲用户需求开发独特功能，如调整曝光和美颜算法以适应深肤色用户，支持单台手机双卡、四卡甚至五卡多待功能，部分机型待机时间长达 21 天。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616327" height="402" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc2.jpg" width="750" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：Google</p>
+</div>
+<p>2016 年开始他们在非洲手机市场的份额持续超过 40%，去年仍稳居第一，传音也被称为手机界的「非洲王」。</p>
+<p>用上太阳能的不止传音的手机，还有联想的笔记本。他们发布了一款新概念笔记本电脑 Yoga Solar PC，它最大的特点是，将太阳能电池板集成到笔记本电脑的盖子里，可以利用外界任何来源的光补能。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616343" height="960" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc9.jpg" width="1440" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：The Verge</p>
+</div>
+<p>Yoga Solar PC 的补能板由 84 块太阳能电池组成，官方称其可以实现超过 24% 的转换率（即捕获的阳光转化为可用电能的程度）。太阳能电池板仅需接受 20 分钟阳光直射，就能吸收并转换足够的太阳能，为设备提供长达一小时的视频播放电力。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616346" height="960" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc8.jpg" width="1440" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：The Verge</p>
+</div>
+<p>当然，如果想要在 Solar PC 上获得理论最大的补能，必须要满足两个条件，一是环境光要够足，二是屏幕背面最好像向日葵一样对准光源，且开合角度不易过大。</p>
+<p>联想和传音的思路非常相似，他们除了有一体式的太阳能产品，还做了一个单独的外接套件。像平板保护套一样的独立太阳能板，可以像书一样展开，通过 USB-C 有线连接为设备供电，相当于一个移动太阳能充电宝。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616340" height="576" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc7.jpg" width="1440" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：The Verge</p>
+</div>
+<p>联想称这些概念产品是为了「弥合功能与环保意识之间的差距」，当电脑电量低又急用，但找不到电源的时候，太阳能是一个不错的 Plan B。不少网友也比较认同这种救急的方案，不过也有些人表示，他们那里阴晴不定的天气，大概率会让 Yoga Solar PC 没有用武之地。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616344" height="258" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc20.jpg" width="1180" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：X</p>
+</div>
+<p>比起让设备自给自足的供电方案，HMD 则是选择搬来救兵——你的下一个无线充电宝，为什么不能是你的耳机？</p>
+<p>HMD 在大会上发布了一款 TWS 耳机，硕大的外壳不仅是耳机的补能舱，还是一个无线充电宝，通过 Qi2 为手机反向无线供电。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616326" height="969" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc17.jpg" width="1440" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：CNET</p>
+</div>
+<p>光从外观来看，Amped Buds 有点尴尬，作为一款无线耳机，它体积太大；作为一个充电宝，它又不太够用，内置电池只有 1600mAh。以我个人的使用经验来说，10000mAh 的充电宝只够我充满一次电，所以电量更少、还是无线充的 Amped Buds，估计只能充个 10% 以内，等天气再热点儿，不掉电已是万幸。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616350" height="675" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc18.jpg" width="1200" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：Google</p>
+</div>
+<p>当然了话说回来，如果只是为耳机本体供电，那 1600mAh 就绰绰有余了。目前这款无线充电宝耳机在海外的售价为 199 欧元（约合人民币 1500 元），不知道你会不会对这个新型耳机/充电宝感兴趣？</p>
+<h3>一些「变态」产品</h3>
+<p>提到屏幕，三星一定是那家绕不开的公司，他们似乎一直对新型屏幕有执念。两个月前的 CES 2025 上，三星公布了三款柔性屏产品：</p>
+<ul>
+<li>全球首款 18.1 寸可折叠 OLED 笔记本，电脑、平板和外接屏间无缝切换；</li>
+<li>Slidable Flex Duet 横向卷轴屏平板，能在 8.1 寸「迷你 Pad」和 12.4 寸「标准 Pad」丝滑且缓慢地变形；</li>
+<li>Slidable Flex Solo 竖向卷轴屏手机，收起 5.1 英寸，展开 6.7 英寸。</li>
+</ul>
+<p><img alt="" class="alignnone size-full wp-image-1616348" height="1366" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc31.jpg" width="720" /></p>
+<p>仅仅过了两个月，他们又在 MWC 2025 上带来了一整套基于「柔性屏」的概念产品。</p>
+<p>我们先来看一台「三折叠」手机，三星这台三折叠和华为 Mate XT 以及传音那台即将公布的 mini 三折叠的 Z 形折叠方式不同，不是一内一外地折，而是 凵 形，两边的屏幕都朝内向中间靠拢。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616347" height="396" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc25.jpg" width="702" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：Android Authority</p>
+</div>
+<p>这款被称为 Asymmetric Flip 的折叠屏有一些小细节：手机带有两个可以向相反方向折叠的铰链；上下屏幕折叠面积并不相等，从视频中看上窄下宽；折叠后手机并不会严丝合缝，而是在中间会露出一小部分屏幕，作为折叠态下的显示屏。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616357" height="264" src="https://s3.ifanr.com/wp-content/uploads/2025/03/1122.gif" width="386" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：X</p>
+</div>
+<p>虽然形态很新奇，但和已经成熟的、并带有外屏的 Galaxy Z Flip 系列相比，媒体 htcmania 认为「它的实用性仍值得怀疑」。</p>
+<p>相比于没啥用的 凵 形三折叠，能折叠的游戏掌机则是从概念上，解决了不少玩家的痛点。游戏掌机已经从很大程度上，解决了大型游戏无法在移动端运行的难题，以及比手机更好的操控体验，但是这仍然是一个折中的方案，尽管掌机已经能让玩家随身携带，不插电游玩，不过硕大的体积只能说它能带出去，并不能称其便携。</p>
+<p>三星在 MWC 上展出的一款折叠屏，就专为掌机而生。这台展示机的外观照搬了 Nintendo Switch，设备两边都有拨杆和按键，屏幕的正中央有一条竖向的铰链，可以将其横向对折。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616324" height="1080" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc3.jpg" width="1920" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：Google News</p>
+</div>
+<p>有一个很有意思的小细节，由于两边手柄都有操纵杆，所以折叠时肯定不能完全闭合，因为会被突出的杆子挡住，那三星是怎么解决的呢？他们将原先 ABXY 和上下左右键的中间掏空，接着把这八个键变成两个圆环，绕在两侧挖空的周围，按键位置不变，只是形态做了魔改，这样能让游戏机在折叠时完全贴合。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616351" height="1920" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc30.jpg" width="5120" /></p>
+<p>另一个外观有创意、实则老伙计的产品是 Flexible Briefcase。折叠时看上去，它就是一个超薄的金属公文包，展开后会发现其实里面藏着一块 18.1 英寸的柔性 OLED 屏幕。</p>
+<p>在 CNET 看来，它在日后最大的作用就是让一些推销员，能随时随地带着一块能为客户展示产品或策划的屏幕，放在会议室或者酒吧桌上，尽量让自己的推销过程更为生动，也有理有据。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616338" height="969" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc13.jpg" width="1440" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：Google</p>
+</div>
+<p>不过说到底，Flexible Briefcase 也只是一个「新瓶装旧酒」的产品，本质上和先前的大尺寸折叠屏，没有区别。</p>
+<p>相比于这些早期实验产品，三星的另一款新形态折叠屏手机有可能会在今年晚些时候，正式进入全球消费市场，而它的直接目标，则是华为三折叠手机 Mate XT。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616330" height="969" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc14.jpg" width="1440" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：Google</p>
+</div>
+<p>Flex G 和 Asymmetric Flip 一样，同属于 凵 形折叠，不同的是 Flex G 是横向折叠，在双折叠逐渐进入发展疲态，从全都要的战略，逐步转向轻薄赛道，三折叠很有可能成为折叠屏的下一个战场。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616336" height="945" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc4.jpg" width="1680" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：Google</p>
+</div>
+<p>目前除了尺寸之争，折叠方向或许会细分出更多的赛道，究竟是 Fold Z 会更胜一筹，还是 Fold G 才是版本答案，我们可以一同见证。</p>
+<p>三星是玩转折叠屏的典型，但并不是 MWC 上的唯一，比如联想在折叠屏上，也有自己的想法。他们在大会上带来了一款概念机 ThinkBook Flip AI PC，官方宣称这是业界首款外折屏笔记本电脑。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616345" height="969" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc21.jpg" width="1440" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：The Verge</p>
+</div>
+<p>ThinkBook Flip 采用 18.1 英寸外折式 OLED 显示屏，可以变身成 13.1 英寸翻盖式笔记本电脑、12.9 英寸平板电脑以及 18.1 英寸竖屏等多种模式。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616331" height="969" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc28.jpg" width="2880" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：The Verge</p>
+</div>
+<p>虽然折叠增加了屏幕厚度，但从图片中看起它的两面屏幕都很薄，折叠起来和传统笔记本的厚度相当。外折方案不仅能很好地控制折痕，也可以把折叠处变成触控功能条，切换网页和画面都很方便。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616355" height="590" src="https://s3.ifanr.com/wp-content/uploads/2025/03/435.gif" width="480" /></p>
+<p>ThinkBook Flip 保留了实体键盘，四舍五入也算得上三折叠。看完了手机、平板、电脑这些常用设备的折叠方案，接下来再来跟大家分享一个以前没见过的折叠产品，看完之后我只想说：「这也能折叠？」</p>
+<p>来自 Aurzen 公司的三折屏投影仪 Zip。它可以通过 AirPlay 快速连接到 iPhone，并通过 Miracast、Smart View 或类似设备使用 Wi-Fi Direct 连接到 Android 设备上，而且无需热点。投影时，也和其他产品一样，能自动聚焦并对齐投影平面。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616349" height="1200" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc19.jpg" width="1200" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：The Verge</p>
+</div>
+<p>The Verge 实测后发现，Zip 不插电时内置电池可以续使用约 80 分钟。它的优点非常明显，机身小巧，折叠后和一台小折叠屏手机的尺寸相当，就是厚了点；投影亮度足够，机身一体性也很强。</p>
+<p>不过 Zip 成也折叠败也折叠，为了控制体积，它的扬声器比较糟糕，而且镜头也没有配备保护盖。软件系统方面，需要适配器才能从 Netflix、Prime Video 和 Disney Plus 等服务进行流媒体播放。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616354" height="791" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc27.jpg" width="2397" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：The Verge</p>
+</div>
+<p>作为一台随身携带的设备，而且是以前从未有过的投影形态尝试，The Verge 还是给了 8 分的高分评价。</p>
+<h3>一些在有趣和有用间往返的配件</h3>
+<p>看完了各大厂商在主流产品本体上的尝试，我们最后再来看看他们在配件上的奇思妙想。</p>
+<p>如果你很想尝试一些新形态的产品，但又怕技术不成熟，入手后使用场景太单一，那联想的 Magic Bay 说不定就能满足你的需求。</p>
+<p>Magic Bay 是联想在 ThinkBook 16P Gen 6 推出的系列磁吸模块化配件，电脑本身还是传统形态，但是加上了配件后，基本上可以做到折叠屏一样的拓展功能。目前 Magic Bay 一共推出了四组套件。</p>
+<p>尺寸最小的是 Tiko，和蔚来汽车上的 nomi 类似，是一个可视化的 AI 语音交互机器人，和实用性相比，一个会做可爱表情、有问必答但不管对错的语音助手，提供情绪价值才它是更为直接的作用。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616352" height="969" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc24.jpg" width="1440" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：Google</p>
+</div>
+<p>稍大一点的 Tiko Pro 是一块横在主屏上方的迷你条形屏，可以把它当做电脑上的 HUD，屏幕里的卡片能够自定义，放上时间和提醒事项，既不占桌面空间，也非常显眼，像是贴在屏幕上的便签纸。The Verge 则为 Tiko Pro 找到了一个爆款功能：提词器。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616341" height="969" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc23.jpg" width="1440" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：Google</p>
+</div>
+<p>另外两个则是卡在屏幕两侧的副屏，小的只有 8 英寸；大的有 13.3 英寸，还是左右各一个，安上双屏套件后，ThinkBook 就成了视野超宽、观感超爽的三连屏。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616353" height="1920" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc26.jpg" width="1440" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：Google</p>
+</div>
+<p>配件赛道上，有玩屏幕的联想，也有玩镜头的小米和努比亚。如果说小米的磁吸镜头尺寸是「鸟枪」，那真我手机上的这个镜头，完全能称得上「大炮」。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616339" height="702" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc12.jpg" width="1248" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：Google</p>
+</div>
+<p>与小米 15 无线传输预览画面、照片的方案不同，真我首款 Ultra 机型则是直接采用物理光学的改装，在 deco 上方装上一枚十倍光学镜头，光线通过镜头直接打在模组正中央的一英寸传感器上，跟无反相机的成像原理一样。安装拆卸的过程也和传统相机镜头类似，通过卡扣而不是磁吸。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616335" height="1125" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mwc11.jpg" width="2000" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：Google</p>
+</div>
+<p>在 MWC 上看见的这些脑洞大开的产品，不一定会立马来到你我的身边，它们的象征意义，也远远大于实际价值。但正是这些大胆尝试、不断试错的实验品，才奠定了一个个在未来能开花结果的成熟技术。毕竟如今人手一部的全面屏，在当年的 CES 和 MWC 上，也只是初出茅庐、不被看好的早期产品。</p>
+<p>近几年的全球科技电子展，有一个明显的趋势：中国的科技产品在全球的影响力愈发强大，并且已经成为了某些赛道的领跑者。突破形态的三折叠、拍照顶尖的旗舰机、玩法多样的科技配件&#8230;&#8230;从新鲜感到实用性，国产品牌已然成为了所有展会上无法绕开，也十分吸睛的存在。</p>
+<p>接下来的几天，我们也会在一线带来最新的报道，如果你还有什么想要了解和体验的新产品，欢迎在评论区留言讨论。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1616323">原文链接</a> ·
+<a href="https://www.ifanr.com/1616323#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Wed, 05 Mar 2025 09:30:47 +0000</pubDate>
+<pubDate>Wed, 05 Mar 2025 09:30:47 +0000</pubDate>
+</item>
+
+<item>
 <title>早报|iPhone 13 销量暴涨引发热议/​雷军建议优化新能源汽车牌照设计/曝罗永浩挖走小米前 50 号员工</title>
 <link>https://www.ifanr.com/1616320?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1616320?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-<div> 关键词：苹果iPad、雷军建议、罗永浩AIOS、iPhone 13销量、Anthropic融资<br><br>总结:<br>1. 苹果发布两款新iPad，售价2999元起，性能提升但外观无大变化。<br>2. 雷军建议优化新能源汽车牌照设计，推动智能化发展。<br>3. 罗永浩挖走小米前员工，计划开发AIOS系统，结合AI硬件。<br>4. iPhone 13降价后销量暴涨10倍，主要因第三方平台二手翻新机销售。<br>5. Anthropic完成35亿美元融资，计划扩展AI系统和市场。 <div>
+<div> 关键词：苹果iPad、雷军建议、罗永浩AIOS、iPhone 13销量、Anthropic融资<br /><br />总结:<br />1. 苹果发布两款新iPad，售价2999元起，性能提升但外观无大变化。<br />2. 雷军建议优化新能源汽车牌照设计，推动智能化发展。<br />3. 罗永浩挖走小米前员工，计划开发AIOS系统，结合AI硬件。<br />4. iPhone 13降价后销量暴涨10倍，主要因第三方平台二手翻新机销售。<br />5. Anthropic完成35亿美元融资，计划扩展AI系统和市场。 <div>
 <div style="padding: 0 14px; text-align: center;"><img alt="cover" src="https://s3.ifanr.com/images/ep/cover-images/ling_gan_cover.jpg" /></div>
 <div style="padding: 0 14px;">
 <div>
@@ -262,14 +716,13 @@
 </div>
 ]]></content:encoded>
 <pubDate>Wed, 05 Mar 2025 00:45:50 +0000</pubDate>
-<pubDate>Wed, 05 Mar 2025 00:45:50 +0000</pubDate>
 </item>
 <item>
 <title>雷军通过造车，把小米品牌做成了</title>
 <link>https://www.ifanr.com/1616211?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1616211?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-<div> 小米 SU7、雷军、品牌进化、性价比、高端市场<br><br>总结:<br>1. 小米 SU7 发布前，网友对小米品牌的高端化持怀疑态度。<br>2. 小米通过推出 Redmi 品牌、与徕卡合作等方式，逐步摆脱低端形象。<br>3. 小米 SU7 的热销打破了纯电轿车不如 SUV 好卖的行业迷信。<br>4. 小米 SU7 Max 和 Ultra 版本的大卖，显示消费者对高端配置的认可。<br>5. 小米品牌从“便宜”到“贵但也值”的转变，标志着品牌进化的成功。 <div>
+<div> 小米 SU7、雷军、品牌进化、性价比、高端市场<br /><br />总结:<br />1. 小米 SU7 发布前，网友对小米品牌的高端化持怀疑态度。<br />2. 小米通过推出 Redmi 品牌、与徕卡合作等方式，逐步摆脱低端形象。<br />3. 小米 SU7 的热销打破了纯电轿车不如 SUV 好卖的行业迷信。<br />4. 小米 SU7 Max 和 Ultra 版本的大卖，显示消费者对高端配置的认可。<br />5. 小米品牌从“便宜”到“贵但也值”的转变，标志着品牌进化的成功。 <div>
 <p><img alt="" class="alignnone size-full wp-image-1616217" height="675" src="https://s3.ifanr.com/wp-content/uploads/2025/03/XM-T.jpg" width="1200" /></p>
 <p>1 年前，小米 SU7 发布前夕，网友们看到民间和官方泄露出来的照片，看到车身尾部的「小米」和「xiaomi」标志，还有前舱盖上的「mi」logo，再加上雷军预热小米首款汽车不会很便宜，9.9 万元交个朋友的价格绝对不可能，所以网友们还是有点不乐意。</p>
 <p>不乐意的第一点就是，小米造车应该换个牌子，小米品牌听起来不高端，实际上也不那么高端。</p>
@@ -362,7 +815,6 @@
 </div>
 ]]></content:encoded>
 <pubDate>Tue, 04 Mar 2025 04:22:09 +0000</pubDate>
-<pubDate>Tue, 04 Mar 2025 04:22:09 +0000</pubDate>
 </item>
 <item>
 <title>以旧换新打卡 LET’S VISION，为未来科技注入无限可能</title>
@@ -371,7 +823,7 @@
 <content:encoded><![CDATA[
 <div> 关键词：以旧换新、贴贴线、AI小电拼、环保行动、数字时尚
 
-<br><br>总结:
+<br /><br />总结:
 1. 制糖工厂CANDYSIGN在2024年4月22日世界地球日启动了【换一条，更好】以旧换新.patch主题活动，首站设在广州。
 2. 2025年3月，CANDYSIGN受邀参加上海LET’S VISION 2025展会，展示了贴贴线和AI小电拼等创新产品。
 3. 展会期间，众多参与者携带旧数据线兑换贴贴线，体验数字时尚单品，交流科技灵感。
@@ -465,9 +917,7 @@
 </div>
 ]]></content:encoded>
 <pubDate>Tue, 04 Mar 2025 02:04:59 +0000</pubDate>
-<pubDate>Tue, 04 Mar 2025 02:04:59 +0000</pubDate>
 </item>
-
 <item>
 <title>早报|新款 MacBook Air 将在本周发布/小米「模块相机」实测来了/苹果客服回应多用户称免密支付遭盗刷</title>
 <link>https://www.ifanr.com/1616178?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
