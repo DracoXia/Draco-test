@@ -561,3 +561,21 @@ Summarized using deepseek-chat
 Append: [在这个「变态」产品展，「三折叠」笔记本比 DeepSeek 更火](https://www.ifanr.com/1616323?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 3
 Finish: 2025-03-06 01:01:58.328728
+------------------------------------------------------
+Started: 2025-03-07 01:01:45.632436
+Existing_entries: 123
+Fetching from https://www.ifanr.com/feed
+Token length: 8851
+Summarized using deepseek-chat
+Append: [早报|最贵 iPhone 被曝售价高达 1.8万元/雷军：卖车成功有点猝不及防/美团「出手」打击恶意差评](https://www.ifanr.com/1616685?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 6210
+Summarized using deepseek-chat
+Append: [实测  Manus ：我用它生成了 10 个邀请码……好玩，但崩溃](https://www.ifanr.com/1616549?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 4986
+Summarized using deepseek-chat
+Append: [DeepSeek 浪潮下，端侧AI 的创新催化剂](https://www.ifanr.com/1616497?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 10794
+Summarized using deepseek-chat
+Append: [早报|来自中国，全球第一款通用 AI Agent 产品亮相/微信上线存储「瘦身」功能/京东：将招聘 1 万名实习生](https://www.ifanr.com/1616530?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 4
+Finish: 2025-03-07 01:03:20.123930
