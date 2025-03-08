@@ -579,3 +579,15 @@ Summarized using deepseek-chat
 Append: [早报|来自中国，全球第一款通用 AI Agent 产品亮相/微信上线存储「瘦身」功能/京东：将招聘 1 万名实习生](https://www.ifanr.com/1616530?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 4
 Finish: 2025-03-07 01:03:20.123930
+------------------------------------------------------
+Started: 2025-03-08 00:47:24.721672
+Existing_entries: 127
+Fetching from https://www.ifanr.com/feed
+Token length: 3414
+Summarized using deepseek-chat
+Append: [折叠 iPhone 要来了，起售一万五，内屏无折痕](https://www.ifanr.com/1616846?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 4423
+Summarized using deepseek-chat
+Append: [七千万用户的网文平台，打出了「反 AI」的第一枪](https://www.ifanr.com/1615633?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 2
+Finish: 2025-03-08 00:47:50.743201
