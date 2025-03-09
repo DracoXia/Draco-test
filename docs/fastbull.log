@@ -2502,3 +2502,39 @@ Append: [3月7日财经要闻](https://www.fastbull.com/cn/newsdetail/4322511_1)
 Append: [欧洲央行一如预期降息至2.5%，并为进一步放宽政策留有余地](https://www.fastbull.com/cn/news-detail/4322509_1)
 append_entries: 37
 Finish: 2025-03-08 00:46:19.595602
+------------------------------------------------------
+Started: 2025-03-09 00:49:54.567605
+Existing_entries: 1037
+Fetching from https://rsshub.app/fastbull/news
+Token length: 2630
+Summarized using deepseek-chat
+Append: [如何看待CPI涨幅预期下调？](https://www.fastbull.com/cn/news-detail/4322470_1)
+Token length: 3008
+Summarized using deepseek-chat
+Append: [日元兑美元突破148关口！美称日本“引导日元贬值”，今年日本国际收支能否续创新高？](https://www.fastbull.com/cn/news-detail/4322620_1)
+Token length: 3246
+Summarized using deepseek-chat
+Append: [跨越两千年，黄金还保值吗？](https://www.fastbull.com/cn/news-detail/4322465_1)
+Token length: 2678
+Summarized using deepseek-chat
+Append: [特朗普增加关税，对亚洲制造业有哪些影响？](https://www.fastbull.com/cn/news-detail/4322075_1)
+Token length: 1259
+Summarized using deepseek-chat
+Append: [交易永不眠！纳斯达克计划推出美股工作日24小时交易](https://www.fastbull.com/cn/news-detail/4322619_1)
+Token length: 1908
+Summarized using deepseek-chat
+Append: [“缩水”的“大联合政府”能否拯救德国？](https://www.fastbull.com/cn/news-detail/4322215_1)
+Token length: 1325
+Summarized using deepseek-chat
+Append: [2月非农前瞻：关税风云与黄金风暴](https://www.fastbull.com/cn/institution-article/4322596_1)
+Token length: 3104
+Summarized using deepseek-chat
+Append: [全球制造业竞争加剧](https://www.fastbull.com/cn/news-detail/4322030_1)
+Token length: 1360
+Summarized using deepseek-chat
+Append: [中国出口维持正增长](https://www.fastbull.com/cn/institution-article/4322594_1)
+Token length: 2899
+Summarized using deepseek-chat
+Append: [第六降！欧洲央行如期降息25个基点，宽松周期渐近尾声？](https://www.fastbull.com/cn/news-detail/4322618_1)
+append_entries: 10
+Finish: 2025-03-09 00:52:09.804258
