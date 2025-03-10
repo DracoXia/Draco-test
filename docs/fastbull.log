@@ -2538,3 +2538,24 @@ Summarized using deepseek-chat
 Append: [第六降！欧洲央行如期降息25个基点，宽松周期渐近尾声？](https://www.fastbull.com/cn/news-detail/4322618_1)
 append_entries: 10
 Finish: 2025-03-09 00:52:09.804258
+------------------------------------------------------
+Started: 2025-03-10 00:47:58.127487
+Existing_entries: 1010
+Fetching from https://rsshub.app/fastbull/news
+Token length: 2110
+Summarized using deepseek-chat
+Append: [AI加速时代下的量化基本面投资](https://www.fastbull.com/cn/news-detail/4322574_1)
+Token length: 2770
+Summarized using deepseek-chat
+Append: [矿产突围战：俄罗斯的小交易与大博弈](https://www.fastbull.com/cn/news-detail/4322569_1)
+Token length: 3796
+Summarized using deepseek-chat
+Append: [日系车企打响纯电反攻战](https://www.fastbull.com/cn/news-detail/4322563_1)
+Token length: 6786
+Summarized using deepseek-chat
+Append: [李嘉诚把在巴拿马的两个港口卖了，这是美国给压力了？](https://www.fastbull.com/cn/news-detail/4322559_1)
+Token length: 1743
+Summarized using deepseek-chat
+Append: [美国经济如果衰退，真凶可能不是特朗普](https://www.fastbull.com/cn/news-detail/4322533_1)
+append_entries: 5
+Finish: 2025-03-10 00:49:24.945533
