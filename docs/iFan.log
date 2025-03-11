@@ -609,3 +609,24 @@ Summarized using deepseek-chat
 Append: [早报|曝苹果正研发带摄像头 AirPods/大疆强制员工晚 9 点前下班/微信再更新，朋友圈可发 5 分钟视频](https://www.ifanr.com/1616944?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2025-03-10 00:51:04.986965
+------------------------------------------------------
+Started: 2025-03-11 01:01:41.596827
+Existing_entries: 131
+Fetching from https://www.ifanr.com/feed
+Token length: 9592
+Summarized using deepseek-chat
+Append: [早报｜更多企业跟进「强制下班、休假」/瑞幸成功打假泰国山寨店，获赔千万/iPhone 17 系列曝外观大改](https://www.ifanr.com/1617151?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 2940
+Summarized using deepseek-chat
+Append: [iPad Air M3 首发评测：一个典型 iPad 用户的七年之痒](https://www.ifanr.com/1616798?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 1913
+Summarized using deepseek-chat
+Append: [「杭州湾库里南」首次曝光，极氪 9X 光辉版亮相，定价百万！](https://www.ifanr.com/1617084?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 3623
+Summarized using deepseek-chat
+Append: [你的荣耀手机学会「点屏幕」了，为什么笨 AI 也有未来？](https://www.ifanr.com/1616117?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 573
+Summarized using deepseek-chat
+Append: [惊叹周报|苹果发布多款新品/麦当劳官宣「全新 AI」产品/董明珠回应「格力专卖店」改名](https://www.ifanr.com/1616954?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 5
+Finish: 2025-03-11 01:03:19.741433
