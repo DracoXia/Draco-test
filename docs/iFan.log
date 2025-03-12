@@ -630,3 +630,24 @@ Summarized using deepseek-chat
 Append: [惊叹周报|苹果发布多款新品/麦当劳官宣「全新 AI」产品/董明珠回应「格力专卖店」改名](https://www.ifanr.com/1616954?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 5
 Finish: 2025-03-11 01:03:19.741433
+------------------------------------------------------
+Started: 2025-03-12 01:01:19.770469
+Existing_entries: 136
+Fetching from https://www.ifanr.com/feed
+Token length: 11725
+Summarized using deepseek-chat
+Append: [早报｜始祖鸟吊牌被炒至 300 元一张/苹果 AI 正式支持中文/法拉利 F1 空气动力学家加盟小米汽车](https://www.ifanr.com/1617307?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 3064
+Summarized using deepseek-chat
+Append: [M4 MacBook Air 首发评测：不止天蓝色，性能有惊喜](https://www.ifanr.com/1617250?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 2629
+Summarized using deepseek-chat
+Append: [当零百 2 秒成为新常态，我们亟需一本「高性能车驾照」](https://www.ifanr.com/1617267?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 4633
+Summarized using deepseek-chat
+Append: [套壳的 AI 产品，不可耻，也有用](https://www.ifanr.com/1617212?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 1753
+Summarized using deepseek-chat
+Append: [特斯拉还没有到抄底的时候](https://www.ifanr.com/1617159?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 5
+Finish: 2025-03-12 01:02:48.278034
