@@ -673,3 +673,21 @@ Append: [刚刚，OpenAl 发布 Agent 工具包，网友：谢谢 Manus AI](http
 Append: [新能源时代的「绅士」体验，吉利银河翼真 L380 全新打造「陆地头等舱」](https://www.ifanr.com/1617170?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 6
 Finish: 2025-03-13 01:03:01.842277
+------------------------------------------------------
+Started: 2025-03-14 01:01:07.612912
+Existing_entries: 147
+Fetching from https://www.ifanr.com/feed
+Token length: 9484
+Summarized using deepseek-chat
+Append: [早报|华为新品发布会定档 3 月 20 日举办/曝特斯拉国行智驾将与百度合作/带屏版 HomePod 将延期至今年 Q3 发布](https://www.ifanr.com/1617497?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 167
+Summarized using deepseek-chat
+Append: [AI 时代的超级应用，是一个超级框](https://www.ifanr.com/1617475?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 3940
+Summarized using deepseek-chat
+Append: [英特尔官宣史上首位华人 CEO，芯片三巨头由华人掌舵](https://www.ifanr.com/1617459?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 10801
+Summarized using deepseek-chat
+Append: [早报｜董明珠回应格力造车进度：不做家用车/蔚来、保时捷开启裁员计划/华为官宣新形态手机下周发布](https://www.ifanr.com/1617444?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 4
+Finish: 2025-03-14 01:02:17.226265
