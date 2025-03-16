@@ -706,3 +706,15 @@ Summarized using deepseek-chat
 Append: [17.68 万元起，新款小鹏 G6 发布，Model Y 和乐道 L60 压力大了](https://www.ifanr.com/1617485?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 3
 Finish: 2025-03-15 01:00:01.505344
+------------------------------------------------------
+Started: 2025-03-16 01:04:41.315681
+Existing_entries: 154
+Fetching from https://www.ifanr.com/feed
+Token length: 4710
+Summarized using deepseek-chat
+Append: [为什么有人喜欢不断地买充电头？](https://www.ifanr.com/1617588?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 614
+Summarized using deepseek-chat
+Append: [惊叹周报｜吴彦祖开设英语网课/华为新品发布会定档 3 月 20 日举行/始祖鸟吊牌被炒至 300 元一张](https://www.ifanr.com/1617686?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 2
+Finish: 2025-03-16 01:05:10.606785

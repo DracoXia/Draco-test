@@ -2931,3 +2931,33 @@ Append: [美国PPI七个月来首次环比持平且劳动力市场稳定，美�
 Append: [3月14日财经要闻](https://www.fastbull.com/cn/newsdetail/4323155_1)
 append_entries: 50
 Finish: 2025-03-15 00:58:20.688545
+------------------------------------------------------
+Started: 2025-03-16 01:01:50.587790
+Existing_entries: 1050
+Fetching from https://rsshub.app/fastbull/news
+Token length: 1509
+Summarized using deepseek-chat
+Append: [美国经济前景面临不确定性](https://www.fastbull.com/cn/news-detail/4323160_1)
+Token length: 2094
+Summarized using deepseek-chat
+Append: [沪指收复3400点，A股或将形成慢牛格局](https://www.fastbull.com/cn/news-detail/4323269_1)
+Token length: 1363
+Summarized using deepseek-chat
+Append: [台积电千亿美元投资美国的背后意图](https://www.fastbull.com/cn/news-detail/4323096_1)
+Token length: 1625
+Summarized using deepseek-chat
+Append: [哪些因素可以成为特朗普经济施政的阻碍？](https://www.fastbull.com/cn/news-detail/4323077_1)
+Token length: 2287
+Summarized using deepseek-chat
+Append: [剖析特朗普非正常价格竞争“工具箱”](https://www.fastbull.com/cn/news-detail/4323021_1)
+Token length: 3243
+Summarized using deepseek-chat
+Append: [特朗普2.0重创油价，大宗之王会坠入“熊市”吗？](https://www.fastbull.com/cn/news-detail/4323268_1)
+Token length: 1601
+Summarized using deepseek-chat
+Append: [比亚迪快速崛起，特斯拉在中国市场节节败退](https://www.fastbull.com/cn/news-detail/4322936_1)
+Token length: 1265
+Summarized using deepseek-chat
+Append: [美国消费者信心连续三个月下滑，一年期通胀预期升至近两年半来最高水平](https://www.fastbull.com/cn/news-detail/4323267_1)
+append_entries: 8
+Finish: 2025-03-16 01:03:27.037987
