@@ -2961,3 +2961,24 @@ Summarized using deepseek-chat
 Append: [美国消费者信心连续三个月下滑，一年期通胀预期升至近两年半来最高水平](https://www.fastbull.com/cn/news-detail/4323267_1)
 append_entries: 8
 Finish: 2025-03-16 01:03:27.037987
+------------------------------------------------------
+Started: 2025-03-17 00:59:34.839607
+Existing_entries: 1008
+Fetching from https://rsshub.app/fastbull/news
+Token length: 1546
+Summarized using deepseek-chat
+Append: [真正的“中国红利”到底是什么？](https://www.fastbull.com/cn/news-detail/4323238_1)
+Token length: 1231
+Summarized using deepseek-chat
+Append: [OPEC+成员国在限产之际另辟蹊径，增加成品油出口谋利并抢市场](https://www.fastbull.com/cn/news-detail/4323224_1)
+Token length: 1695
+Summarized using deepseek-chat
+Append: [美放慢降息，有利中国出口](https://www.fastbull.com/cn/news-detail/4323181_1)
+Token length: 1242
+Summarized using deepseek-chat
+Append: [为何德国候任总理默茨要在中美之间两面下注？](https://www.fastbull.com/cn/news-detail/4323178_1)
+Token length: 1999
+Summarized using deepseek-chat
+Append: [中国2025财政发力的痛点和共识](https://www.fastbull.com/cn/news-detail/4323173_1)
+append_entries: 5
+Finish: 2025-03-17 01:00:46.286245

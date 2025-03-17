@@ -718,3 +718,15 @@ Summarized using deepseek-chat
 Append: [惊叹周报｜吴彦祖开设英语网课/华为新品发布会定档 3 月 20 日举行/始祖鸟吊牌被炒至 300 元一张](https://www.ifanr.com/1617686?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 2
 Finish: 2025-03-16 01:05:10.606785
+------------------------------------------------------
+Started: 2025-03-17 01:02:17.543528
+Existing_entries: 156
+Fetching from https://www.ifanr.com/feed
+Token length: 8128
+Summarized using deepseek-chat
+Append: [早报｜三大运营商回应电话营销问题/马斯克：星舰火箭明年底前往火星/啄木鸟装修回应 3·15 问题：放弃公关](https://www.ifanr.com/1617752?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 3244
+Summarized using deepseek-chat
+Append: [首发体验|百度连发两个新模型对标DeepSeek，我让它挑西瓜、卖烧烤，细节全在这了](https://www.ifanr.com/1617718?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 2
+Finish: 2025-03-17 01:02:50.209218
