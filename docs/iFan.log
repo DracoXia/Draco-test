@@ -739,3 +739,25 @@ Summarized using deepseek-chat
 Append: [早报｜余承东首曝华为新机/比亚迪新车充电 5 分钟能跑 400 公里/发改委：解决「加班文化」](https://www.ifanr.com/1617799?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2025-03-18 01:01:45.894168
+------------------------------------------------------
+Started: 2025-03-19 01:02:25.426817
+Existing_entries: 159
+Fetching from https://www.ifanr.com/feed
+Token length: 6867
+Summarized using deepseek-chat
+Append: [刚刚，黄仁勋甩出三代核弹 AI 芯片！个人超算每秒运算 1000 万亿次，DeepSeek 成最大赢家](https://www.ifanr.com/1617891?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 1981
+Summarized using deepseek-chat
+Append: [笔记本跑百亿大模型？在 AMD 这里没问题](https://www.ifanr.com/1617868?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 1839
+Summarized using deepseek-chat
+Append: [保时捷计划开发新燃油 SUV，欧美车企集体「开倒车」？](https://www.ifanr.com/1617763?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 1221
+Summarized using deepseek-chat
+Append: [四驱涨价+定向优惠，特斯拉：快来买后驱](https://www.ifanr.com/1617830?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 2587
+Summarized using deepseek-chat
+Append: [极速 300km/h！比亚迪汉 L & 唐 L 突破 1000 马力，充电 5 分钟能跑 400 公里](https://www.ifanr.com/1617786?utm_source=rss&utm_medium=rss&utm_campaign=)
+Append: [iPhone 里的「脏东西」，其实是音响好听的秘密｜硬哲学](https://www.ifanr.com/1616778?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 6
+Finish: 2025-03-19 01:03:41.786934

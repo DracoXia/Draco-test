@@ -5,11 +5,601 @@
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
 <item>
+<title>刚刚，黄仁勋甩出三代核弹 AI 芯片！个人超算每秒运算 1000 万亿次，DeepSeek 成最大赢家</title>
+<link>https://www.ifanr.com/1617891?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1617891?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> 关键词：英伟达、AI芯片、推理效率、Blackwell、DeepSeek
+
+<br><br>总结:
+1. 英伟达在GTC大会上发布了新一代AI芯片Blackwell Ultra，性能大幅提升，适用于AI推理和训练任务。
+2. Blackwell Ultra芯片配备了更高的内存和带宽，支持更高效的推理和训练，适用于AI智能体和物理AI。
+3. 英伟达还推出了DGX Station和DGX Spark系统，支持本地运行大模型，并计划推出下一代AI芯片Rubin。
+4. 英伟达推出了Spectrum-X和Quantum-X硅光网络交换机，提升AI工厂的网络基础设施。
+5. 英伟达展示了人形机器人Isaac GR00T N1和开源物理引擎Newton，推动机器人技术的发展。
+6. 英伟达在DeepSeek-R1模型上实现了全球最快的推理速度，展示了其在推理领域的优势。 <div>
+<p><img alt="" class="alignnone size-large wp-image-1617925" height="436" src="https://s3.ifanr.com/wp-content/uploads/2025/03/cover-3-1024x436.jpg" width="1024" /></p>
+<p>英伟达 GTC 大会已经成了 AI 界超级碗，没有剧本也没有提词器，中途黄仁勋被线缆卡住，反而是这场高浓度 AI 发布会里最有人味的片段，在当今提前基本提前彩排或录播的科技发布会里已经很稀缺了。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617892" height="626" src="https://s3.ifanr.com/wp-content/uploads/2025/03/1-9.png" width="1280" /></p>
+<p>刚刚，黄仁勋再次发布了全新一代核弹级 AI 芯片，不过这场发布会的还有个隐藏主角——DeepSeek。</p>
+<blockquote><p>由于智能体 AI（Agentic AI）和推理能力的提升，现在所需的计算量至少是去年此时预估的 100 倍。</p></blockquote>
+<p>推理成本效率给 AI 行业带来影响，而不是简单地堆积计算能力，成为贯穿这场发布会的主线。英伟达要变成 AI 工厂，让 AI 以超越人类的速度学习和推理。</p>
+<blockquote><p>推理本质上是一座工厂在生产 token，而工厂的价值取决于能否创造收入和利润。因此，这座工厂必须以极致的效率打造。</p></blockquote>
+<p>黄仁勋掏出的英伟达新「核弹」也在告诉我们，未来的人工智能竞争不在于谁的模型更大，而在于谁的模型具有最低的推理成本和更高推理的效率。</p>
+<h3>除了全新 Blackwell 芯片，还有两款「真·AI PC」</h3>
+<p>全新的 Blackwell 芯片代号为「Ultra」，也就是 GB300 AI 芯片，接棒去年的「全球最强 AI 芯片」B200，再一次实现性能上的突破.</p>
+<p>Blackwell Ultra 将包括英伟达 GB300 NVL72 机架级解决方案，以及英伟达 HGX B300 NVL16 系统。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617893" height="697" src="https://s3.ifanr.com/wp-content/uploads/2025/03/2-8.png" width="1280" /></p>
+<p>Blackwell Ultra GB300 NVL72 将于今年下半年发布，参数细节如下：</p>
+<ul>
+<li>1.1 EF FP4 Inference：在进行 FP4 精度的推理任务时，能够达到 1.1 ExaFLOPS（每秒百亿亿次浮点运算）。</li>
+<li>0.36 EF FP8 Training：在进行 FP8 精度的训练任务时，性能为 1.2 ExaFLOPS。</li>
+<li>1.5X GB300 NVL72：与 GB200 NVL72 相比，性能为 1.5 倍。</li>
+<li>20 TB HBM3：配备了 20TB HBM 内存，是前代的 1.5 倍</li>
+<li>40 TB Fast Memory：拥有 40TB 的快速内存，是前代的 1.5 倍。</li>
+<li>14.4 TB/s CX8：支持 CX8，带宽为 14.4 TB/s，是前代的 2 倍。</li>
+</ul>
+<p>单个 Blackwell Ultra 芯片将和前代一样提供相同的 20 petaflops（每秒千万亿次浮点运算） AI 性能，但配备更多的 288GB 的 HBM3e 内存。</p>
+<p>如果说 H100 更适合大规模模型训练，B200 在推理任务中表现出色，那么 B300 则是一个多功能平台，预训练、后训练和 AI 推理都不在话下。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617894" height="581" src="https://s3.ifanr.com/wp-content/uploads/2025/03/3-4.jpg" width="863" /></p>
+<p>英伟达还特别指出，Blackwell Ultra 也适用于 AI 智能体，以及用于训练机器人和汽车自动驾驶的「物理 AI」。</p>
+<p>为了进一步增强系统性能，Blackwell Ultra 还将与英伟达的 Spectrum-X 以太网和英伟达 Quantum-X800 InfiniBand 平台集成，为系统中的每个 GPU 提供 800Gb/s 的数量吞吐量，帮助 AI 工厂和云数据中心能够更快处理 AI 推理模型。</p>
+<p>除了 NVL72 机架，英伟达还推出了包含单个 GB300 Blackwell Ultra 芯片的台式电脑 DGX Station。Blackwell Ultra 之外，这个主机还将配备 784GB 的同一系统内存，内置 800Gbps 英伟达 ConnectX-8 SuperNIC 网络，能够支持 20 petaflops 的 AI 性能。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617895" height="527" src="https://s3.ifanr.com/wp-content/uploads/2025/03/4-12.png" width="1280" /></p>
+<p>而之前在 CES 2025 展示的「迷你主机」Project DIGITS 也正式被命名为 DGX Spark，搭载专为桌面优化的 GB10 Grace Blackwell 超级芯片，每秒可提供高达 1000 万亿次 AI 计算操作，用于最新 AI 推理模型的微调和推理，包括 NVIDIA Cosmos Reason 世界基础模型和 NVIDIA GR00T N1 机器人基础模型。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617896" height="720" src="https://s3.ifanr.com/wp-content/uploads/2025/03/5-2.jpg" width="1280" /></p>
+<p>黄仁勋表示，借助 DGX Station 和 DGX Spark，用户可以在本地运行大模型，或者将其部署在 NVIDIA DGX Cloud 等其他加速云或者数据中心基础设施上。</p>
+<blockquote><p>这是 AI 时代的计算机。</p></blockquote>
+<p>DGX Spark 系统现已开放预订，而 DGX Station 预计将由华硕、戴尔、惠普等合作伙伴于今年晚些时候推出。</p>
+<h3>下一代 AI 芯片 Rubin 官宣，2026 年下半年推出</h3>
+<p>英伟达一直以科学家的名字为其架构命名，这种命名方式已成为英伟达文化的一部分。这一次，英伟达延续了这一惯例，将下一代 AI 芯片平台命名为「Vera Rubin」，以纪念美国著名天文学家薇拉·鲁宾（Vera Rubin）。</p>
+<p>黄仁勋表示，Rubin 的性能将达到 Hopper 的 900 倍，而 Blackwell 相较 Hopper 已实现了 68 倍的提升。</p>
+<p>其中，Vera Rubin NVL144 预计将在 2026 年下半年发布。参数信息省流不看版：</p>
+<ul>
+<li>3.6 EF FP4 Inference：在进行 FP4 精度的推理任务时，能够达到 3.6 ExaFLOPS（每秒百亿亿次浮点运算）。</li>
+<li>1.2 EF FP8 Training：在进行 FP8 精度的训练任务时，性能为 1.2 ExaFLOPS。</li>
+<li>3.3X GB300 NVL72：与 GB300 NVL72 相比，性能提升了 3.3 倍。</li>
+<li>13 TB/s HBM4：配备了 HBM4，带宽为 13TB/s。</li>
+<li>75 TB Fast Memory：拥有 75 TB 的快速内存，是前代的 1.6 倍。</li>
+<li>260 TB/s NVLink6：支持 NVLink 6，带宽为 260 TB/s，是前代的 2 倍。</li>
+<li>28.8 TB/s CX9：支持 CX9，带宽为 28.8 TB/s，是前代的 2 倍。</li>
+</ul>
+<p><img alt="" class="alignnone size-full wp-image-1617897" height="716" src="https://s3.ifanr.com/wp-content/uploads/2025/03/6-9.png" width="1280" /></p>
+<p>标准版 Rubin 将配备 HBM4，性能比当前的 Hopper H100 芯片大幅提升。</p>
+<p>Rubin 引入名为 Grace CPU 的继任者——Veru，包含 88 个定制的 Arm 核心，每个核心支持 176 个线程，并通过 NVLink-C2C 实现 1.8 TB/s 的高带宽连接。</p>
+<p>英伟达表示，定制的 Vera 设计将比去年 Grace Blackwell 芯片中使用的 CPU 速度提升一倍。</p>
+<p>与 Vera CPU 搭配时，Rubin 在推理任务中的算力可达 50 petaflops，是 Blackwell 20 petaflops 的两倍以上。此外，Rubin 还支持高达 288GB 的 HBM4 内存，这也是 AI 开发者关注的核心规格之一。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617898" height="716" src="https://s3.ifanr.com/wp-content/uploads/2025/03/7-9.png" width="1280" /></p>
+<p>实际上，Rubin 由两个 GPU 组成，而这一设计理念与当前市场上的 Blackwell GPU 类似——后者也是通过将两个独立芯片组装为一个整体运行。</p>
+<p>从 Rubin 开始，英伟达将不再像对待 Blackwell 那样把多 GPU 组件称为单一 GPU，而是更准确地按照实际的 GPU芯 片裸片数量来计数。</p>
+<p>互联技术也升级了，Rubin 配备第六代 NVLink，以及支持 1600 Gb/s 的 CX9 网卡，能够加速数据传输并提升连接性。</p>
+<p>除了标准版 Rubin，英伟达还计划推出 Rubin Ultra 版本。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617899" height="716" src="https://s3.ifanr.com/wp-content/uploads/2025/03/8-9.png" width="1280" /></p>
+<p>Rubin Ultra NVL576 则将于 2027 年下半年推出。参数细节如下：</p>
+<ul>
+<li>15 EF FP4 Inference：在 FP4 精度下进行推理任务时，性能达到 15 ExaFLOPS。</li>
+<li>5 EF FP8 Training：在 FP8 精度下进行训练任务时，性能为 5 ExaFLOPS。</li>
+<li>14X GB300 NVL72：相比 GB300 NVL72，性能提升 14 倍。</li>
+<li>4.6 PB/s HBM4e：配备 HBM4e 内存，带宽为 4.6 PB/s。</li>
+<li>365 TB Fast Memory：系统拥有 365 TB 的快速内存，是前代的 8 倍。</li>
+<li>1.5 PB/s NVLink7：支持 NVLink 7，带宽为 1.5 PB/s，是前代的 12 倍。</li>
+<li>115.2 TB/s CX9：支持 CX9，带宽为 115.2 TB/s，是前代的 8 倍。</li>
+</ul>
+<p>在硬件配置上，Rubin Ultra 的 Veras 系统延续了 88 个定制 Arm 核心的设计，每个核心支持 176 个线程，并通过 NVLink-C2C 提供 1.8 TB/s 的带宽。</p>
+<p>而 GPU 方面，Rubin Ultra 集成了 4 个 Reticle-Sized GPU，每颗 GPU 提供 100 petaflops 的 FP4 计算能力，并配备 1TB 的 HBM4e 内存，在性能和内存容量上都达到了新的高度。</p>
+<p>为了在瞬息万变的市场竞争中站稳脚跟，英伟达的产品发布节奏已经缩短至一年一更。发布会上，老黄也正式揭晓下一代 AI 芯片的命名——物理学家<strong>费曼(Feynman)。</strong></p>
+<p>随着 AI 工厂的规模不断扩大，网络基础设施的重要性愈发凸显。</p>
+<p>为此，英伟达推出了 Spectrum-X<img alt="™" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/2122.png" style="height: 1em;" /> 和 Quantum-X 硅光网络交换机，旨在帮助 AI 工厂实现跨站点连接数百万 GPU，同时显著降低能耗和运营成本。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617900" height="1468" src="https://s3.ifanr.com/wp-content/uploads/2025/03/9-9.png" width="2560" /></p>
+<p>Spectrum-X Photonics 交换机具有多种配置，包括：</p>
+<ul>
+<li>128 端口 800Gb/s或 512 端口 200Gb/s 配置，总带宽达 100Tb/s</li>
+<li>512 端口 800Gb/s或 2048 端口200Gb/s配置，总吞吐量达 400Tb/s</li>
+</ul>
+<p>与之配套的 Quantum-X Photonics 交换机则基于 200Gb/s SerDes 技术，提供 144 端口 800Gb/s 的 InfiniBand 连接，并采用液冷设计高效冷却板载硅光子组件</p>
+<p>与上一代产品相比，Quantum-X Photonics 交换机为 AI 计算架构提供 2 倍速度和 5 倍可扩展性。</p>
+<p>Quantum-X Photonics InfiniBand 交换机预计于今年晚些时候上市，而 Spectrum-X Photonics 以太网交换机预计将于 2026 年推出。</p>
+<p>随着 AI 的快速发展，对数据中心的带宽、低延迟和高能效需求也急剧增加。</p>
+<p>英伟达 Spectrum-X Photonics 交换机采用了一种名为 CPO 的光电子集成技术。其核心是将光引擎（就是能处理光信号的芯片）和普通的电子芯片（比如交换芯片或 ASIC 芯片）放在同一个封装里。</p>
+<p>这种技术的好处很多：</p>
+<ul>
+<li>传输效率更高：因为距离缩短，信号传输更快。</li>
+<li>功耗更低：距离短了，传输信号需要的能量也少了。</li>
+<li>体积更小：把光和电的部件集成在一起，整体体积也变小了，空间利用率更高。</li>
+</ul>
+<h3>AI 工厂的「操作系统」Dynamo</h3>
+<blockquote><p>未来将没有数据中心，只有 AI 工厂。</p></blockquote>
+<p>黄仁勋表示，未来，每个行业、每家公司拥有工厂时，都将有两个工厂：一个是他们实际生产的工厂，另一个是 AI 工厂，而 Dynamo 则是专门为「AI 工厂」打造的操作系统。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617901" height="663" src="https://s3.ifanr.com/wp-content/uploads/2025/03/10-6.png" width="1280" /></p>
+<p>Dynamo 是一款分布式推理服务库，为需要 token 但又无法获得足够 token 的问题提供开源解决方案。</p>
+<p>简单来说，Dynamo 有四个方面的优势：</p>
+<ul>
+<li> GPU 规划引擎，动态调度 GPU 资源以适应用户需求</li>
+<li>智能路由器，减少 GPU 对重复和重叠请求的重新计算，释放更多算力应对新的传入请求</li>
+<li>低延迟通信库，加速数据传输</li>
+<li>内存管理器，智能在低成本内存和存储设备中的推理数据</li>
+</ul>
+<h3>人形机器人的露脸环节，永远不会缺席</h3>
+<p>人形机器人再一次成为了 GTC 大会的压轴节目，这次英伟达带来了 Isaac GR00T N1，全球首款开源人形机器人功能模型。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617902" height="720" src="https://s3.ifanr.com/wp-content/uploads/2025/03/11-2.jpg" width="1280" /></p>
+<p>黄仁勋表示，通用机器人技术的时代已经到来，借助 Isaac GR00T N1 核心的数据生成以及机器人学习框架，全球各地的机器人开发人员将进入 AI 时代的下一个前沿领域。</p>
+<p>这个模型采用「双系统」架构，模仿人类的认知原理：</p>
+<ul>
+<li>系统 1：快速思考的动作模型，模仿人类的反应或直觉</li>
+<li>系统 2：慢思考的模型，用于深思熟虑的决策。</li>
+</ul>
+<p>在视觉语言模型的支持下，系统 2 对环境和指令进行推理，然后规划动作，系统 1 将这些规划转化为机器人的的动作。</p>
+<p>GR00T N1 的基础模型采用广义类人推理和技能进行了预训练，而开发人员可以通过真实或合成数据进行后训练，满足特定的需求：既可以完成工厂的特定任务，也可以在家里自主完成家务。</p>
+<p>黄仁勋还宣布了与 Google DeepMind 和 Disney Research 合作开发的开源物理引擎 Newton。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617903" height="713" src="https://s3.ifanr.com/wp-content/uploads/2025/03/12-6.png" width="1280" /></p>
+<p>一台搭载 Newton 平台的机器人也登上了舞台，黄仁勋称之为「Blue」，外观神似《星球大战》中的 BDX 机器人，能够用声音和动作和黄仁勋互动。</p>
+<h3>8 块 GPU，DeepSeek-R1 推理速度创全球之最</h3>
+<p>英伟达实现了全球最快的 DeepSeek-R1 推理。</p>
+<p>官网显示，一台搭载 8 个 Blackwell GPU 的 DGX 系统，在运行 6710 亿参数的 DeepSeek-R1 模型时，可实现每用户每秒超过 250 个 token 的速度，或达到最高吞吐量每秒超过 30000 个 token。</p>
+<p>通过硬件和软件的结合，自今年 1 月以来，英伟达在 DeepSeek-R1 671B 模型上的吞吐量提升了约 36 倍，每 token 的成本效率提高了约 32 倍。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617904" height="2160" src="https://s3.ifanr.com/wp-content/uploads/2025/03/13-4.png" width="3840" /></p>
+<p>为了实现这一成就，英伟达完整的推理生态系统已针对 Blackwell 架构进行了深度优化，不仅整合 TensorRT-LLM、TensorRT Model Optimizer 等先进工具，还无缝支持 PyTorch、JAX 和 TensorFlow 等主流框架。</p>
+<p>在 DeepSeek-R1、Llama 3.1 405B 和 Llama 3.3 70B 等模型上，采用 FP4 精度的 DGX B200 平台相较于 DGX H200 平台，推理吞吐量提升超过 3 倍。</p>
+<p>值得注意的是，此次发布会的主题演讲并未提及量子计算，但英伟达特意在这届 GTC 大会设置了量子日，邀请了多家当红量子计算公司的 CEO 出席。</p>
+<p>要知道黄仁勋年初一句「量子计算还需 20 年才实用」的论断犹在耳畔。</p>
+<p>一改口风的背后，离不开微软耗时 17年研发的拓扑量子芯片 Majorana 1 实现 8 个拓扑量子比特集成，离不开 Google Willow 芯片宣称用 5 分钟完成经典计算机需 10^25 年处理的任务，推动了量子计算的热潮。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617905" height="1970" src="https://s3.ifanr.com/wp-content/uploads/2025/03/14-4.png" width="3500" /></p>
+<p>芯片无疑是重头戏，但一些软件的亮相同样值得关注。</p>
+<p>硅谷著名投资人马克·安德森曾提出软件正在吞噬世界（Software is eating the world）的论断，其核心逻辑在于软件通过虚拟化、抽象化和标准化，正在成为控制物理世界的基础设施。</p>
+<p>不满足于做「卖铲人」，英伟达的野心是打造 AI 时代的「生产力操作系统」。从汽车智能驾驶，到制造业的数字孪生工厂，这些贯穿整场发布会的案例都是将 GPU 算力转化为行业生产力的具象化表达。</p>
+<p>实际上，无论是发布会上亮相的最新核弹芯片，还是押注战未来的量子计算，黄仁勋在这场发布会上对 AI 未来发展的洞察和布局，都比当下的技术参数与性能指标更具看点。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617906" height="722" src="https://s3.ifanr.com/wp-content/uploads/2025/03/15-2.png" width="1280" /></p>
+<p>在介绍 Blackwell 与 Hopper 架构的对比时，黄仁勋还不忘幽默一把。</p>
+<p>他以一个 100MW 工厂的对比数据为例，指出采用 Hopper 架构需要 45,000 颗芯片和 400 个机架，而 Blackwell 架构凭借更高的效率显著减少了硬件需求。</p>
+<p>于是，黄仁勋那句经典的总结再次抛出，「the more you buy, the more you save」（买得越多，省得越多）。」随后话锋一转，他又补充说，「the more you buy, the more you make」（买得越多，赚得越多）。</p>
+<p>随着 AI 领域的重心从训练转向推理，英伟达更需要证明其软硬件生态在推理场景的不可替代性。</p>
+<p>一方面，Meta、Google 等巨头自研 AI 芯片，可能分流 GPU 市场需求。</p>
+<p>另一方面，英伟达最新 AI 芯片的适时亮相，回应如 DeepSeek 的开源模型对 GPU 需求的冲击，并展示推理领域技术优势，也是为了对冲市场对训练需求见顶的担忧。</p>
+<p>最近估值跌至 10 年低位的英伟达，比以往任何时候都需要一场酣畅淋漓的胜利。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1617891">原文链接</a> ·
+<a href="https://www.ifanr.com/1617891#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Tue, 18 Mar 2025 23:04:27 +0000</pubDate>
+<pubDate>Tue, 18 Mar 2025 23:04:27 +0000</pubDate>
+</item>
+<item>
+<title>笔记本跑百亿大模型？在 AMD 这里没问题</title>
+<link>https://www.ifanr.com/1617868?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1617868?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> 关键词：AI PC、AMD、大模型、本地部署、显存分配
+
+<br><br>总结:
+1. 苹果生态在AI PC领域领先，M3 Ultra芯片和512GB统一内存表现出色。
+2. AMD在x86阵营中加速追赶，展示了在锐龙AI Max+ 395处理器上运行DeepSeek大模型的能力。
+3. AMD通过StrixHalo LLM软件优化大模型运行，支持高达96GB显存分配，提升本地推理性能。
+4. AMD提供服务器方案支持DeepSeek R1全参数大模型，领先英伟达。
+5. AMD与OEM合作伙伴展示多种消费级AI应用，推动AI PC普及。 <div>
+<div class="editor-quote-author">
+<p><img alt="" class="alignnone size-full wp-image-1617874" height="675" src="https://s3.ifanr.com/wp-content/uploads/2025/03/AMD-TT.jpg" width="1200" /></p>
+</div>
+<p>在冲向 AI PC 的赛道上，每一个芯片、设备企业都生怕落后。</p>
+<p>这场竞速赛，目前苹果生态大幅领先，爱范儿在上周的 Mac Studio 评测中，成功在本地部署并运行 DeepSeek Q4 量化版 671B 和 70B 版本，而且 token 吞吐性能不错，展现了 M3 Ultra 芯片以及高达 512GB 统一内存的实力。</p>
+<p>而在 x86 阵营这边，目前最有竞争力的「车队」AMD，正在试图加速超车。</p>
+<p>在 3 月 18 日举办的 AMD AI PC 创新峰会上，公司高级副总裁、计算与图形总经理 Jack Huynh 展示了在 AMD 架构笔记本电脑上运行 DeepSeek 大模型的能力。</p>
+<p>根据现场展示，一台搭载 AMD 锐龙 AI Max+ 395 处理器的笔记本电脑，顺利运行了 DeepSeek-通义千问融合 7B 大模型。Token 秒速并没有公开，但根据现场肉眼观测的结果，结合我们过往在不同机型上测试的经验，现场速度应该至少能够达到 15 tok/s 以上。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617869" height="454" src="https://s3.ifanr.com/wp-content/uploads/2025/03/AMD-1.png" width="802" /></p>
+<p>需要说明的是，根据现场 demo 区显示，这一部署和运行结果依赖 AMD StrixHalo LLM 软件，一个 AMD 开发的大模型运行环境。根据我们的理解，背后逻辑简单来说，AMD 会对支持的大模型进行内部优化，显著降低单位 token 激活参数成本，然后再将支持能力实装到用户本地设备。</p>
+<p>而锐龙 AI Max 处理器家族本身也支持了更高的显存分配能力。在现场我们看到，AI Max 支持最高 96GB 的显存分配，让处理器集显获得了高端独立显卡才能实现的性能，而这一性能既可以用于 AI 训练和推理计算，也可以用于游戏。</p>
+<p>经过优化之后，参数量再大也不愁。在 demo 区的示例中我们看到，前述同款芯片在华硕 ROG 幻 X 2025 款笔记本电脑上，最高可以运行 Meta 开发的 Llama 3.1 70B 大语言模型。</p>
+<p>尽管参数量极大，过往对硬件要求也极高，远超过去业界对于移动计算设备本地推理能力的认知上限——笔记本电脑现在也可以顺利且轻松地运行数百亿参数量的大模型了。</p>
+<p>AMD 这样做的目的，是确保基于大模型的企业级应用和科研能力，能够被普及到 x86 阵营的笔记本，甚至配置更轻便的移动计算设备。目前，AMD AI PC 环境支持 DeepSeek 1.5B、7B 等主流型号的大模型。</p>
+<p>如果笔记本不足够的话，AMD 也为真正的重型用户提供了能够运行 DeepSeek R1 全参数大模型的服务器方案，领先了英伟达一步（后者可能会在明天凌晨更新 AI 计算集群模块化产品）。</p>
+<p>现场展示了两种不同方案，其一是 AMD 自主的方案，基于 vllm 框架，采用 8 x W7900/78000 显卡，可以完全离线本地部署 DeepSeek 671B，为企业内部研发和知识产权保驾护航。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617870" height="948" src="https://s3.ifanr.com/wp-content/uploads/2025/03/AMD-2.png" width="1280" /></p>
+<p>其二是 AMD 和群联电子合作的 aiDAPTIV+ 方案，大致逻辑是让显卡通过 NAND 闪存扩展内存，从而打破单卡的显存瓶颈。通过现有 AMD 显卡，同样可以在单机的形态下实现 DeepSeek 671B 全参数级别训练的能力。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617871" height="770" src="https://s3.ifanr.com/wp-content/uploads/2025/03/AMD-3.png" width="1170" /></p>
+<p>当然，大多数人只是纯粹的 AI 应用用户，而非开发者。所以 AMD 在这次峰会现场也和 OEM 合作伙伴一起，展示了各类主流形态的消费级 AI 应用。</p>
+<p>很有意思的是现场的 demo 之一，由清醒异构开发，基于 AMD Ryzen AI 平台的大模型图片生成工具「绘梦师」。它支持文生图、图生图、边画边生图等生成模式，而且完全可以在本地运行，不需要联网。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617872" height="853" src="https://s3.ifanr.com/wp-content/uploads/2025/03/AMD-4.png" width="1280" /></p>
+<p>再比如联想展示的个人智能体「小天」作为 PC 端的 AI 入口，其背后的大模型可以根据个人数据训练和优化，在前台具备任务分解和规划、自然交互、长期记忆、工具调用等能力。</p>
+<p>最近一年时间里，AI 技术发展的太过于迅猛，能力上限一再提高，大模型可选项也与日俱增。但受制于设备本地计算能力，PC 行业也在面临很大的挑战。</p>
+<p>而考虑到最大的友商目前面临非技术困难，AMD 作为 x86 阵营另一个底层计算技术头部厂商，认为自己必须肩负责任，迎接挑战，领导变革，让 AI 能够真正通过 AI PC 进入千家万户和千行百业。</p>
+<p id="syBjFMr"><a href="https://s3.ifanr.com/wp-content/uploads/2025/03/img_67d9757d67ce0.png" rel="lightbox[1617868]"><img alt="" class="alignnone size-full wp-image-1617887 " src="https://s3.ifanr.com/wp-content/uploads/2025/03/img_67d9757d67ce0.png" /></a></p>
+<p>在峰会上，AMD 给了 OEM 合作伙伴很大的露出机会。包括微软、联想、华硕、宏碁、惠普等生态合作伙伴，纷纷带来了基于最新 AMD 锐龙 AI 处理器家族的 PC 新品。</p>
+<p>AI PC 的品牌和机型的选择权宽度，AI PC 产品本身的大模型运算能力，以及不同消费级场景的应用丰富度，对于 PC 品牌和芯片厂商们在 AI 时代守住本阵营市场份额尤为重要。</p>
+<p>&nbsp;</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1617868">原文链接</a> ·
+<a href="https://www.ifanr.com/1617868#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Tue, 18 Mar 2025 09:20:52 +0000</pubDate>
+<pubDate>Tue, 18 Mar 2025 09:20:52 +0000</pubDate>
+</item>
+<item>
+<title>保时捷计划开发新燃油 SUV，欧美车企集体「开倒车」？</title>
+<link>https://www.ifanr.com/1617763?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1617763?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> 关键词：保时捷、内燃机、混合动力、电动化、市场调整<br><br>总结:<br>1. 保时捷调整电动化战略，延长内燃机车型生命周期，计划推出新款内燃机SUV取代Macan。<br>2. 保时捷电动车型销量下滑，中国市场表现尤为严峻，导致公司裁员、缩减经销商网络等调整。<br>3. 欧美车企普遍放缓电动化进程，转向混合动力技术，以应对充电设施不足和排放法规严格的市场现状。<br>4. 通用、凯迪拉克、福特、沃尔沃、梅赛德斯-奔驰等车企纷纷调整电动化计划，推迟纯电动车型发布或继续销售内燃机车型。<br>5. 混合动力车型被视为油电过渡期的战略高地，各大车企在核心技术领域持续投入，全球汽车市场竞争格局尚未尘埃落定。 <div>
+<div><img alt="" class="alignnone size-full wp-image-1617779" height="675" src="https://s3.ifanr.com/wp-content/uploads/2025/03/Injet-New-Energy-DC-charging-station-Ampax-1.jpg" width="1200" /></div>
+<div>
+<div class="ace-line ace-line old-record-id-XwUNddbNGoYOWbxJcDrcm4dPnNg">欧美车企正在集体进行一次「战略转移」。</div>
+<h2 class="heading-2 ace-line old-record-id-AE4idgSujo1TPpxdcF2ciLX2n8d">保时捷难舍「内燃机」</h2>
+<div class="ace-line ace-line old-record-id-EmiddVn2HoKy8KxruVlcOfhgnph">传统豪华标杆车企保时捷正在计划推出一款新的内燃机 SUV，以取代将于 2026 年停产的 Macan。</div>
+</div>
+<div></div>
+<div><img alt="" class="alignnone size-full wp-image-1617774" height="960" src="https://s3.ifanr.com/wp-content/uploads/2025/03/1-4.jpg" width="1440" /></div>
+<div>
+<blockquote class=" old-record-id-LS8Wdcs6Fo615ixc5gzcAjnLnzd">
+<div class="ace-line ace-line old-record-id-JcCLdgqMIonrhnxsmuLcXEQwnlc">我们正在做出概念性的决定，但很明显，我们致力于内燃机的时间要长得多。 我们正在探索未来为一些最初计划的电动车型配备混合动力驱动或内燃机的可能性。</div>
+</blockquote>
+<div class="ace-line ace-line old-record-id-AiETd4pW4ooxGbxnIPucjvIVnnf">保时捷首席财务官 Lutz Meschke 已确认，内燃机车型将继续作为保时捷产品阵容的重要组成部分，且其生命周期将超出此前预期。</div>
+<div></div>
+<div class="ace-line ace-line old-record-id-AiETd4pW4ooxGbxnIPucjvIVnnf">保时捷最初设定的目标是在 2023 年实现电动车型占全球销量 80% 的比例，但该目标现已调整为「根据客户需求而定」。</div>
+</div>
+<div></div>
+<div>
+<div class="ace-line ace-line old-record-id-AiETd4pW4ooxGbxnIPucjvIVnnf">
+<p>除新款 Macan 外，Cayenne 也将成为扩大内燃机生产的重点车型。</p>
+</div>
+<div><img alt="" class="alignnone size-full wp-image-1617775" height="1500" src="https://s3.ifanr.com/wp-content/uploads/2025/03/2-2.jpg" width="2250" /></div>
+<div class="ace-line ace-line old-record-id-VqD8dj9PZo9U3dxU5GGcY7qrnVe">
+<p>保时捷一直是欧洲车企中最坚定的电动化倡导者之一。2019年，Taycan车型惊艳登场，彻底打破了市场对「电动车无法运动化」的成见。随后，保时捷宣布计划到2030年实现「80% 电动化」，并着手开发纯电动版 Macan 和 718 EV 等项目。</p>
+</div>
+<div class="ace-line ace-line old-record-id-HwDnd9PZwo1BZtxBjrwcIoWcnLh">
+<p>然而，现实却十分残酷。根据保时捷 2025 年 3 月 12 日发布的财报显示，Taycan 车型 2024 年的销量仅为 20,836 辆，同比下降 49%；纯电动 Macan 的表现同样不尽如人意，全年销量仅为 18,278 辆。中国市场的情况更为严峻，所有车型总销量仅为 56,887 辆，同比下降 28%。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617770" height="822" src="https://s3.ifanr.com/wp-content/uploads/2025/03/QQ20250317-161952.png" width="1408" /></p>
+</div>
+<div class="ace-line ace-line old-record-id-To5adtV9Xo2msAxdl79cl2z0npN">面对这样的市场现状，保时捷不得不调整产品和管理战略，采取一系列措施：裁员 3900 人、缩减经销商网络、延续 V8 发动机生产，以及提升混动车型占比。</div>
+<h2 class="heading-2 ace-line old-record-id-PCxidvRQBon3hSxLyBncz6pznEh">欧美巨头拥抱「混动车」</h2>
+<div class="ace-line ace-line old-record-id-DSaJdxekLoT5prxEi40cFS09n9e">
+<p>保时捷并非唯一一个受到市场冲击的车企。这两年来，各大传统车企都相继表示要放缓电动化进程，转而投向混合动力技术的发展。</p>
+</div>
+<div class="ace-line ace-line old-record-id-Nd2SdsFtAowhZzxBfLgc7x9rnhf">
+<p>根据福布斯的预测数据，全球新能源车市场正在逐步降温。受多重因素影响，全球小型电动汽车销量预计将从 2024 年的 1,740 万辆增长至 2025 年的 1,870 万辆，增长率仅为 7.4%，远低于去年同期 48% 的增幅。</p>
+</div>
+<div class="ace-line ace-line old-record-id-Pxxzdt0KaoQuuYxKjvyc9PKmnMg">
+<p>美国巨头通用汽车在 2024 年修改了销售计划，将全年销量预估从 30 万辆下调至 25 万辆，同时推迟了部分新车型的发布。其首席执行官玛丽·巴拉（Mary Barra）表示，通用将专注于在北美市场开发新的插电式混合动力车型。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617772" height="756" src="https://s3.ifanr.com/wp-content/uploads/2025/03/4-1.jpg" width="1340" /></p>
+</div>
+<div class="ace-line ace-line old-record-id-OERLdzMimo35vexbXfjciuSsnDe">
+<p>凯迪拉克此前计划在 2030 年前实现大部分产品线电动化，但在 2024 年 9 月，其副总裁约翰·罗斯（John Roth）宣布，内燃机车型将在 2030 年后继续供应。</p>
+</div>
+<div class="ace-line ace-line old-record-id-HtBtdyx5koRicvxhkCncuN9qnIb">
+<p>即便是凭借电动皮卡 F-150 在北美市场抢占先机的福特，最近也宣布将原定于 2025 年前后推出的纯电动车型推迟至2026 至 2027 年。</p>
+</div>
+<div class="ace-line ace-line old-record-id-QBV6ddpZxoF0cKxPEAsc5eBxnXe">
+<p>沃尔沃此前宣布将从 2030 年起实现「全电动化」，但近期调整了计划，表示「将继续销售少量轻度混合动力车型」，约占其年度销售计划的 10%。</p>
+</div>
+<div class="ace-line ace-line old-record-id-WMfvdb29To3QnCxPdxEcqAqYnMG">
+<p>梅赛德斯-奔驰在 2021 年曾宣布「从 2026 年起只推出电动车型，并在 2030 年前停产所有非电动车型」。然而在近期新款 CLA 的发布会上，奔驰仍宣布将推出混动版和燃油版车型。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617771" height="853" src="https://s3.ifanr.com/wp-content/uploads/2025/03/5-1.jpg" width="1280" /></p>
+</div>
+<div class="ace-line ace-line old-record-id-Kxrqd4yPEoBKsXxXDiQcxo6mnyd">
+<p>法国雷诺的首席执行官坦言：「完全电气化不太可能如期在 2030 年实现，甚至在 2035 年前都将面临挑战。」</p>
+</div>
+<div class="ace-line ace-line old-record-id-IJZUdb9TaoMWgKxHOSAc6c29nBb">
+<p>现代汽车计划通过其&#8221;Hyundai Way&#8221;战略，在2030年前将混合动力产品线从 7 款扩充至 14 款。</p>
+</div>
+<div class="ace-line ace-line old-record-id-X86Yd0TTLoz38JxJEuDcsJ51nTF">
+<p>丰田持续强调混合动力技术是其电气化战略的核心，并计划在 2025 年推出多款混合动力产品。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617778" height="787" src="https://s3.ifanr.com/wp-content/uploads/2025/03/Volvo-EM90-debut-5.jpg" width="1400" /></p>
+</div>
+<div class="ace-line ace-line old-record-id-DRIidOncJoVZnRxbeIbcM51hnGc">
+<p>混动汽车无需充电就能在降低排放和提高燃油经济性之间取得平衡，这恰好适应了大多数国家充电设施不足但排放法规日趋严格的现状。</p>
+</div>
+<div class="ace-line ace-line old-record-id-XywIdWYnpogKFBxLgiJcy50mnbm">各大海外车企因此纷纷将混动车型看作是油电过渡期的「战略高地」。</div>
+</div>
+<div></div>
+<div><img alt="" class="alignnone size-full wp-image-1617776" height="1799" src="https://s3.ifanr.com/wp-content/uploads/2025/03/6-2.jpg" width="2400" /></div>
+<div>
+<div class="ace-line ace-line old-record-id-XO2xdqYGlobxb6xExKwcifs4nff">
+<p>值得注意的是，欧美车企放缓电动化步伐倒也很难说是在「开倒车」。</p>
+</div>
+<div class="ace-line ace-line old-record-id-R6XQdqhC1o4CQ3xqmOlcKl9JnEh">
+<p>这一策略既是为了充分利用燃油车的技术积累和品牌优势，也是对充电基础设施建设滞后、供应链僵化和成本高企等市场现状的务实应对。同时，在 ADAS、电子电气架构、软件定义（SDV）等电动汽车核心技术领域，各大车企仍在持续加大投入。</p>
+</div>
+<div class="ace-line ace-line old-record-id-KX3Pddty4oDF1UxpjtBcHFwCnRb">全球汽车市场的竞争格局尚未尘埃落定，大的还在后头呢。</div>
+</div>
+<div></div>
+<div></div>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1617763">原文链接</a> ·
+<a href="https://www.ifanr.com/1617763#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Tue, 18 Mar 2025 09:03:25 +0000</pubDate>
+<pubDate>Tue, 18 Mar 2025 09:03:25 +0000</pubDate>
+</item>
+<item>
+<title>四驱涨价+定向优惠，特斯拉：快来买后驱</title>
+<link>https://www.ifanr.com/1617830?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1617830?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> 关键词：特斯拉、Model Y、价格上调、优惠政策、销量下滑<br><br>总结:<br>1. 特斯拉宣布焕新Model Y长续航版价格上调1万元，并推出新的金融特惠方案和充电权益优惠。<br>2. 2025年3月18日至4月30日期间，购买焕新版Model Y后轮驱动版的客户可享受0息或低息贷款方案。<br>3. 特斯拉在中国市场销量大幅下滑，2月份仅售出30,688辆，Model Y销量同比暴跌77%。<br>4. 全球市场表现同样不佳，欧洲和美国市场销量均出现大幅下降。<br>5. 特斯拉在中国市场的竞争力下降，面临本土车企的激烈竞争，智能座舱和高阶智驾等方面逐渐落后。 <div>
+<p><img alt="" class="alignnone size-full wp-image-1617862" height="675" src="https://s3.ifanr.com/wp-content/uploads/2025/03/8.jpg" width="1200" /><br />
+特斯拉在 3 月 18 日宣布，将焕新 Model Y长续航版的价格上调 1 万元，并公布了全新的优惠政策——</p>
+<p>2025年3月18日 至 2025年4月30日活动期间购买焕新版 Model Y 后轮驱动版，且符合资质的客户可申请新的金融特惠方案。<br />
+&#8211; 首付 ￥79900 起，可享受 1 至 3 年 0 息方案<br />
+&#8211; 首付 ￥45900 起，可享受 1 至 5 年低息方案，年费率低至 1.00% 起（折合年化利率 1.84% 起）</p>
+<p><img alt="" class="alignnone size-full wp-image-1617832" height="2340" src="https://s3.ifanr.com/wp-content/uploads/2025/03/1-5.jpg" width="1080" /></p>
+<p>购车者并且可以以1,299 元的价格，在下方三项充电权益内选择一项。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617833" height="2340" src="https://s3.ifanr.com/wp-content/uploads/2025/03/2-4.jpg" width="1080" /></p>
+<p>这次的优惠主要还是集中在了车贷利息和补能优惠上，并未直接在车辆价格上做调整。</p>
+<p>国内部分新势力车企的两年或者五年免息政策已经推出了有一段时间，特斯拉这次属于是跟上了步伐。<br />
+而 1,299 元购买5000 度 1 元电或者 Cybervault 家庭充电服务包的活动，如果有合适的用车场景的话，确实能省不少钱。<br />
+特斯拉同时为3.31前提车的 Model 3 车主，提供了 8000 元的保险补贴。</p>
+<p>特斯拉的调价一直以来都很「任性」，这次的意图也很明显是在刺激潜在用户赶紧下单，并且尽可能选择后轮驱动版本。</p>
+<p>无论在国内还是国外，特斯拉最近都承受着相当大的压力。</p>
+<p>根据特斯拉中国公布的销售数据，2 月份仅售出了约 30,688辆车，同比暴跌 49%，是自 2022 年 7 月以来的最差成绩。明星车型 Model Y 则仅卖出了 8066 辆，同比跌幅高达 77%，就算考虑到焕新 Model Y 还处在产能爬坡期，这个数字也远远未达到预期。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617835" height="1046" src="https://s3.ifanr.com/wp-content/uploads/2025/03/4-11.png" width="1524" /></p>
+<p>除了中国市场之外，全球市场的情况也不容乐观。</p>
+<p>2025年1月，特斯拉欧洲市场销量下降45%。工厂所在地的德国则仅交付了 2706 辆，同步下跌 70%。<br />
+同时在美国市场，由于创始人马斯克近期与特朗普政府的密切联系与相关行为，引发了不少消费者的反感与抵触，销量更是已经连续四个月出现下滑。</p>
+<p>销量的暴跌很快反应在了股价上，3 月 18 日，特斯拉的收盘价为 238.01 美元，而今年一月份其最高收盘价约为426.5 美元，下跌了约 44%。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617837" height="1018" src="https://s3.ifanr.com/wp-content/uploads/2025/03/7-8.png" width="1344" /></p>
+<p>国内市场销量低迷的主要原因，还是特斯拉的产品竞争力正在下降。</p>
+<p>且不说已经发布的鸿蒙智界 R7、在发布会上直接拿特斯拉做对比的小鹏 G6  们，后面的小米 YU7、小鹏 G7、理想 i7 也正在虎视眈眈准备分走市场。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617836" height="668" src="https://s3.ifanr.com/wp-content/uploads/2025/03/6-8.png" width="1808" /></p>
+<p>特斯拉在中国的电动车市场曾是「先行者」和「标杆」一样的存在，但是时过境迁，在智能座舱、高阶智驾、舒适配置等方面，却已经逐渐开始落后于本土车企，前几周开放的 FSD 甚至一度成为笑柄。</p>
+<p>特斯拉确实在续航、电控、地盘体验上有着不小的优势和技术积累，但是在日趋残酷的中国新能源车市场，只靠单一优势已经很难继续保持增长了。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1617830">原文链接</a> ·
+<a href="https://www.ifanr.com/1617830#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Tue, 18 Mar 2025 09:00:45 +0000</pubDate>
+<pubDate>Tue, 18 Mar 2025 09:00:45 +0000</pubDate>
+</item>
+<item>
+<title>极速 300km/h！比亚迪汉 L &amp; 唐 L 突破 1000 马力，充电 5 分钟能跑 400 公里</title>
+<link>https://www.ifanr.com/1617786?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1617786?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> 关键词：比亚迪、10C闪充技术、3万转电机、汉L、唐L
+
+<br><br>总结:
+1. 比亚迪发布了10C兆瓦闪充技术，可实现充电5分钟续航400公里，充电功率达1000kW。
+2. 比亚迪推出全球首款转速超3万转的量产电机，功率密度达16.4kW/kg，性能超越传统V12发动机。
+3. 汉L和唐L搭载10C闪充和3万转电机，汉L零百加速2.7秒，极速超300km/h。
+4. 比亚迪计划建设4000座兆瓦闪充站，首批优先部署在4S店。
+5. 汉L和唐L预售价分别为27-35万元和28-36万元，技术创新带来成本压力。 <div>
+<p><img alt="" class="alignnone size-full wp-image-1617811" height="675" src="https://s3.ifanr.com/wp-content/uploads/2025/03/tmbyd.jpg" width="1200" /></p>
+<blockquote><p>我们的追求，就是让电动车的充电时间，和燃油车的加油时间一样短。</p></blockquote>
+<p>3 月 17 日晚，比亚迪以一场技术发布会，将纯电动车的性能与补能标准推向了新的高度。</p>
+<p>在「超级 e 平台」的框架下，比亚迪宣布旗舰车型汉 L、唐 L 开启预售的同时，发布了两项关键技术：号称可实现「充电 5 分钟续航 400 公里」的 10C 兆瓦闪充技术，以及全球首款转速超 3 万转的量产电机。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617791" height="3000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/afgfv.jpeg" width="4500" /></p>
+<p>在现场演示中，汉 L EV 在比亚迪自研的「兆瓦闪充桩」上实现了 1000kW 的峰值充电功率，10%-70% 电量充电仅需 4 分 45 秒。</p>
+<p>不仅如此，那台转速超过 3 万转的电机，也被比亚迪装到了汉 L 和唐 L 的后桥上，加上前轴的交流异步电机，总功率来到了 1102 马力。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617788" height="600" src="https://s3.ifanr.com/wp-content/uploads/2025/03/gsdf.jpeg" width="1080" /></p>
+<p>拥有 10C 充电，零百 2.7 秒的比亚迪汉 L…… 怪不得预售价来到了 27 万元起。</p>
+<h3>从 5C 到 10C 的千伏战场</h3>
+<p>当行业还在为 5C 快充的普及争论不休时，比亚迪将充电技术推向了更激进的战场——10C。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617789" height="530" src="https://s3.ifanr.com/wp-content/uploads/2025/03/hgdf.jpg" width="1080" /></p>
+<p>1000V 电压、1000A 电流、1000kW 功率——这三个 1000 构成了其最新发布的 10C 闪充技术的核心。</p>
+<p>在发布会现场，用于演示的汉 L EV 接入比亚迪自研的兆瓦闪充桩后，峰值功率表瞬间突破 1000kW，电量从 10% 充至 70% 仅耗时 4 分 45 秒。</p>
+<p>王传福对此的总结颇为直接：「充电从『人等车』变成了『车等人』，这才是真正的油电同速。」</p>
+<p><img alt="" class="alignnone size-full wp-image-1617795" height="3000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/bstdvr.jpeg" width="4500" /></p>
+<p>技术拆解显示，这项突破背后是比亚迪对电池、电控的全链条重构。</p>
+<p>在新推出的闪充电池上，比亚迪通过正负极材料改性、电解液配方优化以及多维度离子通道设计，将内阻降低 50%，解除了超高速离子运动的速度上限，使得 1000A 超大电流通过时仍能保持稳定。</p>
+<p>以比亚迪汉 L 为例，在兆瓦闪充体系下，充电 1 秒钟可以补能 2 公里，这是全球量产最高峰值充电速度，以 5 分钟去换算，汉L 可以实现 400 公里的补能。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617790" height="3000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/gfdsa.jpeg" width="4500" /></p>
+<p>另一边，1500V 碳化硅功率芯片的自主研发，则解决了高电压下电控系统可靠性的行业难题。比亚迪 在发布会上自信表示，他们会在较长的一段时间内成为独占 1000kW 充电技术的车企。换句话说，其他车企想要研发出同等水平的 SiC 芯片，可能还需要不少时日。</p>
+<p>不过，真正引发行业讨论的并非实验室数据，而是比亚迪规划的 4000 座兆瓦闪充站。这些充电桩的最大输出功率达 1360kW，远超当前主流超充桩的 480kW 上限。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617792" height="3000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/ybrg.jpeg" width="4500" /></p>
+<p>在布局闪充站的这段时间里，比亚迪还给车主们提供了一套「过渡方案」——双枪快充。是的，汉 L 和唐 L 都将支持双枪快充，这是比亚迪首次在腾势和仰望之外的车型上推出这一功能。</p>
+<p>不过，现实挑战也随之浮出水面。</p>
+<p>根据亿欧智库的分析，目前中国公共直流充电桩中，95% 的充电功率在 150kW 以下，即便比亚迪通过双枪快充技术将普通快充桩功率翻倍，实际用户体验仍与兆瓦闪充存在代际差距。</p>
+<p>另一个容易被忽视的细节是，比亚迪官方暂未公布 4000 座闪充站的具体建设时间表，仅透露首批站点将优先部署在 4S 店。这种「车等桩」的局面，或许会延缓 10C 闪充技术红利的释放速度。</p>
+<p>对于比亚迪来说，这次将「全域千伏架构」作为技术底座，整车高压部件全部升级至 1000V 耐压等级。毫无疑问，这种系统性的改造将带来巨大的成本压力，这或许解释了为何汉 L EV 的预售价较现款汉 EV 高出近 9 万元。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617793" height="3000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mn.jpeg" width="4500" /></p>
+<div class="editor-image-source">
+<p>▲汉 L EV 的预售价格为 27-35 万元，唐 L EV 为 28-36 万元。</p>
+</div>
+<p>但可以肯定的是，当技术创新形成规模效应时，成本曲线自然会下探。对于年销超 300 万辆，实现电动化深度整合的比亚迪而言，这或许是其敢于押注超前技术的底气。</p>
+<h3>极速超过 300km/h 的，比亚迪汉</h3>
+<p>如果说充电技术的突破瞄准的是用户焦虑，那么比亚迪此次发布的 3 万转电机则是在尝试重新定义电动车的性能边界。</p>
+<p>汉 L EV 在今年 1 月首次亮相工信部时，大家就对那接近 800 马力的永磁同步电机，以及 2.7 秒的零百加速感到好奇。现在，谜底揭晓了。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617794" height="3000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/rgtvr.jpeg" width="4500" /></p>
+<p>这款高转速电机以 30511rpm 的极限转速，刷新了小米 V8S 电机此前保持的世界纪录，单模块功率达到 580kW，功率密度更是攀升至 16.4kW/kg——按照王传福的说法，这组数据「足以超越传统 V12 发动机的表现」。</p>
+<p>更夸张的是，这款电机还在实验室里突破了 35000rpm，似乎能够为电动车的性能天花板撕开一道裂缝。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617796" height="483" src="https://s3.ifanr.com/wp-content/uploads/2025/03/WechatIMG3775.jpg" width="1080" /></p>
+<p>这台高转速电机的能力可以体现在汉 L EV 的极速上——超过 300km/h。</p>
+<p>不仅如此，超级 e 平台的电机采用全新冷媒复合冷却技术，电驱冷量提升 60%，这让汉 L EV 和唐 L EV 在连续 70 次零百加速后，仍然能够做到性能不衰减。</p>
+<p>同时，这台电机还有着超高的集成度。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617797" height="610" src="https://s3.ifanr.com/wp-content/uploads/2025/03/safd.jpeg" width="1080" /></p>
+<p>王传福表示，该电机的功率密度达到了 16.4kW/kg，是全球量产驱动电机里的最高水平。这样的集成度表现，让汉 L 的后备箱多出了 20L 的空间。</p>
+<p>这种工程奇迹般的集成度，恰好印证了比亚迪在「超级 e 平台」开发中奉行的系统思维——当电机体积被压缩到传统 V8 发动机的 1/3，当充电焦虑被缩短至一杯咖啡的时间，电动车的价值坐标已然发生本质偏移。</p>
+<p>如果说此前的技术迭代聚焦于解决「有没有」的问题，那么现在，比亚迪正在用 3 万转电机与兆瓦闪充的组合，重新书写「好与更好」的标准。</p>
+<p><img alt="" class="alignnone size-full wp-image-1617798" height="3000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/ytherge.jpeg" width="4500" /></p>
+<p>当下，全球电动车市场都在经历从「续航竞赛」向「体验竞争」的转型。比亚迪用 10C 闪充解决补能痛点，用 3 万转电机突破性能认知，这套组合拳显然不止于技术炫技。</p>
+<p>当充电时长缩至燃油车加油水平、电机性能超越顶级燃油引擎时，这场电动化革命或许才真正触达质变临界点。</p>
+<p>不过，所有这些愿景的前提，是实验室数据能够完整复刻到真实用车场景。而这，恰恰是比亚迪接下来最需要向市场证明的命题。</p>
+<p>期待汉 L 和唐 L 在 4 月份的正式上市。</p>
+  <div id="ifanr_profile" style="border: 1px solid #ccc; font-size: 14px; margin: 27px auto; font-family: Arial;">
+    <div style="overflow: hidden;"><a href="https://www.ifanr.com/author/tanjiewen" style="color: #000; text-decoration: none;" target="_blank"></a>
+
+      <div style="text-align: left; line-height: 23px; margin-left: 80px;">
+        <div style="padding: 10px 10px 10px 0;">
+          <div style="margin: 0; font-size: 14px;"><strong><a href="https://www.ifanr.com/author/tanjiewen" style="color: #000; text-decoration: none;" target="_blank">李华 (李华)</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height: 20px;">带轮子的都关注，欢迎交流。
+邮箱：tanjiewen@ifanr.com</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align: right; border-top: 1px dotted #ccc; padding: 2px 10px; font-size: 12px;">
+      <div>
+                                <a href="mailto:tanjiewen@ifanr.com" style="margin-right: 14px; text-decoration: none;" target="_blank">邮箱</a>
+
+          
+                                  <a href="5" style="margin-right: 14px; text-decoration: none;" target="_blank">8</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1617786">原文链接</a> ·
+<a href="https://www.ifanr.com/1617786#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Tue, 18 Mar 2025 05:01:40 +0000</pubDate>
+<pubDate>Tue, 18 Mar 2025 05:01:40 +0000</pubDate>
+</item>
+<item>
+<title>iPhone 里的「脏东西」，其实是音响好听的秘密｜硬哲学</title>
+<link>https://www.ifanr.com/1616778?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1616778?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="alignnone size-full wp-image-1616796" height="1498" src="https://s3.ifanr.com/wp-content/uploads/2025/03/bass8.jpg" width="2480" /></p>
+<p>前段时间在看三星 S25 Ultra 拆解时，发现在扬声器里有许多白色小颗粒。后来找专业人士了解后发现，看起来像「脏东西」的白色粉末，其实是扬声器的一种腔体技术。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616796" height="1498" src="https://s3.ifanr.com/wp-content/uploads/2025/03/bass8.jpg" width="2480" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来源：JerryRigEverything</p>
+</div>
+<p>这些像异物一样小颗粒，专业上叫做 Bass 粉，是一种用于增强音响设备低音效果的技术，让低音听起来更低更纯粹。那它是怎么做到的呢？这就得从 Bass 粉的历史讲起。</p>
+<h3>一块海绵的发家史</h3>
+<p>在 20 世纪中期，随着音响设备趋向小型化，工程师们面临一个比较棘手的问题：如何在有限空间内产生高质量低音？</p>
+<p>这里有一个小的背景知识，为什么在体积比较小的设备里，低音会比高音难做？拿生活中很常见的一个现象举例，我们分别对着「牛奶玻璃瓶」和「口服液小蓝瓶」里吹气，就会发现大瓶子的声音偏低，小瓶子的声音偏高。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616795" height="640" src="https://s3.ifanr.com/wp-content/uploads/2025/03/bass9.jpg" width="1280" /></p>
+<p>当中的原理也很简单：大瓶子内部空间大，空气震动更慢，所以能产生低频声波；小瓶子空间小，空气震动快，只能产生高频声波；而且如果你真的有试过往不同大小的瓶子里吹气，应该还会发现，大瓶子要用力吹才能出声，小瓶子轻轻一下就能响。</p>
+<p>所以要想低音又响又好，声腔大小（瓶子体积）、输出功率（吹气力度）一个都跑不了。当时的声学工程师最先尝试的方案是加上吸引棉。由于吸音材料上的多孔结构，可以很好地将环境回声吸收，并且减少驻波对最终音效的负面影响，而且在声腔内填充吸音棉后，可以将发声体积等效增加 40% 左右。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616787" height="652" src="https://s3.ifanr.com/wp-content/uploads/2025/03/bass3.jpg" width="550" /></p>
+<p>不知道有多少朋友还记得森海塞尔平头塞，那个时候戴着 MX375 最难受的一件事儿是，耳机头上的海绵罩不见了，卡在耳朵上非常难受，戴久了还会疼。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616793" height="640" src="https://s3.ifanr.com/wp-content/uploads/2025/03/bass1.jpg" width="640" /></p>
+<p>实际上，这个非常容易丢的海绵罩，不仅是可以提升佩戴的舒适性，还能优化声学表现。海绵材料能吸收高频段的「刺耳声」，使音色更柔和，海绵还能调节空气流动，影响低频响应，增强听感。</p>
+<p>现在有很多架子鼓鼓手的底鼓里，都会塞个鼓枕，也是相同的道理。底鼓空腔会产生长时间共鸣，填充物通过物理阻尼吸收声波能量，让鼓声更短促、干净，适合需要精准节奏的音乐风格。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616792" height="700" src="https://s3.ifanr.com/wp-content/uploads/2025/03/bass17.jpg" width="700" /></p>
+<p>填充物能增强低频冲击力，它们压缩鼓腔内的空气，使鼓槌击打时的气流更集中，强化低频的「冲击感」，尤其在快节奏演奏中更清晰有力。鼓腔内阻尼被增强后，还可能降低底鼓的音调，使其听起来更低沉厚重。</p>
+<p>虽说吸音棉可以满足工程师们的要求，但只能满足一点点，特别是在更小的设备上，填充体积变小的吸音棉，能起到的效果就微乎其微了。</p>
+<p>后来他们发现，通过在腔体中加入粉末状多孔材料，可以有效提升低音响应。因为把粉末状多孔材料添加到原本的空腔中之后，增加有效体积（类似于小肠绒毛将其原本的吸收面积扩大了 600 倍）使音箱能够更有效地产生低频声波。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616782" height="375" src="https://s3.ifanr.com/wp-content/uploads/2025/03/bass4.jpg" width="600" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来源：Google</p>
+</div>
+<p>这种粉末状多孔材料，也就是前面提到的 Bass 粉，它除了能在有限空间里，增加声腔的有效体积，还能同时起到吸音的作用，这就和它的材质有关了，业内的声学专家向我们介绍：</p>
+<p>Bass 粉通常由多种材料混合而成，具有优良的吸音或振动吸收性能。其主要成分可能包括玻璃纤维、陶瓷颗粒或其他多孔材料，Bass 粉通过吸附空气减缓因扬声器振膜振动导致的腔体气压变化，让振膜的振动更平滑，从而在小型音响设备中提升低音效果。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616786" height="405" src="https://s3.ifanr.com/wp-content/uploads/2025/03/bass7.jpg" width="720" /></p>
+<div class="editor-image-source">
+<p>▲图片来源：Google</p>
+</div>
+<p>Bass 粉上的数多微孔，可以吸附大量空气，减缓因振膜振动引起的音腔内气压变化的同时，也就获得了相当于更大音腔体积的振动效果。</p>
+<p>填充在声腔的 Bass 粉，并不是把声腔填得满满当当，一般来说粉的填充体积只会占到声腔体积的 25%-40%，在播放音乐时，特别是重低音的 EDM，Bass 粉会在声腔内飞舞起来，虽然我们看不到，但其效果可以用倒了水的 JBL Flip 来类比。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616794" height="318" src="https://s3.ifanr.com/wp-content/uploads/2025/03/1-3.gif" width="342" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来源：YouTube</p>
+</div>
+<p>这种技术听起来很新，看起来很新，但实际上是一种比较成熟的方案。而且，用 Bass 粉和适用 Bass 粉的设备，一般都是音箱、耳机和手机等小型音响设备，因为腔体越大对低音效果的提升越不明显，大设备本身的声腔体积已经够用了，再增大等效体积意义不大，而且中高频原本振幅就不是瓶颈，因此效果也就没有那么明显。</p>
+<p>所以，Bass 粉的作用简单用一句话就能总结：在有限空间内提升低音质量。</p>
+<h3>世界上最远的距离，是一直陪着你，却从未见过面</h3>
+<p>去年 iPhone 16 系列发布后，全世界拆解区的博主差不多都做了视频，但大家的拆解程度有所区别，有些把螺丝拧掉、主要元器件卸下就算完工。</p>
+<p>有些修机区的大神还会把芯片、镜头等拆开，研究焊点和内部组装结构，熟悉维修方案和流程，以方便后续的工作。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616785" height="403" src="https://s3.ifanr.com/wp-content/uploads/2025/03/bass11.jpg" width="720" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来源：iFixit</p>
+</div>
+<p>当 iPhone 的扬声器被拆开后，一把白色颗粒从里面散了出来，好巧不巧，当时刚好遇上了「iPhone 电池爆炸」的低智谣言传播高峰，所以 Bass 粉被许多不明所以、图谋不轨的人，认成了「炸药粉」。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616779" height="800" src="https://s3.ifanr.com/wp-content/uploads/2025/03/bass5.jpg" width="800" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来源：yahoo</p>
+</div>
+<p>当然，这也和 Bass 粉本身的应用位置和场景有关，和屏幕、镜头、实体按键相比，它本身的存在感就几乎为零，即使身边大部分人的手机里，都有 Bass 粉，但肯定不能指望人人都是拆解专业和声学大师，只能说这帮声学工程师的嘴，是真的严。</p>
+<p>iPhone 16 系列里的 Bass 粉，用一种很无语的方式出了圈，不过也算让更多人知道了这个已经存在多年的声腔技术。</p>
+<p>说到苹果和 Bass 粉的结合，竟然已经是十年前的事儿了。2015 年，苹果在美国旧金山比尔·格拉汉姆公民大礼堂，发布了 iPhone 6s，这台外表和半代前的iPhone 6 没有区别的新机，其实用上了很多新技术。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616780" height="900" src="https://s3.ifanr.com/wp-content/uploads/2025/03/bass13.jpg" width="1600" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来源：Google</p>
+</div>
+<p>首先是看得见的升级，就是已经成为历史的 3D Touch，第一次作为创新技术出现在了 iPhone 上，二维操控从此在 Z 轴上有了延伸，把平面升维成立体。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616784" height="727" src="https://s3.ifanr.com/wp-content/uploads/2025/03/bass10.jpg" width="1166" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来源：Google</p>
+</div>
+<p>其次是看不见的，也就是在 iPhone 6s 的扬声器空腔中，用上了虚拟后腔技术，也就是填入了 Bass 粉。当时有不少入手新机的用户表示，感觉外放效果确实好了一些，也有些网站用「得到了前所未有的提升」来形容。</p>
+<p>理论上说，Bass 粉的加入的确能使手机的音质和音量提升，特别是低频效果尤为明显，低音会更深沉，原因就如我们在上面解释的那样：等效容积变大，顺性更大，同样驱动力下振幅更大，音量就会提升。</p>
+<p>除了苹果，其实目前市面上的中高端手机，基本都有采用 Bass 粉。华为在 2021 年发布的 Mate X2，除了麒麟 9000、徕卡四摄，还有大振幅双扬声器。这对扬声器，就是通过填充 240mg Bass 粉，实现了等效 1.2cc 后腔，不仅能做到对称式双扬，还将低音增加 180%，高频带宽增加 40%。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616783" height="341" src="https://s3.ifanr.com/wp-content/uploads/2025/03/bass6.jpg" width="750" /></p>
+<div class="editor-image-source"></div>
+<p>对于用户来说，最明显的感受就是在横屏看视频时，不会感觉两个喇叭的声音一大一小，特别是遇到汽车飞驰而过、飞机划过屏幕的场景，可以听出还原真实场景的立体声，视频也因为声音更大、低音更沉的喇叭，而更有沉浸感。</p>
+<p>其实还有很多国产手机，例如 OPPO 和 vivo，都在用 Bass 粉工艺来提升扬声器的性能，去年才发布的影像新灭霸「vivo X200 Pro」 就是一个很好的例子。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616791" height="622" src="https://s3.ifanr.com/wp-content/uploads/2025/03/bass16.jpg" width="750" /></p>
+<p>站在现在往回看，Bass 粉早已是一种成熟的声腔技术，运用在各大厂商的各种小微型设备的扬声器里。当然，想要提升最终的音质，并不仅仅是腔体大小这一项指标，Bass 粉增大的等效腔体体积只是其中的一环，现在还有更先进的振膜材料和磁路设计：全金属的 Box。</p>
+<p>目前，部分旗舰手机上搭载的较为先进的扬声器，是来自瑞声科技的 AAC Ultimate Speaker，这也是全球首款全频段手机扬声器。高低音融合模组方案，让高、低音单元各司其职，共用一个磁路。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616781" height="540" src="https://s3.ifanr.com/wp-content/uploads/2025/03/bass12.jpg" width="960" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：AAC Ultimate Speaker</p>
+</div>
+<p>华为 Mate 70 RS 上的「非凡大师非凡之音扬声器」，用的就是来自 AAC 的高低频双振膜同轴扬声器。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616789" height="900" src="https://s3.ifanr.com/wp-content/uploads/2025/03/bass14.jpg" width="900" /></p>
+<p>现在，智能手机在经历了形态肆意生长、颜色百花齐放、屏幕无边无际、影像剑指相机的发展阶段后，轻薄、便携又在这两年，成为了市场关注的焦点。手机作为一个综合性的移动设备，并不只承担某一方面的功能，而是已经深深嵌入我们生活中的各个角落。</p>
+<p>所以在好用好看的基础上，手机还必须要是好带好拿的。特别是这两年折叠屏的崛起，更是让各种元器件的体积，得到了史无前例的挑战：电池得大，保证续航；像素得高，保证出片；手机得薄，保证手感。</p>
+<p><img alt="" class="alignnone size-full wp-image-1616790" height="807" src="https://s3.ifanr.com/wp-content/uploads/2025/03/bass2.jpg" width="1280" /></p>
+<p>扬声器跟着手机一起变小，但音质和声腔体积之间的矛盾也在同步变大。单看一个 Bass 粉，它的确没什么特殊的，在整个发声过程中能起到的作用也有限，所以单独将其拎出来讨论，只能讲明白技术细节，却道不清它真正的价值。</p>
+<p>我们和手机的交互看似只有触控一个维度，但其实视觉、触觉、听觉都在影响着我们对「一台好手机」的判断。身边部分 Android 用户，初次上手 iPhone 16 Pro，都会感觉这手机质感不错，我们暂且不讨论苹果的信号和续航问题，单纯就「质感」来分析，能得出这个结论，大概就是因为以下几个原因：</p>
+<ul>
+<li>CFM 品控好，上手不硌手，做工比较扎实，按键也没有松动；</li>
+<li>视网膜屏幕分辨率高，系统文字、图片边缘看不见齿痕；</li>
+<li>线性马达够劲，动程多样，有短有长、有强有弱，没有弹簧感；</li>
+<li>音响在同尺寸机型里，算好听。</li>
+</ul>
+<p><img alt="" class="alignnone size-full wp-image-1616788" height="630" src="https://s3.ifanr.com/wp-content/uploads/2025/03/bass15.jpg" width="1200" /></p>
+<p>你很难说当中的某一个部分对这台手机的整体质感起到了决定性作用，就像你很难说明森林里的某一棵树决定着当地的空气质量。</p>
+<p>但正是每个微不足道的零散，才能汇成一个中流砥柱的结果。好比 Bass 粉也需要 240mg 左右才能完成它的扩容工作，单独的一粒或者几粒，完全没有可能提升丝毫音质。</p>
+<p>Bass 粉和其他更为先进的声学技术一起，推动着产品小型化与性能平衡，它的虚拟增大音腔技术打破了「大体积=好低音」的传统限制，让我们看到了消费电子在变薄变小这件事儿上，还能也还在发展。</p>
+<p>这项技术现在也逐步从消费电子延伸至汽车音响、智能家居等领域，在有限空间内实现影院级音效。</p>
+<p>而对于每一个用户来说，在更小的手机上，听到音质更好的音乐，本身就是一件很值当的事儿。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1616778">原文链接</a> ·
+<a href="https://www.ifanr.com/1616778#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Mon, 17 Mar 2025 09:30:07 +0000</pubDate>
+<pubDate>Mon, 17 Mar 2025 09:30:07 +0000</pubDate>
+</item>
+
+<item>
 <title>早报｜余承东首曝华为新机/比亚迪新车充电 5 分钟能跑 400 公里/发改委：解决「加班文化」</title>
 <link>https://www.ifanr.com/1617799?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1617799?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-<div> 比亚迪 加班文化 华为 小米 扫地机器人<br><br>总结:<br>1. 比亚迪发布超级e平台，支持5分钟充电400公里，并推出汉L和唐L车型。<br>2. 国家发改委回应加班文化问题，提出保障休息休假权益，鼓励弹性错峰休假。<br>3. 宝马与华为合作开发基于鸿蒙系统的智能应用生态。<br>4. 小米大模型团队登顶音频推理MMAU榜，超越OpenAI的GPT-4o。<br>5. 中国品牌扫地机器人全球出货量前五占四席，石头科技、科沃斯、小米和追觅表现突出。 <div>
+<div> 比亚迪 加班文化 华为 小米 扫地机器人<br /><br />总结:<br />1. 比亚迪发布超级e平台，支持5分钟充电400公里，并推出汉L和唐L车型。<br />2. 国家发改委回应加班文化问题，提出保障休息休假权益，鼓励弹性错峰休假。<br />3. 宝马与华为合作开发基于鸿蒙系统的智能应用生态。<br />4. 小米大模型团队登顶音频推理MMAU榜，超越OpenAI的GPT-4o。<br />5. 中国品牌扫地机器人全球出货量前五占四席，石头科技、科沃斯、小米和追觅表现突出。 <div>
 <div style="padding: 0 14px; text-align: center;"><img alt="cover" src="https://s3.ifanr.com/images/ep/cover-images/pao_mao_nv_ren_cover.jpg" /></div>
 <div style="padding: 0 14px;">
 <div>
@@ -262,9 +852,7 @@
 </div>
 ]]></content:encoded>
 <pubDate>Tue, 18 Mar 2025 00:44:22 +0000</pubDate>
-<pubDate>Tue, 18 Mar 2025 00:44:22 +0000</pubDate>
 </item>
-
 <item>
 <title>早报｜三大运营商回应电话营销问题/马斯克：星舰火箭明年底前往火星/啄木鸟装修回应 3·15 问题：放弃公关</title>
 <link>https://www.ifanr.com/1617752?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
