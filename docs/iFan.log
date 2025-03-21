@@ -779,3 +779,26 @@ Summarized using deepseek-chat
 Append: [早报｜小米汽车交付达20万辆/滞留太空9月的宇航员结束「加班」/蜜雪冰城回应「过夜柠檬」事件](https://www.ifanr.com/1617928?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 4
 Finish: 2025-03-20 01:02:49.246292
+------------------------------------------------------
+Started: 2025-03-21 01:02:33.691621
+Existing_entries: 169
+Fetching from https://www.ifanr.com/feed
+Token length: 10476
+Summarized using deepseek-chat
+Append: [早报｜华为宣布鸿蒙电脑定档 5 月/央视：「开盒挂人」已成灰产业链/小米回应「工厂参观资格被炒至千元」](https://www.ifanr.com/1618211?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 2669
+Summarized using deepseek-chat
+Append: [刚刚，OpenAI 一口气发布三个新模型！还为此做了一个新网站](https://www.ifanr.com/1618198?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 1844
+Summarized using deepseek-chat
+Append: [新车速递｜小米 YU7 更新选配，全新速腾、Q6L Sportback e-tron亮相](https://www.ifanr.com/1618044?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 4164
+Summarized using deepseek-chat
+Append: [硬件与软件系统的全面结合，这是鸿蒙操作系统的历史性时刻](https://www.ifanr.com/1618133?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 2600
+Summarized using deepseek-chat
+Append: [鸿蒙智行上新！问界 M5 降 2 万，享界 S9 降 8 万，还有「王炸」没出手](https://www.ifanr.com/1618116?utm_source=rss&utm_medium=rss&utm_campaign=)
+Append: [华为的新形态手机 Pura X ，要让小折叠撕下「美丽小废物」的标签](https://www.ifanr.com/1618084?utm_source=rss&utm_medium=rss&utm_campaign=)
+Append: [早报｜小米被曝扩建二期汽车工厂/百度回应副总裁女儿「开盒」事件/哪吒汽车辟谣「解散研发团队」，谋求「债转股」自救](https://www.ifanr.com/1618039?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 7
+Finish: 2025-03-21 01:03:57.214864
