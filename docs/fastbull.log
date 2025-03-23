@@ -3320,3 +3320,30 @@ Append: [疯狂喊单！美商务部长公然呼吁“买特斯拉股票”](htt
 Append: [英央行如期按兵不动，滞胀风险加剧，5月降息或无悬念](https://www.fastbull.com/cn/news-detail/4323739_1)
 append_entries: 41
 Finish: 2025-03-22 00:58:43.073708
+------------------------------------------------------
+Started: 2025-03-23 01:02:03.660797
+Existing_entries: 1041
+Fetching from https://rsshub.app/fastbull/news
+Token length: 763
+Summarized using deepseek-chat
+Append: [美股尚未触底？“市场最后清仓”的散户还在越亏越买](https://www.fastbull.com/cn/news-detail/4323837_1)
+Token length: 842
+Summarized using deepseek-chat
+Append: [土耳其反对党呼吁举行全国抗议活动，里拉兑美元汇率再破新低](https://www.fastbull.com/cn/news-detail/4323832_1)
+Token length: 7014
+Summarized using deepseek-chat
+Append: [金价狂飙突进背后，一场严重的国际法币危机正在逼近](https://www.fastbull.com/cn/news-detail/4323679_1)
+Token length: 2208
+Summarized using deepseek-chat
+Append: [俄乌冲突缓和为商品市场带来哪些变化和转机](https://www.fastbull.com/cn/news-detail/4323652_1)
+Token length: 2874
+Summarized using deepseek-chat
+Append: [马斯克能否实现“减赤”壮举？](https://www.fastbull.com/cn/news-detail/4323535_1)
+Token length: 2137
+Summarized using deepseek-chat
+Append: [德国财政“松绑”能否让经济“喘口气”](https://www.fastbull.com/cn/news-detail/4323433_1)
+Token length: 1982
+Summarized using deepseek-chat
+Append: [信用利差收窄，美国潜在风险被低估？](https://www.fastbull.com/cn/news-detail/4323432_1)
+append_entries: 7
+Finish: 2025-03-23 01:03:16.553356
