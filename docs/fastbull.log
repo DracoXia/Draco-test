@@ -3347,3 +3347,27 @@ Summarized using deepseek-chat
 Append: [信用利差收窄，美国潜在风险被低估？](https://www.fastbull.com/cn/news-detail/4323432_1)
 append_entries: 7
 Finish: 2025-03-23 01:03:16.553356
+------------------------------------------------------
+Started: 2025-03-24 01:00:02.659712
+Existing_entries: 1007
+Fetching from https://rsshub.app/fastbull/news
+Token length: 1568
+Summarized using deepseek-chat
+Append: [中国汽车行业在发生地壳变动](https://www.fastbull.com/cn/news-detail/4323751_1)
+Token length: 2348
+Summarized using deepseek-chat
+Append: [朝鲜黑客为何如此擅长窃取加密货币？](https://www.fastbull.com/cn/news-detail/4323688_1)
+Token length: 3307
+Summarized using deepseek-chat
+Append: [特朗普为何要关闭美国教育部？](https://www.fastbull.com/cn/news-detail/4323742_1)
+Token length: 1391
+Summarized using deepseek-chat
+Append: [美国能向中国制造业学习什么？](https://www.fastbull.com/cn/news-detail/4323744_1)
+Token length: 711
+Summarized using deepseek-chat
+Append: [美联储“三把手”：经济前景充满不确定性，当前利率水平合适](https://www.fastbull.com/cn/news-detail/4323835_1)
+Token length: 3272
+Summarized using deepseek-chat
+Append: [特朗普2.0是否终结强势美元？](https://www.fastbull.com/cn/news-detail/4323743_1)
+append_entries: 6
+Finish: 2025-03-24 01:01:17.468182
