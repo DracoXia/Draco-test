@@ -859,3 +859,15 @@ Summarized using deepseek-chat
 Append: [三个亿砸广告不如下乡刷墙？别再问为啥你奶也玩上AI了](https://www.ifanr.com/1618545?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 3
 Finish: 2025-03-25 01:02:32.030640
+------------------------------------------------------
+Started: 2025-03-26 01:01:51.172110
+Existing_entries: 187
+Fetching from https://www.ifanr.com/feed
+Token length: 3333
+Summarized using deepseek-chat
+Append: [AI 按钮「占领」手机和电脑，体验真的更好了吗？](https://www.ifanr.com/1618642?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 11262
+Summarized using deepseek-chat
+Append: [早报｜曝 iPhone18 将首发台积电 2nm 芯片/鸿蒙智行「尚界」或将 4 月发布/DeepSeek V3 突然更新](https://www.ifanr.com/1618598?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 2
+Finish: 2025-03-26 01:02:20.091275

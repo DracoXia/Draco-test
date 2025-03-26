@@ -5,11 +5,410 @@
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
 <item>
+<title>AI 按钮「占领」手机和电脑，体验真的更好了吗？</title>
+<link>https://www.ifanr.com/1618642?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1618642?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> AI按钮 交互范式 系统级AI 入口问题 智能体验<br><br>总结:<br>1. 文章探讨了当前手机AI功能交互分散的问题，指出缺乏统一入口导致用户体验割裂。<br>2. 提出为AI增设专用物理按钮的设想，类比微软Copilot键和谷歌Quick Insert键的实践案例。<br>3. 分析Nothing Phone 3a的Essential Key和AI键盘两种方案，前者存在使用频率低的问题，后者因高效直达获好评。<br>4. 强调AI按键本质是解决功能入口问题，但非终极方案，理想状态应是AI无缝融入系统底层。<br>5. 预测未来AI交互将向无感化发展，如vivo原子岛的主动服务模式，最终实现"无形智能"。 <div>
+<p><img alt="" class="alignnone size-large wp-image-1618690" height="436" src="https://s3.ifanr.com/wp-content/uploads/2025/03/cover-1024x436.jpeg" width="1024" /></p>
+<p>前段时间上手了全新的三星 Galaxy S25，主编们让我着重体验一下这台手机著名的 AI 功能，于是我把它当作主力机来使用，换掉了手上这台和 AI 毫无关系的 iPhone 15。</p>
+<p>先不谈 Galaxy AI 好用与否，在体验的过程中，另一个想法也渐渐在我内心成型：目前用户和手机的交互，似乎还没有一个能很好容纳 AI 的范式。</p>
+<p><strong>这也衍生出了一个疑问：有必要为 AI，增加一颗专门的按钮吗？</strong></p>
+<h3>我想要一颗 AI 按钮</h3>
+<p>这样的想法，源于我刚刚拿到三星 Galaxy S25 时的体验。</p>
+<p>既然要体验「AI」，那 AI 在哪呢？第一反应肯定是直接长按那个曾经被称为「电源键」的长条按钮，果不其然，呼出了三星的 AI 语音助手 Bixby。内置了大模型的 Bixby 体验和大部分国产手机类似，能说会道，还能一句话帮忙发朋友圈。</p>
+<p><img alt="" class="alignnone size-large wp-image-1618691" height="1024" src="https://s3.ifanr.com/wp-content/uploads/2025/03/bixby-1-473x1024.gif" width="473" /></p>
+<p>但当我想使用圈点即搜、AI 识物等多模态功能时，我却有点困惑了，这些功能都藏在哪？</p>
+<p>没有教程，没有引导，也就是说，如果是不太了解手机 AI 的小白用户，他们很可能完全不知道自己花大几千买的新手机，还包含了这些发布会上大谈特谈的新功能。</p>
+<p><img alt="" class="alignnone size-large wp-image-1618654" height="815" src="https://s3.ifanr.com/wp-content/uploads/2025/03/circletosearch-1024x815.jpeg" width="1024" /></p>
+<p>这个现象不只是三星一家，同样非常重视手机 AI 的国产厂商，AI 的正确打开方式，也总是让人摸不着头脑：长按导航条、长按电源键、「AI 岛」&#8230;&#8230;各家还不完全一样，各种 AI 功能被塞在各种各样有点抽象的交互之中。</p>
+<p>但 AI 现在已经被提升到一种优先度极高的战略级地位，不管什么设备什么平台都要讲「AI」，什么操作都可以让 AI 赋能。</p>
+<p><strong>所以我不由得去思考，如果有一颗交互专门围绕 AI 功能的实体按钮，不管什么场景，只要一按，就能得到 AI 助力。</strong></p>
+<p><img alt="" class="alignnone size-full wp-image-1618656" height="667" src="https://s3.ifanr.com/wp-content/uploads/2025/03/aibutton.jpg" width="1000" /></p>
+<p><strong>而且，专门做一颗按钮，也能给消费者和用户一种更深刻的「AI 手机」印象。</strong></p>
+<p>AI 按钮这个概念，其实并不算特别新鲜。如果现在入手一台全新的 Windows 笔记本，很大概率会发现，方向键的左边是一个全新的按键。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618657" height="386" src="https://s3.ifanr.com/wp-content/uploads/2025/03/copilotkey.jpg" width="686" /></p>
+<p>从去年开始，微软出台一个新规范：所有的 「AI PC」笔记本，出厂都要配备一个「Copilot」按键，将旗下的 AI 功能提升到一个更高的地位。</p>
+<p>虽然一年过去，这个 Copilot 按键基本上只能用来呼出 Windows 的 Copilot 聊天机器人网页应用，而如果你在 Copilot 不支持的地区，那它就只是一个普通的搜索键而已。</p>
+<p>另一个桌面阵营的「AI 按键」就有用多了。Google 也在去年开始推广 ChromeBook 键盘上的「Quick Insert（快速插入）」按键，按下就能快速访问 ChromeOS 的 AI 生成工具菜单，快速生成需要的文字和图片内容，或者进行搜索。</p>
+<p><img alt="" class="alignnone size-large wp-image-1618659" height="576" src="https://s3.ifanr.com/wp-content/uploads/2025/03/quickinsert-1024x576.png" width="1024" /></p>
+<p>而苹果这边，iPhone 比 Mac 要抢先迎来「AI 按键」：iPhone 16 上的全新「拍照按钮」不仅能用来抓拍，还能用来启动「视觉智能」功能；没有拍照按钮的 iPhone 15 Pro 和 iPhone 16e 系列，则把这个交互放在了操作按钮上，方便用户抬手就能用 Apple 智能看世界。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618694" height="388" src="https://s3.ifanr.com/wp-content/uploads/2025/03/visuallinteeligenceavif.jpeg" width="690" /></p>
+<p>现在的 AI 形态，已经不满足于一问一答的聊天机器人，各种多模态和智能体，已经深入我们的工作流和设备当中，这也是现在厂商们提倡的「系统级 AI」。</p>
+<p>未来设备上的 AI 功能，一定会比现在花样更多，这时候就需要一颗专门用来承载这些功能的 AI 按钮了。</p>
+<p><img alt="" class="alignnone size-large wp-image-1618673" height="582" src="https://s3.ifanr.com/wp-content/uploads/2025/03/siri-1024x582.jpeg" width="1024" /></p>
+<div class="editor-image-source">
+<p>▲ 现在侧边按钮都能呼出语音助手，但或许还不够</p>
+</div>
+<p>比如，当用户在小红书刷到一家餐厅的种草帖，按下 AI 按键就能自动提取出相关的地址信息，推送大众点评的详细评价，还能自动安排合适的日程。</p>
+<p>没想到，一些不同的「AI」按键的设备，真的出现在我的面前。</p>
+<h3>不同的 AI 按键，体验如何？</h3>
+<p>作为一家新品牌，Nothing 没有太多的技术积累，很难像其他大牌一样拿出「系统级 AI」的解决方案，因此语音助手的集成上只能依靠 Google Gemini 和 ChatGPT。</p>
+<p>不过，全新的 Nothing Phone 3a 上面的 AI 功能要更别出心裁：名为「Essential Space」，有点类似老罗的「闪念胶囊」。</p>
+<p>用户可以随时按下锁屏按键下方的 Essential Key 截取一张屏幕截图，并可以加入一点文字描述，或者长按录音转文字 AI 也会在后台识别截图和录音的内容，生成一个摘要。</p>
+<p><img alt="" class="alignnone size-large wp-image-1618677" height="792" src="https://s3.ifanr.com/wp-content/uploads/2025/03/nothingaibutton-1024x792.jpeg" width="1024" /></p>
+<div class="editor-image-source">
+<p>▲ 电源键下方就是 AI 键，图源：The Wired</p>
+</div>
+<p>理念很美好，但用起来却有点在我的预期之下，一个问题是，很多时候我几乎想不起来有这么一个功能，误触的次数比主动唤醒要多得多。</p>
+<p>毕竟，要让用户形成全新的使用习惯并不容易，除非是一个让用户一碰就回不去的顶级功能。而这个简陋并且不太靠谱的 Essential Key，有用但不算特别好用，归纳总结和语音识别都不算特别准确，更多只是一个将重要信息保存在另一个地方的截图键和录音键而已。</p>
+<p><img alt="" class="alignnone size-large wp-image-1618678" height="756" src="https://s3.ifanr.com/wp-content/uploads/2025/03/essentialspace-1024x756.jpg" width="1024" /></p>
+<p>但与此同时，另一种「AI 按键」，却赢得了编辑部不少小伙伴的好评。</p>
+<p><img alt="" class="alignnone size-large wp-image-1618679" height="576" src="https://s3.ifanr.com/wp-content/uploads/2025/03/aikeyboard-1024x576.png" width="1024" /></p>
+<p>这个乍一看非常雷人的「AI 键盘」，其实就是一个做工 50 元的普通键盘，加上了一大堆能一键直达相应 AI 功能的按键：文稿校对、阅读理解、AI 问答、AI 写作&#8230;&#8230; 集成的是 DeepSeek R1 模型，然后售价高达 399 元。</p>
+<p>一开始，这个键盘以一种「智商税」的形象出现在我们的讨论之中，但一上手，我就被这种简单粗暴的交互方式折服，逢人便说好。</p>
+<p>原因很简单，这些一键直达的 AI 功能，很多都是我需要先点开浏览器页面，再点击 DeepSeek 的书签，还要往里面输入合适的 prompt，最后才能真正用上这些功能。</p>
+<p>所以，即使知道 DeepSeek 和 ChatGPT 的翻译、校对能力都要更胜一筹，很多时候我还是因为懒得打开相关页面和输入 promt，选择使用更古早的工具。</p>
+<p>而这一切都被这个方便的 AI 键盘颠覆，真正让 AI 直接渗透了了我的工作流。</p>
+<p><img alt="" class="alignnone size-large wp-image-1618685" height="499" src="https://s3.ifanr.com/wp-content/uploads/2025/03/mimouse-1024x499.png" width="1024" /></p>
+<div class="editor-image-source">
+<p>▲键盘联动的 AI 软件真的啥都有</p>
+</div>
+<h3>AI 交互的答案</h3>
+<p>要不要增加 AI 按键，说到底还是一个「入口」的问题。想要一个 AI 按键，其实就是渴望一个统一的 AI 入口，让 AI 为所有操作和交互赋能。</p>
+<p>AI 键盘就是直接用一种简单粗暴的方式，将各种各样的 AI 功能入口，直接推到我的手下，功能的实现路径被缩到最短。</p>
+<p><img alt="" class="alignnone size-large wp-image-1618686" height="506" src="https://s3.ifanr.com/wp-content/uploads/2025/03/aikey2-1024x506.png" width="1024" /></p>
+<p>当然，这也因为，AI 键盘的功能都是强生产力相关的，能完美融入我用电脑的工作流之中，极大增加工作效率。</p>
+<p>手机和电脑，不管是交互还是场景都有着不小差异。电脑上我们可以让 DeepSeek 生成十篇不同的文稿择优录取；手机上，我们希望 AI 能一声令下完成任务，但现在的技术水平还达不到百分百的可靠，难以说服用户积极使用。</p>
+<p>为 AI 单独设立一个按键，不管从智能设备的演变，还是 AI 发展的路径来看，或许都不算最终答案，最多只是一种过渡。</p>
+<p>不仅智能手机本身就在「去按键化」的道路上一往无前，如果过度依赖一个物理的入口，也会固化「AI = 独立工具」这样的认知，而目前公认的 AI 方案，其实都是让 AI 深入系统底层，实现「真智能」。</p>
+<p>毕竟，AI 不是目的，而应该是更好用户体验的手段。</p>
+<p>就像是 Nothing 的 Essential Space，如果能够实现全自动化，在我需要的时候，就能搜索快速检索出之前我看过的信息，比如淹没在海量聊天记录中的一家餐厅，或是飞机信息，那就是更加高级的智能。</p>
+<p><img alt="" class="alignnone size-large wp-image-1618687" height="573" src="https://s3.ifanr.com/wp-content/uploads/2025/03/personalcontext-1-1024x573.png" width="1024" /></p>
+<div class="editor-image-source">
+<p>▲ 苹果画饼的「AI Siri」其实就是想实现这种愿景</p>
+</div>
+<p>vivo 的「原子岛」也很有这种感觉：复制一个地址信息，原子岛就会建议地图导航；复制一个淘口令，原子岛里淘宝已经等着你去打开。</p>
+<p><img alt="" class="alignnone size-large wp-image-1618688" height="1024" src="https://s3.ifanr.com/wp-content/uploads/2025/03/originisland-466x1024.gif" width="466" /></p>
+<p>真正高明、简约的交互，不应该需要用户频频转移注意力去完成，而是当用户需要的时候，就能用最简单的方式获得需要的帮助，更多时候甚至是主动提供帮助。</p>
+<p>我相信，未来这几年内，会有更多设备做出 AI 按键的尝试，但最终又都会消失，甚至更多其他现存的交互也会不复存在，因为 AI 已经将一切完成了。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1618642">原文链接</a> ·
+<a href="https://www.ifanr.com/1618642#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Tue, 25 Mar 2025 10:44:04 +0000</pubDate>
+<pubDate>Tue, 25 Mar 2025 10:44:04 +0000</pubDate>
+</item>
+<item>
+<title>早报｜曝 iPhone18 将首发台积电 2nm 芯片/鸿蒙智行「尚界」或将 4 月发布/DeepSeek V3 突然更新</title>
+<link>https://www.ifanr.com/1618598?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1618598?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> DeepSeek V3 鸿蒙智行 蚂蚁集团 台积电2nm 美团NativeAI<br><br>总结:<br>1. DeepSeek无预告更新V3模型，性能接近Claude3.7，数学与编码能力提升，保持开源。<br>2. 鸿蒙智行新品牌"尚界"4月发布，首款车型基于上汽荣威改造，采用增程系统。<br>3. 蚂蚁集团用国产芯片训练AI模型，成本降20%，推出开源MoE模型Ling-Lite/Plus。<br>4. 台积电2nm工艺量产在即，iPhone或首发，良率达60-70%，单片成本3万美元。<br>5. 美团研发NativeAI产品"生活小秘书"，基于自研LongCat模型，王兴强调AI进攻策略。 <div>
+<div style="padding: 0 14px; text-align: center;"><img alt="cover" src="https://s3.ifanr.com/images/ep/cover-images/ti_ti_xi_yang_cover.jpg" /></div>
+<div style="padding: 0 14px;">
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🤖" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f916.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">DeepSeek 无预告更新 V3 模型</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🚗" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f697.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">消息称鸿蒙智行「尚界」发布在即</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="💻" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4bb.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">成本降低 20%，蚂蚁集团使用国产芯片训练 AI 模型</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="📱" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4f1.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">曝 iPhone 首发台积电 2nm 工艺</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="😯" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f62f.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">美团正研发 NativeAI 产品</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="💰" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4b0.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">比亚迪 2024 年营收超 7770 亿元</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🤖" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f916.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">蔚来李斌：今年四季度必须盈利</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="❗" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/2757.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">特斯拉回应「暂停 FSD 试用推送」：正在审批</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🎓" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f393.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">法拉利 F1 车队回应「成绩取消」</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🍭" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f36d.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">华为前副总裁加入智元机器人，任董事长兼 CEO</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="💡" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4a1.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">图灵奖得主杨立昆：LLM 无法产生真正的创新</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🍬" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f36c.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">制糖工厂 SlimBolt 细雳线 · 古蓝正式上线</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="📷" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4f7.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">全新 OPPO Find X8 系列将于 4 月发布</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🛠" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f6e0.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">中国福彩回应「AI 预测彩票」：系骗局</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="👾" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f47e.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">京东外卖日订单破百万</p>
+</div>
+</div>
+</div>
+<section><img alt="重磅" src="https://s3.ifanr.com/images/ep/common-images/xin_wen.png" /></section>
+<h3>DeepSeek 无预告更新 V3 模型</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/333687fb-f4ca-49f4-91e3-27edc629536b.jpeg" /></p>
+<p>昨晚，DeepSeek 毫无预告的情况下，在 Hugging Face上放出了最新的 DeepSeek-V3-0324 模型。</p>
+<p>先来看重点：DeepSeek-V3-0324 模型参数达 685B，目前在官方网站、APP 和小程序上已经可以体验（关闭深度思考）。</p>
+<p>本次更新为小版本更新，并非此前呼声较高的 DeepSeek-R2，但依然有不少亮点，甚至在某些能力已经与 Claude 3.7 Sonnet 相当接近。从网友反馈的实测效果来看，V3-0324 有这些提升：</p>
+<ul>
+<li>编码能力已经接近 Claude3.7 了，比之前的老版本 v3 能力要强；</li>
+<li>提升幅度大约与 Sonnet 3.5 到 Sonnet 3.6 一样，甚至还要大一点；</li>
+<li>与 R1 相比，V3-0324 在生成前端代码方面有了明显改进；</li>
+<li>数学能力也有提升，能像推理模型一样能够解题。</li>
+</ul>
+<p>DeepSeek-V3-0324 依然保持着开源的优良传统，而且是 MIT 开源许可，意味着比上一版更加开放了。</p>
+<p>Hugging Face 链接 <img alt="👉" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f449.png" style="height: 1em;" /> <a href="https://huggingface.co/deepseek-ai/DeepSeek-V3-0324/tree/main">https://huggingface.co/deepseek-ai/DeepSeek-V3-0324/tree/main</a></p>
+<section><img alt="大公司" src="https://s3.ifanr.com/images/ep/common-images/da_gong_si.png" /></section>
+<h3>消息称鸿蒙智行「尚界」发布在即</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/999ff337-a080-4468-ae23-8ccd801629fb.jpeg" /></p>
+<p>3 月 24 日，据财联社援引业内知情人士消息，鸿蒙智行「尚界」品牌计划于 4 月 10 日正式对外发布，届时将释放更多新品牌、新产品的相关信息。</p>
+<p>有市场消息称，尚界首款车型将以上汽荣威旗下内部代号为「ES39」的车型作为雏形打造，新车在动力系统方面或将采用上汽的增程系统方案。据悉，上述车型将会是上汽的存量车型优化而来，但仅此一款；该车型的主要目的是降低华为智驾、智舱等方案的成本。另有接近华为的业内人士透露，「尚界」首款车型将于今年内正式发布。</p>
+<p>报道指出，上汽集团与华为终端曾于今年 2 月在上海签署深度合作协议，根据协议双方将在产品定义、生产制造、供应链管理、销售服务等领域展开战略合作，打造全新新能源智能汽车。业内人士表示，华为与上汽集团的合作相较于其他「四界」的分工明确，要更为深入。</p>
+<p>据了解，上汽集团于今年 1 月 13 / 14 日申请注册「尚界」「上汽尚界」等多个商标，但国际分类并不含 12（即包含电动运载工具、电动汽车、自动驾驶汽车、汽车等商品 / 服务分类）；而在 2023 年 11 月，华为技术有限公司申请注册了国际分类为 12 的「尚界」商标，但该商标曾陆续转让给「四界」。</p>
+<h3>成本降低 20%，蚂蚁集团使用国产芯片训练 AI 模型</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/1573751e-5b12-4081-a6ed-986e3a85d4ed.jpeg" /></p>
+<p>据彭博社援引知情人士消息称，蚂蚁集团使用中国制造的半导体开发了一种训练 AI 模型的新技术，能将相关成本降低约 20%。</p>
+<p>消息人士表示，蚂蚁集团在训练模型时采用了包括阿里巴巴和华为在内的国产芯片，并使用了一种名为「专家混合」（Mixture of Experts，MoE）的机器学习方法。据称，这种训练方法取得了与英伟达 H800 等芯片相当的效果。其中一位知情人士透露，蚂蚁目前仍在使用英伟达的芯片进行 AI 开发，但在最新的模型中，主要依赖的是来自 AMD 和中国厂商的替代芯片。</p>
+<p>具体来说，蚂蚁集团 CTO、平台技术事业群总裁何征宇带领 Ling Team 团队，打造了两款开源 MoE 模型：Ling-Lite 和 Ling-Plus。前者参数规模为 168 亿，后者参数规模高达 2900 亿。</p>
+<p>公开论文显示，技术团队在模型预训练阶段使用较低规格的硬件系统，将计算成本（ 635 万元人民币 / 万亿 Token）降低约 20%，达 508 万元人民币，但模型性能却能与 Qwen2.5-72B-Instruct 和 DeepSeek-V2.5-1210-Chat 相媲美。不过，论文中也指出，即使是硬件或模型结构的微小改动，也可能引发问题，比如导致模型的错误率突然上升。</p>
+<p>此外，知情人士称，蚂蚁计划使用这两个新模型在医疗和金融领域提供 AI 服务。</p>
+<p>昨日，据财联社报道，针对外媒对蚂蚁百灵大模型训练成本的信息，蚂蚁回应称：公司针对不同芯片持续调优，以降低 AI 应用成本，目前取得了一定的进展，也会逐步通过开源分享。</p>
+<h3>曝 iPhone 首发台积电 2nm 工艺</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/f2c5fa6e-38a3-4c0d-8af9-d685234eaf21.jpg" /></p>
+<p>据工商时报报道，台积电 2nm 制程工艺有望今年量产，其位于高雄和宝山的工厂将是关键的生产基地。近日，台积电宣布将在高雄工厂于 3 月 31 日举行扩产典礼，首批晶圆预计 4 月底送达新竹宝山，此外，台积电也将在 4 月 1 日也开放接受预订下半年排程，而苹果有望率先锁定首批供应。</p>
+<p>台积电法人预估，若台积电 2nm 工艺生产顺利，2025 年底的月产能将提升至 5 万片。法人还透露，台积电 2nm 已准备就绪，并且还一同打破了苹果 A20 芯片不会采用 2nm 工艺的传闻。</p>
+<p>近日，分析师郭明錤也发文透露，2026 年发布的新款 iPhone（预测为 iPhone18）所搭载的处理器，将采用台积电的 2nm 制程工艺。郭明錤还提到，台积电的 2nm 良品率在三个月前已达到 60-70% 以上。</p>
+<p>此外，行业分析分析显示，2nm 晶圆单片成本约为 3 万美元。另据 Wccftech 报道，为降低客户成本，台积电计划于 4 月推出「CyberShuttle」服务，让客户能在同一测试晶圆上评估芯片，以减少研发开支。</p>
+<h3>苹果 AI 中文版即将正式登场</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/81794fc1-f1b0-48cf-983a-402f3da3f6cf.jpg" /></p>
+<p>今日，苹果向 iPhone 和 iPad 用户推送了 iOS / iPadOS 18.4 RC 更新（内部版本号：22E239），本次更新距离上次发布 Beta / RC 间隔 7 天。</p>
+<p>其中 Apple 智能（Apple Intelligence）新增支持法语、德语、意大利语、葡萄牙语（巴西）、西班牙语、日语、韩语和简体中文，以及新加坡和印度的本地化英语。而这也意味着，国行版的苹果 AI 又能再进一步。</p>
+<p>此外，iOS 18.4 引入了「优先级通知」功能，系统会自动判断哪些通知最为重要，并在锁屏上以醒目方式展示；而 AI 图片生成功能 Image Playground 新增「手绘风格」选项，用户可以生成类似手绘的图像。</p>
+<p>此前，据彭博社报道，有知情人士透露，苹果公司计划在 2025 年中期之前，在国行版 iPhone 上引入 AI 功能。 在 2 月 13 日，在阿联酋迪拜举办的 World Governments Summit 2025 峰会上，阿里巴巴联合创始人、董事局主席蔡崇信确认了苹果与阿里巴巴共同中国 iPhone AI 功能一事。</p>
+<p>同时，据 The Information 报道，有两位知情人士透露，虽然苹果公司已经与阿里巴巴达成合作，将为国行版的 iPhone 用户提供 AI 功能，但苹果仍在继续与百度合作，共同为中国的 iPhone 用户开发人工智能功能。</p>
+<h3>美团正研发 NativeAI 产品</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/0045fae4-abff-4747-8e10-aec0dfa62233.jpg" /></p>
+<p>昨日，美团核心本地商业 CEO 王莆中在「即刻」透露，美团正在做一款 NativeAI（原生人工智能）产品，愿景是「每个人都能有一个专属的生活小秘书」。</p>
+<p>王莆中表示，美团正积极发挥内部的数据、场景和产业优势，从而布局上述的 NativeAI 产品，同时公司在招聘 AI 研发和产品人员。王莆中还透露，该项目由他发起，但并非带队者。</p>
+<p>近期，美团 CEO 王兴参与公司 2024 年财报电话会议时曾透露，美团在人工智能技术方面的策略始终是「主动进攻」而非「被动防守」。王兴认为，每当有像人工智能这样颠覆性的技术出现时，唯一有意义的应对策略并非捍卫已有的东西，而是要利用自身所拥有的一切资源去主动进攻，这是唯一行之有效的应对策略。</p>
+<p>据透露，目前已经开发了美团内部的大语言模型，名为 LongCat。通过将 LongCat 与其他模型相结合，为美团的员工推出了一系列工具，包括 AI 编码、智能会议与文档助手等等。</p>
+<h3>比亚迪 2024 年营收超 7770 亿元</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/db9d24b0-3c99-4143-aba6-b2622aa75952.jpg" /></p>
+<p>昨晚，比亚迪公布其 2024 年全年财报，号称「比亚迪史上最强财报」。具体来看：</p>
+<ul>
+<li>比亚迪 2024 年营收 7,771.02 亿元，同比增长 29.02%；</li>
+<li>全年归母净利润 402.54 亿元，同比增长 34.00%（注：归属于母公司所有者的净利润）；</li>
+<li>比亚迪 2024 年全球销量达 427 万辆，同比增长 41%；</li>
+<li>全年研发投入达 542 亿元，同比增长 36%。</li>
+</ul>
+<p>值得关注的是，截至 2024 年末，比亚迪现金储备达到创纪录的 1,549 亿元，而有息负债从 2023 年的 365.5 亿元下降至 285.8 亿元，在总负债的占比只有 4.9%，处于行业最低水平。</p>
+<p>此外，在业绩高速增长的同时，比亚迪积极履行社会责任，国内纳税总额达 510 亿，比同期净利润高一百多亿；其员工总人数近 97 万人，为解决就业作出积极贡献。</p>
+<h3>蔚来李斌：今年四季度必须盈利</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/eafd1b4a-b74c-4be4-b23e-2230c7ca0544.jpeg" /></p>
+<p>据晚点 Auto 发文透露，蔚来创始人、CEO 李斌近日召开了一场蔚来小范围沟通会。李斌在会上阐述了蔚来今年及未来的发展方向。会上，李斌调侃表示，最近经常在微信上收到与蔚来公司治理相关的建议，挺有意思的，现在每天晚上都要说感谢。</p>
+<p>李斌提到，蔚来最核心的任务就是要在今年四季度实现盈利，其强调，蔚来不能用过长的时间跨度去实现盈利目标。李斌表示，蔚来今年多款产品交付，到了第四季度，公司销售服务及换电站建设都将基本完成阶段性布局，若在第四季度未能完成盈利，对整个公司的长远发展、商业模式都将是非常大的考验。</p>
+<p>在聊到「盈利」话题时，李斌谈及「蔚来最接近盈利是在 2021 年」，当时蔚来拥有 20% 以上的毛利率。而李斌也透露，目前公司正在实行「Cost Mining（成本挖矿）」「降本工作」等多个降本措施，其目的是为了蔚来品牌整车回到 20% 的毛利率，从目前的实行结果来看，回到 20% 毛利率并非「天方夜谭」。</p>
+<p>同时，李斌也透露了蔚来及旗下品牌在今年的一些发展动作：</p>
+<ul>
+<li>新款「5566」主要在外观设计、内饰、座舱和自研芯片上有不小提升；（注：5566 指蔚来 ET5 / 5t、蔚来 ES6、蔚来 EC6 四款车型）</li>
+<li>蔚来自研的神玑智驾芯片可以完全平替英伟达 Thor，某些方面甚至更强，是全球首颗车规 5 纳米智驾芯片，性能非常精准、先进。蔚来将自己先采用该芯片，李斌还表示，如果其他公司愿意使用，神玑芯片也将开放；</li>
+<li>乐道还有一款大五座 SUV，名字可能是 L80。L90 三季度交付，L80 四季度交付；</li>
+</ul>
+<h3>苹果在华投资 7.2 亿清洁能源基金</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/1447494d-1d85-4e76-b5b5-e0b3678697af.jpg" /></p>
+<p>3 月 24 日，苹果发文宣布加注一笔新的投资基金，旨在扩大中国的清洁能源产能，并表示该笔投资，是公司实现 2030 年将其供应链过渡到 100% 使用可再生能源的努力的一部分。</p>
+<p>苹果方面称，其承诺投资高达 7.2 亿元人民币，以启动第二期中国清洁能源基金。有了苹果的这笔锚定投资，该基金的目标是每年为中国电网新增约 55 万兆瓦时的风能和太阳能发电能力，并且发电能力将随着更多投资者的加入而增长。据悉，苹果首个中国清洁能源基金已经超过既定目标，在中国 14 个省新建超过 1 千兆瓦的风能和太阳能项目。</p>
+<p>除了帮助中国的电网变得更加清洁，新基金还将帮助推动苹果 2030 的进展。苹果称，其宏伟目标是在未来五年内全部碳足迹实现碳中和，包括整个供应链和产品的全生命周期。 作为目标的一部分，苹果将与供应商密切合作，促使苹果产品相关的生产中过渡到 100% 使用可再生能源。</p>
+<p>苹果指出，目前苹果在中国约三分之二的生产由可再生能源驱动，100 多家供应商为这一进展做出了贡献。</p>
+<h3>Google Gemini Live 上线实时 AI 视频对话</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/e3d78c3e-d471-4429-8c26-19910a6eedfd.jpeg" /></p>
+<p>昨日，据 The Verge 报道，Google 发言人亚历克斯・约瑟夫（Alex Joseph）在一封邮件中确认，Gemini Live 正式上线实时 AI 视频对话。而上述功能由 Google 一年前推出的 Project Astra 项目提供技术支持。</p>
+<p>据了解，Gemini Live 所提供的实时 AI 视频对话，能够让 Gemini Live 了解用户的屏幕内容，亦或者通过设备摄像头进行周围画面的获取。在画面捕捉的同时，用户可以通过语音向 Gemini Live 提问，软件也将实时回答相关问题，值得关注的是，从官方公布的演示片中可以发现，上述功能或支持上下文记忆及理解。</p>
+<p>距了解，Google 在去年 5 月的 2024 I/O 开发者大会上公布了 Project Astra 项目，其基于 Gemini 模型诞生，可在 Pixel 手机上完成本地运行。Google 表示 Project Astra 是最新的多模态 AI 项目，用户只需要打开手机摄像头，Project Astra 就可以直接为用户解释画面中的内容。</p>
+<h3>特斯拉回应「暂停 FSD 试用推送」：正在审批</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/e292a95e-3ed1-4ddf-84dd-3d16d050b31d.jpeg" /></p>
+<p>近期，博主「胖虎 Shawn」发文称，据一线消息，特斯拉的 FSD 试用已确认暂停推送，恢复时间不详。并在评论区回复表示，「特斯拉只是暂停 FSD 试用，并未撤回 FSD，但暂停 FSD 试用的原因暂不知悉」。</p>
+<p>而在昨日，特斯拉客户支持在公司副总裁陶琳的微博评论区中，回应了上述的「暂停 FSD 推送」消息：</p>
+<blockquote><p>根据最新发布的《关于进一步加强智能网联汽车产品准入、召回及软件在线升级管理的通知》要求，特斯拉团队正在完成 3.0 以及 4.0 硬件分别对应智能辅助驾驶软件的审批工作。各方都在积极推进相关进程，一旦准备就绪，便会尽快推送给大家。</p></blockquote>
+<p>据悉，特斯拉于今年 3 月 17 日宣布推出 FSD 智能辅助驾驶限时体验活动，活动日期从 3 月 17 日至 4 月 16 日，为期一个月。上述推送的 FSD 智能辅助驾驶支持「城市道路 Autopilot 自动辅助驾驶」：</p>
+<p>在通行受控道路（道路使用者通过匝道入口和匝道出口进出的主干道）和城市道路上使用 Autopilot 智能辅助驾驶，会根据导航路线引导车辆驶出匝道和交叉口，在路口识别交通信号灯进行直行，左转，右转，掉头等动作。并根据速度和路线自动进行变道动作。在不设置导航路线时，会根据道路实际情况选择最优道路行驶。</p>
+<h3>法拉利 F1 车队回应「成绩取消」</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/d49ef2ad-a052-4b16-a56d-0d12e311b4ce.jpeg" /></p>
+<p>3 月 23 日晚，2025 年 F1 中国大奖赛结束后，F1 官方发布声明称：</p>
+<ul>
+<li>AlpineF1 车队的法国车手皮埃尔·加斯利、法拉利车队的摩纳哥车手夏尔·勒克莱尔，两人的赛车重量低于最低要求（800KG），成绩被取消；</li>
+<li>法拉利车队的英国车手刘易斯·汉密尔顿的赛车底部木板的厚度低于最低要求，同样被取消成绩。</li>
+</ul>
+<p>昨日，法拉利 F1 车队通过个人社交媒体账号，发布声明表示，在国际汽联赛后的技术审查中，法拉利 F1 车队两台赛车由于不同的原因未能符合相关规定：</p>
+<ul>
+<li>夏尔所驾驶的 16 号赛车的重量低于最低限重标准 1KG；</li>
+<li>刘易斯驾驶的 44 号赛车底部木板厚度低于最低要求 0.5mm。</li>
+</ul>
+<p>法拉利 F1 解释称，夏尔在当日执行了一停的策略，因此意味着他驾驶的车辆的轮胎磨损非常严重，从而导致他的赛车重量低于最低限重；而刘易斯驾驶的赛车底部木板磨损，则是由于车队在部件损耗预估上的微小偏差导致。</p>
+<p>对于上述情况，法拉利 F1 车队表示无意获得任何优势，同时会从当日发生的事情中吸取教训，并确保以后不会再犯同样的错误。</p>
+<h3>华为前副总裁加入智元机器人，任董事长兼 CEO</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/7acd5768-0421-4e85-a6a4-b770ba3f88a3.jpg" /></p>
+<p>据国家企业信用信息公示系统网站，近期上海智元新创技术有限公司（简称「智元机器人」）发生工商变更，公司注册资本增加至 8,045.8159 万元，值得关注的是，公司法定代表人由舒远春变更为邓泰华。据中证金牛座从知情人士处了解到，邓泰华已担任智元机器人董事长、CEO。</p>
+<p>据了解，邓泰华是华为公司原副总裁、计算产品线原总裁。</p>
+<p>而在昨日，据科创板日报报道，从知情人士方面了解到，智元机器人近期已完成了新一轮融资，腾讯领投。此次是腾讯投资在具身智能领域首次出手，本次有多家产业方及老股东跟投，包括龙旗科技、卧龙电气、华发集团、蓝驰创投等。据了解，智元机器人还在以 150 亿估值进行新一轮融资接洽。</p>
+<p>据了解，智元机器人由原「华为天才少年」彭志辉（稚晖君）所创立，专注于具身智能。2024 年 9 月，智元机器人完成了 A++ 轮融资，并且估值已经超过 70 亿元人民币。近日，智元机器人正式发布其最新研发的全能探索机器人「灵犀 X2」以及首个通用具身基座大模型「智元启元大模型（Genie Operator-1）」。</p>
+<h3><img alt="💡" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4a1.png" style="height: 1em;" /> 图灵奖得主杨立昆：LLM 无法产生真正的创新</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/ec1a9a73-8ad6-48a6-ab11-fcde5eeba8d4.jpg" /></p>
+<p>在最近一期的 Big Technology Podcast 中，Meta 首席 AI 科学家、图灵奖得主 Yann LeCun 分享了他对当前 AI 技术限制及未来发展的深刻见解。</p>
+<p>LeCun 明确指出，尽管当前的大型语言模型(LLMs)能够完成令人印象深刻的任务，但它们本质上仍是基于文本统计特征的复述和检索工具，无法产生真正的创新。他认为 AI 发展正面临收益递减的瓶颈，并表示即使通过合成数据或雇佣专家生成更多内容，系统在掌握基本逻辑方面仍然存在困难，投入与回报比例日益失衡。</p>
+<p>对于当前 AI 行业的巨额投资，LeCun 认为这些资金主要用于建设未来几年所需的推理基础设施，而非仅为当下服务。他预测，虽然新范式不会在未来三年内完全成熟，但在 3-5 年内可能实现突破，与当前投资趋势基本一致。</p>
+<p>谈及开源与专有模型的竞争，LeCun 表示开源正在展现出更快的进展速度。他以 DeepSeek 为例，指出一个自由的小团队能提出新颖想法，甚至重新定义方法，这表明开源模式在推动创新方面具有独特优势。</p>
+<section><img alt="新产品" src="https://s3.ifanr.com/images/ep/common-images/hao_chan_pin.png" /></section>
+<h3>制糖工厂 SlimBolt 细雳线 · 古蓝正式上线</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/a67d32d0-9dd7-4661-8ee1-2834dead8884.jpg" /></p>
+<p>「蓝朋友」来袭！继糖橙、幻黑后，制糖工厂旗下重磅产品 SlimBolt 细雳线家族上线新色彩——古蓝。</p>
+<p>细雳线是制糖工厂专为创作者及其使用场景打造的全新品类，是兼容 USB4 的全功能贴贴线。它颠覆式结合了「极细线径」「顶格高速」及「全磁吸」的全新体验，传输速度可达 3GB / 秒，真正做到一日拍摄，一秒传输。</p>
+<p>春日贴贴，无论是性能还是颜色，这根蓝色细雳线都会是户外拍摄创作的好搭档。</p>
+<p>扫码关注爱范儿小红书，在后台发送<strong>关注截图</strong>及<strong>关键词「0325」</strong>，<strong>抽三位小伙伴和古蓝色细雳线一起贴贴。</strong></p>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/faad029e-3b37-4d92-9cf7-c2af2c8ed264.jpg" /></p>
+<h3>百度「秒哒」生成式应用开发平台上线</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/5aca88ba-ff40-44db-8b18-0ace9424f679.jpg" /></p>
+<p>3 月 24 日，在百度 AI Day 上，百度正式宣布生成式应用开发平台「秒哒」全量上线。</p>
+<p>官方介绍，秒哒是一款无代码工具，具有以下关键技术优势：</p>
+<ul>
+<li>无代码编程：整个开发过程中，不需要用户敲一行代码，只要描述需求，秒哒就能理解。同时，秒哒支持多轮修改，生成后继续和秒哒对话，提出修改 / 补充建议，就能即刻查看修改后的效果；</li>
+<li>多智能体协作：秒哒推出了「多智能体协作矩阵」，内置需求收集、应用生成、内容生成等十多个 AI 角色，能根据需求动态调整策略和行为，分配合适的智能体进行协作开发；</li>
+<li>多工具调用：秒哒集成了百度智能云多种工具和服务，包括数据检索、图像处理、地图定位、语音识别，以及云计算资源的管理和调度。秒哒还内置了进化式工作流，会根据用户使用习惯和反馈，不断优化智能体的决策逻辑和代码生成算法。；</li>
+<li>值得关注的是，秒哒支持用户用自然语言就能指挥多个智能体互相协作，完成应用开发。</li>
+</ul>
+<p>目前秒哒已上线其官网。体验链接 <img alt="👉" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f449.png" style="height: 1em;" /> <a href="https://miaoda.baidu.com">https://miaoda.baidu.com</a></p>
+<h3>全新 OPPO Find X8 系列将于 4 月发布</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/55c8ddf3-a297-4a9d-b195-adba251fc63f.jpeg" /></p>
+<p>昨日，OPPO 正式宣布将在 4 月 10 日，举行全新 OPPO Find X8 系列暨移动智能生态新品发布会。本次发布会将发布：</p>
+<ul>
+<li>OPPO Find X8s / X8s+</li>
+<li>OPPO Find X8 Ultra</li>
+<li>OPPO Pad 4 Pro 平板</li>
+<li>OPPO Watch X2 Mini 手表</li>
+<li>OPPO Enco Free4 耳机</li>
+</ul>
+<p>同日，OPPO 首席产品官刘作虎发文透露了更多关于 OPPO Find X8 Ultra 的影像系统信息。刘作虎表示，Find X8 Ultra 将采用「丹霞原彩镜头」方案，来解决复杂光源下，相机对人物肤色、环境色彩的还原不准这一问题。</p>
+<p>刘作虎介绍，OPPO 为行业带来了首款能够对环境光进行智能分区计算，还原主体肤色与环境氛围的原彩镜头，并能判断出冷暖色分布的趋势。刘作虎强调，「丹霞原彩镜头」方案是一套完整的图像系统：</p>
+<blockquote><p>「丹霞原彩镜头」通过传感器精准捕捉画面中主体与环境的色彩信息，再结合算法对复杂的环境光线进行精准的分区识别与计算，最终还原出准确、美观且自然的肤色。</p></blockquote>
+<h3>努比亚 Z70 Ultra 摄影师版入网图曝光</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/6d04a394-fa27-4e6f-afb8-2cc387e9659a.jpg" /></p>
+<p>近日，据电信设备进网许可信息显示，努比亚 Z70 Ultra 摄影师入网。从入网证曝光的外观看，新机沿袭了努比亚摄影师系列的经典相机外观设计，左侧搭载物理滑动键，右侧支持一颗实体机械快门键，预计近期发布。</p>
+<p>努比亚 Z70 Ultra 于 2024 年 11 月 21 日正式发布，采用 35mm 定制光学可变光圈主摄；长焦为 64MP 的潜望镜长焦，支持长焦微距以及 f2.48 的大光圈；超广角等效焦距从 18mm 变更为 13mm。</p>
+<section><img alt="新消费" src="https://s3.ifanr.com/images/ep/common-images/pin_pai.png" /></section>
+<h3>QQ 宣布调整短视频业务</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/40eba9ff-b61c-4844-a25b-34f9a1afd4d7.jpg" /></p>
+<p>3 月 24 日晚，腾讯 QQ 正式对外宣布，因运营策略调整，QQ 短视频业务自 2025 年 4 月 2 日起（若遇特殊情况可能延后调整），不再支持用户发布个人作品和浏览他人的作品等体验。用户过往的短视频作品将自动保存至 QQ 空间。而据QQ 短视频客服表示此举并非意味着「停运」，而是近期可能会调整，具体需要关注 QQ 短视频手机端官方后续调整。</p>
+<p>QQ 短视频于 2020 年 4 月亮相，其从原来的 QQ 小世界更名而来。QQ 小世界最初定位为一个内容娱乐社区，支持用户上传图文和视频内容。随着市场趋势和用户需求的变化，小世界逐渐转向以短视频内容为重点。</p>
+<p>本月初，澎湃新闻曾从相关内部人士处了解到，QQ 因伴随产品功能不断丰富，已逐渐显露臃肿，影响用户社交体验。在此背景下，QQ 开始深度变革，并进行「瘦身」，而 QQ 短视频业务便是其中之一。</p>
+<p>此外有消息称，腾讯平台与内容事业群（PCG）近期对旗下的 QQ 业务线进行了部分业务人员的调整。调整主要针对 QQ 小世界团队，或将取消大量岗位，目前该板块人员规模约在 300 人左右。</p>
+<h3>美团测试「成人情趣」一级入口</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/8faa7272-5d9e-48da-b23f-f84c890b71f1.jpg" /></p>
+<p>据 Tech 星球获悉，美团成人情趣用品业务启动服务升级，并在近期，美团 App 开始测试一个名为「成人情趣」的一级入口，给予了较高的流量位置。</p>
+<p>报道还指出，从去年开始，美团正在做一个成人店品牌，叫 LOVE LAB，隶属于美团买药，采用全托管自营模式，平台参与整体选品、店铺运营、商品供应链建设，目前其在深圳广州试点。据美团员工透露，他们要打造成人行业即时零售场景第一消费新知品牌。</p>
+<p>据了解，美团 LOVE LAB 是专门经营成人用品行业的连锁门店品牌，以外卖店的形式经营。LOVE LAB 主要服务于有品质消费需求、中高消费能力的中年用户。据知情人士透露，LOVE LAB 可以提供商品更优质、隐私更完善、配送更快捷的消费体验。值得关注的是，LOVE LAB 于 2024 年 2 月上线首家合作门店，4 月便完成了经营爬坡。</p>
+<h3>中国福彩回应「AI 预测彩票」：系骗局</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/b284e021-51b1-4ed6-83a4-b445a34dd9c0.jpg" /></p>
+<p>近日，中国福彩发文称，近期一些不法分子打着「AI 预测彩票号码，百分百中奖」的幌子，诱导购彩者付费购买所谓的「预测服务」，让不少人上当受骗。对此，中国福彩强调：所谓 AI 预测彩票号码，100% 是骗局。</p>
+<p>中国福彩解释，彩票是一种概率游戏，每一种组合有着相同的中奖概率，并且每次开奖都是一次独立的随机事件，毫无规律可言。同时中国福彩也表示，即使 AI 能对历史开奖号码进行所谓的「复杂」分析，也无法预测下一次开奖号码，因为彩票的每次开奖都是独立事件，不受之前结果的影响。</p>
+<p>中国福彩提醒：</p>
+<ul>
+<li>在追求幸运的同时，请务必保持清醒的头脑和理性的判断；</li>
+<li>请务必警惕，不要被那些虚假的承诺和诱惑所迷惑；</li>
+<li>提升自己的防骗意识，增强识别各类骗局的能力，坚决不上当受骗，保护好自己的财产安全。</li>
+</ul>
+<h3>京东外卖日订单破百万</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/84d3dfff-9909-4285-930e-cc48a36627df.jpg" /></p>
+<p>3 月 24 日，京东黑办法发文宣布，京东外卖上线 40 天，日订单量已突破 100 万。</p>
+<p>据京东介绍，「0 佣金」政策助商家获益，因此平台上现已拥有大量月销订单突破 2,000 单门店。据悉，目前京东外卖平台上，已有超 45 万家品质堂食餐厅为全国 142 城用户提供餐品。</p>
+<p>值得关注的是，今年 2 月 19 日，京东宣布，自今年 3 月 1 日起，公司将逐步为京东外卖全职骑手缴纳五险一金，为兼职骑手提供意外险和健康医疗险。随后更是发文确认，京东将承担外卖骑手五险一金的所有成本。</p>
+<section><img alt="好看的" src="https://s3.ifanr.com/images/ep/common-images/hao_kan_de.png" /></section>
+<h3>《星际宝贝史迪奇》真人大电影确认引入</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/fb712a1c-4c58-4f3b-9a76-6b46ad469c01.jpg" /></p>
+<p>昨日，迪士尼电影宣布全新真人大电影《星际宝贝史迪奇》将引入中国内地，上映时间待定。</p>
+<p>影片改编自 2002 年动画电影，讲述孤独的夏威夷小女孩莉萝和看起来调皮捣蛋的外星生物史迪仔的冒险故事。</p>
+<p>《星际宝贝》真人电影由迪恩·弗雷斯彻-坎普执导，玛雅·基洛哈饰演莉萝，西德妮·阿古顿饰演饰演莉萝的姐姐兼监护人兰莉，扎克·加利凡纳基斯配音独眼霹雳，比利·马格努森等也出演，而故事主角「史迪仔」为电脑 CG 打造；影片将于 5 月 23 日北美上映。</p>
+<h3>阿根廷电影《荒蛮故事》中国定档</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/7f7b4bd8-18de-4ff0-adf2-ca6d3594233a.jpg" /></p>
+<p>阿根廷电影《荒蛮故事》正式宣布中国内地定档，将于 4 月 11 日上映。</p>
+<p>据了解，《荒蛮故事》由六个独立的短篇故事组成，讲述了航班复仇、深夜餐厅下药、路怒症引发血案、因为一张罚单爆破大楼、酒驾逃逸顶包、婚礼出轨的故事，以极端荒诞的方式展现了人在面对压力、背叛和不公时的本能反应，探讨了愤怒、复仇和社会不公等主题。</p>
+<p>影片由达米安·斯兹弗隆执导，里卡杜·达林、达里奥·葛兰帝内提、艾丽卡·里瓦斯等主演，于 2014 年 5 月 7 日戛纳电影节首映，同年 8 月 21 日阿根廷上映。</p>
+<h3>漫威《雷霆特攻队*》宣布引进中国内地</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.25_%E6%97%A9%E6%8A%A5/a0e9d40e-afe6-420a-9ab3-7ffc46d014a2.jpg" /></p>
+<p>3 月 24 日，漫威影业宣布旗下新片《雷霆特攻队 *》将引进中国内地，暂未定档。</p>
+<p>《雷霆特攻队 *》改编自库尔特·布塞克的同名漫画系列，讲述一群曾经担任反派的角色组队为政府执行任务的故事。</p>
+<p>影片由杰克·施莱尔执导，佛罗伦斯·珀、塞巴斯蒂安·斯坦、大卫·哈伯、怀亚特·拉塞尔等主演，将于今年 5 月 2 日北美上映。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1618598">原文链接</a> ·
+<a href="https://www.ifanr.com/1618598#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Tue, 25 Mar 2025 02:38:17 +0000</pubDate>
+<pubDate>Tue, 25 Mar 2025 02:38:17 +0000</pubDate>
+</item>
+
+<item>
 <title>36.8 万起售的问界 M8 小订两周破 7 万，果然问界还是贵的好卖？</title>
 <link>https://www.ifanr.com/1618486?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1618486?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-<div> 关键词：问界M8、预售火爆、智能化配置、销量争议、华为生态<br><br>总结:<br>1. 问界M8预售两周订单超7万，36.8万起售价定位豪华SUV，主打家庭出行和智能化配置，车身尺寸接近M9，提供5/6座布局。<br>2. 配备百万像素智慧大灯、激光雷达和4D毫米波雷达，华为智驾系统支持极端天气，纯电续航300km，综合续航1526km。<br>3. 赛力斯2月销量同比暴跌39%，问界系列下降46.52%，但M9表现亮眼，72小时大定破2.1万台。<br>4. 争议集中在春节因素与产品周期影响，或华为生态优势减弱，但M8凭借产品力有望扭转局面。 <div>
+<div> 关键词：问界M8、预售火爆、智能化配置、销量争议、华为生态<br /><br />总结:<br />1. 问界M8预售两周订单超7万，36.8万起售价定位豪华SUV，主打家庭出行和智能化配置，车身尺寸接近M9，提供5/6座布局。<br />2. 配备百万像素智慧大灯、激光雷达和4D毫米波雷达，华为智驾系统支持极端天气，纯电续航300km，综合续航1526km。<br />3. 赛力斯2月销量同比暴跌39%，问界系列下降46.52%，但M9表现亮眼，72小时大定破2.1万台。<br />4. 争议集中在春节因素与产品周期影响，或华为生态优势减弱，但M8凭借产品力有望扭转局面。 <div>
 <p><img alt="" class="alignnone size-full wp-image-1618500" height="675" src="https://s3.ifanr.com/wp-content/uploads/2025/03/20-1.jpg" width="1200" /><br />
 问界 M8 卖的相当火爆，上周的发布会上，余承东说，「自预售启动以来，已经赢得了超过 7 万名消费者的青睐，提前预订了小订订单」。</p>
 <p><img alt="" class="alignnone size-full wp-image-1618487" height="233" src="https://s3.ifanr.com/wp-content/uploads/2025/03/10-2.jpg" width="690" /></p>
@@ -51,7 +450,6 @@
 </div>
 ]]></content:encoded>
 <pubDate>Mon, 24 Mar 2025 13:00:47 +0000</pubDate>
-<pubDate>Mon, 24 Mar 2025 13:00:47 +0000</pubDate>
 </item>
 <item>
 <title>新车速递｜全新 AMG GT 63 4MATIC + / 中期改款大众揽境 / 别克 GL8 陆尚谍照</title>
@@ -60,7 +458,7 @@
 <content:encoded><![CDATA[
 <div> AMG GT 63、揽境、GL8 陆尚、V8发动机、插电混动  
 
-<br><br>总结:  
+<br /><br />总结:  
 1. 奔驰发布全新AMG GT 63 4MATIC+，搭载4.0T V8发动机，最大功率430千瓦，0-100km/h加速3.2秒，配备F1技术扰流板和DRS尾翼，预售价约150万人民币。  
 2. 2025款大众揽境为中期改款，车长增加16mm，升级电子怀挡和大屏内饰，保留2.0T/2.5T动力，主打6/7座布局。  
 3. 别克GL8陆尚谍照曝光，定位30万级插混MPV，纯电续航111km，采用1.5T+电机动力，计划4月上市并推行直销模式。  
@@ -117,14 +515,13 @@
 </div>
 ]]></content:encoded>
 <pubDate>Mon, 24 Mar 2025 13:00:47 +0000</pubDate>
-<pubDate>Mon, 24 Mar 2025 13:00:47 +0000</pubDate>
 </item>
 <item>
 <title>三个亿砸广告不如下乡刷墙？别再问为啥你奶也玩上AI了</title>
 <link>https://www.ifanr.com/1618545?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1618545?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-<div> AI营销 下沉市场 符号化推广 需求创造 技术进化<br><br>总结:<br>1. AI产品营销策略从城市精英转向下沉市场，如元宝通过刷墙广告和腾讯系App全面推广。<br>2. 斯坦福研究显示低教育水平地区用户更依赖AI工具撰写投诉，使用频率更高。<br>3. 符号化营销（如Kimi人格化包装）通过创造需求填补用户对AI功能的认知空白。<br>4. 农业等经验主导领域AI应用存在局限性，但下沉市场可能成为增量突破口。<br>5. 技术迭代（如DeepSeek模型）仍是决定产品长期竞争力的核心因素。 <div>
+<div> AI营销 下沉市场 符号化推广 需求创造 技术进化<br /><br />总结:<br />1. AI产品营销策略从城市精英转向下沉市场，如元宝通过刷墙广告和腾讯系App全面推广。<br />2. 斯坦福研究显示低教育水平地区用户更依赖AI工具撰写投诉，使用频率更高。<br />3. 符号化营销（如Kimi人格化包装）通过创造需求填补用户对AI功能的认知空白。<br />4. 农业等经验主导领域AI应用存在局限性，但下沉市场可能成为增量突破口。<br />5. 技术迭代（如DeepSeek模型）仍是决定产品长期竞争力的核心因素。 <div>
 <p>前阵子 Manus 出圈的时候，邀请码制度引发了一阵对于 AI 产品营销的讨论。再往前，还有过「国产 AI 的钱都花在投放上」的讨论。</p>
 <p>正当所有人都在讨论花钱投放值不值的时候，元宝，以一种截然不同的姿态站了出来：</p>
 <p><img alt="" class="alignnone size-full wp-image-1618473" height="707" src="https://s3.ifanr.com/wp-content/uploads/2025/03/yaunbao-rural-2.png" width="534" /> <img alt="" class="alignnone size-full wp-image-1618474" height="462" src="https://s3.ifanr.com/wp-content/uploads/2025/03/yuanbao-rural.png" width="614" /><br />
@@ -189,9 +586,7 @@
 </div>
 ]]></content:encoded>
 <pubDate>Mon, 24 Mar 2025 08:54:23 +0000</pubDate>
-<pubDate>Mon, 24 Mar 2025 08:54:23 +0000</pubDate>
 </item>
-
 <item>
 <title>小米新款智能眼镜今天发布/曝 Apple Watch 配备摄像头/蔚来李斌、华为余承东约定：互测尊界 S800 和 ET9</title>
 <link>https://www.ifanr.com/1618454?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
