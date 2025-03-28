@@ -5,11 +5,1409 @@
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
 <item>
+<title>早报｜Google将逐步终止Android的开源部分/小米：雷军并未有接商单计划/DeepSeek梁文锋首次登上富豪榜</title>
+<link>https://www.ifanr.com/1619068?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1619068?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> Google Android 苹果 AI 开源<br><br>总结:<br>1. Google宣布逐步终止Android开源部分(AOSP)，仅保留法定义务开源底层，主流厂商不受影响。<br>2. 苹果副总裁Bob Borchers接受爱范儿专访，探讨AI时代Mac设计理念。<br>3. 胡润全球富豪榜发布，DeepSeek创始人梁文锋首次上榜，马斯克蝉联首富。<br>4. ChatGPT图像生成器因模仿吉卜力风格引发版权争议，OpenAI回应称工作室风格不受保护。<br>5. 英伟达计划数亿美元收购AI初创公司Lepton AI，以拓展云服务业务。 <div>
+<div style="padding: 0 14px; text-align: center;"><img alt="cover" src="https://s3.ifanr.com/images/ep/cover-images/xiang_zhao_shan_pao_qu_cover.jpg" /></div>
+<div style="padding: 0 14px;">
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🤖" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f916.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">Google 将逐步终止 Android 的开源部分</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🍎" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f34e.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">爱范儿专访苹果副总裁：AI 时代，苹果如何设计 Mac？</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="💰" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4b0.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">胡润全球首富榜：DeepSeek 创始人梁文锋首次登榜</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="✨" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/2728.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">ChatGPT 图像生成器引发版权争议</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="💻" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4bb.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">英伟达计划数亿美元收购创企 Lepton AI</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="📣" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4e3.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">李想回应「自研汽车操作系统」：逼上梁山</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="❌" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/274c.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">小米公关：雷军并未有接商单计划</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🔍" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f50d.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">字节豆包升级「深度思考」功能</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="👋" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f44b.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">小鹏汽车回应「X9 车型夹断小孩手指」</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="💡" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4a1.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">雷军：躬身入局才能做好每件事</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🔓" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f513.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">理想开源自研汽车操作系统「星环 OS」</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="📱" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4f1.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">vivo X200s 将支持 iPhone 消息接收</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🏎" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f3ce.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">仰望 U7 正式上市</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🔮" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f52e.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">阿里通义推出 QVQ-Max 视觉推理模型</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🎮" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f3ae.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">任天堂 Switch 推出虚拟游戏卡带</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🍔" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f354.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">食品安全国家标准发布：不允许使用零添加等用语</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="💼" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4bc.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">微信上线「附近的工作」新功能</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;">🧋</p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">香飘飘回应「16 元一杯奶茶」定价争议</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🎬" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f3ac.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">苹果公布《人生切割术》剧集花絮</p>
+</div>
+</div>
+</div>
+<section><img alt="重磅" src="https://s3.ifanr.com/images/ep/common-images/xin_wen.png" /></section>
+<h3>Google 将逐步终止 Android 的开源部分</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/d0f57378-ed95-4fa5-a60b-1ddbf05d1654.jpg" /></p>
+<p>爱范儿 3 月 28 日独家报道， ci.android.com 的 aosp-main 自动构建已于北京时间 3 月 27 日晚 11:36（美国西部时间 27 日早晨 8:36）最后一次运行后关闭。这代表着 AOSP 的支持性基础设施已经开始被关闭。</p>
+<p>爱范儿 3 月 27 日独家报道，Google 不再维护 AOSP 公开分支，最终将除法定义务开源的底层之外的中上层部分转为闭源以降低成本。</p>
+<p>据爱范儿了解，AOSP 开发将限于内部分支，非授权伙伴将无法访问和获得新代码。影响方面，主流手机厂商用户无需担心，非认证设备市场将受到一定打击。</p>
+<p>这将是一个长期演进过程，爱范儿将持续报道。</p>
+<h3>爱范儿专访苹果副总裁：AI 时代，苹果如何设计 Mac？</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/f9265a16-3a91-467f-a10d-dfcb8dbbaa3e.jpeg" /></p>
+<p>3 月 25 日上午，爱范儿迎来了一位特别访客 —— 苹果全球产品营销副总裁 Bob Borchers。</p>
+<p>在爱范儿，Bob Borchers 参观了由三栋办公楼构成的办公区域，浏览了由爱范儿制作的《明日产品年鉴》；在制糖工厂的产品展区，爱范儿创始人 Wilson 带着 Bob 快速上手了「贴贴线」的磁吸收纳方式，体验了「AI 小电拼」的 App 功率调节功能。</p>
+<p>而这次来访爱范儿，Bob Borchers 还与爱范儿首席内容官何宗丞展开了一场「灵感对谈」，探讨了「AI 时代，苹果如何设计 Mac」。更多详细内容都在爱范儿视频号，移步查看我们为你精心准备的采访实录吧！</p>
+<section><img alt="大公司" src="https://s3.ifanr.com/images/ep/common-images/da_gong_si.png" /></section>
+<h3>胡润全球首富榜：DeepSeek 创始人梁文锋首次登榜</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/4e0dd1c4-30e8-40d8-b17d-29debda5450a.jpeg" /></p>
+<p>3 月 27 日，胡润研究院今日发布《2025 胡润全球富豪榜》，具体来看：</p>
+<ul>
+<li>53 岁的埃隆・马斯克五年内第四次成为世界首富，现拥有 3.07 万亿元人民币的财富，同比增长了 82%；</li>
+<li>英伟达 CEO 黄仁勋财富增长了近两倍，达到 9,350 亿元，排名第 11 位；</li>
+<li>字节跳动创始人张一鸣取代了 71 岁的「瓶装水大王」农夫山泉董事长钟睒睒，成为中国首富；得益于字节跳动因 AI 业务的势头和前景带来的估值上涨，张一鸣的财富达到 4,350 亿元人民币，增长了 76%；</li>
+<li>腾讯马化腾超过了拼多多黄峥，以 3,200 亿元人民币排名中国前三。</li>
+</ul>
+<p>值得关注的是，本次《2025 胡润全球富豪榜》出现了一些亮眼人物的变动：</p>
+<ul>
+<li>财富增长最快的中国企业家是小米创始人、董事长兼 CEO 雷军，他也是今年财富增长最快的企业家之一。其财富变化达到 114%，达到 2,200 亿元人民币，首次进入中国前十；</li>
+<li>AI 领域中，DeepSeek 创始人梁文锋和 OpenAI CEO Sam Altman 分别以 330 亿元和 130 亿元人民币的财富首次登上胡润全球富豪榜。</li>
+</ul>
+<p>而唐纳德・特朗普成为历史上最富有的美国总统，其财富几乎增加了两倍，达到 525 亿元人民币，跻身胡润全球富豪榜前 500 名。</p>
+<h3>ChatGPT 图像生成器引发版权争议</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/5e0de878-ba34-4d30-a604-2b85ac767696.jpg" /></p>
+<p>近期，OpenAI 宣布在 GPT-4o 模型中集成了迄今为止最先进的图像生成器，并将其整合进 ChatGPT 中，而其优秀的生图能力让不少网友为之着迷。与此同时，由 GPT-4o 生成的、带着日本动画工作室「吉卜力」风格的大量生成式图片开始成为网络热门梗图，并在互联网上大规模传播。</p>
+<p>在这一大批的「吉卜力工作室风格」图片中，不仅包括埃隆・马斯克、《指环王》以及唐纳德・特朗普等著名人物的形象，连 OpenAI CEO Sam Altman 都开始将自己的新头像换成由 GPT-4o 生成的「吉卜力风格」图像。</p>
+<p>而这波「吉卜力」热潮也引发了大众对「AI 生图是否会涉及版权纠纷」这一问题的思考。TechCrunch 援引 Neal &amp; McDevitt 律师事务所的知识产权律师埃文・布朗的说法表示，像 GPT-4o 图像生成器这样的产品如今处于法律灰色地带。</p>
+<p>布朗表示，风格本身并未明确受到版权保护，这意味着 OpenAI 仅通过生成类似吉卜力电影风格的图像似乎并没有违反法律。同时布朗也指出，GPT-4o 可能是通过学习吉卜力电影的数百万帧画面，生成的图片才实现了这样的相似性。据悉，目前仍有多国的法院正在裁定，使用版权作品训练 AI 模型是否属于合理使用保护范围。</p>
+<p>对于上述的争议，OpenAI 发言人向 TechCrunch 发布一份声明表示，虽然 GPT-4o 的图像生成器拒绝复制「在世个人艺术家的风格」，但允许复制「更广泛的工作室风格」。同时其也强调，部分在世的艺术家因其独特的创作风格而获得市场认可，例如吉卜力工作室的联合创始人宫崎骏。</p>
+<h3>英伟达计划数亿美元收购创企 Lepton AI</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/8fac1c38-e6b1-458c-aa81-9f597812a91b.jpeg" /></p>
+<p>昨日，据 The Information 报道，英伟达即将达成收购贾扬清创业公司 Lepton AI 的交易，消息人士称这笔交易价值数亿美元。随后，贾扬清通过第一财经回应称「无法评论」。</p>
+<p>值得关注的是，Lepton AI 成立于 2023 年，主要提供云原生 AI 平台、GPU 算力租赁服务；公司创始团队来自阿里巴巴，而创始人是阿里巴巴前副总裁贾扬清；贾扬清在博士期间，创立并开源了如今业内耳熟能详的深度学习框架 Caffe，并且其还在 Facebook、Google 等公司有过不少经历。</p>
+<p>据报道透露，英伟达希望通过收购 Lepton AI 这样的 AI 云服务实现多元化经营，减轻对大客户的依赖。而本次收购也并非英伟达近期首次「出手行动」，其还在近日收购了美国 AI 初创企业 Gretel。Gretel 成立于 2019 年，该公司通过微调模型、添加专有技术，并将这些模型打包出售，为客户提供合成数据解决方案。</p>
+<h3>李想回应「自研汽车操作系统」：逼上梁山</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/1d5a9d0e-6429-4ea5-ba44-f1ee98ddabdf.jpg" /></p>
+<p>昨日，理想汽车正式宣布了旗下首个自研汽车操作系统「星环 OS」，同时理想也称为全球首家将汽车操作系统开源的汽车企业。随后，理想汽车 CEO 李想发文透露「为什么下决心自研汽车操作系统」。</p>
+<p>李想在文中提到了几个，让理想汽车下决心做自研汽车操作系统的原因：</p>
+<ul>
+<li>前几年全球芯片面临芯片结构性短缺，芯片的交货周期和价格都给行业带来了前所未有的挑战，理想汽车作为一家初创企业，在芯片供应链的产能分配中处于劣势，能够拿到的芯片供应量极为有限；</li>
+<li>即使拿到供应，还要考虑和操作系统适配的问题，过长周期会导致企业出现上百亿的营收损失；</li>
+<li>主流使用的闭源汽车操作系统「AUTOSAR」，存在性能、安全性、成本等劣势。</li>
+</ul>
+<p>李想坦言，现在来看，理想星环 OS 的自研多少有点「逼上梁山」的意味。同时李想也表示，也因为自研出一套适配时间更短、架构支持更广、关键性能更优的系统，才让理想汽车在今天走上开源共享的「广阔道路」。</p>
+<p>此外，李想还在昨日的 2025 中关村论坛年会开幕式上表示，理想汽车愿意推动汽车操作系统开源，而开源不仅是为全球、全行业提供新技术、平台，更是一种价值观的开放，同时也是企业对自己技术的信心。</p>
+<h3>小米公关：雷军并未有接商单计划</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/6736a014-ac89-4932-afe6-634aaf8aaded.jpg" /></p>
+<p>昨日，小米公关部经理王化发文表示，近期有媒体报道某数据平台曝光雷总的广告报价，一度冲上热搜，甚至还有品牌方向其求证。对此，王化表示：小米对相关平台单方面行为不予置评。</p>
+<p>王化强调，雷军作为小米集团创始人，非常愿意为体验过的优质国产品牌真诚「打 Call」，但并未有计划接商单，网传平台也并无权限代接商单。王化还表示，如果哪天雷总有此计划，其一定第一个找凡客（凡客诚品），并在文末 @ 了凡客诚品创始人陈年。</p>
+<p>近日，雷军发布与小米 YU7 在武汉大学的樱花树下合照。雷军配文称，白天太多人，于是他一大清早起床，天还没亮就到其母校武汉大学，进行图片拍摄。而据网友信息，雷军本人在凌晨就开始拍摄相关工作。「雷军小米 YU7 樱花照」「小米 YU7」等相关话题也随即登上热搜。</p>
+<h3>字节豆包升级「深度思考」功能</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/0d8f8554-ec62-48f6-b981-0eedfe20f3c2.jpg" /></p>
+<p>近日，字节跳动旗下的 AI 产品豆包，升级了「深度思考」功能，其最大亮点便是免费支持「边想边搜」。</p>
+<p>具体来看，用户无需单独开启搜索功能，只需打开豆包的深度思考模式，AI 能在推理过程中灵活调用搜索工具，进行多轮动态搜索。豆包新版深度思考结合了深度思考能力，把搜索和推理捆绑在一起，基于每一步的思考结果进行多次搜索，能让回答更有逻辑、更贴近需求。</p>
+<p>而豆包新版深度思考与多轮搜索相结合的模式，进一步补足了深度思考和 DeepSearch 在处理复杂、模糊及动态信息需求时尚存的几块短板：</p>
+<ul>
+<li>一轮搜索无法解决的复杂问题: 更好应对需要多轮信息整合、动态调整策略的复杂任务。在思考过程中多次搜索，让信息持续更新和补充，给出更全面、准确和深入的回答。</li>
+<li>模糊查询与信息关联: 对于一些描述模糊、信息不完整的问题，「边想边搜」让模型在推理过程中不断搜索和验证，逐步缩小范围，找到相关信息。</li>
+<li>动态规划与多步骤任务: 在处理需要长期规划或多个步骤的任务时，「边想边搜」能够在每一步骤中进行信息校验和调整，提高了执行任务的成功率。</li>
+</ul>
+<p>目前，使用最新版豆包 App，或在 PC 及 Web 版豆包中即可体验最新的「深度思考」功能。</p>
+<p>而我们也做了豆包「深度思考」的深度体验，点击下方链接查看详细内容 <img alt="👇" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f447.png" style="height: 1em;" /></p>
+<p>体验完豆包新版深度思考，我发现 AI 终于学会像人类一样「边想边搜」</p>
+<h3>曝 Claude Sonnet 3.7 将扩展上下窗口</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/cb5345e6-5bec-4b5a-9d3e-6b2723c437cd.jpg" /></p>
+<p>日前，据 TestingCatalog 报道，其在分析 Anthropic 旗下 Claude Sonnet 3.7 模型的代码时发现，Anthropic 或将扩展 Claude Sonnet 3.7 的上下文窗口。</p>
+<p>具体来看，Claude Sonnet 3.7 的上下文窗口将从 20 万 tokens 提升至 50 万 tokens。TestingCatalog 指出，目前尚不清楚，这一升级是否仅会向企业客户提供。</p>
+<p>据了解，Claude Sonnet 3.7 于今年 2 月推出，成为全球首款双模式混合推理模型。其在扩展思考（Extended Thinking）模式，能进行深度自我反思，在数学、物理和编程等复杂任务上表现卓越。</p>
+<p>值得关注的是，Claude 3.7 Sonnet 公开的思考过程相对客观、缺乏个性化表达。而 Anthropic 表示，未对模型的思维过程进行标准角色训练，希望给予 Claude 最大自由度进行自主思考。</p>
+<p>Anthropic 认为所谓「思考」过程不一定真实反映了 AI 的内部决策逻辑，因此，Anthropic 未来将基于用户反馈和研究决定是否继续公开 Claude 的思维链。</p>
+<h3>小鹏汽车回应「X9 车型夹断小孩手指」</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/ddbd747e-85db-4029-8309-622109c9a186.jpeg" /></p>
+<p>近日，有小鹏 X9 车主通过黑猫投诉称，其在驾驶小鹏 X9 出行时，5 岁儿子使用娱乐屏时，左手食指被伸缩架夹住，半节手指当场脱落，被诊断为「手指创伤性完全离断」。车主质疑产品「防夹功能」设计不到位，因此向小鹏汽车索赔 10 万元赔偿。</p>
+<p>随后，小鹏汽车相关工作人员回应中国新闻周刊称，针对 2025 年 1 月发生的儿童意外受伤事件，公司已第一时间成立专项小组跟进处理，始终保持与家属的密切沟通，并向客户家属提供关怀方案。</p>
+<p>同时小鹏方面表示，立即对产品展开技术排查，在原有安全机制基础上升级完成了多项防夹功能升级，公司将尽全力解决用户使用体验问题。</p>
+<h3>第三届「设计深圳」正式启动</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/f086e203-c277-4146-80b7-520075d30582.jpg" /></p>
+<p>今日，亚洲权威消费科技与室内设计盛会「设计深圳」2025 举办新闻发布会，正式宣布启动。第三届「设计深圳」将于 2025 年 9 月 18 日至 21 日在深圳会展中心举办，打造一场汇聚消费科技、建筑与室内设计、工业设计等多个领域的盛会。</p>
+<p>「设计深圳」隶属于柯莱睿会展有限公司（Clarion Events Ltd.）。作为全球第三大国际活动组织者，柯莱睿业务范围覆盖 21 个国家，旗下拥有 120 多个展会。依托于柯莱睿强大的科技、电子等资源，「设计深圳」将不仅呈现众多极具创新的品牌，还力求打造一个独具特色的交流与交易平台，为国内外品牌和行业精英搭建深度合作的桥梁。</p>
+<p>「设计深圳」2025 将推出全新布局：消费科技馆和豪宅设计馆，通过消费科技、豪宅设计和商用设计三大板块。将汇聚来自全球 30 多个国家和地区的近 200 个消费科技与设计品牌，以全新视角诠释科技与设计的深度融合。</p>
+<h3><img alt="💡" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4a1.png" style="height: 1em;" /> 雷军：躬身入局才能做好每件事</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/e6068a4b-11fa-4ce8-a4c3-a697b3eca7cc.jpeg" /></p>
+<p>近日，在武汉大学 2024 级雷军班的主题班会上，小米创办人、董事长兼 CEO 雷军分享了自己创业路上的学习实践经历和感悟。</p>
+<p>班会上，雷军强调大学时光是建立世界观、人生观和价值观的关键时刻，其提出三点建议：</p>
+<ul>
+<li>首先，要利用大学环境塑造自己，形成正确的三观；</li>
+<li>其次，学会如何学习，强调学习的广度与深度并重，避免过早确定专业方向；</li>
+<li>最后，广交朋友，利用大学期间无利益纠葛的环境，结交人生重要伙伴。</li>
+<li>雷军还强调了身体健康、兴趣广泛的重要性。</li>
+</ul>
+<p>雷军还不忘通过小米汽车的研发之路，来分享自己的成功秘诀。其表示，若想做好一件事，那么前提就是要让自己躬身入局，把自己放入到事情里，去了解、熟知相关领域的知识。雷军还调侃表示，「要成为这个领域的人，不能说成为绝顶的专家，至少要成个伪专家吧」。</p>
+<p>对于高压的工作环境，雷军也表示，要用无比的乐观精神来看待工作中生活中遇到的各种困难。同时他分享表示，只有定下高目标，才能激发出努力的热情。雷军也强调，在设定高目标后，应将目标分解为可实现的小目标，以保持动力和节奏感。</p>
+<section><img alt="新产品" src="https://s3.ifanr.com/images/ep/common-images/hao_chan_pin.png" /></section>
+<h3>理想开源自研汽车操作系统「星环 OS」</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/d3fb5c8b-ad52-41b4-b0f9-3256fd86577e.jpg" /></p>
+<p>3 月 27 日，理想汽车 CEO 李想在 2025 中关村论坛年会的开幕式上，分享了理想汽车自研汽车操作系统 ——「理想星环 OS」的历程和技术优势，并现场宣布开源。</p>
+<p>李想在演讲时宣布，理想汽车成为全球首家将汽车操作系统开源的汽车企业，同时「星环 OS」整体性能全面超越行业头部闭源 AUTOSAR 操作系统。星环 OS 具体特点如下：</p>
+<ul>
+<li>星环 OS 支持完成从单点优化到系统全链路优化，让多个控制器系统协同配合，显著缩短「感知 &#8211; 决策 &#8211; 执行」的时间，响应速度相比 AUTOSAR 操作系统提高 1 倍、响应稳定性提高 5 倍；</li>
+<li>信息安全方面，星环 OS 使用软硬结合的多层次防护架构；同时多种高性能密码学算法支持，性能与主流实现相比提升 4 至 8 倍；其还采用端到端安全设计，实现了全链路设备身份认证、访问控制和数据加密能力；</li>
+<li>理想汽车自研车用虚拟化系统和异构系统设备共享框架，实现 AI 算力共享和硬件设备共享；</li>
+<li>星环 OS 实现了软硬解耦，拥有适配灵活、支持硬件丰富的特点，相较于闭源操作系统下新款芯片 3-6 个月的适配周期，星环 OS 能够实现在 4 周内完成芯片适配和验证，并且全面支持市场上所有车用芯片架构；</li>
+<li>此外，星环 OS 每年能够为企业节省数十亿元物料成本，并最终为消费者节省购车成本、带来更优质的配置与用户体验。</li>
+</ul>
+<p>理想星环 OS 预计将于 4 月底开始逐步登陆开源社区，开源模块将包含车控操作系统、智能驾驶操作系统、通信中间件、虚拟化平台等核心组件，邀请全球开发者共同参与系统优化与生态建设。</p>
+<p>理想方面表示，星环 OS 开源预计将帮助汽车行业每年节省 100 亿至 200 亿元研发资源的重复投入，并打破闭源系统下「黑盒化」技术壁垒，重构国际供应商技术垄断格局，联合全球创新力量，让中国创新技术普惠全球。</p>
+<h3>vivo X200s 将支持 iPhone 消息接收</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/3bcee5bf-47bf-498d-9f89-c29d31b0c05f.jpeg" /></p>
+<p>3 月 27 日，据 V 粉情报局发布视频透露，vivo X200s 将推出全新互联功能「破壁流转」。</p>
+<p>据 vivo X 系列产品经理赵娟敏透露，「破壁流转」加持下，vivo X200s 所搭载的 OriginOS 能够实现「iPhone 来电话 vivo 接」「iPhone 来消息 / 短信，vivo 收」，同时还支持位置共享、一碰互传、互传实况照片 / 文件。</p>
+<p>近日，vivo 产品经理韩伯啸发文透露了 vivo X200s 和 X200 Pro mini 的全新紫色配色。值得关注的是，vivo X200s 外观设计与 X200 保持一致，均采用大尺寸圆形摄像头 Deco。日前，韩伯啸还透露，vivo X200s 将配备无线充电以及超声波指纹识别。</p>
+<h3>仰望 U7 正式上市</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/ca304eff-8386-4b88-9ad8-beac952a62e9.jpeg" /></p>
+<p>昨晚，仰望 U7 正式上市，起售价为 62.8 万元，提供五座和四座两个版本。</p>
+<p>仰望 U7 首次搭载「全数字」底盘，而备受关注的「8 台电机」分别在云辇-Z 智能悬浮车身控制系统和易四方两项技术中：</p>
+<ul>
+<li>云辇-Z 号称全球首款智能悬浮车身控制系统，采用悬浮电机直接驱动悬架，通过电磁场精准控制电机推力；</li>
+<li>搭载云辇-Z 的仰望 U7 支持「三轮行驶」功能，当单个轮胎爆胎后，悬架自动抬升受损车轮，剩余三轮独立驱动，车辆仍可维持 80 公里 / 小时的速度行驶 30 公里；</li>
+<li>仰望 U7 标配易四方四轮独立扭矩矢量控制技术，可对四个车轮进行毫秒级独立控制，支持原地掉头、定轮旋转、平行横移等功能。</li>
+</ul>
+<p>值得关注的是，仰望 U7 PHEV 版的前舱内，比亚迪为其塞下了中国首款自研水平对置引擎。比亚迪工程师团队用五联泵和十条润滑通道攻克了水平气缸的供油难题，将发动机高度压缩至 420 毫米，最终达成了本次的历史跨越。</p>
+<p>据介绍，比亚迪这台水平对置发动机做到了 180kW（241 马力）的功率，扭矩做到了 380N·m。除了动力性能，静谧性也做到优秀水平：对置发动机的结构，天然具备了平衡性的优势，U7 PHEV 版在行驶时和纯电的噪声差仅有 1 分贝。</p>
+<p>此外，仰望 U7 配备天神之眼 A-高阶智驾三激光版（DiPilot 600）：全车搭载 32 个智驾传感器，采用双 Orin X 芯片，算力高达 508TOPS，可实现 L2 + 高阶智驾辅助能力。</p>
+<h3>阿里通义推出 QVQ-Max 视觉推理模型</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/3d2b629b-6ac1-4f93-b84f-3ecb1d018313.jpg" /></p>
+<p>就在刚刚，阿里通义宣布推出新一代视觉推理模型 QVQ-Max。据官方介绍，QVQ-Max 不仅能够「理解」图片和视频内容，还能为上述信息提供分析并推理，具体来看：</p>
+<ul>
+<li>QVQ-Max 在解析图像方面表现出色，其能快速识别图片中的关键元素；</li>
+<li>QVQ-Max 可以进一步分析所提供的图片、视频信息，并将这些信息与背景知识相结合，推理得出结论；</li>
+<li>不止分析和推理，QVQ-Max 还可以完成设计插图、生成短视频剧本等内容，甚至根据用户的需求创建角色扮演内容。</li>
+</ul>
+<p>性能方面，通过通义团队对 QVQ-Max 的思考过程长度进行调节，模型在多模态数学问题基准测试「MathVision」中，准确率不断提升，从 4K tokens 的 43.5% 提升至 24K tokens 的 48.1%。</p>
+<p>目前，QVQ-Max 已上线 Qwen Chat。</p>
+<h3>任天堂 Switch 推出虚拟游戏卡带</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/3829320f-a020-441b-a67c-1f5ffb6dd8d7.jpeg" /></p>
+<p>昨晚的任天堂直面会上，官方正式宣布推出 Switch 虚拟游戏卡带。该功能可以让数字版游戏如同实体卡带一样，在自己多台主机上进行转移；同时虚拟游戏卡带还支持 Switch 家庭组成员之间共享 14 天。该功能将在 4 月下旬更新，同时兼容 Switch 和 Switch 2。</p>
+<p>本次直面会上，任天堂还带来了「Nintendo Today」官方资讯 App，其旨在为全球玩家提供「集中获取任天堂各类最新资讯」的官方渠道。目前该软件同步登陆 iOS 和 Android。</p>
+<p>实际观察发现，Nintendo Today 采用了较为欢乐、游戏化的 UI 界面，并提供多款桌面小组件。任天堂官方表示，Nintendo Today 将会如同每日日历一样，能为用户提供个性化的喜爱定制，从而推送用户想了解、想关注的任天堂游戏、角色最新动态。</p>
+<h3>魅族宣布多款新机发布时间</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/a620a7a4-3d33-423e-b528-aa2bd8a24d0d.jpeg" /></p>
+<p>3 月 27 日，星纪魅族正式宣布旗下「魅族 Note 16 系列」「魅族 22 系列」的新机发布时间：</p>
+<ul>
+<li>魅族 Note 16 系列：将在 4 月发布；</li>
+<li>魅族 22 系列：将在夏季发布，据博主数码闲聊站信息，「夏季」指 5 月至 8 月。</li>
+</ul>
+<p>值得关注的是，预热海报图中，魅族 Note 16 系列轮廓公布。Note 16 系列或将提供两款外观，其中一款与此前遭曝光的魅族新机类似，采用大面积多边形摄像头 Deco。魅族官方还表示，新机「摔不坏、跌不烂、能抗能打」。另据数码闲聊站透露，魅族 Note 16 系列主打大电池厂续航。</p>
+<h3>大疆推出 2 度电户外电源「DJI Power 200」</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/eaa4b36f-2da3-4199-aedd-98c2e89404d6.jpg" /></p>
+<p>DJI 大疆昨日正式发布全新 2 度电全场景户外电源 DJI Power 2000，售价 5,699 元。</p>
+<p>DJI Power 兼具大容量和小体积，具体参数如下：</p>
+<ul>
+<li>DJI Power 2000 拥有 2 度电大容量，同时兼顾 16 寸迷你登机箱的大小；拓展性强，最高能扩到 22 度电；</li>
+<li>DJI Power 2000 能稳定保持 3,000 瓦输出直至电量耗尽；拥有双 140 瓦 USB-C 接口、双 65 瓦 USB-C 接口、4 个 USB-A 接口、4 个交流电供电接口；</li>
+<li>还配备两个完整 SDC 接口，两个 1/4&#8243; 螺纹口等接口，支持加电包，可接入多种 DJI Power 系列配件、不同型号的太阳能/行车闪充、无人机快充等配件。</li>
+</ul>
+<p>充电方面，DJI Power 2000 提供了可通过市电、太阳能、车充三种方式充电，还支持智能混合充电：</p>
+<ul>
+<li>市电环境下支持最高 2,200 瓦快充，仅需 45 分钟就能从零充到 80%，75 分钟全满。</li>
+<li>通过太阳能充电，以最高 1,800 瓦太阳能功率为 Power 2000 充电，充满只需 75 分钟。</li>
+<li>借助 1,000 瓦行车闪充配件，还能利用车内发电机的多余电力给 DJI Power 2000 充电，充满最快只需 145 分钟；</li>
+<li>DJI Power 2000 还能实现智能混合充电，借助智能充电策略，优先使用太阳能清洁能源，降低电网用电，经济环保效率更高；</li>
+<li>此外，倘若在市点供电时突然遭遇断电，DJI Power 2000 能在 0.01 秒内极速切换至供电状态，保持用电设备正常运行。</li>
+</ul>
+<p>安全性方面，DJI Power 2000 整机采用阻燃材料，确保跌落、冲击不会引发明火；电源静压时可承重高达 1 吨；采用磷酸铁锂电芯，经过 4,000 次循环后还能有 80% 容量；搭载 BMS 智能电池管理系统，整机共 26 处温度传感器时刻监控散热情况。</p>
+<section><img alt="新消费" src="https://s3.ifanr.com/images/ep/common-images/pin_pai.png" /></section>
+<h3>食品安全国家标准发布：不允许使用零添加等用语</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/0d1278b2-8af8-47d7-bf99-aec62c7a1d6c.jpg" /></p>
+<p>昨日，据央视新闻消息，国家卫生健康委会同国家市场监督管理总局，发布了 50 项食品安全国家标准和 9 项标准修改单，其中包含：</p>
+<ul>
+<li>不允许再使用零添加等用语；</li>
+<li>食品标签强制标示致敏物质；</li>
+<li>推荐标示「消费保存期」；</li>
+<li>消费者可以通过手机等移动设备扫描食品标签上的二维码获取食品标签信息。</li>
+</ul>
+<p>值得关注的是，很多食品企业利用消费者追求「天然」、不喜欢食品添加剂的心理，采用「不添加」「零添加」等声称吸引消费者购买。事实上，「不添加」只是对于生产过程的描述，与食品终产品中配料或成分的含量并不完全等同。</p>
+<p>为了避免这些声称对消费者的误导，新的预包装食品标签标准明确提出，不允许再使用「不添加」「零添加」等用语对食品配料进行特别强调。</p>
+<p>此外，新标准与国际接轨，为了避免食物浪费，规定了食品生产者可根据食品属性、食用特征等自愿标示预包装食品的「消费保存期」，作为食品的最后食用日期，供消费者参考。</p>
+<h3>微信上线「附近的工作」新功能</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/9a7884ba-358b-43da-9be7-4294087bc4b7.jpg" /></p>
+<p>3 月 27 日，微信官方账号「微信派」发文宣布，目前在微信内搜索「附近的工作」「兼职」「日结」「零工」等关键词，就能自动匹配所在城市的零工，还能根据「距离」「薪资待遇」「性别」等快速筛选。目前，已覆盖北京、上海、广州、深圳等全国超 200 个地市。</p>
+<p>同日，腾讯也宣布「附近的工作」小程序正式上线，并宣称「招聘岗位超 2 万个」。腾讯方面强调，所有岗位信息均由政府人社部门审核发布，用户可以安心、放心找工作。</p>
+<p>目前「附近的工作」小程序已逐步覆盖广东江门、河北唐山、江西九江、广东深圳、北京朝阳等多个省市，并与各地人社部门密切合作，累计帮助 2.4 万余名用户实现就业意向对接。</p>
+<h3>香飘飘回应「16 元一杯奶茶」定价争议</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/d610fb44-bd20-488d-9877-79347614e66a.jpeg" /></p>
+<p>近日，香飘飘奶茶推出「明前特级龙井轻乳茶」的冲泡式奶茶，但因其定价 98 元 / 箱（一箱 6 杯），而引发网友热议，不少人认为其定价过高；「香飘飘奶茶涨价至 16 元一杯」相关话题也冲上微博热搜。</p>
+<p>随后，香飘飘奶茶就「16 元一杯奶茶」定价争议作出回应并澄清。其表示，因明前特级龙井轻乳茶定价 16 元一杯的价格引发社会各界广泛关注，有消费者误以为香飘飘全线产品都涨价到了 16 元，对此香飘飘作出澄清：</p>
+<ul>
+<li>除明前特级龙井轻乳茶，其他产品并未涨价；</li>
+<li>明前特级龙井轻乳茶选用明前特级龙井，每杯原叶茶包中含有不低于 2.9 克特级龙井。</li>
+</ul>
+<p>香飘飘强调，近年来一直致力于为消费者提供最具质价比的茶饮产品，公司也一直在推动更优质的茶叶原料真正能进入「饮料」市场，并表示「欢迎来比用料，比口感，比价格」。</p>
+<section><img alt="好看的" src="https://s3.ifanr.com/images/ep/common-images/hao_kan_de.png" /></section>
+<h3>苹果公布《人生切割术》剧集花絮</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/53febcd9-45a5-41f6-9636-8a7d90e9cf04.jpg" /></p>
+<p>近日，苹果官网的 Mac 电脑详情页专区中，「上架」了一款名为「Lumon Terminal Pro」的虚拟电脑产品，而「Lumon Terminal Pro」出自苹果时下热播剧《人生切割术（Severance）》，为一款剧中的虚构设备。</p>
+<p>而「Lumon Terminal Pro」的上架并非出售，而是苹果为旗下流媒体服务 Apple TV+，策划的一次营销活动。在「Lumon Terminal Pro」的产品详情页中，用户可以跳转至该片的制作花絮。花絮中展现了《人生切割术》编辑杰弗里・里奇曼如何使用 iMac、Mac mini 和 MacBook Pro 等苹果 Mac 系列电脑进行后期、剪辑工作。</p>
+<p>近期，《人生切割术》还宣布正式续订第三季。《人生切割术》已是 Apple TV+ 旗下观看量最高的剧情剧集，第二季近日刚完成剧终。</p>
+<h3>马丽首担监制，电影《好好的》入围「天坛奖」</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/44bf1851-a050-43b6-be2e-b18ec0d22931.jpeg" /></p>
+<p>昨日，马丽首担监制的影片《好好的》入围第十五届北京国际电影节「天坛奖」，同时释出最新预告片。</p>
+<p>该片讲述遭遇家暴的农村女人白丽萍在出逃后，意外成为孤寡老人唐淑寅的护工兼保姆。二人因天差地别的生活环境和思想差异把日子过得「鸡飞狗跳」，可又在彼此伤痕累累时温暖陪伴。她们是主雇，是朋友，更是相互扶持走出荆棘的「家人」。</p>
+<p>《好好的》由马丽监制，郝铭、李沛然编剧并导演，宝卿、刘兵编剧，马丽、赵淑珍领衔主演，目前暂未正式定档。</p>
+<h3>张艺谋新片《惊蛰无声》立项</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.28_%E6%97%A9%E6%8A%A5/316fc597-ab1d-45b8-b064-c0069cea5bbd.jpeg" /></p>
+<p>据国家电影局最新备案、立项公示，张艺谋新电影《惊蛰无声》立项。</p>
+<p>具体来看，影片编剧为陈亮，备案单位为北京阿里巴巴影业文化有限公司、中中（北京）影业有限公司、北京黎枫文化发展有限公司。</p>
+<p>该片将讲述我国重要情报遭到外泄，国安小组立即展开行动，誓要揪出背后的叛国者。然而，抓捕行动接连遭遇重创，让局势愈发紧张。随着调查深入，矛头竟指向国安小组内部，信任与背叛的漩涡中，一场无声的较量悄然上演。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1619068">原文链接</a> ·
+<a href="https://www.ifanr.com/1619068#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Fri, 28 Mar 2025 00:51:47 +0000</pubDate>
+<pubDate>Fri, 28 Mar 2025 00:51:47 +0000</pubDate>
+</item>
+<item>
+<title>62.8 万元起！仰望 U7 正式上市，中国第一台水平对置发动机来了</title>
+<link>https://www.ifanr.com/1619047?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1619047?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> 关键词：仰望U7、云辇-Z、垂向控制、水平对置发动机、易四方  
+
+<br><br>总结:  
+1. 比亚迪在仰望U7上搭载了颠覆性的云辇-Z技术，通过四台悬浮电机实现10微米级探测精度和5毫秒级响应速度，彻底突破传统底盘机械传动的物理限制。  
+2. 云辇-Z结合易四方系统的四轮独立电机控制，实现了麋鹿测试95.78km/h的纪录，并支持平行横移等创新功能。  
+3. U7 PHEV版搭载中国首款自研水平对置发动机，功率180kW，高度仅420毫米，历经严苛可靠性测试。  
+4. 比亚迪以542亿元研发投入推动技术自研，从垂向控制到动力总成实现全面突破。  
+5. 62.8万元的定价策略颠覆豪华车市场逻辑，体现技术整合与高端化路径。 <div>
+<p><img alt="" class="alignnone size-full wp-image-1619065" height="675" src="https://s3.ifanr.com/wp-content/uploads/2025/03/ywtm.jpg" width="1200" /></p>
+<p>去年的广州车展上，仰望 U7 用「8 台电机」的狂野配置，向世界宣告了中国品牌冲击百万级轿车的野心。</p>
+<p>但鲜少有人意识到，那场发布会真正埋下的伏笔，藏在王传福那句「全面电动化最难的技术在垂向控制」里。</p>
+<p>直到今天，当 62.8 万元的仰望 U7 掀开云辇-Z 的最后一层面纱，人们才读懂这场技术革命的真正重量。</p>
+<h3>从「三向独立」到「全电底盘」</h3>
+<p>传统底盘技术的天花板，早已写在机械传动的物理规律里。过去百年间，工程师们用液压油缸和空气弹簧对抗颠簸，用差速器和传动轴分配动力。</p>
+<p>但，再精密的机械结构，也逃不过毫秒级的延迟宿命。</p>
+<p>比亚迪首席科学家廉玉波在今晚的发布会上举了一个例子：「当一辆车以 100km/h 的速度遭遇爆胎时，传统系统需要上百毫秒才能完成调整，而车早已滑出 1 米开外。」</p>
+<p>机械的桎梏，让底盘控制始终被困在「拆东墙补西墙」的妥协里——直到云辇-Z 用四台悬浮电机，把整个悬架系统拽进电控的微观世界。</p>
+<p>是的，仰望 U7 的「8 台电机」里只有 4 台是用于驱动，另外 4 台藏在了它的悬架之中。</p>
+<p><img alt="" class="alignnone size-full wp-image-1619050" height="1641" src="https://s3.ifanr.com/wp-content/uploads/2025/03/gsad.jpg" width="2921" /></p>
+<p>这种颠覆的代价，藏在比亚迪坪山总部那间挤满博士的会议室里。</p>
+<p>「最早进入汽车行业的时候，为了摸透工程机理，我们把市面上所有的汽车都拆解研究了一遍，」董事长王传福又在发布会上分享比亚迪的「工程师故事」，他说：</p>
+<blockquote><p>（当时）我们有一台奔驰轿车，为了让我们的工程师没有顾虑地放心地拆，我率先用钥匙把车划了一圈。这辆车让我们这群年轻的工程师第一次认识到，一台顶级轿车的技术有多先进。我意识到，造车不仅仅是打造一款产品，更是对技术的深度整合。</p></blockquote>
+<p>为了将航母电磁弹射和磁悬浮列车的技术原理塞进轿车底盘，比亚迪的工程师们花了七年时间，挨个验证了三百多万种拓扑结构。最后，他们首创性地将 3D 霍尔传感器的技术运用到车辆垂向控制领域，通过检测磁场的变化来测量位移。</p>
+<p><img alt="" class="alignnone size-full wp-image-1619049" height="2620" src="https://s3.ifanr.com/wp-content/uploads/2025/03/yw.jpg" width="4116" /></p>
+<p>当传统悬架还在用毫米级精度感知路面时，云辇-Z 的探测精度已达 10 微米。10 微米是什么概念？一个红细胞的直径大约是 20 微米，一根头发大约是 100 微米；而在另一项指标——调节精度上，云辇-Z 给出的答案是 1 毫米。</p>
+<p><img alt="" class="alignnone size-full wp-image-1619051" height="1631" src="https://s3.ifanr.com/wp-content/uploads/2025/03/adsga.jpg" width="2906" /></p>
+<p>强调精度的同时，云辇-Z 在响应速度上也有所突破。</p>
+<p>「我们经常听到毫秒级的响应的说法，但响应快并不代表调节快，可能仅仅指的是感知环节的响应时间。目前市面上最快的全主动悬架完成一次完整的主动调节，至少需要 100 毫秒以上。」廉玉波说。</p>
+<blockquote><p>今天的云辇-Z 拒绝以偏概全，我们的全链路执行的时间，只有 5 毫秒。</p></blockquote>
+<p>这种速度，彻底改写了车身控制的游戏规则。当传统豪车还在依赖「预瞄摄像头+提前计算」的缓兵之计时，仰望 U7 的云辇-Z 已经进化出类似人类神经反射的本能。</p>
+<p><img alt="" class="alignnone size-full wp-image-1619052" height="357" src="https://s3.ifanr.com/wp-content/uploads/2025/03/jxtg2.gif" width="629" /></p>
+<div class="editor-image-source">
+<p>▲仰望 U7 的「极限通过」功能，结合预瞄迅速避障</p>
+</div>
+<p>一般来说，车辆以 30km/h 碾过减速带，需要 60 毫秒的时间，在大雪天气等预瞄能力受限的场景下，传统主动悬架在这段时间里只能笨拙地调节 0.5 次；而云辇-Z 即便不依靠预瞄，仅通过来前轮来感知路面信息，也依旧能够瞬间完成 12 次精准调节。</p>
+<p>听起来可能有些夸张，不妨直接看一段演示视频。</p>
+<p><img alt="" class="alignnone size-full wp-image-1619054" height="346" src="https://s3.ifanr.com/wp-content/uploads/2025/03/sdcc2.gif" width="614" /></p>
+<p>当工程师开着 U7 攀爬连续台阶时，四个车轮像智能机械腿般此起彼落，硬是把五米长的轿跑变成了能跳「机械舞」的钢铁蜘蛛。</p>
+<p>但比炫技更重要的是，云辇-Z 捅破了垂向控制领域那层百年窗户纸，当横向、纵向、垂向控制全部进入电域，车辆动态性能的边界彻底被重新定义。</p>
+<p><img alt="" class="alignnone size-full wp-image-1619053" height="358" src="https://s3.ifanr.com/wp-content/uploads/2025/03/asdgvdfa2.gif" width="630" /></p>
+<p>在弯中，云辇-Z 能够通过 -2° 的主动侧倾抵消过弯的惯性；在侧碰即将到来是，通过毫秒级的高度调节转移碰撞受力点；在行驶时，通过能量回收将每次颠簸转化为续航里程…… 这些过去分散在航空航天、精密机床领域的技术孤岛，终于在一台轿车上汇成整片大陆。</p>
+<p><img alt="" class="alignnone size-full wp-image-1619055" height="2458" src="https://s3.ifanr.com/wp-content/uploads/2025/03/gbsv-1.jpg" width="4288" /></p>
+<p>「安全没有中间值，只有 0 和 1。」王传福在台上说出这句话时，背后是 U7 以 95.78km/h 刷新麋鹿测试纪录的数据。或许连奔驰的工程师都没想到，二十多年前那台被王传福亲手划伤的 S 级轿车，会以这种方式完成技术轮回。</p>
+<h3>仰望 U7 所体现的，是比亚迪对技术的绝对掌控</h3>
+<p>当云辇-Z 在垂向维度撕开技术缺口时，易四方系统也在横向和纵向上演着一场「进化」。</p>
+<p>易四方那四台轮边电机的「暴力」早已不是秘密——1300 马力、2.9 秒破百，极速 270km/h，这些数据在新能源时代或许称不上惊世骇俗，但实际上，四台轮边电机不再是单纯的速度机器，而是化身为矢量控制的神经元——</p>
+<p>当传统车企还在用差速器分配扭矩时，易四方在用电动化重构整车控制，实现了每秒 1000 次的扭矩微调。</p>
+<p><img alt="" class="alignnone size-full wp-image-1619056" height="1672" src="https://s3.ifanr.com/wp-content/uploads/2025/03/tvrs.jpg" width="2976" /></p>
+<p>凭借这套系统，车长超过 5.2 米的 U7 能够在麋鹿测试中达成 95.78km/h 的成绩；在窄巷中横移脱困，像螃蟹一样横向泊入极限车位。工程师们给这项功能起了个科幻味十足的名字：「平行横移」。</p>
+<p>在发布会演示中，U7 巧妙地交替以前轮和后轮为圆心，作定轮旋转，在前后夹击的障碍物中找到了一条出路。</p>
+<p><img alt="" class="alignnone size-full wp-image-1619066" height="388" src="https://s3.ifanr.com/wp-content/uploads/2025/03/behrtyv2324.gif" width="630" /></p>
+<p>与此同时，精细的扭矩矢量控制也为 U7 带来了极佳的行驶稳定性，即便是面对「美式截停」般的冲撞和时速 160km/h 下的突然爆胎，U7 也能瞬间稳住车身。</p>
+<p>四台轮边电机能做的，绝不仅是原地掉头这么简单。</p>
+<p>除了易四方，仰望 U7 PHEV 版的前舱内，一场更加隐秘的颠覆正在上演。</p>
+<p><img alt="" class="alignnone size-full wp-image-1619060" height="1524" src="https://s3.ifanr.com/wp-content/uploads/2025/03/gadfs.jpeg" width="2720" /></p>
+<p>「欧洲汽车能做的，我们一定可以！」比亚迪新技术院院长杨冬生在提到水平对置发动机的研发时，台下掌声雷动。</p>
+<p>为了在 U7 的前舱里塞进这台中国首款自研水平对置引擎，比亚迪的工程师与物理定律较劲了三年——</p>
+<p>他们用五联泵和十条润滑通道攻克了水平气缸的供油难题，将发动机高度压缩至 420 毫米，远低于直列四缸的 700 毫米，甚至比保时捷 911 的同排量引擎还要低 125 毫米。</p>
+<p><img alt="" class="alignnone size-full wp-image-1619061" height="1322" src="https://s3.ifanr.com/wp-content/uploads/2025/03/bgsvfd.jpeg" width="2358" /></p>
+<p><img alt="" class="alignnone size-full wp-image-1619063" height="1322" src="https://s3.ifanr.com/wp-content/uploads/2025/03/vfds.jpg" width="2354" /></p>
+<p>据杨冬生介绍，比亚迪这台水平对置发动机做到了 180kW（241 马力）的功率，扭矩做到了 380N·m。除了动力性能，静谧性也是豪华轿车的另一个追求水平。对置发动机的结构，天然具备了平衡性的优势，U7 PHEV 版在行驶时和纯电的噪声差仅有 1 分贝。</p>
+<p><img alt="" class="alignnone size-full wp-image-1619062" height="1318" src="https://s3.ifanr.com/wp-content/uploads/2025/03/gtsfv.jpeg" width="2342" /></p>
+<p>作为比亚迪集团的第一台水平对置发动机，其可靠性自然是不容忽视的。</p>
+<p>杨冬生表示，这台水平对置发动机经过了 8000 小时的全速全负荷的台架耐久和 12000 次的冷热冲击，「最严苛的工况下，排气管都是烧红的，发动机仍然能够稳定工作」。同时，整车验证里程也累计超过了 200 万公里。</p>
+<p>「这是中国汽车第一次研究水平对置发动机，在全世界也屈指可数。」王传福说。或许连费迪南德·保时捷都想不到，他引以为傲的水平对置技术，会在电动化时代被中国人改写成「插混动力」的注脚。</p>
+<p><img alt="" class="alignnone size-full wp-image-1619064" height="1090" src="https://s3.ifanr.com/wp-content/uploads/2025/03/bgstvfd.jpg" width="1940" /></p>
+<p>这种深度自研的代价，是比亚迪 2024 年 542 亿元的研发投入，同比增长 36%，远超其当年 402.5 亿元的净利润。当传统车企用「联合开发」分摊风险时，比亚迪的做法是将技术风险内部化。</p>
+<p>比亚迪的市场策略更显技术底气。当 U7 以 62.8 万元的价格将 L3 冗余、全主动悬架、四电机驱动变为标配，它颠覆的不是某个竞品，而是整个豪华车市场的定价逻辑。</p>
+<p>从 1997 年拆解奔驰 S 级，到 2024 年用云辇-Z 砸向行业，比亚迪的路径证明：高端化不是配置的军备竞赛，而是底层技术的绝对掌控。</p>
+  <div id="ifanr_profile" style="border: 1px solid #ccc; font-size: 14px; margin: 27px auto; font-family: Arial;">
+    <div style="overflow: hidden;"><a href="https://www.ifanr.com/author/tanjiewen" style="color: #000; text-decoration: none;" target="_blank"></a>
+
+      <div style="text-align: left; line-height: 23px; margin-left: 80px;">
+        <div style="padding: 10px 10px 10px 0;">
+          <div style="margin: 0; font-size: 14px;"><strong><a href="https://www.ifanr.com/author/tanjiewen" style="color: #000; text-decoration: none;" target="_blank">李华 (李华)</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height: 20px;">带轮子的都关注，欢迎交流。
+邮箱：tanjiewen@ifanr.com</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align: right; border-top: 1px dotted #ccc; padding: 2px 10px; font-size: 12px;">
+      <div>
+                                <a href="mailto:tanjiewen@ifanr.com" style="margin-right: 14px; text-decoration: none;" target="_blank">邮箱</a>
+
+          
+                                  <a href="5" style="margin-right: 14px; text-decoration: none;" target="_blank">8</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1619047">原文链接</a> ·
+<a href="https://www.ifanr.com/1619047#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Thu, 27 Mar 2025 17:27:09 +0000</pubDate>
+<pubDate>Thu, 27 Mar 2025 17:27:09 +0000</pubDate>
+</item>
+<item>
+<title>体验完豆包新版深度思考，我发现 AI 终于学会像人类一样「边想边搜」</title>
+<link>https://www.ifanr.com/1618920?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1618920?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> AI搜索 深度思考 边想边搜 豆包 信息整合<br><br>总结:  
+1. 文章探讨了当前AI搜索工具的局限性，如信息堆砌、缺乏深度思考，并指出优化方向。<br>2. 以字节旗下豆包APP的“深度思考”功能为例，其“边想边搜”模式通过多轮动态搜索和推理，显著提升回答逻辑性和实用性。<br>3. 通过投资对比、旅行规划、文学分析等场景测试，展示该功能如何结合搜索与思考，实现更精准的信息整合。<br>4. 对比传统“先搜后想”模式，强调“思考驱动”对复杂问题解决的突破性意义。<br>5. 提出未来AI搜索的理想路径：动态调整、自主决策、过程可追溯，逐步接近人类认知方式。 <div>
+<p><img alt="" class="alignnone size-full wp-image-1619041" height="851" src="https://s3.ifanr.com/wp-content/uploads/2025/03/DSC07395.jpg" width="2000" /></p>
+<p>你有没有发现，现在的 AI 搜索真的很懂摸鱼？</p>
+<p>当 ChatGPT、Perplexity 等工具相继问世，都说 AI 将彻底颠覆搜索领域，但现实情况却是，当我随手扔给它一个复杂问题时，一顿操作猛如虎，哐哐一顿搜索几百个网页，搜索结果却平平无奇。</p>
+<p>仔细一看，要么堆砌了一堆零散的信息，要么抓不住重点，感觉就像是把一堆资料硬塞给我，自己却没怎么动脑子，像极了敷衍了事的职场人。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618951" height="451" src="https://s3.ifanr.com/wp-content/uploads/2025/03/18-2.png" width="1280" /></p>
+<p>不过，这也不能全怪 AI。毕竟换位思考一下，即便是人类，带着问题去查资料时，也很容易被信息洪流冲昏头脑。不少 AI 产品开始对此进行优化，比如 OpenAI 和 Grok 在推理模式基础上又推出了 Deep Research/DeepSearch 模式。</p>
+<p>国内厂商里，字节也刚刚给出了新的解决方案，对豆包的深度思考功能进行了升级。正在测试的豆包新版深度思考的一大亮点便是免费支持「边想边搜」，现在下载最新版豆包 APP，或在 PC 及 Web 版豆包中即可体验该功能。</p>
+<p>APPSO 也第一时间进行了深度体验。</p>
+<p>简单来说，用户无需单独开启搜索功能，只需打开深度思考模式，AI 能在推理过程中灵活调用搜索工具，进行多轮动态搜索。</p>
+<p>从「先搜后想」到「边想边搜」，AI 终于学会了如何像人类一样搜索问题。</p>
+<h3>DeepSearch+深度思考，豆包这个新功能不止让你少问几步</h3>
+<p>生成式 AI 发展两年了，颠覆搜索了吗？</p>
+<p>早期的 AI 搜索工具虽然不怎么做互联网的搬运工，但模式上还是传统的「先搜后想」的套路——先把网上的信息抓一堆，再根据这些信息组织答案。</p>
+<p>豆包新版深度思考则不一样，它结合了深度思考能力，把搜索和推理捆绑在一起，基于每一步的思考结果进行多次搜索，能让回答更有逻辑、更贴近需求。听起来挺玄乎，我们也用几个问题来实际体验一下。</p>
+<p>先来个贴近生活的投资问题，「如果我从今年 1 月开始同时投资小米股票和英伟达股票，截至 3 月 24 日收盘哪个收益更高？」豆包的回答让我有点意外。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618921" height="540" src="https://s3.ifanr.com/wp-content/uploads/2025/03/1-7.gif" width="640" /></p>
+<p>APPSO 拆解了豆包新版深度思考的思考过程，我们发现它的搜索逻辑有了明显不同：</p>
+<p>1. 先进行问题分析和框架设定</p>
+<p><img alt="" class="alignnone size-full wp-image-1618922" height="830" src="https://s3.ifanr.com/wp-content/uploads/2025/03/2-15.png" width="1280" /></p>
+<p>2. 获取初步信息建立概念</p>
+<p><img alt="" class="alignnone size-full wp-image-1618923" height="588" src="https://s3.ifanr.com/wp-content/uploads/2025/03/3-15.png" width="1280" /></p>
+<p>3. 深入挖掘具体数据点</p>
+<p><img alt="" class="alignnone size-full wp-image-1618924" height="1112" src="https://s3.ifanr.com/wp-content/uploads/2025/03/4-19.png" width="1280" /></p>
+<p>4. 遇到不确定性时进行额外搜索</p>
+<p><img alt="" class="alignnone size-full wp-image-1618925" height="1000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/5-11.png" width="1280" /></p>
+<p>5. 基于现有信息进行合理推断，并给出结论</p>
+<p><img alt="" class="alignnone size-full wp-image-1618926" height="450" src="https://s3.ifanr.com/wp-content/uploads/2025/03/6-15.png" width="816" /></p>
+<p>之前 AI 可能会直接给出两支股票的涨跌百分比，然后就直接得出结论，但豆包新版深度思考则进行了多轮思考，进行问题分析和框架设定（时间段-股价表现-调用搜索工具）。</p>
+<p>一旦有了较为妥当的思路，它便会继续搜索，比如在互联网上找到了 14 篇参考资料，这个过程仅仅是为了获取一个笼统却清晰的概念，方便进一步边思考边有针对性地搜索。</p>
+<p>由于缺乏 1 月 1 日（休市）的准确收盘价，以及英伟达的数据存在不确定性，它需要再次搜索来确认这两个关键数据点，最后基于现有信息进行合理推断。</p>
+<p>最后的结果，也不只是给出投资收益的对比，还对股价波动因素进行分析，并提示了未来的风险，甚至整理成了表格，考虑得颇为周全。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618927" height="650" src="https://s3.ifanr.com/wp-content/uploads/2025/03/7-15.png" width="1222" /></p>
+<p>洞察到了我想问但没说出来的问题，把需要「追问」的细节提前融入答案之中，妥妥一个醒目的投资顾问。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618928" height="1280" src="https://s3.ifanr.com/wp-content/uploads/2025/03/8-1-1.png" width="731" /><br />
+<img alt="" class="alignnone size-full wp-image-1618929" height="1280" src="https://s3.ifanr.com/wp-content/uploads/2025/03/8-2-1.png" width="1101" /></p>
+<p>最近我计划去新加坡旅游，想知道有没有最优的往返机票方案。</p>
+<p>普通 AI 搜索引擎可能一股脑儿搜几百个网页经验帖，然后汇总交差，但豆包新版深度思考则有所不同，它会带着问题思考，拆解几个关键点——出发地、时间、预算等，然后逐步深入分析，形成一个「思考-检索-继续思考」的良性循环。</p>
+<p>而这恰恰也说明了豆包的新版深度思考倾向于「思考驱动」而非「搜索驱动」。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618930" height="540" src="https://s3.ifanr.com/wp-content/uploads/2025/03/9.gif" width="640" /></p>
+<p>换句话说，以前需要照顾 AI 的能力，把大问题拆分为几个小问题，一步步问清楚；可现在完全不用，直接丢出你的需求，剩下的交给豆包就行。</p>
+<p>或许正因如此，它的整体响应速度体感上并不慢，体验相当流畅。</p>
+<p>有个很现实的问题，没时间看国足比赛怎么办，别急，这时候就可以请出豆包新版深度思考来救场。把你想知道的具体内容告诉豆包，比如比赛结果、关键时刻、球员表现或者规则积分，它就能化身速通大师，省时又高效。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618931" height="1280" src="https://s3.ifanr.com/wp-content/uploads/2025/03/10-1-1.png" width="821" /></p>
+<p><img alt="" class="alignnone size-full wp-image-1618932" height="1280" src="https://s3.ifanr.com/wp-content/uploads/2025/03/10-2-1.png" width="817" /></p>
+<p><img alt="" class="alignnone size-full wp-image-1618933" height="1280" src="https://s3.ifanr.com/wp-content/uploads/2025/03/10-3-1.png" width="819" /></p>
+<p><img alt="" class="alignnone size-full wp-image-1618934" height="1280" src="https://s3.ifanr.com/wp-content/uploads/2025/03/10-4-1.png" width="816" /></p>
+<p><img alt="" class="alignnone size-full wp-image-1618935" height="1280" src="https://s3.ifanr.com/wp-content/uploads/2025/03/10-5-1.png" width="881" /></p>
+<p><img alt="" class="alignnone size-full wp-image-1618936" height="1280" src="https://s3.ifanr.com/wp-content/uploads/2025/03/10-6-1.png" width="819" /></p>
+<p><img alt="" class="alignnone size-full wp-image-1618937" height="1280" src="https://s3.ifanr.com/wp-content/uploads/2025/03/10-7-1.png" width="983" /></p>
+<p><img alt="" class="alignnone size-full wp-image-1618938" height="1031" src="https://s3.ifanr.com/wp-content/uploads/2025/03/10-8-1.png" width="1120" /></p>
+<p><img alt="" class="alignnone size-full wp-image-1618939" height="1228" src="https://s3.ifanr.com/wp-content/uploads/2025/03/10-9-1.png" width="1120" /></p>
+<p>当然，如果不开启深度思考功能，我们会发现，虽然回答依然快刀斩乱麻，效率没得说，但质量明显就差了一截。不仅缺乏更清晰的分点罗列，连逻辑层次感都显得单薄，甚至引用的资料信息更少。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618940" height="1100" src="https://s3.ifanr.com/wp-content/uploads/2025/03/11-9.png" width="1280" /></p>
+<p>这么一对比，像人类一样思考的重要性就凸显出来了。有了深度思考的加持，它能把答案打磨得更精致、更贴心，条理清晰不说，还能塞满干货，让你读起来既舒服又有收获。</p>
+<p>接下来，我们用更贴近个人需求的决策场景来考验它。</p>
+<p>对于 iPhone 16e，我们给出的观点是，这是一台酱香型手机，越晚入手越香，那它和 iPhone 16 比，哪个更有性价比，以及如果用腻了，又该换哪款备用机？</p>
+<p>就像 Grok DeepSearch 标配的图表一样，豆包新版深度思考也提供了清晰的参数对比，屏幕、芯片、摄像头一目了然，甚至还贴心地准备了数据迁移建议，这贴心程度值得点赞。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618941" height="2465" src="https://s3.ifanr.com/wp-content/uploads/2025/03/12-1-1.png" width="1120" /></p>
+<p><img alt="" class="alignnone size-full wp-image-1618942" height="2450" src="https://s3.ifanr.com/wp-content/uploads/2025/03/12-2-1.png" width="1120" /></p>
+<p><img alt="" class="alignnone size-full wp-image-1618943" height="1280" src="https://s3.ifanr.com/wp-content/uploads/2025/03/12-3-1.png" width="813" /></p>
+<p>逻辑性是豆包新版深度思考回答的最大特点。</p>
+<p>针对 Android 备用机推荐问题，它不会一股脑儿抛给你一堆机型名字，而是通过「边想边搜」的迭代循环，针对你可能会用上的使用场景，再一步步搜索、推理，最后奉上一份既有逻辑又实用的推荐清单。</p>
+<p>当然，扒蛛丝马迹这种细活儿，还是得交给 AI。</p>
+<p>「悟空在第十四回中打死的六个盗贼，分别叫什么名字？该如何理解作者这一情节的安排？」豆包新版深度思考的回答不仅列出具体名字，还融入了佛学和心理学视角，分析得头头是道，时不时冒出几句金句，颇有亮点。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618944" height="1280" src="https://s3.ifanr.com/wp-content/uploads/2025/03/13-1-1.png" width="997" /></p>
+<p><img alt="" class="alignnone size-full wp-image-1618945" height="1280" src="https://s3.ifanr.com/wp-content/uploads/2025/03/13-2-1.png" width="996" /></p>
+<p><img alt="" class="alignnone size-full wp-image-1618946" height="1109" src="https://s3.ifanr.com/wp-content/uploads/2025/03/13-3-1.png" width="1120" /></p>
+<p>李白、杜甫和白居易是唐代诗人的标志性符号，那他们三者之间是否存在交集？</p>
+<p>对于这个问题，在豆包新版深度思考的理解中，这种交集并不局限于现实生活的人际往来，还延伸到了更广阔的文学脉络以及彼此风格与创作上的相互影响。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618947" height="438" src="https://s3.ifanr.com/wp-content/uploads/2025/03/14.gif" width="640" /></p>
+<p>最后所引用清代赵翼的点评「李杜诗篇万口传，至今已觉不新鲜；江山代有才人出，各领风骚数百年」，恰到好处，为整个分析增添了历史厚重感，也让人读后回味无穷。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618948" height="388" src="https://s3.ifanr.com/wp-content/uploads/2025/03/15-4.png" width="1280" /></p>
+<h3>从「先搜后想」到「边想边搜」，搜索的未来长什么样？</h3>
+<p>技术未来学家、Google 工程总监雷·库兹韦尔（Ray Kurzweil），曾在《奇点临近》一书中预测，未来的搜索将像人一样思考，而不是像机器一样索引。如今，这一预言正在成为现实。</p>
+<p>之前的 AI 搜索，其「先搜后想」的模式是一个简单粗暴的线性过程：</p>
+<p>「输入问题 → 调用搜索工具获取数据 → 基于数据进行推理 → 输出答案。」</p>
+<p>这种方法的短板显而易见，非常依赖关键词匹配和网页索引技术，导致信息「广而不深」。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618949" height="562" src="https://s3.ifanr.com/wp-content/uploads/2025/03/16-2.png" width="999" /></p>
+<p>基于深度思考和 DeepSearch 的 AI 搜索已经大大解决了这个问题，AI 能理解自然语言中的复杂语义，比如问它「明天广州适合穿什么衣服？」就可以分析天气数据、时尚趋势、个人偏好等隐藏需求，实现多维信息关联。</p>
+<p>而豆包新版深度思考与多轮搜索相结合的模式，进一步补足了深度思考和 DeepSearch 在处理复杂、模糊及动态信息需求时尚存的几块短板。</p>
+<ol>
+<li> 一轮搜索无法解决的复杂问题: 更好应对需要多轮信息整合、动态调整策略的复杂任务。在思考过程中多次搜索，让信息持续更新和补充，给出更全面、准确和深入的回答。</li>
+<li> 模糊查询与信息关联: 对于一些描述模糊、信息不完整的问题，「边想边搜」让模型在推理过程中不断搜索和验证，逐步缩小范围，找到相关信息</li>
+<li>动态规划与多步骤任务: 在处理需要长期规划或多个步骤的任务时，「边想边搜」能够在每一步骤中进行信息校验和调整，提高了执行任务的成功率。</li>
+</ol>
+<p>豆包新版深度思考「边想边搜」的执行路径，让我不禁想起最近常被提及的 Agent。「互联网之父」Berners-Lee 早在多年前就提出：</p>
+<blockquote><p>真正的智能体，就是在每个具体场景中，都能自动完成用户心里想做却没明确说出来的事情。</p></blockquote>
+<p><img alt="" class="alignnone size-full wp-image-1618950" height="860" src="https://s3.ifanr.com/wp-content/uploads/2025/03/17-1.png" width="1280" /></p>
+<p>虽然豆包新版深度思考和 Agent 还有些区别，但某种程度上却是 Agent 工程化思路在搜索上的应用。Agent 自主决策和动态调整，将任务高度自动化，大大减少额外的数据预处理和人为干预。</p>
+<p>说白了，就是让 AI 像一个聪明的助手，自己去网上找答案，它能自己动手，自己动脑，找到我们要的东西。用户不需要像喂饭一样把问题拆得细碎，才能得到满意回答。</p>
+<p>由此我们也可以推理出 AI 时代理想的搜索过程：</p>
+<ul>
+<li>1. 接收并分析用户问题<br />
+用户提出问题后，AI 会先分析问题的内容，拆解其核心需求，并尝试推测用户的真实意图。</li>
+<li>2. 自主选择搜索策略<br />
+根据问题的性质，决定是用通用搜索还是直接调用特定专业数据源。它能记住常用工具和 API 的调用方式，直接利用现有网络资源（如站点地图或结构化数据）进行搜索，而非依赖预设流程。</li>
+<li>3. 多步骤动态搜索<br />
+搜索不是一次性完成，而是分成多个连续步骤。先发起初步搜索，查看结果后，可能调整关键词、浏览网页深入挖掘，或转向其他数据源，模拟人类在网上探索的过程。</li>
+<li>4. 实时优化搜索路径<br />
+在搜索过程中不断学习和判断。如果发现当前方向无效，它会自主放弃并尝试更有效的路径，如同经验丰富的专业人士那样灵活应变。</li>
+<li>5. 整合信息并生成结果<br />
+搜集到足够信息后，它还会通过推理将零散内容重新组合，将结果整理成逻辑清晰的总结，确保输出符合用户需求。</li>
+<li>6. 记录决策过程<br />
+每一步决策和推理都会留下清晰的记录，增强结果的可解释性，让用户能追溯其搜索逻辑。</li>
+</ul>
+<p>如同媒介理论家保罗·莱文森所言，技术进化是人类认知结构的外延。每个时代技术的核心驱动力是信息处理能力的提升，当 AI 以越来越接近人类的思维方式处理信息，重塑的将不仅仅是我们对搜索的习惯。</p>
+<p>作者：李超凡、莫崇宇</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1618920">原文链接</a> ·
+<a href="https://www.ifanr.com/1618920#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Thu, 27 Mar 2025 14:01:58 +0000</pubDate>
+<pubDate>Thu, 27 Mar 2025 14:01:58 +0000</pubDate>
+</item>
+<item>
+<title>享界 S9 增程版的「三刀流」：砍溢价，立智能，破格局</title>
+<link>https://www.ifanr.com/1618863?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1618863?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> 关键词：享界S9增程版、华为智驾、双动力策略、科技豪华、续航升级<br><br>总结:<br>1. 中国新能源市场流行“纯电树标杆+增程抢份额”双动力策略，兼顾技术验证与市场渗透。<br>2. 享界S9增程版定位科技豪华旗舰，投入十亿实现外观、交互、座舱等六大升级，如HUAWEI XPIXEL智慧大灯、激光巨幕投影2.0等。<br>3. 搭载华为雪鸮增程系统，纯电续航365km，综合续航1355km，NVH表现媲美纯电。<br>4. 华为ADS 3.3智驾系统配备4激光雷达，支持隔空召唤等创新功能。<br>5. 预售价31.8万起，以智能科技重塑30万+豪华市场格局，满足用户对“零焦虑电动+燃油便利性”的需求。 <div>
+<p><img alt="" class="alignnone size-full wp-image-1618864" height="853" src="https://s3.ifanr.com/wp-content/uploads/2025/03/red-2.jpeg" width="1280" /></p>
+<p>一款车型，两种动力形式，现已成为中国新能源市场的通用招式。</p>
+<p>尤其是在高端豪华市场，纯电车型往往用来验证高阶技术和树立口碑，是新能源的「终极答案」；而增程车型可用来降低入门门槛并加速渗透，让对续航和补能方式仍有顾虑的燃油车主们获得一个新选项，消除续航焦虑的同时也能享受到诸多优势。</p>
+<p>这种「纯电树标杆、增程抢份额」的组合拳，正是 2024 年不少爆款车型所采用的策略，双动力架构一方面既能全面兼顾不同消费者群体的需求，另一方面也能借助高压纯电验证三电技术实力，又可通过增程快速摊薄研发成本，为合资豪华燃油车老用户提供了一条迁移路径。</p>
+<p><strong>可以预见，2025 年也会有更多的新能源车型，会同步铺开纯电和增程的双动力版本模式。</strong></p>
+<p><img alt="" class="alignnone size-full wp-image-1618865" height="2588" src="https://s3.ifanr.com/wp-content/uploads/2025/03/yushou.jpg" width="7680" /></p>
+<p>正如享界 S9，连续 7 个月获得 40 万纯电豪华轿车的销冠，也即将迎来增程版本的上市，3 月 20 日公布的预售价为 31.8 万元起，将于 4 月份正式发布。</p>
+<p>当然，全新的享界 S9 增程版，不仅仅是增加了一套增程动力版本这么简单，整体可以说是应时而进，常用常新，再次重塑 30 万元以上级别豪华汽车的市场格局。</p>
+<h3>十亿重注投入享界 S9 增程版，六大升级入目皆豪华</h3>
+<p>全新的享界 S9 增程版定位科技豪华旗舰轿车，加注十亿投入，在外观、交互、座舱、驾控、续航、智驾方面带来了六大升级。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618866" height="853" src="https://s3.ifanr.com/wp-content/uploads/2025/03/deng.jpeg" width="1280" /></p>
+<p>在外观升级上，享界 S9 增程版基本沿用了享界 S9 极具辨识度的前脸设计，为了呈现出豪华沉稳的视觉效果，中间位置的贯穿式日间行车灯设计功不可没，日行灯内部采用了棱镜反射设计，通过镭射工艺来还原人间星河的璀璨星空。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618867" height="3240" src="https://s3.ifanr.com/wp-content/uploads/2025/03/lamp.png" width="4320" /></p>
+<p>享界 S9 增程版也装载了问界 M9 同款的 HUAWEI XPIXEL 百万像素车语智慧大灯，提供了数字照明、智能交互、个性娱乐的多种功能。</p>
+<p><img alt="" class="size-full wp-image-1618868 aligncenter" height="360" src="https://s3.ifanr.com/wp-content/uploads/2025/03/1-6.gif" width="640" /></p>
+<p>首发的「寰宇迎宾灯效」，涵盖了「浩宇星芒」和「星澜幻梦」两种模式，前者如宇宙脉搏般悬耀于天际，光尘似灵跃动，自核心涌出辉芒涟漪，涤荡出浩瀚无垠的能量之海；后者宛如恒星悬轨旋舞，环伺列星阵如天穹仪轨，星尘与星核在维度褶皱间共振，宇宙深空般的浩瀚神秘感随之扑面而来。</p>
+<p><img alt="" class="size-full wp-image-1618869 aligncenter" height="360" src="https://s3.ifanr.com/wp-content/uploads/2025/03/bubushenghua.gif" width="640" /></p>
+<p>还有首创的「交互式迎宾光毯」，当用户走近车辆的时候，智慧大灯将被触发多种主题的互动灯效，包括元气猫爪、发财元宝等等，恰似「步步生花」般随行绽放，满足了情感交互的需要和用户心流的捕获。</p>
+<p><img alt="" class="size-full wp-image-1618870 aligncenter" height="360" src="https://s3.ifanr.com/wp-content/uploads/2025/03/zi.gif" width="640" /></p>
+<p>为了满足更多元化的用户需求，享界 S9 增程版也支持自定义迎宾模板，甚至让智慧大灯映射出自定义字句，为营造惊喜时刻而添砖加瓦。例如在情侣纪念日的时候，车主就可以提前在车后备箱藏好一束玫瑰花和礼物，然后通过智慧大灯的文字灯语来引导对方绕到车后去接收惊喜礼物了，想想都觉得充满科技仪式感。</p>
+<p><img alt="" class="size-full wp-image-1618871 aligncenter" height="360" src="https://s3.ifanr.com/wp-content/uploads/2025/03/game.gif" width="640" /></p>
+<p>除此之外，享界 S9 增程版的智慧大灯还支持「100英寸户外巨幕投影」，可以在车机大屏通过三指上滑直接流传到车外投影，轻松打造露天电影院。值得一提的是，享界 S9 增程版还首发「节奏光剑体感游戏」，在车外就可以直接通过投影大灯来畅玩体感游戏，堪称是带娃娱乐神器了。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618872" height="746" src="https://s3.ifanr.com/wp-content/uploads/2025/03/4-5.jpeg" width="1280" /></p>
+<p>享界 S9 增程版新增的「浩宇蓝」配色，灵感源于浩瀚宇宙的一抹蓝，呈现出深邃且静谧的效果。它与灵感同样取自浩瀚宇宙的「寰宇红」、「鎏金黑」、「深空灰」等配色，共同组成享界 S9 寰宇色系。</p>
+<p>每一种寰宇色系车漆，均历经 119 道工序喷涂而成，最终让高亮清漆在车身表面呈现出透亮如水，浑厚圆润的质感。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618874" height="3240" src="https://s3.ifanr.com/wp-content/uploads/2025/03/wheel.png" width="4320" /></p>
+<p>为了满足用户对轮毂更多元化的个性需求，享界 S9 增程版新增 20 英寸多幅舒享轮毂，进一步提升风阻、NVH、舒适性表现；另外还提供了 20 英寸双十幅轮毂、21 英寸星辉锻铣轮毂供用户选配。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618875" height="853" src="https://s3.ifanr.com/wp-content/uploads/2025/03/xuanting.jpeg" width="1280" /></p>
+<p>在内饰升级上，享界 S9 增程版座舱后排的依然配备了轿车当中非常罕见的零重力座椅，更加耀眼的配置升级，则在于全新的「激光巨幕投影系统 2.0」，带来 1080P 的电影画质，配合电动隐私遮阳帘和华为悦彰卓越系列音响，观影体验基本媲美巨幕影院。</p>
+<p>除了全屏观影的状态，享界 S9 增程版还新增了「后排悬浮窗」的功能，可以让幕布展开四分之一，让投影画面展示「悬浮窗」的大小，在行车时悬浮显示时间、导航、音乐等信息，并且在后排乘员使用 K 歌功能的时候，悬浮幕布也能直接显示 K 歌歌词。</p>
+<p><img alt="" class="size-full wp-image-1618876 aligncenter" height="467" src="https://s3.ifanr.com/wp-content/uploads/2025/03/gonggao.png" width="641" /></p>
+<p>在官宣增程版上新的同时，享界表示将为纯电车主提供可选的原厂硬件升级方案，同时将继续 OTA 升级软件特性，回扣了「常用常新」的承诺。</p>
+<h3>远途无忧的千里续航，还有领先一代的华为智驾</h3>
+<p>全新享界 S9 增程版十亿投入所带来的升级技能点，还点在了续航和智能驾驶方面。</p>
+<p>享界 S9 增程版搭载了<strong>华为雪鸮智能增程系统</strong>，在纯电模式下，其 CLTC 纯电最高续航里程最高可达 365km，按照上下班 30 公里的通勤里程来说，基本可以在一周一充的频率下满足城区通勤上下班的所需。</p>
+<p>选用油电混合模式时，其 CLTC 综合续航里程最高可达 1355km，超过一千公里的综合续航也就是意味着，享界 S9 增程版可以满足长途远行的说走就走。而且可油可电的增程系统，不但比传统燃油车更加节能，而且还能跑得更远。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618877" height="853" src="https://s3.ifanr.com/wp-content/uploads/2025/03/runnning.jpeg" width="1280" /></p>
+<p>相较于传统的豪华燃油车型，享界 S9 增程版还具备新能源车型的优点，可以实现动力足，超静谧、油耗低的「不可能三角」，加上一系列针对静音增程发电的智能算法和降噪设计，享界 S9 增程版车内的 NVH 表现非常静谧，基本抹平了增程和纯电在体验上的差距。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618879" height="853" src="https://s3.ifanr.com/wp-content/uploads/2025/03/qu.jpeg" width="1280" /></p>
+<p>享界 S9 增程版的驾控体验也获得了全面升级，搭载了最新的「华为途灵平台」，不但为乘员带来了「晕车舒缓」功能，而且经过德系大师调校之后，享界 S9 增程版在「好坐」的基础上也固化了「好开」印象标签，针对转向、制动、过弯都有智能协同，在不同的驾况下都能够在操控与舒适之间找到了平衡点，从容应对各种路面变化。</p>
+<p>诚然，大多数人对鸿蒙智行当中的「智」字，第一印象都落在了高阶智驾的身上。</p>
+<p>享界 S9 增程版首批搭载了华为 ADS 3.3 高阶智能驾驶系统，全车升级搭载了 4 颗激光雷达，在原有的 192 线激光雷达的基础上，额外在车身两侧和尾端增加了 3 颗高精度固态激光雷达，结合全向立体融合感知度系统，带来超远距离、超高精度、全场景、全天候的全向安全智驾体验。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618864" height="853" src="https://s3.ifanr.com/wp-content/uploads/2025/03/red-2.jpeg" width="1280" /></p>
+<p>得益于四颗激光雷达的多模态立体融合感知协同，享界 S9 增程版的端到端智驾表现得更加类人，智驾决策有望变得更加果断、准确，让有口皆碑的华为智驾，继续保持在领先位置。而且享界 S9 增程版也为后续的华为 ADS 智驾能力再升级，预设了算力和硬件冗余，为持续更新做好了准备。</p>
+<p>智慧泊车功能也获得了升级，享界 S9 增程版首发「隔空召唤」的功能，当车辆停在较窄的车位时，车主可以直接通过手势来召唤车辆自行泊出，全程不用再掏出手机操作，更加符合车主日常使用的便捷需求。</p>
+<h3>预售价 31.8 万元起，享界 S9 增程版将重塑豪车市场格局</h3>
+<p>在过去的 2024 年，中国新能源汽车产业整体又实现了历史性突破，首次实现了年度销量超过了 1000 万辆的里程碑，7 月单月市场渗透率更是历史性突破 50%，提前 11 年完成《新能源汽车产业发展规划》预设目标。</p>
+<p>具体来说，新能源汽车的新车销量达到汽车新车总销量的 40.9%，较 2023 年提高 9.3 个百分点。其中，纯电动汽车销量占新能源汽车比例为 60%，较 2023 年下降 10.4 个百分点；插混汽车销量占新能源汽车比例为 40%，较 2023 年提高 10.4 个百分点。</p>
+<p>由此可见，插混车型，尤其是增程式车型的迅速增长，成为了带动新能源汽车增长的新动能。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618882" height="960" src="https://s3.ifanr.com/wp-content/uploads/2025/03/hai.jpeg" width="1280" /></p>
+<p>落实到豪华轿车的市场需求来说，此前以德系 BBA 为代表的合资豪华品牌，总是以百年品牌叙事来固化用户认知，促使消费者将将「豪华」与「LOGO 溢价」划等号。</p>
+<p>但随着新能源汽车时代的来临，中国汽车市场在短短 4 年间迎来了翻天覆地的变化，自主品牌和新势力车企强势崛起，中国新能源汽车已经在产业链、资源和技术上取得了全方位的领先身位。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618883" height="853" src="https://s3.ifanr.com/wp-content/uploads/2025/03/qingxu.jpeg" width="1280" /></p>
+<p>随之而来的，是消费者的用车逻辑和需求都发生了转变，消费者对豪华的认知也从原来的「认标」转而「认技术」和「认体验」。J.D. Power 调研显示，30 岁以下豪华车潜在用户中，62% 认为「智能科技配置」是购车决策的首要因素，而仅有 28% 将「品牌历史」列为关键考量。</p>
+<p>也就是说，如今大量消费者都在寻求豪华增程轿车的更优选项，以替代以往仅有 56E 的豪华轿车选项。</p>
+<p>诞生于智能新时代的享界，也顺应了汽车强国的发展趋势，用科技创新的方式，重新诠释符合时代特征的「新豪华主义」。作为鸿蒙智行旗下首款旗舰轿车，享界 S9 增程版也获得了华为赋能的旗舰黑科技，带来更全面、更智能化、更奢享的出行新体验。</p>
+<p>这样的智能化，不但体现在隔空召唤和智慧大灯等黑科技能力，更体现在四激光雷达加持下的华为 ADS 3.3 智驾解决方案，以及华为雪鸮智能静音增程系统等科技实力之上。</p>
+<p>在 30 万元以上级别，享界 S9 增程版能够以 365km（CLTC）的纯电续航覆盖 90% 的日常通勤，在以综合续航 1355km（CLTC）的表现超越同级燃油车型，加之媲美纯电车型 NVH 的静音增程器表现，从而实现大众消费者所期盼的 「零焦虑电动体验+燃油便利性」 的「既要又要式」兼容，直接击穿传统豪车「油电对立」的割裂逻辑。</p>
+<p>至此，获得增程动力选项之后的享界 S9，正以更具竞争力的定价，以及远超 30 万元档位的配置期许，率先成为 30 万元级至强科技豪华轿车，用自己的方式来让智能豪华迈入新的「觉醒时代」。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1618863">原文链接</a> ·
+<a href="https://www.ifanr.com/1618863#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Thu, 27 Mar 2025 13:37:51 +0000</pubDate>
+<pubDate>Thu, 27 Mar 2025 13:37:51 +0000</pubDate>
+</item>
+<item>
+<title>差价超过 100 万，音响能差多远？</title>
+<link>https://www.ifanr.com/1618971?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1618971?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> 柏林之声 阿维塔06 迈巴赫S480 英国之宝 音响系统<br><br>总结:<br>1. 文章对比了售价23万的阿维塔06与160万迈巴赫S480的音响系统表现<br>2. 通过三首曲目测试，阿维塔06搭载的25扬声器英国之宝系统在垂直声场、高频解析力等方面媲美迈巴赫的柏林之声<br>3. 阿维塔06采用钕铁硼磁铁、铝镁合金球顶等高端材质，峰值功率达2016W<br>4. 英国之宝的RE-Q校正、Horizon等专利技术提升了音质表现<br>5. 实际听感需亲身体验，录音无法完全还原7.1.4立体声效果<br>6. 阿维塔06试图通过音响等配置打造"年轻人的第一辆豪华轿车"概念 <div>
+<p><img alt="" class="alignnone size-full wp-image-1619023" height="675" src="https://s3.ifanr.com/wp-content/uploads/2025/03/tmm2.jpg" width="1200" /></p>
+<p>在燃油车时代，衡量一台豪车的标准是发动机的声浪，是底盘滤震的从容。而如今，当电动化浪潮抹平了动力差距，汽车厂商开始在另一个维度展开厮杀——</p>
+<p><strong>座舱的声音艺术。</strong></p>
+<p>从柏林之声到英国之宝，从宝华韦健到马克莱文森，顶级音响品牌与汽车厂商的联名，早已成为百万豪车的隐形入场券。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618972" height="2142" src="https://s3.ifanr.com/wp-content/uploads/2025/03/ava1.jpg" width="3824" /></p>
+<p>今天的故事有些不同寻常：一台预售价不到 23 万的轿车，竟在音响领域向百万豪车发起挑战。当价格差出六倍，音响素质的鸿沟真的不可逾越吗？</p>
+<p>我们决定用耳朵丈量这个看似疯狂的问题。</p>
+<p>先认识一下今天的两位参赛选手。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618973" height="2150" src="https://s3.ifanr.com/wp-content/uploads/2025/03/ava2.jpg" width="3828" /></p>
+<div class="editor-image-source">
+<p>▲迈巴赫 S480</p>
+</div>
+<p>第一位选手是 2024 款迈巴赫 S480，这台指导价 146.8 万元、落地超 160 万的豪华标杆，堪称移动的顶级会客厅。它不仅拥有棉花糖般松软的座椅、魔法地毯般的底盘调校，更搭载着殿堂级的柏林之声音响系统。</p>
+<p>第二位选手阿维塔 06 则带着「年轻人的第一辆豪华轿车」宣言登场。</p>
+<p><img alt="" class="alignnone size-full wp-image-1619019" height="1402" src="https://s3.ifanr.com/wp-content/uploads/2025/03/WechatIMG611.png" width="2518" /></p>
+<p>这台轿跑以未来感的设计打破常规，用各种科技堆砌出了一个豪华座舱。虽未公布正式售价，但预售价仅需 21.59 万元的事实意味着——</p>
+<p><strong>购买 1 台迈巴赫 S480 的预算，足以带走 6 台阿维塔 06。</strong></p>
+<p><img alt="" class="alignnone size-full wp-image-1618978" height="2138" src="https://s3.ifanr.com/wp-content/uploads/2025/03/ava5.jpg" width="3812" /></p>
+<p>另外，阿维塔还表示，即日起到上市发布期间，<strong>支付了 2000 元意向金的用户可以享受共价值 11000 元的限时三重权益</strong>。</p>
+<p>对比环节，我们选取了三个极具代表性的试听曲目：</p>
+<p><strong>1. 《渡口》</strong></p>
+<p><img alt="" class="alignnone size-full wp-image-1618979" height="2144" src="https://s3.ifanr.com/wp-content/uploads/2025/03/ava6.jpg" width="3822" /></p>
+<p>当蔡琴的经典前奏响起，两台车的低音单元展现出截然不同的性格。</p>
+<p>阿维塔 06 的鼓声如同拳头击打紧绷的皮革，每一声都带着清晰的弹性形变，尾音收束利落；迈巴赫则像手掌拍打实木桌面，泛音中带着木质共鸣的温润。在人声段，阿维塔 06 将喉音的震颤打磨得丝滑如绸，而迈巴赫，似乎更擅长展现胸腔共鸣的颗粒感。</p>
+<p><strong>2. 《命运交响曲》</strong></p>
+<p><img alt="" class="alignnone size-full wp-image-1618980" height="2146" src="https://s3.ifanr.com/wp-content/uploads/2025/03/ava7.jpeg" width="3824" /></p>
+<p>播放到贝多芬第四乐章时，阿维塔 06 的 25 个扬声器构建出垂直方向的声场高度，定音鼓仿佛从仪表台后方三米处涌来；迈巴赫则展现出水平声场的统治力，小提琴声部在左右车门间拉出弧形的音墙。</p>
+<p><strong>3. 《月を追う真夜中》</strong></p>
+<p><img alt="" class="alignnone size-full wp-image-1618981" height="2144" src="https://s3.ifanr.com/wp-content/uploads/2025/03/ava8.jpeg" width="3818" /></p>
+<p>这首 ACG 神曲成了高频解析力的试金石，阿维塔 06 的高音单元将电子合成器的「空气感」诠释得淋漓尽致，泛音如同阳光下飞扬的冰晶；迈巴赫则把重点放在中高频衔接段，女声转音时的齿音控制堪称教科书级别。在密集鼓点段落，阿维塔 06 的低音单元展现出恐怖的控制力，声音粒粒分明。</p>
+<p>在录制素材的过程中我们发现，无论是蔡琴的醇美人声，还是交响乐的复杂声场，亦或是二次元音乐的灵动跳跃，两套系统都展现出惊人的素质。</p>
+<p><strong>低频下潜扎实不轰头，中频人声细腻入微，高频延展清亮通透。</strong>从频谱图来看，两者的表现也相当接近，要说区别比较大的地方，迈巴赫的横向声场确实要更广阔一些。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618989" height="637" src="https://s3.ifanr.com/wp-content/uploads/2025/03/ava14.jpg" width="1187" /></p>
+<div class="editor-image-source">
+<p>▲<strong>《月を追う真夜中》频谱图，上为阿维塔 06，下为迈巴赫 S480</strong></p>
+</div>
+<p>虽然这不是 S680 专属的 4D 音效「大柏林」，但迈巴赫 S480 这套 15 扬声器的柏林之声，也属车载音响的顶级存在，总功率有 710W。所以阿维塔这次是把料堆到了什么程度，才让 06 的音响水平赶上迈巴赫的呢？</p>
+<p><img alt="" class="alignnone size-full wp-image-1618982" height="1586" src="https://s3.ifanr.com/wp-content/uploads/2025/03/ava90.jpg" width="2624" /></p>
+<p>答案是<strong>英国之宝卓越之声音响系统</strong>。没错，就是路虎揽胜上面的英国之宝。</p>
+<p>阿维塔 06 的音响系统一共有 25 个扬声器，支持 7.1.4 立体声，峰值功率高达 2016W，几乎是迈巴赫的三倍。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618984" height="2140" src="https://s3.ifanr.com/wp-content/uploads/2025/03/ava10.jpg" width="3820" /></p>
+<p>当然了，功率不代表一切，在声音单元的素质上，阿维塔 06 也是拉满了。全车喇叭都用上了钕铁硼磁铁，灵敏度更高，频响范围也要更广。其中高音球顶材质是动态表现更好的铝镁合金，中音和环绕扬声器用的是更浑厚的玻璃纤维，低音扬声器则是特殊的云母合成材质。</p>
+<p>这让人不禁想起《无间道》的经典台词：「高音甜、中音准、低音劲」。</p>
+<p>在优秀的硬件素质的基础上，<strong>英国之宝还为阿维塔 06 带来了一系列独家技术</strong>，包括：</p>
+<ul>
+<li>RE-Q 驾驶舱校正技术</li>
+<li>Digital Precision 数字精确化技术</li>
+<li>Horizon 水平线技术</li>
+<li>Perfect Balance 完美平衡技术</li>
+<li>True time 真实时刻</li>
+<li>Intelli-Q 数据驱动均衡技术</li>
+</ul>
+<p>就这样，阿维塔 06 获得了媲美百万豪车的音响系统。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618987" height="2144" src="https://s3.ifanr.com/wp-content/uploads/2025/03/ava11.jpg" width="3822" /></p>
+<p>不过必须说明的是，录音和实际听感还是有不小差距的，阿维塔 06 的 7.1.4 立体声再怎么强，我们录出来的都是两声道。你的耳机和音响很大程度上决定了你听到的效果。</p>
+<p>想要完整地体验到 06 的音响表现，还是要坐进车里，因为那样的话，你不仅能够体验到 06 的音响效果，还可以感受到它的水离子空调，以及内饰所透露出来的科技与豪华。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618988" height="2142" src="https://s3.ifanr.com/wp-content/uploads/2025/03/ava13.jpg" width="3820" /></p>
+<p>毕竟，要成为「年轻人的第一辆豪华轿车」，光有音响可不够。</p>
+  <div id="ifanr_profile" style="border: 1px solid #ccc; font-size: 14px; margin: 27px auto; font-family: Arial;">
+    <div style="overflow: hidden;"><a href="https://www.ifanr.com/author/tanjiewen" style="color: #000; text-decoration: none;" target="_blank"></a>
+
+      <div style="text-align: left; line-height: 23px; margin-left: 80px;">
+        <div style="padding: 10px 10px 10px 0;">
+          <div style="margin: 0; font-size: 14px;"><strong><a href="https://www.ifanr.com/author/tanjiewen" style="color: #000; text-decoration: none;" target="_blank">李华 (李华)</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height: 20px;">带轮子的都关注，欢迎交流。
+邮箱：tanjiewen@ifanr.com</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align: right; border-top: 1px dotted #ccc; padding: 2px 10px; font-size: 12px;">
+      <div>
+                                <a href="mailto:tanjiewen@ifanr.com" style="margin-right: 14px; text-decoration: none;" target="_blank">邮箱</a>
+
+          
+                                  <a href="5" style="margin-right: 14px; text-decoration: none;" target="_blank">8</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1618971">原文链接</a> ·
+<a href="https://www.ifanr.com/1618971#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Thu, 27 Mar 2025 10:46:11 +0000</pubDate>
+<pubDate>Thu, 27 Mar 2025 10:46:11 +0000</pubDate>
+</item>
+<item>
+<title>从「参数」到「体验」，宝马和尊界正在「特调」ECU</title>
+<link>https://www.ifanr.com/1619003?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1619003?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="alignnone size-full wp-image-1619024" height="675" src="https://s3.ifanr.com/wp-content/uploads/2025/03/XMZ_4786-opq3540303748-1.jpg" width="1200" /></p>
+<blockquote><p>One More Thing！ What you will see is that this new BMWs will be more BMW than ever before.</p></blockquote>
+<p>2023 年的一场发布会上，宝马集团的首席执行官 Oliver Zipse 效仿着乔布斯，从身后拿出了一个「小黑盒子」，号称它能让新一代的宝马比之前所有的宝马都更宝马。</p>
+<p>可能稍微有点绕，翻译一下就是说，这东西能让电气化时代的宝马回归最本质的体验——极致的驾驶乐趣。</p>
+<p><img alt="" class="alignnone size-full wp-image-1619006" height="1001" src="https://s3.ifanr.com/wp-content/uploads/2025/03/1-10.jpg" width="1920" /></p>
+<p>对改装车文化了解比较深的老哥们，想必对这东西并不陌生，就是个ECU 嘛。刷「一阶」、「二阶」或者「特调」就是指通过改写 ECU 程序，来对汽车发动机进行不同程度的动力释放。</p>
+<p>我们都知道发动机是台非常精密的仪器，进气、喷油、点火、排气等一系列的动作必须在毫秒间完成配合才能保证其正常运行，这一切都是通过行车电脑（ECU）来控制的，出厂时基于各种考虑，厂家设置的 ECU 程序往往比较保守，所以追求更激进动力的老哥们，往往会通过改写这部分程序，来对发动机进行不同程度的动力释放。</p>
+<p><img alt="" class="alignnone size-full wp-image-1619011" height="933" src="https://s3.ifanr.com/wp-content/uploads/2025/03/5-8.jpg" width="1400" /></p>
+<p>最近宝马陆续公开了有关这颗「Heart of Joy（欢乐之心）」的更多信息和它在测试车上的表现，让我们能够知道它为什么和现有的其他 ECU 与众不同。</p>
+<p>除了刚才提到的控制发动机的 ECU 之外，还会有多个控制悬架、底盘、排气、制动等等系统的 ECU，它们之间再互相通过 CAN 总线来进行信息传输和交流。对于 ECU 们和对应硬件的调校风格不同，往往也会给车辆带来诸如「舒适」和「运动」的不同操控取向。</p>
+<p>这么多的 ECU 之间要怎么互相通信呢，目前广泛采用的做法是把它们集中在汽车的通信总线上（CAN），但这样各个系统间不可避免的会有一些通信延迟和响应迟缓之类的问题。</p>
+<p>但现在，宝马把它们集中在了同一个系统下进行管理，这将让各个系统之间的延迟减少到毫秒范围内，同时响应精度也更高，据说比以前的系统快 10 倍。</p>
+<p><img alt="" class="alignnone size-full wp-image-1619008" height="1600" src="https://s3.ifanr.com/wp-content/uploads/2025/03/3-9.jpg" width="2400" /></p>
+<p>在电气化时代，驾驶乐趣是什么样子的？</p>
+<p>宝马的一位高级工程师解释说，「Heart of Joy」将电动机的强大功率和扭矩、使车辆减速和制动的能力、以及可变的动力源有机的结合在了一起，更具体的证明是，宝马最近把它装在了全新的测试车「Vision Driving Experience 」上，在约 18,000 牛·米的极限动力下对它进行了压力测试。</p>
+<p><img alt="" class="alignnone size-full wp-image-1619007" height="621" src="https://s3.ifanr.com/wp-content/uploads/2025/03/2-9.jpg" width="1242" /></p>
+<p>哪怕在 144 km/h 的极速下，这辆车也不需要刹车，仅仅依靠动能回收所提供的制动能力就可以让车辆放缓到可以安全过弯。</p>
+<p>同时在这套系统下，发动机到动力总成再到单个车轮的响应延迟也将减小，所以在加速时的响应速度会更快，制动时刹车片和轮胎的磨损也会减少，用宝马的话说就是「停下来的乐趣」。</p>
+<p>这套全新的东西我们最早能在下一代宝马 3 系上体验到。</p>
+<p><img alt="" class="alignnone size-full wp-image-1619012" height="3487" src="https://s3.ifanr.com/wp-content/uploads/2025/03/DSC00654-opq3540303583.jpg" width="5231" /></p>
+<p>你可能会有一个疑问，为什么直到现在，宝马才想到把这些 ECU 整合起来，这不应该是一个自然而然的想法嘛。</p>
+<p>问题出在「车规」上，刚才我们有提到，ECU 们不仅控制着发动机，同时也控制着对行车安全至关重要的制动、转向、被动和主动安全等系统，所以稳定和可靠往往比先进更重要，即使到现在，大部分的车型的 ECU，也是由大陆、电装、博世、德尔福这类在上面沉淀了近百年的「Tire 1」们提供的。</p>
+<p><img alt="" class="alignnone size-full wp-image-1619013" height="4000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/DSC00846-opq3540269526.jpg" width="6000" /></p>
+<p>宝马也并不是唯一一个在 ECU 上做创新的车企。</p>
+<p>前端时间发布的尊界 S800 和「Heart of Joy」一样，都采用了更集中的 ECU 架构。</p>
+<p>根据博主保镖的车库所做的分析，尊界的不同之处在于，鸿蒙基于自身在通信领域的专业能力，在 ECU 的控制芯片上同样实现了自研，从而让整车域也具备了引入 AI 推理能力的可能性，让悬架系统也可以有一定的自主学习能力，根据不同的路况「推理」出不同的策略，从而让驾乘体验更加平稳舒适。这也正是发布会中提到的「盒内通信」和「时空推理」的含义。</p>
+<p><img alt="" class="alignnone size-full wp-image-1619010" height="946" src="https://s3.ifanr.com/wp-content/uploads/2025/03/7-16.png" width="1804" /></p>
+<p>在读对宝马工程师的采访时，我发现的另一个有意思的地方是，他们做「Heart of Joy」的源动力是觉得使用相同的供应商们导致了即使是不同品牌的驾驶体验也往往相似。这让我不禁回想起了去年北京车展过后雷军发表的一句感悟——「车圈的卷，完全是同质化的卷。这哪是在做产品，完全是靠蒙。」</p>
+<p>至于后来小米 SU7 从「收手吧，外面都是 XXX」到现在交付速度赶不上下单速度的故事，大家就都知道了。</p>
+<p>这背后的原因大家其实都看得出来，和手机圈一样，在「参数」、「性能」都逐渐透明化的当下，独特的使用「体验」或许正在成为一辆车的关键竞争力。</p>
+<p><img alt="" class="alignnone size-full wp-image-1619021" height="2243" src="https://s3.ifanr.com/wp-content/uploads/2025/03/8-4.jpg" width="3439" /></p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1619003">原文链接</a> ·
+<a href="https://www.ifanr.com/1619003#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Thu, 27 Mar 2025 10:17:03 +0000</pubDate>
+<pubDate>Thu, 27 Mar 2025 10:17:03 +0000</pubDate>
+</item>
+<item>
+<title>独家 ｜ Google 决定终止开源 Android</title>
+<link>https://www.ifanr.com/1618895?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1618895?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="alignnone size-full wp-image-1618915" height="1024" src="https://s3.ifanr.com/wp-content/uploads/2025/03/WechatIMG214.png" width="1536" /></p>
+<blockquote><p>出于新闻报道和纯兴趣讨论目的，爱范儿对知名科技公司的战略做过各式各样的「沙盘推演」，设想了许多场景。</p>
+<p>但没想到，最不可能的一种情况，居然正在 Google 身上发生。</p></blockquote>
+<div>
+<div class="ace-line ace-line old-record-id-SLQldqQRooXYvzxeOHXcbJ2NnSd"><strong>Google 已经决定</strong><strong>停止 Android 开源</strong><strong>项目</strong><strong>（</strong><strong>AOSP</strong><strong>）</strong><strong>。</strong></div>
+</div>
+<p>AOSP（Android Open Source Project） 是 Google 主导的开源项目，为所有 Android 设备操作系统提供基础框架和核心组件。它相当于一个「毛坯房」，开发者可自由下载、修改和分发其代码，并基于此构建定制化系统，包括 Xiaomi HyperOS、vivo OriginOS、OPPO 的 ColorOS、甚至 Pixel 手机的 Android 系统，都是基于 AOSP 构建的。</p>
+<p>Google 对 Android 的维护分为两条路径：公开的 AOSP 分支面向全球开发者开放，包含纯净的开源代码，不涉及任何 Google 专有服务。任何厂商或个人均可基于此分支开发系统。而内部闭源分支仅供签署了 GMS（Google Mobile Services） 协议的厂商使用。</p>
+<p><strong>具体来说，Google 将不再维护目前 AOSP 的公开分支，逐渐关闭相关的的支持性资源，并可能停止更新有法定开源义务（GPL 等协议的代码）外的组件的源代码。</strong></p>
+<p><a href="https://www.androidauthority.com/google-android-development-aosp-3538503/"> 海外媒体 Android Authority 最先报道了这一情况，Google 也确认了此事。 </a></p>
+<p><strong>从下周开始，所有的 Android 开发工作将仅在 Google 的内部分支进行。</strong>在一段时间后，外部分支可能将不再公开甚至彻底关闭。并且，AOSP 的持续集成/交付 (CI/CD) 工具和环境也可能关闭，甚至 Android Gerrit (https://android-review.googlesource.com/) 也可能会关闭。从今往后，只有 Google 内部的员工能够访问 AOSP 的内部分支，或是提交代码。Android 的开发过程将不再透明。</p>
+<p>从高维度来看，Google 将逐步缩减 AOSP 所包含的内容，直至 AOSP 作为开源项目，以及作为一种概念，都不复存在。</p>
+<p>以史为鉴，OpenSolaris 项目（也就是 Solaris 操作系统对应的开源项目）在 Oracle 在收购 Sun，宣布对 OpenSolaris「延迟开源」后，直到 Solaris 开发部门解散为止，都没有以 CDDL 许可证开放过半句代码。</p>
+<p>谁也不知道，Google 对 Android Authority 承诺的「继续开源，只是推迟」，是不是只是一句空话——毕竟无限期的推迟，也是一种推迟。</p>
+<p>根据爱范儿的了解，Android 闭源的总体思路是最终只保留 GPL 强传染许可证要求开源的部分，主要是 Linux 内核态驱动和补丁。<strong>其他中层、上层等之前采用 Apache 等宽松开源许可证的部分，最终会闭源</strong>；未来的 Android 版本发布后也不再对外公开发布、更新源代码。</p>
+<p>此事的决策层级在 Google 高层管理者级别。据信他们做出此决定的时间不晚于 2025 年初。整个策略的执行将会在一个更长的期限内完成，至少持续数年，直到 AOSP 彻底失去意义。</p>
+<p><strong>Google 此举的真实动机尚不明确，但根据爱范儿的分析和了解，主要是为了节约开支和增加收入</strong>：</p>
+<p>AOSP 在不同的维度上（比如版本号、发布进度等）有着多条代码流水线和大量的分支。再考虑到项目的上下游代码、多公司之间的协作，进一步复杂化，维护管理起来非常困难，产生大量的计算资源和工时成本。Google 可能希望节约这些成本。考虑到 2025 年初 Android 部门已经向所有员工提供了「自愿离职」的选项，削减开支的思维逻辑不难理解。除此之外，签署了合作伙伴协议的厂家也有义务捆绑 Google 服务，为 Google 提高广告收入，变相提高了公司的整体收入。</p>
+<p><strong>好在目前来看，闭源 AOSP 对业界的直接影响并非灾难性，对终端手机用户直观影响也微乎其微。 </strong></p>
+<p>绝大多数主流手机厂商早就和 Google 签订了各种授权合作伙伴协议。在现有协议安排下的厂商，仍然可以得到和使用最新 Android 源代码，获得 Google GMS 认证，正常预装 Google Play、Gmail 等服务和应用，得到 Google 的支持。一切生意照旧。</p>
+<p>真正的影响更多不会直接展现，而是会在更长的时间里从侧面体现。后文会详细解读。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618914" height="1600" src="https://s3.ifanr.com/wp-content/uploads/2025/03/e94f5fc72946664d8ec002c20c3be770-1.jpeg" width="2400" /></p>
+<p>&nbsp;</p>
+<h3>AOSP，不存在了？</h3>
+<p>如下几点需要澄清：</p>
+<ol>
+<li>因为大部分 AOSP 代码通过 Apache 2.0 许可证发行，任何人都可以 fork 一份。其他代码服务平台上也有各种 AOSP 的镜像，例如 GitHub 和国内的 Android 社区。Google 无权要求其它「非官方」 AOSP 代码库下线。已经开源的，无法被撤销开源。</li>
+<li>也就是说，只要能从其他非官方渠道下载，人们仍然可以使用 Google 最后更新的 AOSP 代码，也可以按照自己的需要对其进行修改。原则上如果你有足够多厉害的开发者，也可以把之前的 AOSP 变成自己的系统，去维护和更新。</li>
+</ol>
+<p>Android/AOSP 从来不是一个真正的开源项目，社区里的原教旨主义者也一直对其颇有微词。</p>
+<p>前文提到，Android 目前运行于 Linux 内核上，后者是 GPL 许可证开源的。GPL 是一个强传染性的许可证，要求所有衍生工作都必须按照 GPL 许可证同样开源，从而贯彻无限开源、扩大社区的精神。</p>
+<p>而当年 Google 为了构建 Android 商业生态，创建了平衡开源与商业需求的许可模型。Google 将 Android 平台分为几个部分：底层的 Linux 内核部分保留 GPL v2 许可证（按照要求），而 AOSP 的大部分代码则采用了更为宽松的 Apache 2.0 许可证。这种许可结构使设备制造商能够修改和定制 Android 而不必开源所有修改，同时允许企业在 Android 平台上构建专有应用和服务。Google 自己的专有服务 GMS (Google Mobile Services) 则与 AOSP 分开，并采用不同的许可条款。这种混合方法创建了一个既保持开放性又为生态系统提供商业灵活性的模型。</p>
+<blockquote><p>具体来说，Linux 内核基于 GPL 许可证，虽然 kernel module 需要依据 GPL 强制开源，然而 userspace 应用并不受 GPL 传染性的影响，因此无需开源。部分 userspace 应用程序也与传统的 Linux 发行版不同，例如使用 bionic libc 替代 glibc，使用 toybox 替代 busybox 等。此外，Google 还使用了「硬件抽象层」(HAL)，允许厂商将不想公开的商业机密资料，比如一些特定的专有功能对应的背后代码和逻辑，存放在这一层上面，即提供了一套 stable ABI（应用二进制界面），使得厂商可以独立于 Android 框架层更新他们的专有代码。</p></blockquote>
+<p>当然 Linux 基金会对 Google 这种违背开源精神的操作方法很不爽，一度将 AOSP 从 Linux 开源项目中除名。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618912" height="1153" src="https://s3.ifanr.com/wp-content/uploads/2025/03/0PhaNIHzsyNpX9ybD.png" width="1187" /></p>
+<p>结果就是，AOSP 底层部分按照 GPL 开源的，大量中层按照 Apache 宽松开源（部分闭源），在此基础上的应用就可以自行按照开发者意愿和商业目的选择各自的开闭源属性了。</p>
+<p>Google 自己也是这样做的。事实上，自从 2013 年的 Android 4.4 KitKat 之后，所有的 Android 版本都不再完全开源。Google 为 Android 系统开发的一部分驱动、UI，以及应用层的大量大量核心产品和服务，也就是人们熟知的 GMS 套件，都是闭源的。</p>
+<p>AOSP 存在着，但它并不是完整的 Android。这也是为什么很多系统开发者都会强调「原生 Android」（指 Google Nexus/Pixel 的操作系统）不等于 AOSP。</p>
+<p>尽管 AOSP 是个开源项目，Google 也不常合并第三方提交的合并请求（合并 AOSP 代码需要 Google 员工的批准，而不少 PR 就死在了 Gerrit Review 里）。这也是不少开发者认为 AOSP 和典型开源项目之间的最大区别。让参与者难以在 AOSP 里获得真正的参与感。</p>
+<p>在 AOSP 项目的官网上，Google 写了这样一段「治理理念」：</p>
+<blockquote><p>Google 领导 AOSP，负责维护和进一步开发 Android。尽管 Android 由多个子项目组成，但 AOSP 是严格的项目管理。Google 将 Android 视为一个单一、整体的软件产品，而不是一个发行版、规范或可更换部件的集合，并对其进行管理。Google 的意图是让设备制造商将安卓移植到设备上；他们并不实施规范或策划发行版。</p></blockquote>
+<p>这段话已经把 Google 的意图描述的够清楚了。如果 AOSP 是一头干活的驴，那么卸磨杀驴的时候已到。</p>
+<p>&nbsp;</p>
+<h3>Android 闭源，将会带来怎样的影响？</h3>
+<p><strong>主要结论：主流手机品牌和它们的用户不需要担心。 </strong></p>
+<p>首先让我们重温一下Google 和 Android OEM 之间的协议关系：</p>
+<ol>
+<li>AOSP，任何厂商都可以使用 AOSP 进行开发，不需要获得Google 的同意；</li>
+<li>Android 兼容性承诺协议 ACC、移动应用分发协议 MADA、企业设备补充协议 EDLA 等，不一而足。通过协议，Google 和 OEM 之间建立商业约束。签订了 ACC 协议的 OEM 通过 AOSP 开发的操作系统，才能够称之为 Android 操作系统，获得 Android 商标使用权等权益。</li>
+<li>Google 移动服务 GMS，包括Google 服务核心、账号体系等后台功能，以及前台的 Google Play 商城、YouTube、Gmail、Calendar 等应用。公司签署了上述协议，并且手机型号通过了Google 兼容性测试，才可以预装 GMS。</li>
+</ol>
+<p>ACC、MADA/EDLA 等协议的组合，确保了Google 对 Android 操作系统有着大体上的绝对控制。</p>
+<p>包括小米、vivo、OPPO、三星等在内的当今绝大多数 Android 手机品牌，和Google 都签订了协议。没有意外的话，Google 应该已经联系它们进行安抚，并且确保未来的合作照常进行了。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618900" height="662" src="https://s3.ifanr.com/wp-content/uploads/2025/03/WX20250327850152x.png" width="1628" /></p>
+<p>在过去有相当一部分设备和芯片厂商，它们利用 AOSP 开发产品，却不从 Google 获得 Android 设备认证，设备不需要预装 GMS 全家桶，也能够避开 Google 的认证要求。</p>
+<p>非认证 Android 设备五花八门，数以十亿甚至百亿计。通过这次闭源 AOSP，Google 有可能引诱非认证设备厂商向自己低头，签订前面提到的各种协议。</p>
+<p>一种极有可能出现的情况是，基于 AOSP 开发的智慧座舱系统，可能代码也不会再无偿提供给全世界的厂商了。除非车企和 Google 签订协议，它们将无法得到最新的代码。当然，车企也可以继续使用已经开源的旧系统开发。</p>
+<p>这不是已经发生的事实，只是一种可能性。Google 这次闭源 Android，不排除有一个小的动机就是试图夺回非认证设备市场，或者至少能够从中分一杯羹。这个大市场，虽然是设备厂商自己打下的，但如果没有 AOSP 确实也不会是今天的样子。</p>
+<p>顺着这个角度，非认证 Android 设备消费者可能就会受到影响了，当然同样不会很明显。影响主要来自财务方面：OEM 想继续预装 Android 操作系统，就必须要服从 Google 对设备的管理和要求。这个成本当然会被转嫁给消费者，导致支付更高的价格。除此之外，消费者也只能使用 Google Play 等渠道下载应用，第三方应用市场（例如 F-Droid）等的生存空间也变得更少，Google 也可以向所有的应用内支付收一笔费用。</p>
+<p>部分厂商可能不愿意屈从 Google，产品退出市场，消费者的选择权就缩减了；但与此同时，任何 Google 在闭源之前已经发布的 AOSP 代码，理论上仍然可以使用。厂商可以随意 fork 代码，自己开发、更新、维护。估计智能冰箱的消费者不会在意冰箱是否预装最新 Android 操作系统。</p>
+<p>不过，这恐怕就又回到了「Android 碎片化」的老生常谈：如果非授权设备厂商继续一意孤行，用老的、不再有官方维护的代码去开发产品，届时碎片化恐怕就不是版本号那么简单了——而是可能出现类似于今天的中国，推送、版本、功能、外观、名称、体验等全方位碎片化，并且向全球范围扩大的一副诡异图景。</p>
+<p><strong>开发者权益侵害 </strong></p>
+<p>AOSP 的闭源，对于 Android 应用第三方 ROM 开发者来说，影响更为明显。</p>
+<p>曾经 Android 第三方 ROM 百家争鸣的景象，也将被历史掩埋。ROM 开发者的最好结果，是用 AOSP 最后更新的版本去修改，然后维护当前版本，到它慢慢过时，直至最后放弃这项事业。</p>
+<div></div>
+<p>至于应用开发者，他们仍然可以从 Google 获取需要的 SDK，在后 AOSP 时代内应该不会有太大的直接影响。</p>
+<p>不过在此之前，由于 Android 已经存在相当程度的碎片化情况，开发者为了适配各版本系统、各品牌机型，需要获得不同厂商的系统代码，以及设备作为测试机。这对于中小型，特别是独立开发者来说都是不小的成本。目前尚不清楚这种情况在今后会不会愈演愈烈。</p>
+<p>如果中小开发者生存环境被遭到进一步挤压，传导效应就是强者恒强，创新被遏制，进而发生更多的垄断。因此，Google 在做了它该做的事情之后，应该要给出后续方案，确保中小开发者的生存。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618902" height="960" src="https://s3.ifanr.com/wp-content/uploads/2025/03/WX202503270854352x.png" width="1620" /></p>
+<h3><strong>最极端，却又最不出意外的做法 </strong></h3>
+<p>此前在中美技术脱钩的大背景下，爱范儿曾经构思过 Android 对中国手机厂商「断供」的几种可能性：禁止在海外销售的手机中显示 Android 商标、禁止预装 GMS、对中国厂商「指向性」闭源 AOSP，甚至中止这些厂商的授权并将其从 OHA 中解约/除名。</p>
+<p>在所有可能性中，完全闭源 AOSP 是可能性最低的。爱范儿一度认为这样做实在太不体面了。</p>
+<p><strong>在智能移动设备的萌芽阶段，Google 做出开源 Android 的决定，不仅获得了技术开放的名誉，更是在当时将大量厂商和用户从塞班、Windows Mobile，以及诺基亚和黑莓的手中赢了过来。 </strong></p>
+<p>当然，诺基亚、黑莓和微软各自走了弯路，对Google 获胜起到不小的助攻作用。但 Google 开源 Android，毫无疑问，是今天 Android 在移动操作系统市场抢下超七成份额的道路上，最正确的决定。</p>
+<p>Google 内部仍有员工认可开源这项事业的科技普及化意义和长期价值。无论出于业务和上级要求，还是个人身份，他们为 Android 项目编写代码，做维护工作，而 AOSP 也是这些工作的载体。然而 AOSP 对于 Android 和 Google 的商业价值，早已不可同日而语。</p>
+<p>尽管这次操作的主要动机是节约成本，但长期来看，也会对 Google 增加收入带来一定帮助。毕竟在过去，Google 很难从那些运行基于 AOSP 操作系统的非认证设备上获得直接收入或数据等间接利益。</p>
+<p>在这一事件之前，Google 通过 Android 赚钱的方式，主要是在伙伴协议的框架下对 OEM 进行收费授权认证。 想要在商业合规的框架下使用 Android，厂商需要签署协议。具体协议内容方式等细节可能会有不同，但大的规则是不变的。Google 的主要收入来源是通过预装的Google应用和服务(搜索、Play商店等)获取的广告收入和应用分成。</p>
+<p>显然，非认证设备无法给 Google 创造收入，AOSP 的存在却「给人做嫁衣」，作为任何一家商业公司恐怕都想要尽快跟这些设备和厂商切割。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1618895">原文链接</a> ·
+<a href="https://www.ifanr.com/1618895#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Thu, 27 Mar 2025 04:07:59 +0000</pubDate>
+<pubDate>Thu, 27 Mar 2025 04:07:59 +0000</pubDate>
+</item>
+<item>
+<title>早报｜雷军：小米克制贪婪，只挣一点点/张一鸣登顶中国首富/广汽回应「收购恒大汽车」传闻</title>
+<link>https://www.ifanr.com/1618904?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1618904?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<div style="padding: 0 14px; text-align: center;"><img alt="cover" src="https://s3.ifanr.com/images/ep/cover-images/xuan_ya_zhi_shang_qi_dan_che_cover.jpg" /></div>
+<div style="padding: 0 14px;">
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="⚡" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/26a1.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">雷军：小米克制贪婪，只挣一点点</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🌳" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f333.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">宇树科技回应「已盈利至少 5 年」：属实</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🎮" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f3ae.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">任天堂今晚将举办直面会</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🎊" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f38a.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">字节跳动创始人张一鸣登顶中国首富</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🍎" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f34e.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">苹果向浙大捐赠 3000 万</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="💰" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4b0.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">OpenAI 预计今年营收超 900 亿</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="📱" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4f1.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">vivo：2027 年实现海外销售额占 70%</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🚗" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f697.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">贾跃亭：法拉第未来第三次拿到超三千万融资</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="💻" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4bb.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">腾讯元宝新增「一句话生成代码」</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🚗" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f697.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">小鹏汽车回应「增程式路线」：技术不难</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🔍" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f50d.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">微软 Copilot 新增 AI 研究员 / 分析师智能体</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🏭" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f3ed.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">广汽回应「收购恒大汽车」：不要轻信传言</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🤖" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f916.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">宇树机器人 G1 时装周 T 台走秀</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="😯" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f62f.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">宝马宣布与阿里通义大模型合作</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="💡" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4a1.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">《人类简史》作者：真正的 AI 具有主动性</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="📱" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4f1.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">消息称苹果无计划推出小尺寸 iPhone 机型</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🎉" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f389.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">阿里通义发布新一代端到端多模态模型</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🎶" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f3b6.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">昆仑万维发布全球首款音乐推理大模型</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="💪" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4aa.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">Keep 发布行业首个通用健身教练 Agent</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="📺" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4fa.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">芒果 TV 调整会员：同时在线设备降至 1 台</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🎥" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f3a5.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">《哪吒 2》总票房突破 150 亿</p>
+</div>
+</div>
+</div>
+<section><img alt="重磅" src="https://s3.ifanr.com/images/ep/common-images/xin_wen.png" /></section>
+<h3>雷军：小米克制贪婪，只挣一点点</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/598111a8-f0d3-4bf0-91ca-b08b10d75e17.jpeg" /></p>
+<p>近日，小米集团创始人、董事长兼 CEO 雷军在武汉大学「雷军奖学金」颁奖会上，谈及小米经营理念时指出，「我们克制了贪婪，只挣一点点」。相关视频公布后，「雷军称小米克制贪婪只挣一点点」相关话题冲上微博热搜。</p>
+<p>雷军提到 2018 年 4 月 25 日在武汉大学举办的发布会上，其承诺每年整体硬件业务（包括手机、IOT 及生活消费产品）的综合税后净利率将不超过 5%。若实际净利率超过这一比例，小米将把超出部分以合理方式返还给用户。雷军还透露，未来将向大众公布准确的净利率。</p>
+<p>雷军强调，小米产品之所以能被广大用户认为物超所值，关键在于公司克制了贪婪，只挣合理的微薄利润。雷军指出，利润不是目标，而是做好产品后的自然结果。</p>
+<p>值得关注的是，小米集团在 3 月 18 日公布了其 2024 年全年及 Q4 业绩报告。据显示，小米集团全年营收 3,659 亿元，同比增长 35.0%；经调整净利润人民币 272 亿元，同比增长 41.3%。</p>
+<p>昨日，雷军在自己的母校仙桃中学，为其捐赠的雷军图书馆揭牌。雷军在本次揭牌仪式上宣布，决定为母校捐赠 5,000 万。其中 4,000 万，用于修建一所图书馆；1,000 万用来设立奖励基金，资助品学兼优、家庭困难的学生，奖励优秀的教师。</p>
+<section><img alt="大公司" src="https://s3.ifanr.com/images/ep/common-images/da_gong_si.png" /></section>
+<h3>宇树科技回应「已盈利至少 5 年」：属实</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/e00db530-2b60-4082-b55d-60bd4791eb42.jpg" /></p>
+<p>近日，宇树科技早期投资人、SevenUp Capital 创始人赵楠通过第一财经透露，自 2020 年以来，宇树的财务报表每年都保持盈利状态；赵楠最近一次和王兴兴交谈中，后者还对「宇树科技是否需要新一轮融资」给出了否定答案。</p>
+<p>上述消息公布后，新浪科技就此盈利信息向宇树科技求证，宇树科技市场负责人回应表示信息属实。</p>
+<p>赵楠还在采访中透露了更多宇树科技的发展细节：</p>
+<ul>
+<li>宇树科技在 2020 年左右就积攒了英伟达、谷歌等头部用户和实验室用户，技术的迭代和工程化能力也让企业的生态雏形初现，从而也证明了宇树科技并非「玩具公司」；</li>
+<li>宇树科技依靠核心零部件的自研，让上游供应商从零部件供应变为材料供应，从而去除一层溢价；并坚持用自己的工厂进行组装加工。赵楠指出，核心零部件自研不仅让宇树科技的调教训练更加自由且高效，还进一步激发出更强的产品迭代和成本控制能力。</li>
+<li>值得关注的是，2023 年 2 月，人形机器人项目在宇树科技内部立项，仅仅过去 7 个月左右，该公司的第一个人形机器人产品 H1 就已经对外亮相。</li>
+<li>赵楠还提到，宇树科技会像「小米构建多领域生态」一样，依托自身的双足和四足体系开展生态建设。</li>
+</ul>
+<p>此外，第一财经还在报道中提到，宇树工作人员在 CES2025 上透露，公司旗下四足机器人的全球市场占比达到 60%-70%。</p>
+<h3>任天堂今晚将举办直面会</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/e55843cc-e0f8-482b-805c-09563d57e3c2.jpg" /></p>
+<p>昨日，任天堂宣布将在北京时间今晚 10 点举行直面会。届时任天堂将为用户带来有关 Nintendo Switch 游戏的相关信息，重点关注计划于 2025 年发布的游戏，播出时间约为 30 分钟。</p>
+<p>此外，有关 Nintendo Switch 2 的更多信息，任天堂将会在北京时间 4 月 2 日晚 9 点的「Nintendo Direct: Nintendo Switch 2 &#8211; 2025.4.2」 专场直面会中公布。</p>
+<p>Nintendo Switch 2 于今年 1 月 16 日正式公布，其采用与 Switch 1 类似的设计语言，新增全新的磁吸 Joy-Con。值得关注的是，新版 Joy-Con 改成了磁吸式 + 触电擦槽设计，可以更方便安装到机身或者握把上，并且将配备新的摇杆控件。</p>
+<h3>字节跳动创始人张一鸣登顶中国首富</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/cd2247a3-df25-42ee-8247-7104bc7f1ff4.jpg" /></p>
+<p>据彭博社亿万富豪指数及福布斯富豪榜同步更新显示，字节跳动创始人张一鸣以 575 亿至 655 亿美元身家首次登顶中国富豪榜，成为新任中国首富。</p>
+<p>据悉，张一鸣在福布斯榜单显示其全球排名第 23 位，彭博指数则位列第 24 位，其财富主要源于其持有的 21% 字节跳动股份。腾讯创始人马化腾与农夫山泉钟睒睒分别以 535 亿、531 亿美元身家紧随其后。</p>
+<p>此次财富变动主要得益于字节跳动近期的估值调整。彭博社分析指出，贝莱德、富达等机构对字节跳动的最新估值平均达 3,650 亿美元，叠加其计划以 3,120 亿美元估值回购员工股票，因此推动张一鸣身家大幅增长。另外，拼多多黄峥、小米雷军等企业家也在榜单中位列前列。</p>
+<h3>苹果向浙大捐赠 3000 万</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/57b4066d-cd53-4a46-a75f-6f36c510baea.jpg" /></p>
+<p>昨日，苹果 CEO 库克现身浙江大学紫金港校区。同日，苹果发文宣布，向浙江大学捐赠 3,000 万元人民币，以继续支持在华编程教育。</p>
+<p>据悉，苹果将与移动应用创新赛的合作伙伴浙江大学共同设立 Apple 移动应用孵化基金，提供最前沿的技术培训，包括 App 开发、产品设计、市场营销和商业运营等专业课程。该基金将通过研讨会、实习和导师制等方式，建立学生开发者与行业领袖和投资者之间的联系，为他们提供更多商业培训，助其在不断发展的 iOS 应用经济中取得成功。</p>
+<p>库克对本次基金设立表示，很荣幸能深化与浙江大学长达十年的合作关系，为下一代开发者提供技能支持，帮助他们开发创新应用，创立充满生机的业务。</p>
+<p>值得关注的是，Apple 移动应用孵化基金设立之前，苹果在过去十年里共向浙江大学捐赠 5,000 万元人民币，用于开展移动应用创新赛。</p>
+<h3>OpenAI 预计今年营收超 900 亿</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/7023b0e3-133f-437b-a794-368cd686f58b.jpg" /></p>
+<p>据彭博社今日报道，OpenAI 预估其 2025 年营收将达到 127 亿美元（约合 923 亿元人民币），相比 2024 年 37 亿美元（约合 269 亿元人民币）的营收翻了超三倍。</p>
+<p>在该预估基础上，OpenAI 预计其 2026 年营收将达到 294 亿美元（约合 2,136.8 亿元人民币），2029 年更将超过 1,250 亿美元（约合 9085.2 亿元人民币）。</p>
+<p>报道指出，OpenAI 此前正与软银集团进行谈判，软银计划以 2600 亿美元估值向 OpenAI 注资 400 亿美元，部分资金将用于 OpenAI 与软银、甲骨文联合成立的 Stargate 项目；此外，OpenAI 还一直在与监管机构谈判，计划从非营利组织转变为更传统的营利性公益公司。</p>
+<p>产品迭代方面，OpenAI 在今日凌晨对 Agent SDK 进行了重大更新：支持 MCP 服务，这也意味着可以统一接口标准解锁无限工具。</p>
+<p>据了解，MCP 全称为「Model Context Protocol」，是一种专为大模型开放的统一开放接口。开发者可以通过 MCP 服务器分别为 Agent 智能体集成文件系统工具、数据库查询工具和网络爬虫工具，更高效地完成复杂任务。通过 MCP 服务，开发者在为 Agent 接入新的工具和服务，也无需对 Agent 的核心逻辑进行大量的修改。</p>
+<p>目前，OpenAI 已经在开源的 Agent SDK 中支持 MCP，API 和桌面版 ChatGPT 也将很快提供。</p>
+<h3>vivo：2027 年实现海外销售额占 70%</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/9e3453a4-3439-4d08-8721-153139c6daeb.jpg" /></p>
+<p>据彭博社报道，vivo 执行副总裁、首席运营官、vivo 中央研究院院长胡柏山近日在 2025 博鳌亚洲论坛上透露，vivo 目前超一半的收入来源海外市场。胡柏山还表示，2026 年 vivo 将要实现 60% 的收入来自海外市场，而在 2027 年，这一目标将被提升至 70%。</p>
+<p>胡柏山在接受采访时表示，对 vivo 来说，海外市场将是未来的重要领域。胡柏山也表示，他不会为每个单独的市场设定具体增长目标，而是看重是否有增长，其强调，若公司在一个市场没有增长，那么就会出现问题。</p>
+<p>目前 vivo 的海外主要市场领域是印度、菲律宾等国家。据分析机构 Canalys 数据显示，vivo 占领了东南亚市场份额，其在印度尼西亚排名第一，在马来西亚排名第二。</p>
+<p>在 2025 博鳌亚洲论坛上，vivo 还宣布成立「机器人 LAB」，并一同展示了包括蓝科技矩阵、vivo 混合现实头显、6G 领域等多项前沿技术成果。其中，vivo 混合现实（MR）头显的外观在论坛上进行了首次展示。</p>
+<p>此外，vivo 最新影像旗舰 X200 Ultra 更多信息也公布：</p>
+<p>vivo 产品经理韩伯啸发文透露，vivo X200 Ultra 手机将搭载两颗独立影像芯片，分别为 V3+ 和 V1S，支持蓝图影像双芯。其中，V1S 为前置预处理芯片（PreISP），通过强大的额外算力为基础画质做精细化前处理。</p>
+<h3>贾跃亭：法拉第未来第三次拿到超三千万融资</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/12ef072a-90c9-42da-b02d-1a0461f70774.jpeg" /></p>
+<p>日前，乐视 / 法拉第创始人贾跃亭发布视频宣布，法拉第未来（FF）已成功签署总额达 4,100 万美元的新增现金融资。</p>
+<p>贾跃亭表示，这已经是公司自去年 9 月以来，第三次拿到超 3,000 万美元的融资。据了解，法拉第未来此前分别于 2024 年 9 月和 2024 年 12 月完成两轮 3,000 万美元的融资。</p>
+<p>据悉，此次融资将用于推动公司业务增长与发展，包括日常运营、FX 品牌的持续推进，以及关键战略项目的执行和推进，以实现公司 2025 年底 FX 首辆车下线的目标。法拉第未来还表示，资金还将用于推进 AI 相关研发，包括端到端自动驾驶技术的研发与测试。</p>
+<p>而在昨日，法拉第未来宣布，本月 28 日将向位于总部位于纽约市的华尔街精品投行 Univest Securities 交付 FF 91 2.0 Futurist Alliance 汽车。</p>
+<p>法拉第未来官方表示，此次交付标志着 FF 正式进军美国东海岸市场，也为 FF 未来的市场扩张奠定了战略基础，有望进一步打开该地区的高端用户市场。</p>
+<h3>腾讯元宝新增「一句话生成代码」</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/ea385460-9a34-4a6c-8835-81a64965f17b.jpg" /></p>
+<p>3 月 26 日，首发接入 DeepSeek V3-0324 最新模型后，腾讯元宝再次发布更新，支持实时预览 HTML 代码。</p>
+<p>目前，元宝的混元与 DeepSeek 两大模型均支持代码生成，覆盖前端、脚本、数据处理等多种主流语言，适配多类开发场景，适合开发者和各类用户快速上手。结合元宝双模型在代码方面的表现，也还够帮助用户代码审查相关工作。</p>
+<p>此外，使用 DeepSeek V3-0324 模型，除了网页生成，还能完成更多类型的代码生成任务，如生成 UI 组件、构建网页、编写小游戏，甚至是生成 3D 动画等。</p>
+<p>现在，用户在元宝选择 DeepSeek，并关闭「深度思考」，便可使用最新的 V3-0324。该模型在代码生成稳定性、逻辑控制精准度和响应速度上均有明显提升，在数学、代码类相关评测集上取得了超过 GPT-4.5、Claude Sonnet 3.7 的得分成绩。</p>
+<h3>小鹏汽车回应「增程式路线」：技术不难</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/f1ca9155-4929-42a4-8f15-dd9913091973.jpg" /></p>
+<p>近日，据 36 氪获悉，小鹏汽车目前至少规划了 5 款增程车型，包含轿车与 SUV。报道指出，5 款增程车型中，首款增程车型将是基于小鹏 X9 车型开发而来，在今年下半年量产；此外预计小鹏 P7 和 G6 都将推出增程版本。</p>
+<p>对于上述消息，小鹏汽车副总裁陈永海回应表示：</p>
+<p>信息有偏差比较大，有些车没有超电，有的有，会充分考虑国内和海外、大车和小车、轿车和 SUV，以及不同用户的使用场景。</p>
+<p>陈永海还指出，决策超电增程并不难，技术门槛不高，他还强调「节奏把握很重要」。陈永海还顺便回答了「小鹏 MONA M03 遇到产能问题」这一消息，其透露小鹏 M03「卖得很好，爬产很快很稳，品控做得很好」。</p>
+<p>有趣的是，陈永海最后表示「大家看看就得了」，小鹏汽车 P / G 系列车型产品负责人 Nick 也在评论区回复「官方辟谣」。</p>
+<h3>微软 Copilot 新增 AI 研究员 / 分析师智能体</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/4c9a1121-2be7-4fe0-8e0d-1799150072bc.jpg" /></p>
+<p>3 月 26 日，微软发文宣布，旗下 AI 产品 Copilot 新增了两款 AI Agent（智能体），分别为 Researcher（研究员）和 Analyst（分析师）。两款智能体均基于 OpenAI o3 系列推理模型打造，能独立分析实时数据，并完成多步骤研究任务。具体来看：</p>
+<ul>
+<li>Researcher（研究员）定位深度研究助手，基于 OpenAI o3 Deep Research 模型，结合 Copilot 智能编排与搜索算法，支持多轮澄清提问。Researcher 能够显示思维链（CoT），并支持调用企业内外的数据内容，生成的研究报告还可一键共享协作；</li>
+<li>Analyst（分析师）定位数据洞察专家，基于 o3-mini 模型打造，擅长处理 Excel 等原始数据，可以实时生成可视化图表，支持 Python 代码动态分析。</li>
+</ul>
+<p>两款智能体都将在 4 月上架 Copilot，但仅限 Microsoft 365 Copilot 会员使用。</p>
+<h3>广汽回应「收购恒大汽车」：不要轻信传言</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/c9501d1f-19d2-43b9-939d-a9fd3e7d380e.jpg" /></p>
+<p>昨日，恒大汽车港股异常，其涨幅一度达到 236%。而在此前，曾有消息称，广汽集团旗下「华望汽车」项目，将收购恒大汽车南沙工厂。</p>
+<p>随后，广汽集团董秘办通过财联社回应了上述消息，并表示，广汽GH项目是一家轻资产运营公司，将会优先利用埃安、传祺品牌产能。其还强调，不要轻信任何传言，以公司公告为准。</p>
+<p>广汽集团回应公布后，恒大汽车股价逐渐走低并趋于平稳。其 3 月 26 日收盘价为 0.208 港元，但涨幅依然达到 74.79%。</p>
+<p>另据了解，广汽集团于 3 月 19 日正式宣布，其投资设立的新公司「华望汽车技术（广州）有限公司（简称「华望汽车」）」正式成立，全新高端智能汽车品牌也将在不久公布。</p>
+<p>按照规划，华望汽车将创建独立高端汽车新品牌。品牌全新车型将搭载华为智能驾驶软件、智能座舱、智能车控等解决方案。</p>
+<h3>宇树机器人 G1 时装周 T 台走秀</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/a7a1f69e-53bc-4b0b-af1d-1d12e3dbbf14.jpeg" /></p>
+<p>在昨日的 2025 秋冬上海时装周开幕第二天，宇树科技 G1 人形机器人和机器狗 Go 系列首次登上 T 台走秀。</p>
+<p>从上海时装周公布的视频显示，宇树机器人打扮时尚，在 T 台上缓步前行，还与观众招手互动。本次 2025 秋冬上海时装周以「质塑新境・建所未见」为主题，将呈现近百场新品首秀、近千个品牌首展以及数十场重量级国际合作。</p>
+<p>据了解，宇树 G1 人形机器人于 2024 年 5 月发布，定价 9.9 万元起，官方称其为「人形智能体、AI 化身」。</p>
+<p>此前，在 2025 年央视春晚中，著名电影导演张艺谋携手杭州宇树科技、新疆艺术学院带来了一个名为《秧 BOT》的节目，而其中表演的机器人基于宇树 Unitree H1 人形机器人打造，宇树 G1 和宇树 Go 系列机器狗也一同登台。随后，宇树 G1 等机器人火遍全网。</p>
+<h3>宝马宣布与阿里通义大模型合作</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/efeb0526-0b26-4f10-8335-067074e5b8db.jpeg" /></p>
+<p>3 月 26 日，宝马集团与阿里巴巴通义千问正式宣布，双方将深化战略合作，加快 AI 大语言模型「上车」。</p>
+<p>本次合作的主要对象是全新 BMW 智能个人助理，其将基于通义大模型，以斑马元神 AI 为基础，并采用宝马与阿里巴巴共同开发的定制 AI 引擎；将于 2026 年率先搭载于中国生产的宝马新世代车型。宝马方面表示，双方合作将带来更自然、更智能、更懂用户的全新智能交互体验。</p>
+<p>宝马官方介绍，全新旗下新世代超感智能座舱，以及双方合作的智能出行交互场景，都将于今年 4 月亮相上海车展。</p>
+<p>另据了解，小鹏、极氪、零跑、智己等汽车智能座舱已接入千问 Qwen。基于全球领先的 AI Infra 和通义大模型，阿里云已经服务了 90% 以上的汽车品牌。</p>
+<h3><img alt="💡" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4a1.png" style="height: 1em;" /> 《人类简史》作者：真正的 AI 具有主动性</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/3798526d-f87a-43ad-ad51-7b75e0f1ff23.jpg" /></p>
+<p>3 月 24 日，《人类简史》作者尤瓦尔·赫拉利在出席中国发展高层论坛 2025 年年会期间，就关于人工智能的三个问题发表了主题演讲。</p>
+<p>赫拉利表示，尽管目前有许多关于 AI 的炒作，但 AI 并不只是自动化，它意味着一种主体性和主动性。他认为现阶段的 AI 都只是通过人类操作，而实现自动化操作的程序；真正的 AI 应该是预判、预测人类的行动和心理，去主动做出决定，同时，这也是 AI 学习跟创造新事物的必经之路。</p>
+<p>在赫拉利看来，AI 有着巨大的积极潜力，但 AI 具有了主动性之后，同时也带来很多挑战和威胁。赫拉利指出，由于 AI 能够学习和自己改变自己，因此存在以不可预测方式改变的可能。</p>
+<p>而对于不可预测的 AI 发展方向，赫拉利认为解决答案很简单：「人类团结在一起可以控制 AI」。赫拉利提出，在开发超级智能的 AI 之前，应该在人类之间建立更多信任。他在最后指出，想要在 AI 时代生存和繁荣，相比信任 AI，我们之间更要相互信任。</p>
+<section><img alt="新产品" src="https://s3.ifanr.com/images/ep/common-images/hao_chan_pin.png" /></section>
+<h3>消息称苹果无计划推出小尺寸 iPhone 机型</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/28582a7d-af1f-4687-90b8-60f39ea8d4a1.jpeg" /></p>
+<p>彭博社记者 Mark Gurman 在昨日举行的在线问答播客中表示，苹果目前没有计划重新推出尺寸小于 6 英寸的 iPhone 小屏机型。</p>
+<p>据了解，iPhone13 mini 于 2023 年 9 月停产，成为目前最后一款小尺寸全面屏 iPhone（其屏幕尺寸为 5.4 英寸），后续苹果的产品线全面转向 6 英寸以上的屏幕。</p>
+<p>Gurman 预计称，苹果今年不会发布 iPhone17 mini，同时考虑到苹果对未来 iPhone 机型的多年规划和开发周期，Gurman 也排除了明年发布 iPhone18 mini 的可能性。</p>
+<p>此外，博主 MajinBu 近期发文分享了 iPhone17 Air 与 iPhone17 Pro 的机模对比图。从图片中可以看出，iPhone17 Air 厚度仅约为 Pro 机型的一半。目前，多个信息源均透露，iPhone17 Air 对比现在的 iPhone，厚度将减少 2 毫米，具体数据为 5.5 毫米。</p>
+<p>此前，彭博社记者 Mark Gurman 爆料了 iPhone 17 Air 更多配置信息：</p>
+<ul>
+<li>6.6 英寸屏幕，超窄边框，ProMotion 高刷屏幕；</li>
+<li>重新设计的屏幕和芯片结构，让能耗达到和其他 iPhone 相当的续航；</li>
+<li>4800 万像素单摄像头，A19 芯片，以及 C1 基带；</li>
+<li>全面取消物理 SIM 卡槽；</li>
+<li>价格对标 Plus 机型，900 美元左右，折合人民币约 6,500 元。</li>
+</ul>
+<h3>阿里通义发布新一代端到端多模态模型</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/eb6824d2-5f95-4f18-a832-b99d91961151.jpg" /></p>
+<p>今日凌晨，阿里通义发布了 Qwen2.5-Omni，其将作为 Qwen 模型家族中新一代端到端多模态旗舰模型。其主要特点如下：</p>
+<ul>
+<li>全能创新架构：通义团队提出了全新的 Thinker-Talker 架构，旨在支持文本 / 图像 / 音频 / 视频的跨模态理解，同时以流式方式生成文本和自然语音响应。</li>
+<li>全新位置编码技术：同时团队还提出了新的位置编码技术「TMRoPE（Time-aligned Multimodal RoPE）」，通过时间轴对齐实现视频与音频输入的精准同步；</li>
+<li>实时音视频交互：架构旨在支持完全实时交互，支持分块输入和即时输出；</li>
+<li>自然流畅的语音生成：在语音生成的自然性和稳定性方面超越了许多现有的流式和非流式替代方案。</li>
+</ul>
+<p>在模型性能表现上，Qwen2.5-Omni 在多方面表现优秀：</p>
+<ul>
+<li>Qwen2.5-Omni 在包括图像，音频，音视频等各种模态下的表现都优于类似大小的单模态模型以及封闭源模型，例如 Qwen2.5-VL-7B、Qwen2-Audio和Gemini-1.5-pro；</li>
+<li>在多模态任务 OmniBench，Qwen2.5-Omni 达到了 SOTA 的表现。此外，在单模态任务中，Qwen2.5-Omni 在多个领域中表现优异，包括语音识别（Common Voice）、翻译（CoVoST2）等多个基准测试。</li>
+<li>Qwen2.5-Omni 在端到端语音指令跟随方面表现出与文本输入处理相媲美的效果，在 MMLU 通用知识理解和 GSM8K 数学推理等基准测试中表现优异。</li>
+</ul>
+<p>目前，Qwen2.5-Omni 已在 Hugging Face、ModelScope、DashScope 和 GitHub上开源开放，用户可以通过 Demo 体验互动功能，或是通过 Qwen Chat 直接发起语音或视频聊天。</p>
+<h3>昆仑万维发布全球首款音乐推理大模型</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/f728dbdc-7f98-4fe6-bfef-076a2c8b90f6.jpg" /></p>
+<p>3 月 26 日，昆仑万维正式发布全球首款音乐推理大模型 Mureka O1 与音乐生成模型 Mureka V6。具体来看：</p>
+<ul>
+<li>Mureka V6 是当前 Mureka 的基座模型，支持纯音乐生成，还支持 10 种语言的 AI 音乐创作；团队还在 Mureka V6 中引入自研 ICL（in-context learning）技术，使得声场更加开阔，人声质感和混音设计进一步强化；</li>
+<li>Mureka O1 模型是基于 Mureka V6 思维链的推理优化版本，也是全球范围内首个引入 CoT（思维链）的音乐模型，其包含了 Mureka 团队最新发布的音乐生成领域的创新研究成果 —— MusiCoT；</li>
+<li>Mureka V6 和 O1 模式支持多元化的音乐创作风格及情感表达。</li>
+<li>此外，Mureka 还提供「歌曲参考（Reference Fuction）」和「音色克隆（Vocal Fuction）」两个特色音乐生成功能。</li>
+</ul>
+<p>具体表现方面：</p>
+<ul>
+<li>通过 AI 基础设施深度优化，Mureka O1 实现了行业领先的低延迟音乐生成；</li>
+<li>实际测试中，在发音唱对率、乐段准确率、文本相关度、制作质量等客观指标，Mureka V6 都显著优于 Suno V4；同时在文本生成音乐的客观测评中，Mureka O1 在发音清晰程度、生成乐段的精准度上遥遥领先；</li>
+<li>在最新的音乐评测中，Mureka O1 展现出卓越的音乐品质，在最终的整体听感评测超过了 Suno V4。</li>
+</ul>
+<p>目前，面向企业和开发者，Mureka 同时开放两大类灵活的 API 服务，不仅包括音乐音频生成 API，还有语音合成 API。同时，Mureka 同步开放基于 Mureka V6 的模型微调服务。</p>
+<p>值得一提的是，Mureka 同步开放的语音合成API —— Mureka TTS，在与 ElevenLabs、OpenAI、微软的横向评测表现出色：其在对话聊天类全场景效果测评中排名第一，总体得分 4.34，与一线厂商相比，各维度均表现优异。</p>
+<p>目前， Mureka O1 与 Mureka V6 已 Mureka 上线官网。</p>
+<p><img alt="🔗" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f517.png" style="height: 1em;" /> 链接：<a href="http://www.mureka.ai">www.mureka.ai</a></p>
+<h3>阿维塔 012 Kim Jones 限量联名版开启交付</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/e82ece25-6129-4e3d-bbaa-dcd0703af135.jpg" /></p>
+<p>3 月 25 日，阿维塔 012 Kim Jones 限量联名版正式开启交付。</p>
+<p>据悉，作为 0 系列的第二款车型，阿维塔 012 售价 70 万元，全球限量 700 台，阿维塔方面表示，012 不仅仅是一次产品上的创新尝试，更是中国汽车对新豪华品牌的一次大胆探索。</p>
+<p>阿维塔 012 由阿维塔科技首席设计官 Nader 联合前 Dior、Fendi 艺术总监 Kim Jones 共同主导创作，具体来看：</p>
+<ul>
+<li>新车外观采用未来主义设计，提供液态银限定车色和 21 寸风尚锻造轮毂；</li>
+<li>内饰方面，012 以象牙白色与复古棕色搭配；座椅专属打孔设计，灵感源于 Kim Jones 家中光影波纹；车内软包均采用植物鞣制的 Nappa 皮革；</li>
+</ul>
+<p>阿维塔 012 不仅外观独特，其还搭载宁德时代麒麟超充电池、华为乾崑智驾 ADS 3.0、鸿蒙座舱、DriveONE 高压电驱系统等前沿技术。</p>
+<h3>魔法原子正式发布旗下人形机器人</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/46dc9620-b0d6-4f9c-b5cd-ca67de34e991.jpeg" /></p>
+<p>3 月 26 日，魔法原子举办 2025 场景战略发布会，正式发布旗下人形机器人「小麦」和四足机器人「麦哥」，还首次推出端到端「原子万象大模型」，此外，魔法原子的导盲四足机器人方案「光引 001」也正式曝光。</p>
+<p>人形机器人「小麦」和四足机器人「麦哥」：</p>
+<ul>
+<li>小麦身高 174cm，搭配自研灵巧手，以及大语言模型，可以在商业服务场景应对各类服务需求，包括基于视觉语言大模型能力，识别分析用户特征，基于相关信息预测用户偏好，提供对应服务；</li>
+<li>小麦走路和跑步的姿态已经趋于仿人，并能够在奔跑状态下适应马路、跑道、草地、山坡等多种环境地形；</li>
+<li>小麦目前已采用「快慢双系统」的端到端技术路线；</li>
+<li>四足机器人「麦哥」主打情感交互与多场景服务能力，搭载自研的情感交互系统，能够实现语音、视觉及触觉等多模态交互，并具备跳舞、空翻等动态技能。</li>
+</ul>
+<p>魔法原子还公布了其首个具身智能大模型「原子万象」，其通过创新性融合视觉语言大模型与动作专家系统，构建了行业领先的快慢双模协同架构。具体来看：</p>
+<ul>
+<li>基于动作专家模型的「快系统」能够响应环境变化，保障机器人各个部位快速适应环境；</li>
+<li>而基于多模态大模型的「慢系统」负责理解复杂环境，并规划长期任务。</li>
+</ul>
+<p>此外，魔法原子还在本次发布会正式曝光了导盲四足机器人项目「光引 001」：基于四足机器人的多模态交互能力，旨在打造提升视障人士出行便利性的机器人解决方案。「光引 001」根据环境感知、视觉感知等能力，为视障人士提供更智能的导盲帮助。</p>
+<section><img alt="新消费" src="https://s3.ifanr.com/images/ep/common-images/pin_pai.png" /></section>
+<h3>Keep 发布行业首个通用健身教练 Agent</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/69675fc4-32c9-440e-a0d2-516c8ecb435b.jpg" /></p>
+<p>3 月 25 日，运动科技公司 Keep 发布了运动健康垂直领域的专属模型「Kinetic.ai」，并基于此模型同步上线了首个通用 AI 教练体验版 —— 卡卡（Kaka）。</p>
+<p>Keep AI 教练卡卡当前主要应用在运动方案定制的场景，Keep 用户可在「今日」页面找到应用入口。卡卡可基于用户的运动诉求定制训练计划和方案，同时也支持基础问答。</p>
+<p>据介绍，Keep 预计在 5 月份上线卡卡正式版，增加多模态能力，包括语音指导以及图片识别等能力。</p>
+<h3>泡泡玛特 2024 年营收超 130 亿元</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/235ae56c-776d-40fc-bf4a-e14b9a0d07ea.jpg" /></p>
+<p>3 月 26 日，泡泡玛特国际集团公布了 2024 年全年财报，具体显示：</p>
+<ul>
+<li>2024 年泡泡玛特实现营收 130.4 亿元人民币，同比增长 106.9%；</li>
+<li>经调整净利润 34.0 亿元，同比增长 185.9%；</li>
+<li>其中，中国内地营收 79.7 亿元，同比增长 52.3%；</li>
+<li>海外及港澳台业务营收 50.7 亿元，同比增长 375.2%，收入占比 38.9%。</li>
+</ul>
+<p>值得一提的是，泡泡玛特的四大 IP（THE MONSTERS、MOLLY、SKULLPANDA 和 CRYBABY）实现营收破 10 亿元，并且有更多 IP 逐渐发展成为潮流文化元素。</p>
+<h3>芒果 TV 调整会员：同时在线设备降至 1 台</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/67b24699-dfb5-4c6b-be08-84af3bba299c.jpg" /></p>
+<p>近日，芒果 TV 调整会员可同时使用设备数，3 月 25 日后新订阅的芒果 TV 会员，同时使用设备数量由原来的 2 台改为 1 台。通知指出：</p>
+<ul>
+<li>自 2025 年 3 月 25 日 0:00 起，新订阅的芒果 TV 会员可享 4 台设备登录和 1 台设备使用的权益；</li>
+<li>而在 3 月 25 日前购买芒果 TV 会员（无论是否连续续费），均可享有 4 台设备登录和 2 台设备同时使用的权益；</li>
+<li>此外，芒果 TV 宣布推出 VIP 亲密会员，每个亲密会员主账号可为子账号（亲密账号）开通 VIP 权益，其中子账号仅可 1 台设备登陆和 1 台设备使用。</li>
+</ul>
+<p>而自上年 11 月起，爱奇艺、腾讯视频、哔哩哔哩也已相继调整会员使用设备数量限制：</p>
+<ul>
+<li>爱奇艺去年 11 月 12 日更新的会员服务协议显示：在 11 月 12 日之前开通的黄金会员可同时 2 台设备播放。11 月 12 日后开通的黄金会员仅 1 台设备播放；白金 VIP 会员可 2 台设备同时播放；星钻 VIP 会员可同时最多 3 台设备终端同时播放。黄金 / 白金 / 星钻 VIP 会员同一账号最多登录 5 个终端。</li>
+<li>腾讯视频会员规定，自去年 12 月 16 日 0:00 后购买、领取、激活的腾讯视频 VIP 会员，VIP 新会员只能在累计 3 台设备登录和同时 1 台设备播放。VIP 老会员权益不变，如不断订可持续享有累计 5 台设备登录和同时 2 台设备播放的权益。</li>
+<li>今年 1 月 9 日，哔哩哔哩更新大会员服务协议：同一账号同一时间最多可以在 2 个终端设备使用会员服务，且同一账号，在手机端 24 小时内至多支持在 2 个设备上使用会员服务。</li>
+</ul>
+<section><img alt="好看的" src="https://s3.ifanr.com/images/ep/common-images/hao_kan_de.png" /></section>
+<h3>《哪吒 2》总票房突破 150 亿</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/3f917382-d52c-4c6b-beb6-7e380e911c47.jpeg" /></p>
+<p>据灯塔专业版，截至 3 月 26 日，《哪吒之魔童闹海》内地单一市场票房已突破 150 亿，持续大幅刷新全球影史单一市场票房最高纪录。</p>
+<p>3 月 21 日，《哪吒之魔童闹海》宣布将延长上映密钥至今年 4 月 30 日。</p>
+<p>本月 15 日，据灯塔专业版全球票房榜，截至当日，《哪吒之魔童闹海》全球票房（含预售）突破 150.19 亿，超过《星球大战：原力觉醒》，进入全球影史票房榜前 5 名。此外，《哪吒之魔童闹海》已超过《头脑特工队 2》，登顶全球影史动画电影票房榜。</p>
+<h3>《黎明的一切》定档</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/acb5f721-8e9f-431c-9bb8-cd91200d2901.jpeg" /></p>
+<p>昨日，电影《黎明的一切》宣布定档 4 月 18 日。</p>
+<p>该片改编自濑尾舞子创作的同名小说，讲述患有经前综合征的藤泽美纱与深受恐慌症的困扰的同事山添孝俊共同应对各自的困境的故事。</p>
+<p>影片由三宅唱执导，松村北斗、上白石萌音主演，于 2024 年 2 月 9 日日本上映。</p>
+<h3>《死神来了 6》发布正式预告</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/3.27_%E6%97%A9%E6%8A%A5/9eefbf15-3f1c-4777-af28-e0fda0d1cbfa.jpg" /></p>
+<p>近期，《死神来了 6：血统》发布正式版预告，影片将在 5 月 16 日北美上映。</p>
+<p>该片讲述了大学生史蒂芬妮饱受反复出现的暴力恶梦所困扰，于是决定回到家乡，寻找唯一可能打破这个循环的人，并拯救家人免于无法避免的可怕厄运的故事。</p>
+<p>《死神来了 6：血统》由扎克·利波夫斯基、亚当·伯恩斯坦执导，布瑞克·巴辛格、特奥·布里奥内斯、凯特琳·桑塔·胡安娜主演。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1618904">原文链接</a> ·
+<a href="https://www.ifanr.com/1618904#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Thu, 27 Mar 2025 01:15:22 +0000</pubDate>
+<pubDate>Thu, 27 Mar 2025 01:15:22 +0000</pubDate>
+</item>
+<item>
+<title>DENON AH-C840NCW 体验：传统稳定，老派音响厂商的水桶型真无线耳机</title>
+<link>https://www.ifanr.com/1618640?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1618640?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="size-full wp-image-1618812 aligncenter" height="2000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/16C840NCW07229.jpg" width="3000" /></p>
+<p>3 月 26 日，DENON 天龙推出两款真无线耳机，分别是 AH-C500W 和 AH-C840NCW。</p>
+<p><img alt="" class="size-full wp-image-1618790 aligncenter" height="2000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/C840NCW07234.jpg" width="3000" /></p>
+<p>AH-C500W 和 AH-C840NCW 均采用附带耳柄的真无线设计模式，AH-C500W 是常规的真无线耳机，而我们手上这款 AH-C840NCW，是 WH-C830NCW 的升级版，定位更高、自带主动降噪的版本。</p>
+<p><img alt="" class="size-full wp-image-1618791 aligncenter" height="2000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/02C840NCW07237.jpg" width="3000" /></p>
+<p>包装设计是一直以来的天龙风格，白色外盒印有耳机造型图片和 LOGO，侧面有机身重点参数。</p>
+<p><img alt="" class="size-full wp-image-1618792 aligncenter" height="1687" src="https://s3.ifanr.com/wp-content/uploads/2025/03/03C840NCW07291.jpg" width="3000" /></p>
+<p>内盒分两层，顶部放 AH-C840NCW 本体，下层有个小盒子装上了替换用的大小号耳帽以及一条 USB-C to C 的充电短线。</p>
+<p><img alt="" class="size-full wp-image-1618793 aligncenter" height="2000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/C840NCW07269.jpg" width="3000" /></p>
+<p>外观方面，AH-C840NCW 充电盒改用了全新设计，从前代 AH-C830NCW 椭圆形圆通的直立设计变成了现在更大众的鹅卵石造型，里面的耳机从立式收纳变成了平躺收纳。和上一代都是 43g 重，这一代设计更加圆润，耳机平躺之后盒子能做得更薄，能够更轻易地塞进窄口袋里面。</p>
+<p>产品配色依旧有黑白可选，黑色版的充电盒表面加入磨砂哑光处理，并用不同的亮面黑处理顶部的「DENON」字样。上手感觉顺滑，会有那么一点点磨砂效果来丰富触感。</p>
+<p>这样的表面处理比较容易显现使用痕迹，建议日常使用还是佩戴一下保护壳。</p>
+<p><img alt="" class="size-full wp-image-1618796 aligncenter" height="1688" src="https://s3.ifanr.com/wp-content/uploads/2025/03/04C840NCW07244.jpg" width="3000" /></p>
+<p>充电盒的接口和实体按键都放到转轴的下侧，保证了机身外观的一体性。实体按键方便用户快速启动配对模式，同时也是最直观的操控设计。</p>
+<p><img alt="" class="size-full wp-image-1618797 aligncenter" height="2000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/C840NCW07285.jpg" width="3000" /></p>
+<p>AH-C840NCW 新增了无线充电支持，盒子底部很平整，方便平稳地放在各种形态的无线充电盒上面。放好等响应完成后，正面状态灯亮起就正式开始充电。</p>
+<p><img alt="" class="size-full wp-image-1618798 aligncenter" height="2000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/C840NCW07245.jpg" width="3000" /></p>
+<p>耳机设计变化并不大，AH-C840NCW 还是那个 5.3g 的耳柄机身。外侧做了光滑的亮面处理，耳柄顶部有一个斜向下的光滑斜面做触控板，用户将手递到耳机的时候就能刚好放到触控板一样，操控更自然。</p>
+<p><img alt="" class="size-full wp-image-1618799 aligncenter" height="2000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/C840NCW07226.jpg" width="3000" /></p>
+<p>哪怕在走动的时候要快速操控耳机，用户也不需要花时间摸耳机在哪里，抬手就能够盲操作。</p>
+<p>耳机佩戴起来还算舒服，5.3g 的重量和支持主动降噪的 AirPods 4 差不多，两款同时上耳的重量感差异不大。</p>
+<p><img alt="" class="size-full wp-image-1618800 aligncenter" height="2000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/08C840NCW07224.jpg" width="3000" /></p>
+<p>AH-C840NCW 外壳做得足够饱满圆润，佩戴时刚好放入耳甲腔的位置，并完全嵌入耳屏和对耳屏之间中间的空隙。透过这两结构的包裹和入耳结构相结合，耳机能够安全固定在耳朵上，实现贴合佩戴。</p>
+<p>耳机用了传统长度的耳柄，佩戴完成后耳柄向内贴合，进一步提升佩戴稳定性。这样的设计不像穿透「豆式」设计会把佩戴压力集中在耳朵内，时间长了也会比完全塞进耳朵的豆式深入耳耳机要舒服些。</p>
+<p><img alt="" class="size-full wp-image-1618801 aligncenter" height="1688" src="https://s3.ifanr.com/wp-content/uploads/2025/03/09C840NCW07254.jpg" width="3000" /></p>
+<p>耳帽的部分，DENON 选用的是较为宽和扁平的款式。材质柔软，戴上就能够紧贴耳朵。在只有空调风机等噪声相对简单的环境里，戴上耳机就能够感受到物理隔音的变化，效果很明显。</p>
+<p>耳帽内侧加了滤声网，除了为声学服务还起到阻隔耳垢的作用，对佩戴深入的入耳降噪来说还是很必要的。</p>
+<p><img alt="" class="size-full wp-image-1618802 aligncenter" height="2000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/10C840NCW07262.jpg" width="3000" /></p>
+<p>配置方面，AH-C840NCW 从上一代的蓝牙 5.0 升级到蓝牙 5.3，支持 SBC、AAC 和 通过后续更新支持 LC3 这三款传输编码，在未来可以通过升级支持 LE Audio。</p>
+<p>升级到蓝牙 5.3 后，耳机稳定性没有问题。在无线环境复杂的办公室、咖啡厅，AH-C840NCW 没有出现明显的断连情况，只要不是在射击游戏中追求超低延迟，用它来看视频和玩王者荣耀、原神、明日方舟这种对声音要求不是特别高的游戏都没有问题。</p>
+<p>同时，对于白领办公人群而言，耳机是连手机还是连电脑是一个微妙的问题，比如说，连电脑利好办公场景，操作都在大屏幕上，切歌快进都方便，但有时候想用耳机接手机进行语音通话就不那么方便了。反之，连手机的话，进行手机端的音乐操作就得从电脑切换设备了。</p>
+<p>天龙 AH-C840NCW 支持 Windows swift pair，蓝牙可同时连接两个设备源，在连接电脑工作时，也能快速连接手机接听电话，不需要进行繁琐的切换，这是音质和降噪之外，属于办公室人群的刚需功能。</p>
+<p><img alt="" class="size-full wp-image-1618803 aligncenter" height="2000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/11C840NCW07263.jpg" width="3000" /></p>
+<p>但只有 SBC 和 AAC 编码的话有点可惜，要是能支持基础款 aptX 或有 LDAC 等高规格的无损编码会更好。</p>
+<p><img alt="" class="size-full wp-image-1618807 aligncenter" height="2000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/12C840NCW07222.jpg" width="3000" /></p>
+<p>降噪的部分，AH-C840NCW 表现在这个价位段上属于舒适的取向。</p>
+<p>具体效果而言，第一感受不算强势，不是那种戴久了很容易累的类型。配合隔音耳帽，耳机能在人多并自带 BGM 的周末咖啡店中给你创作一个安静独处的环境，不容易被周围的交谈声、环境音乐打扰。这个时候听歌和看剧，沉浸感会更强。</p>
+<p><img alt="" class="size-full wp-image-1618808 aligncenter" height="2000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/13C840NCW07289.jpg" width="3000" /></p>
+<p>续航的话，AH-C840NCW 单机身播放时间为开启降噪 7 小时和关闭降噪 10 小时，配合充电盒能实现开启降噪 24 小时和关闭降噪 35 小时播放，是旗舰真无线降噪的续航水平。</p>
+<p>有线模式下，充电盒 0-100 完全充满大概要 2 小时，同时附带了「充电五分钟播放一小时」的快充模式，方便用户出门快速补电。平时充电，放在无线充上完成即可。</p>
+<p><img alt="" class="size-full wp-image-1618809 aligncenter" height="2000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/13C840NCW07282.jpg" width="3000" /></p>
+<p>最后，来说说 AH-C840NCW 最重要的部分——声音。</p>
+<p><img alt="" class="alignnone size-full wp-image-1618985" height="1280" src="https://s3.ifanr.com/wp-content/uploads/2025/03/TL-1.jpg" width="2275" /></p>
+<p>作为一家有着 100 多年历史的声学厂商，天龙从 1910 年开始就提供家庭影院和音响产品，做耳机也有 60 多年的历史，木碗耳机的精密声学架构在业内独树一帜，这一次在 AH-C840NCW 内部，天龙可以说是毫米级地微缩了这个精密声学架构。</p>
+<p>AH-C840NCW 搭载一颗 12mm FreeEdge Hi-Fi 动圈单元，FreeEdge Hi-Fi 动圈单元可以说是 DENON 的招牌，不只是木碗头戴旗舰 AH-D9200 以及相关系列，Music Maniac 系列的 AH-MM400 也在用类似技术的单元。</p>
+<p><img alt="" class="size-full wp-image-1618810 aligncenter" height="2000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/14C840NCW07270.jpg" width="3000" /></p>
+<p>AH-C840NCW 的调声也很舒服，声音速度不快不赶，质感入口顺滑，各频段的衔接流畅不断层，整体听起来是一种传统丰满的动圈味道。</p>
+<p>低频的表现优秀，AH-C840NCW 的鼓点饱满细致，处理鼓点敲击回弹的时候，你能够清晰听到鼓面回弹的细节。音效清晰分明，而不会太刺激，听着舒服不容易累。</p>
+<p><img alt="" class="size-full wp-image-1618811 aligncenter" height="2000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/C840NCW07279.jpg" width="3000" /></p>
+<p>耳机很容易驱动，低音量播放时声音扎实，日常开着降噪和小音量播放 BGM 工作和学习也很合适。</p>
+<p><img alt="" class="size-full wp-image-1618812 aligncenter" height="2000" src="https://s3.ifanr.com/wp-content/uploads/2025/03/16C840NCW07229.jpg" width="3000" /></p>
+<p>总的来说，DENON AH-C840NCW 是一款很平实很传统的真无线入耳式降噪耳机，也可以说 DENON 真无线耳机里面的水桶机新标杆。</p>
+<p>规矩的耳机设计搭配轻量化机身和耳柄结构，AH-C840NCW 能给人一种能佩戴很久的舒适感。贴合度高的耳帽给降噪表现输出提供了辅助，加上机身有 IPX4 防护，日常通勤和办公环境都能满足。</p>
+<p>耳机的功能应有尽有，像是主要的降噪、无线充电、双设备连接和未来会更新的 LE Audio 和 LC3 编码，耳机连接的稳定性也不错，是做好做全的类型。</p>
+<p>声音有自身特点，DENON 传统音频技术投入是这款水桶机的核心竞争力。新单元的加入让它的声音有一点辨识度，听起来更有味道，比起更大更全但也更平淡的 AirPods 4 系列更具吸引力。</p>
+<p><img alt="" class="size-full wp-image-1618813 aligncenter" height="1687" src="https://s3.ifanr.com/wp-content/uploads/2025/03/C840NCW07292.jpg" width="3000" /></p>
+<p>如果你只是想要一款佩戴舒服，各方面表现都平实稳定的真无线耳机，希望在声音方面不那么像白开水一样沉闷，那听感方面更有特色、声音质感上也更有优势的 DENON AH-C840NCW 也很值得尝试。</p>
+  <div id="ifanr_profile" style="border: 1px solid #ccc; font-size: 14px; margin: 27px auto; font-family: Arial;">
+    <div style="overflow: hidden;"><a href="https://www.ifanr.com/author/komoleung" style="color: #000; text-decoration: none;" target="_blank"></a>
+
+      <div style="text-align: left; line-height: 23px; margin-left: 80px;">
+        <div style="padding: 10px 10px 10px 0;">
+          <div style="margin: 0; font-size: 14px;"><strong><a href="https://www.ifanr.com/author/komoleung" style="color: #000; text-decoration: none;" target="_blank">梁梦麟 (komoleung)</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height: 20px;">「买吧，不贵。」</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align: right; border-top: 1px dotted #ccc; padding: 2px 10px; font-size: 12px;">
+      <div>
+                                <a href="mailto:komoleung@ifanr.com" style="margin-right: 14px; text-decoration: none;" target="_blank">邮箱</a>
+
+          
+                                  <a href="weibo.com/kaikazemi913" style="margin-right: 14px; text-decoration: none;" target="_blank">新浪微博</a>
+
+          
+                                  <a href="6" style="margin-right: 14px; text-decoration: none;" target="_blank">2</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1618640">原文链接</a> ·
+<a href="https://www.ifanr.com/1618640#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Wed, 26 Mar 2025 08:48:02 +0000</pubDate>
+<pubDate>Wed, 26 Mar 2025 08:48:02 +0000</pubDate>
+</item>
+
+<item>
 <title>69.98万起，改款奔驰 GLE 来了，国产长轴距版也在路上</title>
 <link>https://www.ifanr.com/1618817?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1618817?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-<div> 奔驰GLE 迈巴赫S级 配置升级 国产化 加量不加价<br><br>总结:<br>1. 奔驰GLE新款主要对入门版配置升级，增加360环影、无钥匙进入等实用功能，保持原价区间69.98万-88.28万元，实现"加量不加价"。<br>2. 动力系统优化，GLE 350油耗降低至8.5L/100km，混动版GLE 400e纯电续航达100km。<br>3. 奔驰宣布2025年国产长轴距GLE，将针对中国市场定制配置。<br>4. 新款迈巴赫S级新增动态徽标迎宾灯，后排升级头等舱座椅，提供3.0T/4.0T/6.0T三种动力选择。<br>5. 两款车型改款重点在配置提升而非外观改动，体现豪华品牌应对市场竞争的策略调整。 <div>
+<div> 奔驰GLE 迈巴赫S级 配置升级 国产化 加量不加价<br /><br />总结:<br />1. 奔驰GLE新款主要对入门版配置升级，增加360环影、无钥匙进入等实用功能，保持原价区间69.98万-88.28万元，实现"加量不加价"。<br />2. 动力系统优化，GLE 350油耗降低至8.5L/100km，混动版GLE 400e纯电续航达100km。<br />3. 奔驰宣布2025年国产长轴距GLE，将针对中国市场定制配置。<br />4. 新款迈巴赫S级新增动态徽标迎宾灯，后排升级头等舱座椅，提供3.0T/4.0T/6.0T三种动力选择。<br />5. 两款车型改款重点在配置提升而非外观改动，体现豪华品牌应对市场竞争的策略调整。 <div>
 <p><img alt="" class="alignnone size-full wp-image-1618840" height="675" src="https://s3.ifanr.com/wp-content/uploads/2025/03/00.jpg" width="1200" /><br />
 传统 BBA 经常被大家吐槽的一个点就是，花高价买的车往往只是一个「毛胚房」，很多舒适性配置竟然还要加钱选配，像大家常用的 360 环影、无钥匙进入、座椅记忆等等。</p>
 <p>甚至之前，大众 CEO 在直播期间被网友问到为什么倒车影像不是标配之时，也着实吃了一惊。</p>
@@ -64,14 +1462,13 @@
 </div>
 ]]></content:encoded>
 <pubDate>Thu, 27 Mar 2025 00:41:57 +0000</pubDate>
-<pubDate>Thu, 27 Mar 2025 00:41:57 +0000</pubDate>
 </item>
 <item>
 <title>2026 年上车，宝马和阿里通义合作定制新一代「出行伴侣」</title>
 <link>https://www.ifanr.com/1618842?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1618842?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-<div> 关键词：宝马、AI座舱、阿里通义、AI Agent、智能化<br><br>总结:<br>1. 宝马与阿里通义合作，计划2026年推出“宝马AI定制引擎”，提升座舱智能化水平。<br>2. AI引擎将增强意图捕捉、模糊语义理解等能力，支持连续指令交互，实现拟人化操作。<br>3. 宝马举例说明AI可综合多维度信息推荐餐厅并导航，提升交互体验。<br>4. AI Agent具备主动关怀能力，如感知用户行程并播放偏好音乐，优化驾驶体验。<br>5. 中国汽车产业链在智能座舱等领域逐渐从学习者转为引领者，本土供应商合作成趋势。 <div>
+<div> 关键词：宝马、AI座舱、阿里通义、AI Agent、智能化<br /><br />总结:<br />1. 宝马与阿里通义合作，计划2026年推出“宝马AI定制引擎”，提升座舱智能化水平。<br />2. AI引擎将增强意图捕捉、模糊语义理解等能力，支持连续指令交互，实现拟人化操作。<br />3. 宝马举例说明AI可综合多维度信息推荐餐厅并导航，提升交互体验。<br />4. AI Agent具备主动关怀能力，如感知用户行程并播放偏好音乐，优化驾驶体验。<br />5. 中国汽车产业链在智能座舱等领域逐渐从学习者转为引领者，本土供应商合作成趋势。 <div>
 <p><img alt="" class="alignnone size-full wp-image-1618856" height="675" src="https://s3.ifanr.com/wp-content/uploads/2025/03/111.jpg" width="1200" /><br />
 与在采用纯电驱动这件事上的犹犹豫豫和来回拉扯不同，各家汽车巨头在座舱智能化这件事情上倒是相当坚定，最近的大动作也不少。</p>
 <p>继奔驰在 CLA 发布会上宣布将 计划把 AI 模型接入座舱系统之后，宝马在 3 月 26 日也宣布和阿里通义合作，争取在 2026 年把「宝马 AI 定制引擎」搬上车。</p>
@@ -109,14 +1506,13 @@
 </div>
 ]]></content:encoded>
 <pubDate>Thu, 27 Mar 2025 00:41:27 +0000</pubDate>
-<pubDate>Thu, 27 Mar 2025 00:41:27 +0000</pubDate>
 </item>
 <item>
 <title>用ChatGPT新功能修了张图发朋友圈，结果私信全在问怎么做到的？</title>
 <link>https://www.ifanr.com/1618738?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1618738?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-<div> 文生图、指令遵循、一致性、自然语言交互、模型即产品<br><br>总结:<br>1. OpenAI新一代文生图功能通过自然语言指令实现高精度图片生成与修改，无需复杂操作工具。<br>2. 核心突破在于指令遵循和一致性表现，如调整食物细节或人像时能精准保留关键特征。<br>3. 支持图片上传修改，如将2D标志转化为3D立体效果并微调光影，展现局部控制能力。<br>4. 会话中可无缝切换图文生成，模型能主动推测用户意图（如礼物包装指南的图文版优化）。<br>5. 技术革新简化了交互流程，用户无需学习复杂prompt技巧，标志着"模型即产品"趋势的深化。 <div>
+<div> 文生图、指令遵循、一致性、自然语言交互、模型即产品<br /><br />总结:<br />1. OpenAI新一代文生图功能通过自然语言指令实现高精度图片生成与修改，无需复杂操作工具。<br />2. 核心突破在于指令遵循和一致性表现，如调整食物细节或人像时能精准保留关键特征。<br />3. 支持图片上传修改，如将2D标志转化为3D立体效果并微调光影，展现局部控制能力。<br />4. 会话中可无缝切换图文生成，模型能主动推测用户意图（如礼物包装指南的图文版优化）。<br />5. 技术革新简化了交互流程，用户无需学习复杂prompt技巧，标志着"模型即产品"趋势的深化。 <div>
 <p>在今天凌晨 OpenAI 发布新一代文生图功能的时候，大家还不是很清楚它的实力，还以为是跟在 Gemini 后头，带来一些迟到的升级。</p>
 <p>GPT 不语，只是一昧地让用户案例震惊全场。</p>
 <p><img alt="" class="alignnone size-full wp-image-1618775" height="696" src="https://s3.ifanr.com/wp-content/uploads/2025/03/case-1.png" width="599" /> <img alt="" class="alignnone size-full wp-image-1618776" height="566" src="https://s3.ifanr.com/wp-content/uploads/2025/03/case-2.png" width="601" /> <img alt="" class="alignnone size-full wp-image-1618777" height="567" src="https://s3.ifanr.com/wp-content/uploads/2025/03/case-3.png" width="595" /> <img alt="" class="alignnone size-full wp-image-1618779" height="772" src="https://s3.ifanr.com/wp-content/uploads/2025/03/case-4.png" width="579" /></p>
@@ -190,14 +1586,13 @@
 </div>
 ]]></content:encoded>
 <pubDate>Wed, 26 Mar 2025 09:46:38 +0000</pubDate>
-<pubDate>Wed, 26 Mar 2025 09:46:38 +0000</pubDate>
 </item>
 <item>
 <title>苹果全球副总裁访问爱范儿，他说从没见过这样的公司</title>
 <link>https://www.ifanr.com/1618727?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1618727?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-<div> 关键词：苹果、Bob Borchers、爱范儿、科技人文、创新<br><br>总结:<br>1. 苹果全球产品营销副总裁Bob Borchers访问爱范儿广州总部，赞赏其科技与人文融合的理念。<br>2. 爱范儿展示了苹果生态的深度应用，包括跨学科团队协作和Mac在创意工作中的核心作用。<br>3. Bob对爱范儿的《明日产品年鉴》和"数字国粹"音乐项目表示欣赏，特别关注AirPods Pro的助听功能。<br>4. 爱范儿旗下制糖工厂的环保创新产品和未来社House的社区理念获得Bob高度评价。<br>5. Bob强调Mac是AI的理想平台，延续乔布斯"思维自行车"理念，认为技术应拓展人类创造力边界。 <div>
+<div> 关键词：苹果、Bob Borchers、爱范儿、科技人文、创新<br /><br />总结:<br />1. 苹果全球产品营销副总裁Bob Borchers访问爱范儿广州总部，赞赏其科技与人文融合的理念。<br />2. 爱范儿展示了苹果生态的深度应用，包括跨学科团队协作和Mac在创意工作中的核心作用。<br />3. Bob对爱范儿的《明日产品年鉴》和"数字国粹"音乐项目表示欣赏，特别关注AirPods Pro的助听功能。<br />4. 爱范儿旗下制糖工厂的环保创新产品和未来社House的社区理念获得Bob高度评价。<br />5. Bob强调Mac是AI的理想平台，延续乔布斯"思维自行车"理念，认为技术应拓展人类创造力边界。 <div>
 <p><img alt="" class="aligncenter size-full wp-image-1618770" height="3648" src="https://s3.ifanr.com/wp-content/uploads/2025/03/001-1.jpg" width="5472" /></p>
 <p>昨天早上，爱范儿迎来一位重量级访客——苹果全球产品营销副总裁 Bob Borchers。</p>
 <p>这位参与初代 iPhone 研发的苹果元老，拥有斯坦福大学的机械工程学士学位和麻省理工学院的硕士学位，出演过初代 iPhone 官方教学视频，在硬件整合、软件生态构建和市场营销策略上发挥了关键作用。</p>
@@ -281,14 +1676,13 @@
 </div>
 ]]></content:encoded>
 <pubDate>Wed, 26 Mar 2025 09:33:00 +0000</pubDate>
-<pubDate>Wed, 26 Mar 2025 09:33:00 +0000</pubDate>
 </item>
 <item>
 <title>13.88 万元起，哈弗二代枭龙 MAX 上了全系四驱</title>
 <link>https://www.ifanr.com/1618602?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1618602?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-<div> 关键词：二代哈弗枭龙MAX、Hi4四驱系统、混动SUV、智能驾驶、预售价格<br><br>总结:<br>1. 二代哈弗枭龙MAX开启全国预售，推出5款车型，预售价13.88-17.68万元，定位插电混动SUV。<br>2. 全系标配自主研发Hi4四驱系统，强调安全性和通过性，支持智能模式切换，馈电油耗4.2L/100km。<br>3. 动力采用1.5L混动发动机+双电机，综合功率238kW，百公里加速6.8秒，具备60%爬坡能力。<br>4. 车身尺寸4780×1895×1725mm，轴距2810mm，提供五种颜色，配备高亮度灯光和19寸轮毂。<br>5. 内饰升级悬浮中控屏+HUD，座椅功能丰富，智驾采用纯视觉方案，支持城市/高速NOA及自动泊车。 <div>
+<div> 关键词：二代哈弗枭龙MAX、Hi4四驱系统、混动SUV、智能驾驶、预售价格<br /><br />总结:<br />1. 二代哈弗枭龙MAX开启全国预售，推出5款车型，预售价13.88-17.68万元，定位插电混动SUV。<br />2. 全系标配自主研发Hi4四驱系统，强调安全性和通过性，支持智能模式切换，馈电油耗4.2L/100km。<br />3. 动力采用1.5L混动发动机+双电机，综合功率238kW，百公里加速6.8秒，具备60%爬坡能力。<br />4. 车身尺寸4780×1895×1725mm，轴距2810mm，提供五种颜色，配备高亮度灯光和19寸轮毂。<br />5. 内饰升级悬浮中控屏+HUD，座椅功能丰富，智驾采用纯视觉方案，支持城市/高速NOA及自动泊车。 <div>
 <p><img alt="" class="alignnone size-full wp-image-1618614" height="675" src="https://s3.ifanr.com/wp-content/uploads/2025/03/9-3.jpg" width="1200" /><br />
 二代哈弗枭龙 MAX 已开启全国预售，共推出 5 款车型，预售价区间为 13.88-17.68 万元。</p>
 <p>哈弗是长城汽车下面的子品牌，全系都是 SUV设计，大家可能平时比较多听到的是哈弗 H6 和哈弗大狗等传统燃油车型。但近几年哈弗在新能源方面也花了不少力气，推出了两款「龙」字辈，「枭龙」、「猛龙」以及「二代大狗」。</p>
@@ -329,14 +1723,12 @@
 </div>
 ]]></content:encoded>
 <pubDate>Wed, 26 Mar 2025 01:21:31 +0000</pubDate>
-<pubDate>Wed, 26 Mar 2025 01:21:31 +0000</pubDate>
 </item>
 <item>
 <title>30 万以下的乐道 L90，或许是蔚来重振的开始</title>
 <link>https://www.ifanr.com/1618641?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1618641?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="" class="alignnone size-full wp-image-1618660" height="675" src="https://s3.ifanr.com/wp-content/uploads/2025/03/9-5.jpg" width="1200" /><br />
 最近互联网上流行教李斌造车，李斌自己也无奈的表示道：</p>
 <blockquote><p>全网都在教我做 CEO，我现在每天晚上说感谢。</p></blockquote>
@@ -384,14 +1776,12 @@
 </div>
 ]]></content:encoded>
 <pubDate>Wed, 26 Mar 2025 01:21:12 +0000</pubDate>
-<pubDate>Wed, 26 Mar 2025 01:21:12 +0000</pubDate>
 </item>
 <item>
 <title>早报｜苹果全球产品营销副总裁到访爱范儿/雷军闪现武大秀小米 YU7 樱花照/格力辟谣「明珠电动车」</title>
 <link>https://www.ifanr.com/1618715?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1618715?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-
 <div style="padding: 0 14px; text-align: center;"><img alt="cover" src="https://s3.ifanr.com/images/ep/cover-images/shi_nei_bei_si_shou_cover.jpg" /></div>
 <div style="padding: 0 14px;">
 <div>
@@ -765,9 +2155,7 @@
 </div>
 ]]></content:encoded>
 <pubDate>Wed, 26 Mar 2025 01:09:28 +0000</pubDate>
-<pubDate>Wed, 26 Mar 2025 01:09:28 +0000</pubDate>
 </item>
-
 <item>
 <title>AI 按钮「占领」手机和电脑，体验真的更好了吗？</title>
 <link>https://www.ifanr.com/1618642?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
