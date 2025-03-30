@@ -3707,3 +3707,33 @@ Append: [美国25%汽车关税重击欧洲，德国三大汽车品牌尤其“�
 Append: [美联储2025票委警告：关税将不可避免地推升通胀](https://www.fastbull.com/cn/news-detail/4324295_1)
 append_entries: 41
 Finish: 2025-03-29 00:59:34.362852
+------------------------------------------------------
+Started: 2025-03-30 01:03:12.285636
+Existing_entries: 1041
+Fetching from https://rsshub.app/fastbull/news
+Token length: 4044
+Summarized using deepseek-chat
+Append: [日本房地产泡沫：内卷的另一种结果](https://www.fastbull.com/cn/news-detail/4324186_1)
+Token length: 2607
+Summarized using deepseek-chat
+Append: [再来一次广场协议？日本央行前行长白川方明答21：对美国来说不明智，对日本来说没道理](https://www.fastbull.com/cn/news-detail/4324403_1)
+Token length: 884
+Summarized using deepseek-chat
+Append: [美国新政府是美国金融市场的最大利空](https://www.fastbull.com/cn/news-detail/4324133_1)
+Token length: 875
+Summarized using deepseek-chat
+Append: [欧盟据悉拟向特朗普让步，换取美方取消部分关税](https://www.fastbull.com/cn/news-detail/4324402_1)
+Token length: 2317
+Summarized using deepseek-chat
+Append: [“美船运美货”的梦想，加征税费就能实现吗？](https://www.fastbull.com/cn/news-detail/4324095_1)
+Token length: 1136
+Summarized using deepseek-chat
+Append: [EV半导体投资放缓，日美欧企业纷纷裁员](https://www.fastbull.com/cn/news-detail/4324008_1)
+Token length: 3421
+Summarized using deepseek-chat
+Append: [全球债务危机下的美国经济衰退隐忧](https://www.fastbull.com/cn/news-detail/4323998_1)
+Token length: 1023
+Summarized using deepseek-chat
+Append: [美联储重点监测通胀指标再回升，降息预期受考验](https://www.fastbull.com/cn/news-detail/4324401_1)
+append_entries: 8
+Finish: 2025-03-30 01:04:32.275008
