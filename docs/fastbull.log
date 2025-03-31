@@ -3737,3 +3737,24 @@ Summarized using deepseek-chat
 Append: [美联储重点监测通胀指标再回升，降息预期受考验](https://www.fastbull.com/cn/news-detail/4324401_1)
 append_entries: 8
 Finish: 2025-03-30 01:04:32.275008
+------------------------------------------------------
+Started: 2025-03-31 01:01:56.237539
+Existing_entries: 1008
+Fetching from https://rsshub.app/fastbull/news
+Token length: 921
+Summarized using deepseek-chat
+Append: [美国发动汽车关税的根源是中国？](https://www.fastbull.com/cn/news-detail/4324364_1)
+Token length: 3489
+Summarized using deepseek-chat
+Append: [中国资产估值再度提升，投资者预期为何突然转变](https://www.fastbull.com/cn/news-detail/4324356_1)
+Token length: 1978
+Summarized using deepseek-chat
+Append: [日本应对“2025年问题”，难在哪？](https://www.fastbull.com/cn/news-detail/4324328_1)
+Token length: 1538
+Summarized using deepseek-chat
+Append: [货币支付大调整！美元跌至48%，欧元升至22%，人民币呢？](https://www.fastbull.com/cn/news-detail/4324320_1)
+Token length: 1655
+Summarized using deepseek-chat
+Append: [贸易战冲击国际经济秩序](https://www.fastbull.com/cn/news-detail/4324253_1)
+append_entries: 5
+Finish: 2025-03-31 01:03:00.183218

@@ -949,3 +949,15 @@ Summarized using deepseek-chat
 Append: [早报|GPT-4o 更新多个功能/vivo X200 Ultra 将配备独立拍照按键/Manus AI 收费方案正式公布](https://www.ifanr.com/1619185?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 5
 Finish: 2025-03-30 01:06:26.221844
+------------------------------------------------------
+Started: 2025-03-31 01:04:14.664472
+Existing_entries: 211
+Fetching from https://www.ifanr.com/feed
+Token length: 12865
+Summarized using deepseek-chat
+Append: [早报｜苹果或下半年推出 M5 iPad Pro/用户吐槽小米汽车试驾，雷军秒道歉/胖东来店长平均月薪超 7 万](https://www.ifanr.com/1619221?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 2627
+Summarized using deepseek-chat
+Append: [专访苹果副总裁 Bob Borchers：AI 时代，苹果如何设计 Mac？](https://www.ifanr.com/1618963?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 2
+Finish: 2025-03-31 01:04:42.037390
