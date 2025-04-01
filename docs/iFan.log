@@ -961,3 +961,24 @@ Summarized using deepseek-chat
 Append: [专访苹果副总裁 Bob Borchers：AI 时代，苹果如何设计 Mac？](https://www.ifanr.com/1618963?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 2
 Finish: 2025-03-31 01:04:42.037390
+------------------------------------------------------
+Started: 2025-04-01 01:09:32.881963
+Existing_entries: 213
+Fetching from https://www.ifanr.com/feed
+Token length: 4204
+Summarized using deepseek-chat
+Append: [在国内「最重要的电动汽车大会」上，雷军和何小鹏各有自己的算盘](https://www.ifanr.com/1619333?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 1061
+Summarized using deepseek-chat
+Append: [vivo Y300 Pro+：1799 元，你能买到一款能打电话、能拍动态照片的 7300mAh 超轻超薄充电宝 | 新品画报](https://www.ifanr.com/1619328?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 4907
+Summarized using deepseek-chat
+Append: [华为Pura X，设计的精妙，上手才知道](https://www.ifanr.com/1619229?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 1836
+Summarized using deepseek-chat
+Append: [冷，静，有 AI，英特尔酷睿 Ultra 200HX 游戏本大规模上市了](https://www.ifanr.com/1619299?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 6032
+Summarized using deepseek-chat
+Append: [实测有沉思能力的智谱 AutoGLM ，我们离会思考的 agent 又近了一步](https://www.ifanr.com/1619258?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 5
+Finish: 2025-04-01 01:10:42.466323
