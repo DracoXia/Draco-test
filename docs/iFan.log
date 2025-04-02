@@ -982,3 +982,18 @@ Summarized using deepseek-chat
 Append: [实测有沉思能力的智谱 AutoGLM ，我们离会思考的 agent 又近了一步](https://www.ifanr.com/1619258?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 5
 Finish: 2025-04-01 01:10:42.466323
+------------------------------------------------------
+Started: 2025-04-02 01:02:37.123980
+Existing_entries: 218
+Fetching from https://www.ifanr.com/feed
+Token length: 3187
+Summarized using deepseek-chat
+Append: [iOS 18 迄今最大更新推送， 实测苹果的「5.5G」有什么不同](https://www.ifanr.com/1619468?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 3240
+Summarized using deepseek-chat
+Append: [宝马绝不背叛「驾驶」](https://www.ifanr.com/1619442?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 13180
+Summarized using deepseek-chat
+Append: [早报｜华为营收时隔 4 年再破 8000 亿元/小米武汉汽车工厂更多细节公布/iOS 18.4 更新，苹果 AI 中文版回归](https://www.ifanr.com/1619427?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 3
+Finish: 2025-04-02 01:03:15.073864
