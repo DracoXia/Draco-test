@@ -4094,3 +4094,36 @@ Append: [美股暴跌超1600点！特朗普、美联储官员最新发声](https
 Append: [“对等关税”冲击波：黄金年内挑战第19次历史新高、对华潜在影响蔓延](https://www.fastbull.com/cn/news-detail/4324728_1)
 append_entries: 41
 Finish: 2025-04-05 00:59:41.837140
+------------------------------------------------------
+Started: 2025-04-06 01:02:44.710951
+Existing_entries: 1041
+Fetching from https://rsshub.app/fastbull/news
+Token length: 1722
+Summarized using deepseek-chat
+Append: [你看准中国制造了吗？](https://www.fastbull.com/cn/news-detail/4324612_1)
+Token length: 770
+Summarized using deepseek-chat
+Append: [特朗普关税余震继续！日本跌入“技术性熊市” 欧洲奢侈品巨头股价跳水](https://www.fastbull.com/cn/news-detail/4324871_1)
+Token length: 3134
+Summarized using deepseek-chat
+Append: [尹锡悦被罢免！韩国开启“大选时间”，多重经济逆风待解](https://www.fastbull.com/cn/news-detail/4324835_1)
+Token length: 988
+Summarized using deepseek-chat
+Append: [特朗普强硬重置二战后自由贸易体系](https://www.fastbull.com/cn/news-detail/4324714_1)
+Token length: 2695
+Summarized using deepseek-chat
+Append: [提振消费，中国需要过三关？](https://www.fastbull.com/cn/news-detail/4324611_1)
+Token length: 1192
+Summarized using deepseek-chat
+Append: [全球市场抛售加剧：欧美股市血流不止，金银原油全线暴跌](https://www.fastbull.com/cn/news-detail/4324870_1)
+Token length: 2702
+Summarized using deepseek-chat
+Append: [为什么A股是刺激经济最好的办法](https://www.fastbull.com/cn/news-detail/4324526_1)
+Token length: 1090
+Summarized using deepseek-chat
+Append: [美联储主席鲍威尔：关税或推高通胀并抑制经济增长，不会贸然调整利率政策](https://www.fastbull.com/cn/news-detail/4324869_1)
+Token length: 1152
+Summarized using deepseek-chat
+Append: [黄金短线交易王者，等你来战！FastBull 第二届交易大赛荣耀开启！](https://www.fastbull.com/cn/news-detail/4324712_1)
+append_entries: 9
+Finish: 2025-04-06 01:14:19.601471
