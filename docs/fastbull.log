@@ -4127,3 +4127,24 @@ Summarized using deepseek-chat
 Append: [黄金短线交易王者，等你来战！FastBull 第二届交易大赛荣耀开启！](https://www.fastbull.com/cn/news-detail/4324712_1)
 append_entries: 9
 Finish: 2025-04-06 01:14:19.601471
+------------------------------------------------------
+Started: 2025-04-07 01:01:00.236952
+Existing_entries: 1009
+Fetching from https://rsshub.app/fastbull/news
+Token length: 4004
+Summarized using deepseek-chat
+Append: [西方制裁下的俄罗斯经济韧性与战略转身](https://www.fastbull.com/cn/news-detail/4324881_1)
+Token length: 722
+Summarized using deepseek-chat
+Append: [美国加征关税如何影响全球咖啡和巧克力市场？](https://www.fastbull.com/cn/news-detail/4324880_1)
+Token length: 1795
+Summarized using deepseek-chat
+Append: [关税风暴：特朗普会重塑国际贸易吗？](https://www.fastbull.com/cn/news-detail/4324851_1)
+Token length: 1554
+Summarized using deepseek-chat
+Append: [今年流动性为何收紧？](https://www.fastbull.com/cn/news-detail/4324706_1)
+Token length: 2052
+Summarized using deepseek-chat
+Append: [东南亚经济体可借助一揽子高目标改革实现最大收益](https://www.fastbull.com/cn/institution-article/4324838_1)
+append_entries: 5
+Finish: 2025-04-07 01:01:58.004807
