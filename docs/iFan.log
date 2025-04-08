@@ -1073,3 +1073,24 @@ Summarized using deepseek-chat
 Append: [早报｜iPhone 在美价格最高或涨至 1.6 万元/雷军谈小米 15 周年：这只是开始/天津社保卡支持坐高铁](https://www.ifanr.com/1619933?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2025-04-07 01:03:21.429966
+------------------------------------------------------
+Started: 2025-04-08 01:02:02.849111
+Existing_entries: 241
+Fetching from https://www.ifanr.com/feed
+Token length: 10354
+Summarized using deepseek-chat
+Append: [早报｜曝 iPhone 19 Pro 外观将有重大变化/微软否认退出中国市场/小米辟谣「保险公司拒绝投保」传闻](https://www.ifanr.com/1620066?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 1772
+Summarized using deepseek-chat
+Append: [13.28 万元起，宝骏享境用「越级」给你一个买它的理由](https://www.ifanr.com/1620047?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 4695
+Summarized using deepseek-chat
+Append: [AI 圈今年最大丑闻曝光！Llama 4 被揭训练作弊，实测惨遭滑铁卢，核心骨干愤然离职](https://www.ifanr.com/1620002?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 4202
+Summarized using deepseek-chat
+Append: [他们把宇树的网红机器狗「剥皮拆骨」，发现了它倒立行走的秘密](https://www.ifanr.com/1619719?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 5717
+Summarized using deepseek-chat
+Append: [Midjourney重磅更新！又一个「言出法随」的AI生图神器｜附10+场景演示& 缺陷整理](https://www.ifanr.com/1619890?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 5
+Finish: 2025-04-08 01:03:01.675019
