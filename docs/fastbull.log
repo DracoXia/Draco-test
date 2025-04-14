@@ -4534,3 +4534,21 @@ Append: [军费加到1万亿美元，美国出得起吗？打算怎么花？](ht
 Append: [七大万亿消费之城，购买力外溢带动区域新增长](https://www.fastbull.com/cn/news-detail/4325392_1)
 append_entries: 12
 Finish: 2025-04-13 02:30:57.022575
+------------------------------------------------------
+Started: 2025-04-14 01:02:18.532209
+Existing_entries: 1012
+Fetching from https://rsshub.app/fastbull/news
+Token length: 1588
+Summarized using deepseek-chat
+Append: [不确定性不仅仅源于贸易战，是时候重构投资组合了](https://www.fastbull.com/cn/news-detail/4325365_1)
+Token length: 3245
+Summarized using deepseek-chat
+Append: [特朗普汽车关税对德国意味着什么？](https://www.fastbull.com/cn/news-detail/4325355_1)
+Token length: 2937
+Summarized using deepseek-chat
+Append: [“贸易世界大战”的火首先把原油清零？然后呢？](https://www.fastbull.com/cn/news-detail/4325316_1)
+Token length: 2843
+Summarized using deepseek-chat
+Append: [反击、谈判和屈服——特朗普关税下的众生相](https://www.fastbull.com/cn/news-detail/4325301_1)
+append_entries: 4
+Finish: 2025-04-14 01:03:08.634803
